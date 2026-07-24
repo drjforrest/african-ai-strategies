@@ -1,0 +1,2184 @@
+Zimbabwe
+National Artificial
+Intelligence (AI)
+Strategy
+2026 – 2030
+DISTRIBUTED BY VERITAS
+e-mail: veritas@mango.zw; website: www.veritaszim.net
+Veritas makes every effort to ensure the provision of reliable information,
+but cannot take legal responsibility for information supplied.
+
+Acknowledgements
+The Ministry of ICT, Postal and Courier Services (MICTPCS), led by the Honourable Minister Tatenda A. Mavetera,
+Honourable Deputy Minister Dingumuzi Phuti, Permanent Secretary Dr. Beaullah Chirume, and Chief Director Mr. Prince
+Sibanda, wishes to express its profound gratitude to the diverse array of stakeholders whose invaluable contributions
+shaped this strategy. This document is a product of a truly national effort, enriched by the insights from the Office of
+the President and Cabinet, government ministries, academia, the private sector, civil society, diaspora representatives
+and development partners. The Ministry extends special appreciation to those who developed the Kadoma Draft and
+to the participants of the National Multi-Stakeholder Consultation held in Harare on 28 August 2025, Bulawayo and
+Masvingo on 9 and 11 September 2025 respectively whose rigorous interrogation and validation of the Kadoma Draft
+provided the critical refinements contained in this final version. The Ministry acknowledges the technical and financial
+support provided by the Ministry staff, and POTRAZ.
+The Ministry further extends its sincere appreciation to the United Nations in Zimbabwe for its invaluable technical
+and financial support throughout the process. We would like to specifically highlight UNESCO’s leadership in this
+regard through the assistance to Zimbabwe in conducting Artificial Intelligence readiness assessment, resulting in an
+AI Readiness Assessment Methodology (RAM) report, which identified the development of a national AI strategy as a
+major recommendation. UNESCO’s AI RAM report for Zimbabwe was therefore pivotal in triggering and facilitating the
+series of national expert consultations in Kadoma, Harare, Bulawayo and Masvingo culminating in the development
+and finalization of this strategy.
+The Ministry also would like to recognise in particular the dedicated work of our national AI experts, with drafting core
+team members, Honourable Commissioner Dr. Eng. Martin Muduva (ZHRC), Professor Tawanda Mushiri (SIRDC), Dr.
+Tendai Zengeni (AU), Mrs. Loveness Ngwanga (MICTPCS/AG) and Eng. Leonard Jukwa (MICTPCS). Special mention also
+goes to our lead rapporteurs, Dr. N. Kwangwa (WUA), Dr. Gilford Hapanyengwi (ZIMCHE), Prof. Sam Takavarasha Jnr,
+Prof. Ronald Manhibi (BUSE) and Dr. Panashe Chiurunge (AU Chief AI Scientist). This strategy is a product of collective
+commitment to securing Zimbabwe’s prosperous and sovereign digital future.
+Design and layout: Marike Strydom, Jade Rose Graphic Design
+Cover: © stock.adobe.com
+
+Contents
+Foreword: From the President, His Excellency CDE, Dr. Emmerson Dambudzo Mnangagwa 02
+Foreword: From the Hon Minister, Hon. Tatenda A. Mavetera 03
+Foreword: From the Hon Deputy Minister, Hon. Dingumuzi Phuti 04
+Foreword: From the Permanent Secretary, Dr. Beaullah Chirume 05
+Acronyms 06
+Executive Summary 08
+Introduction 09
+Situational Analysis: Zimbabwe’s AI Readiness 12
+Vision and guiding principles 17
+Strategic Pillars: The Six Foundations of Zimbabwe’s AI Transformation 19
+Flagship Initiatives: Igniting the National AI Mission 40
+Implementation and governance 42
+Monitoring and Evaluation (M&E) Framework 48
+Appendices 56
+
+Foreword
+From the President, His Excellency CDE, Dr.
+Emmerson Dambudzo Mnangagwa
+We stand at the dawn of a new era, a time of unprecedented technological advancement
+that will reshape our world, where the 21st century is defined by the rapid pace of
+technological change and at its heart lies in Artificial Intelligence (AI).
+This is not merely a technological shift; it is a fundamental reordering of our societies and economies and for Zimbabwe,
+a nation defined by its unwavering spirit of innovation, this is a moment of profound opportunity. It is with immense
+pride that I introduce this National Artificial Intelligence Strategy for the Republic of Zimbabwe, a document that is not
+merely a policy framework but a bold declaration of our intent to actively shape the future, to harness the powerful
+currents of the Fourth Industrial Revolution and to secure our rightful place as a leader in technological innovation on
+the African continent and beyond. Our vision is clear: to establish Zimbabwe as a beacon of "AI for Development" in
+Southern Africa, with this strategy firmly anchored in our philosophy of 'Nyika inovakwa nevene vayo'/'Ilizwe lakhiwa
+ngabanikazi balo' – a nation is built by its own citizens and rooted in the philosophy of Ubuntu, recognizing our shared
+humanity and our interconnectedness. Our strategy is not about importing foreign solutions; it is about cultivating
+our own, building an AI that understands our values, speaks our own languages and addresses our unique challenges,
+leaving no one and no place behind. We will leverage AI to modernize our agriculture, unlock the full potential of our
+mineral wealth, deliver quality healthcare to the most remote corners of our nation and provide a world-class education
+for every Zimbabwean child, building a future where AI is a tool of empowerment and a catalyst for inclusive growth
+and a guardian of our cultural values and ethics. We approach this new frontier with great responsibility, to adopt
+and deploy this strategy ethically, with a steadfast commitment to human dignity, privacy and security. This strategy
+is therefore a call to action, a call to our most innovative entrepreneurs, our most dedicated public servants and our
+most ambitious young people, a call to every Zimbabwean to join us in this national endeavour where Government
+will provide the enabling environment and strategic direction, but the true engine of this transformation will be the
+creativity and hard work of the Zimbabwean people, including in particular in particular academia and the private
+sector. Together, we will build a future where Zimbabwe is not just a participant in the Fourth Industrial Revolution and
+beyond but a leader. May God bless Zimbabwe.
+
+Foreword
+From the Hon Minister,
+Hon. Tatenda A. Mavetera
+As we stand on the brink of the Fourth Industrial Revolution, Zimbabwe’s pursuit of
+Vision 2030 requires us to rise with courage, foresight, and conviction to shape the
+future rather than be shaped by it.
+Artificial Intelligence is not just another wave of innovation; it is the very foundation of tomorrow’s sovereignty,
+competitiveness, and resilience. It is the decisive frontier where nations either will lead or trail behind. This National
+Artificial Intelligence Strategy (2026–2030) demonstrates Zimbabwe’s intention to be a bold innovator by integrating
+AI into agriculture, mining, health, education, climate resilience, and governance, while safeguarding our heritage,
+protecting our data, and upholding Ubuntu-based ethics that affirm the dignity of every citizen. It is a national pledge
+that affirms that the country will not be passive consumers of imported technologies, but creators of context-driven
+solutions that reflect our identity and aspirations. If executed with discipline, unity of purpose, and strategic vision,
+this strategy will transform Zimbabwe into the continental hub of “AI for Development,” a nation where home grown
+ingenuity converges with global excellence to create prosperity for 2030 and beyond.
+
+Foreword
+From the Hon Deputy Minister,
+Hon. Dingumuzi Phuti
+The launch of Zimbabwe’s National Artificial Intelligence Strategy is more than a policy
+milestone but a bold call to action that recognises AI as the defining force capable of
+unlocking inclusive development, citizen empowerment and regional leadership.
+This strategy reminds the nation that AI is not only about algorithms, data, or machines, but among others reimagining
+education for every learner, empowering smallholder farmers with predictive tools, delivering healthcare to remote
+communities with precision, enhancing transparency in governance and creating new industries that secure
+dignified work for our youth. What makes this strategy uniquely Zimbabwean is its commitment to inclusivity, cultural
+preservation and digital equity, ensuring that women, youth, rural populations and persons with disabilities are not
+on the margins of this digital revolution but at its centre. Rooted in our indigenous knowledge systems yet outward
+looking, the strategy aligns Zimbabwe with the African Union’s AI Agenda and positions us as a collaborative leader
+in SADC and beyond. It is a statement that Zimbabwe will not only participate in global AI governance but also help
+shape it, advancing a fair, ethical and development-driven AI ecosystem for Africa and the world.
+
+Foreword
+From the Permanent Secretary,
+Dr. Beaullah Chirume
+The Zimbabwe National Artificial Intelligence Strategy (2026–2030) is a visionary yet
+pragmatic framework that reaffirms our commitment to build a sovereign, ethical and
+inclusive digital future.
+It is not simply a policy document but a commitment to the people of Zimbabwe to harness AI responsibly as a tool
+for empowerment, national resilience and shared prosperity. AI carries both extraordinary promise and profound risks;
+it can strengthen livelihoods, transform service delivery and diversify our economy, but unmanaged it can entrench
+dependency, inequality and digital colonialism. Guided by this awareness, our strategy is the product of an inclusive,
+consultative process that engaged academia, industry, civil society, government and international partners, making
+it both locally grounded and globally relevant. Its implementation will be driven by accountability, adaptability and
+foresight, underpinned by institutions such as the National AI Council, the AI Strategy Implementation Office and
+Technical Working Groups, which will ensure rigorous monitoring, transparent reporting and continuous improvement.
+The strategy envisions a Zimbabwe where AI is not just an abstract concept but a lived reality powering farms and
+clinics, schools and factories, homes and government systems, a trusted enabler of sovereignty, innovation and
+prosperity that elevates every citizen.
+
+Acronyms
+AfCFTA African Continental Free Trade Area
+AI Artificial Intelligence
+AI4D AI for Development
+AISIO AI Strategy Implementation Office
+API Application Programming Interface
+AU African Union
+CZI Confederation of Zimbabwe Industries
+ECD Early Childhood Development
+GDP Gross Domestic Product
+HIT Harare Institute of Technology
+HPC High-Performance Computing
+ICT Information and Communication Technologies
+IMF International Monetary Fund
+IoT Internet of Things
+IP Intellectual Property
+IT Information Technology
+ITU International Telecommunication Union
+KPI Key Performance Indicator
+LLM Large Language Model
+M&E Monitoring and Evaluation
+MCAZ Medicines Control Authority of Zimbabwe
+ML Machine Learning
+MOU Memorandum of Understanding
+MSU Midlands State University
+NAIC National AI Council
+NAIS National Artificial Intelligence Strategy
+NDS1 National Development Strategy 1
+NGO Non-Governmental Organization
+NUST National University of Science and Technology
+
+POTRAZ Postal and Telecommunications Regulatory Authority of Zimbabwe
+PPP Public-Private Partnership
+PUE Power Usage Effectiveness
+Q1 Quarter 1
+Q2 Quarter 2
+Q3 Quarter 3
+Q4 Quarter 4
+R&D Research and Development
+RBZ Reserve Bank of Zimbabwe
+SADC Southern African Development Community
+SAZ Standards Association of Zimbabwe
+SIRDC Scientific and Industrial Research and Development Centre
+SME Small and Medium Enterprises
+SOP Standard Operating Procedures
+STEM Science, Technology, Engineering and Mathematics
+SWOT Strengths, Weaknesses, Opportunities and Threats
+TWG Technical Working Group
+UN United Nations
+UNDP United Nations Development Programme
+UNESCO United Nations Educational, Scientific and Cultural Organization
+USA United States of America
+USSD Unstructured Supplementary Service Data
+UZ University of Zimbabwe
+VC Venture Capital
+ZBC Zimbabwe Broadcasting Corporation
+ZCHPC Zimbabwe Centre for High Performance Computing
+ZIMSTAT Zimbabwe National Statistics Agency
+ZNCC Zimbabwe National Chamber of Commerce
+
+Executive Summary
+The Zimbabwe National Artificial Intelligence (AI) Strategy (2026–2030) presents a bold,
+coordinated framework to harness AI as a driver of inclusive growth, innovation and
+national sovereignty, aligned with Vision 2030, the National Development Strategies
+(NDS1 & NDS2) and the Heritage-Based Education 5.0 philosophy.
+It positions AI as a transformative force to propel Zimbabwe from a resource-dependent economy to a competitive,
+knowledge-driven nation, ensuring the country shapes, rather than being shaped by, emerging technologies while
+embedding local values, protecting cultural heritage and addressing national priorities in economic diversification in
+key economic sectors such as agriculture, mining, health, education, tourism as well as building climate resilience among
+others. The strategy is anchored on four interconnected pillars: AI Talent and Capacity Development to cultivate a
+skilled, innovative workforce through AI literacy, research hubs, sector-specific academies and diaspora engagement;
+National AI Infrastructure and Computational Sovereignty to establish high-performance computing, sovereign
+data platforms, world-class data centres and secure inclusive connectivity; AI Adoption and Service Transformation
+to drive sector-wide adoption, improve service delivery, optimise industries and enhance citizen experiences while
+ensuring equitable access; and Governance, Ethics and Regulatory Framework to implement an Ubuntu-based,
+multi-level governance system with robust legislation, ethical safeguards and leadership in responsible AI. To
+accelerate momentum, five flagship initiatives namely; the Zimbabwean AI Grand Challenge, the National AI and
+Data Platform (Project “Pangolin”), the “Nzwisiso.ai” national literacy campaign, an AI Regulatory Sandbox (“Innovation
+Crucible”) and the National AI Innovation Fund (“Mugove/Isabelo” Fund) will be rolled out, supported by cross-cutting
+themes such as digital equity, cultural preservation, adaptive governance, environmental sustainability and sectoral
+integration. Implementation will follow three phases: Foundation Building (2025–2026), Scaling Core Applications
+(2027–2028) and Ecosystem Maturation and Leadership (2029–2030), with governance led by the National AI
+Council and AI Strategy Implementation Office, supported by technical working groups and inclusive stakeholder
+engagement. A key determinant of success will be AI’s capacity to enhance
+efficiency in industrial and economic processes, thereby improving
+productivity and competitiveness across sectors. Success
+will be measured through AI literacy rates, infrastructure
+capacity, economic gains, sectoral adoption metrics,
+public trust and international competitiveness,
+ultimately positioning Zimbabwe as the heart of
+inclusive and sustainable “AI for Development”
+in Southern Africa, igniting home grown
+innovation, safeguarding sovereignty and
+ensuring AI uplifts every Zimbabwean.
+
+Introduction
+The confluence of data, computational power and algorithmic innovation has given rise
+to Artificial Intelligence (AI), a technological force for socio-economic transformation.
+Artificial Intelligence (AI) is the ability of machines to learn intellectual processes
+and characteristics of humans, such as, reasoning, discovering meaning, generalising
+or learning from past experience1. This is not merely another technological cycle but a
+fundamental reordering of our world. The Republic of Zimbabwe must therefore take
+its place in this transformation. This National Artificial Intelligence Strategy (2026-2030)
+serves as the national compass in embracing AI to achieve Vision 2030 and targets
+beyond.
+The Imperative for a National AI Strategy:
+Charting Zimbabwe’s Future
+1 https://www.britannica.com/technology/artificial-intelligence
+
+The imperative for a national strategy is therefore a matter of national priority, rooted in three foundational pillars:
+Economic Sovereignty and Competitiveness
+Zimbabwe is aiming to transition from a resource-based economy to a knowledge-based powerhouse, leveraging
+on this National AI Strategy to innovate and create high-value industries, generating future-proof employment for its
+youth and transforming the global economy into an adaptable knowledge-based powerhouse.
+Cultural and Social Self-Determination
+The National AI Strategy in Zimbabwe aims to create AI that reflects the values of its creators, recognizing the richness
+of indigenous languages and societal complexities. The strategy aims to develop systems free from imported biases,
+aligning with the Ubuntu philosophy, and facilitating a national dialogue on technology dictionaries and AI literature
+in vernacular languages.
+Inclusive and Resilient Development
+AI has the potential to solve many challenges, including predicting diseases, providing personalized learning paths,
+and bridging the digital gap between urban and rural areas. Zimbabwe is implementing this National AI Strategy to
+use the technology to create a more resilient and equitable society, utilizing appropriate infrastructure and innovations
+and with the goal of achieving upper middle-income status by 2030.
+The Global and African AI Landscape: A New Era of
+Opportunity
+The global AI landscape is becoming more multipolar, with nations leveraging their unique strengths to create
+excellent capabilities. Africa in general has its own context which can enhance AI development. The continent and
+the global south face challenges such as climate change, public health, and a natural resources-based economy. This
+makes Africa the world’s most fertile ground for “AI for Development.”
+Zimbabwe in its quest for technological placement draws inspiration from the globe where AI strategies in the
+European Union, the United States of America and 16 African continental peers have already developed their AI
+strategies and provided key insights. Kenya’s AI strategy for example emphasizes ethical, inclusive, and innovationdriven AI adoption, sustainable development, enhanced public services, and improved social and economic equity.
+Nigeria’s AI strategy, focuses on building a knowledgeable talent pipeline and creating a premier destination for “AI for
+Emerging Economies.” However, Zimbabwe’s strategy is unique, premised on Ubuntu heritage-based innovation and
+development. The country’s rich history, high literacy rate, and strategic position in Southern Africa gives it a distinct
+advantage. Zimbabwe’s ambition is not just to develop a strategy for the sake of it but to become a leading voice
+within it, pioneering ethical, context-aware, and citizen-centric AI solutions that are not only for Zimbabwe but also
+for the world.
+
+Strategic Alignment: Synchronizing with Our National
+Vision
+Zimbabwe’s National AI Strategy aims to accelerate the country’s national Vision 2030 of becoming a prosperous,
+empowered upper-middle-income society. This strategy smoothly transcends from National Development
+Strategy(NDS) 1 into NDS 2, providing a technological pathway for economic growth, infrastructure development,
+social services, and governance. The strategy also supports the Heritage-Based Education 5.0 policy framework,
+aiming to produce graduates capable of solving national problems through research, innovation, and industrialization.
+The strategy draws from the overarching Zimbabwe National ICT Policy, which aims to design and build intelligent
+and smart systems that will carry Zimbabwe’s economy, public services, and society into the future.
+Methodology: A Collaborative and Iterative Approach
+The strategy, inspired by Ubuntu, was developed through a collaborative process, fostering national co-creation and
+inclusivity, recognizing input of all stakeholders.
+DEEP LISTENING AND ANALYSIS
+Assessment of internal strengths and weaknesses and global Ai strategies
+A NATIONAL DIALOGUE
+Engagement with a diverse range of stakeholders
+CO-CREATION AND ITERATION
+Open forums for debating, challenging and refining ideas
+VALIDATION AND NATIONAL COMPACT
+Consolidated strategy presented for validation
+Figure 1: Methodology
+
+Situational Analysis: Zimbabwe’s AI
+Readiness
+Zimbabwe’s National AI Strategy is grounded in local realities, addressing strategic
+challenges and emerging opportunities. Addressing AI presents an opportunity to
+mitigate existential threats, ensuring Zimbabwe becomes a contributor and shaper of
+AI technology.
+SWOT Analysis: Zimbabwe’s AI Readiness
+Strengths vs. Weaknesses
+Strengths Weaknesses
+Zimbabwe’s Strengths for AI adoption: AI adoption Weaknesses in Zimbabwe:
+• High literacy rate and cultural value for education • Brain Drain: Skilled professionals in tech, data, and
+provide a strong foundation for AI skills science live abroad, creating a domestic talent
+development. shortage.
+• Heritage-Based wEducation 5.0 Framework aligns • Under-resourced Institutions: Universities lack
+education with AI-driven economy needs. computational power and funding, limiting AI
+• Mobile-First Society: Rapid uptake of AI-poweredw innovation.
+services due to widespread mobile technology • Connectivity Gap: Urban-rural disparities create
+adoption. a “digital divide,” exclusion of large population
+• Data Heritage: Ethical digitization and segments.
+management of unique national data could train • Data Silos: Fragmented, unshared data across
+context-specific, globally competitive AI models. institutions, lack of standardized national data
+governance, and clean interoperable datasets
+hinder AI’s full potential.
+
+Opportunities vs. Threats
+Opportunities Threats
+Zimbabwe’s Opportunities for AI Development Threats to AI adoption in Zimbabwe:
+• Leapfrogging Potential: Zimbabwe can build • Digital Colonialism: Foreign AI platforms pose risks
+AI-ready infrastructure with minimal legacy ICT of data extraction, profit repatriation, and cultural
+systems. imposition.
+• Global “AI for Good” Movement: International • Supply Chain Vulnerability: Geopolitical tensions
+interest aligns with Zimbabwe’s priorities in threaten access to critical AI hardware, creating
+agriculture, mining, health, and climate resilience. dependence risks.
+Diaspora as Strategic Asset: Global Zimbabweans • AI-Driven Misinformation: Deepfakes and
+in leading institutions can promote “brain disinformation threaten social trust, stability, and
+circulation.” democratic institutions.
+• Unified African Market: AfCFTA and SADC enable • Imported Bias Risks: Uncritical use of foreign AI can
+local AI solutions scaling and regional influence in embed alien biases, harming fairness and social
+global AI policy. cohesion.
+AI as a Subject: Making AI compulsory in schools • AI Safeguards and Guardrails: Strong safeguards for
+and colleges. high-risk AI applications.
+• AI for Citizens: Developing capacity for • Digital Prisoners: Risks of digital isolation and
+underserved communities. “digital imprisonment.”
+
+Digital and AI Ecosystem Mapping: A Network Analysis
+Zimbabwe’s AI ecosystem is a dynamic network, that requires transformation into a vibrant, interconnected ecosystem.
+AI Ecosystem Nodes in Zimbabwe
+Key Players & Assets (Current
+Ecosystem Node Analysis of Ecosystem Nodes & Potential
+State)
+1. Governance OPC, Ministry of ICT Postal and AI Policy and Innovation in Zimbabwe
+& Policy (The Courier Services, POTRAZ, RBZ,
+Conductor) Ministry of Higher & Tertiary Status:
+Education Innovation Science • Acting in isolation with limited crossand Technology Development, ministerial synergy.
+ZIMCHE, Scientific and Industrial • Potential to become the central “conductor” of
+Research and Development the ecosystem.
+Centre (SIRDC).
+2. Human Capital Universities Polytechnics, STEM Status:
+(The Talent initiatives, SIRDC, MOPSE, Ministry • Need for more cohesion between industry
+Engine) of Youth, PSC, MOSAD and institutions of higher learning.
+• Potential to co-create curricula with the
+private sector.
+• Underfunded laboratories and infrastructure.
+• Actively head-hunting AI talent and
+introducing incentives like “Open Visas.”
+3. Innovation & University R&D departments, Status:
+Research (The Research Council of Zimbabwe, • Need for more funding and cohesion with
+Idea Factory) SIRDC commercial requirements
+• Potential to become the nation’s “idea factory.”
+4. Startups & Local tech hubs, emerging FinTech Status:
+Entrepreneurs and AgriTech startups. • Need for support to have access to cheaper
+(The Agile bespoke funding opportunities, important
+Vanguard) data, and high-performance computing.
+• Potential to be the “agile vanguard” of the AI
+economy.
+5. Private Sector Telecommunications, Banking, Status:
+(The Engine Mining and Agriculture sectors. • Cautious adopters, possessing capital and
+Room) data but often risk-averse.
+• Potential to be the primary “engine room” of
+the ecosystem.
+6. Capital & Venture Capital (nascent), Angel Status:
+Investment Investors, Government Funds and • Fragmented and risk-averse, lacking early-
+(The Fuel) Diaspora Remittances. stage “patient capital.”
+• Potential to become the “fuel” for the
+ecosystem through government coinvestment schemes and incentives.
+
+Current Policy and Regulatory Landscape: A Strategic
+Review
+With the rapid transformation caused by AI, the current policy environment in Zimbabwe needs to be reviewed in
+order to become “AI-ready.”
+Policy Alignment for AI-Readiness
+Policy Domain Existing Foundation The “AI-Ready” Upgrade Required
+National Vision Vision 2030, NDS1 & 2 From Mention to Mandate: Zimbabwe’s AI Strategy
+Elevating AI from peripheral technology to a central
+strategic pillar for national vision.
+Data Governance Cyber and Data Protection Act From Protection to Empowerment: Transitioning
+from defensive data protection to offensive data
+empowerment.
+Infrastructure National ICT Policy From Connectivity to Computation: Expanding focus
+from internet access to computational power for AI.
+From Availability to Accessibility: Expanding network
+infrastructure to rural and remote areas to bridge
+digital divide.
+Intellectual Copyright & Patent Laws From Analog to Algorithmic: Modernizing IP laws to
+Property address unique challenges of AI.
+Education Heritage-Based Education 5.0 From Theory to Practice: Bridge gap between
+Science, Technology and Heritage-Based Education 5.0 vision and classroom
+Innovation Policy reality. Implementing a national AI curriculum, teacher
+training, and “AI Centres of Excellence” at leading
+universities.
+
+International Benchmarking: Strategic Insights for
+Zimbabwe
+The analysis of regional and global AI strategies provides valuable lessons and actionable strategic insights that are
+directly applicable to Zimbabwe’s context.
+Strategic Insights and Moves for Zimbabwe’s AI Journey
+Insight Description Our Strategic Move
+Insight 1: “AI Sprinter” Success Factors National Talent Development
+The “Talent-First” Imperative Successful AI nations started with people, not Strategy: Prioritize investment
+technology. in multi-tiered national talent
+development program.
+Insight 2: Clear, trustworthy, multi-stakeholder Establish National AI Council
+Governance Precedes governance structure is crucial for large-scale AI as a critical first step.
+Technology deployment.
+Insight 3: Focus on building connective tissue, Council functions as “Chief
+The Ecosystem is the partnerships, platforms, and policies for Ecosystem Officer” for the
+Strategy ecosystem thrive. nation.
+Insight 4: Need to identify and dominate niches with Prioritize two or three “Grand
+Niche is the New Scale natural advantages, like “AI for Agriculture Challenge” areas for national
+in drought-prone regions,” “AI for Mining resources.
+Exploration,” and “AI for talent development” etc.
+
+Vision and guiding principles
+This section is the core of Zimbabwe’s National AI Strategy, guiding the nation’s digital
+future while preserving its essence and uniqueness as a nation.
+National Vision: A Declaration of Our Future
+Zimbabwe’s vision is to establish itself as the hub of inclusive and sustainable “AI for Development” in Southern
+Africa, utilizing home-grown innovation to create a shared prosperity and elevate citizen dignity, a declaration of
+national will.
+Shared future and
+prosperity
+Inclusive and Homegrown
+sustainable Innovation
+Our
+Vision
+AI for
+The heart
+development
+of SADC
+Figure 2: Our vision
+
+Guiding Principles
+The vision’s eight principles serve as the foundation for the transition into an AI nation and guiding actions taken.
+Human-Centric
+and Ethical Ai
+Local First and Transparency
+Developmental and Data
+Centric Sovereignty
+Innovation and Safety and
+Principles
+Co-Creation Data Security
+Inclusivity
+Collaboration
+and Nonand Cooperation
+Discrimination
+Availability and
+Accessibility
+Figure 3: Guiding principles
+
+Strategic Pillars: The Six Foundations of
+Zimbabwe’s AI Transformation
+The Zimbabwe National AI Strategy is based on four strategic pillars namely, technical,
+human, governance, and application dimensions. These interconnected foundations
+align with Zimbabwe’s NDS 1&2 and the broader Vision 2030 objectives, ensuring a
+sustainable, inclusive, and transformative AI journey.
+Figure 4: Strategic pillars
+lanoitaN
+ewbabmiZ
+sralliP
+ygetartS
+IA
+AI Talent and Capacity Development
+AI Infrastructure and Computational Sovereignty
+AI Adoption and Service Transformation
+AI Governance, Ethics and Regulatory Framework
+AI Research, Development and Innovation
+AI International Collaboration and Diplomacy
+
+Pillar 1: AI Talent and Capacity Development
+Zimbabwe aims to develop a world-class AI talent ecosystem, leveraging its high literacy rate and Heritage-Based
+Education 5.0 framework, to drive innovation, adapt to technological change, and strengthen institutional capacity.
+Strategic Foundation and Rationale
+Zimbabwe’s success in AI transformation depends on the quality, quantity, and distribution of AI-capable talent.
+Utilizing the high literacy rate and Heritage-Based Education 5.0 philosophy, Zimbabwe can build an AI talent
+ecosystem, ensuring every citizen contributes meaningfully to the AI economy.
+Strategic Framework
+Education and AI Literacy Foundations
+Zimbabwe’s AI talent strategy aims to essentially integrate AI and data literacy at all educational levels. Primary and
+secondary schools will incorporate age-appropriate AI modules, while teacher-retraining programs will equip educators.
+Tertiary programs will include “AI and Society” courses, emphasizing social and behavioral change communication.
+Tertiary and Research Capacity Excellence
+Zimbabwe will establish two National AI Centres of Excellence by 2028, each hosting doctoral and post-doctoral
+studies, to become world-class AI R&D hubs. The initiative will also fund advanced researchers, link theoretical work to
+practical solutions, and strengthen Zimbabwe’s research capacity.
+
+Workforce Development and Lifelong Learning
+Zimbabwe is endowed with a workforce that is eager to learn and innovate. This workforce will be transformed for
+the AI era through a nationwide approach, including Public Sector AI Academies offering tailored courses, strategic AI
+literacy, and practical AI training, and subsidizing access to world-class AI education through global learning platforms.
+Talent Retention and Diaspora Engagement
+Zimbabwe boosts of critical and skilled talent in the diaspora. However, this brain drain must be reduced and the
+country must also be able to attract and utilize diaspora expertise through innovative programs, including fractional
+appointment schemes, Presidential AI Scholarships, and incentives like tax breaks, housing support, and research
+funding.
+Innovation, Entrepreneurship and Industry Linkages
+AI skills’ economic value requires strong links between education, research, and industry. Specialized AI incubators
+in Special Economic Zones offer resources, mentorship, funding, and market access, while formal university-industry
+collaboration platforms drive technology transfer.
+Implementation Strategies and Mechanisms
+Zimbabwe’s AI Transformation Strategy is premised on the following:
+Governance and Coordination
+The Ministry of ICT, Postal and Courier Services and other relevant ministries such as the Ministry of Higher Education
+and the Ministry of Skills Audit will establish a dedicated AI Talent Development Coordination Office to streamline
+talent development activities.
+Financing and Resource Mobilization
+Diversified financing strategy: Government budget allocations, private sector contributions, international development
+partner funding, and innovative financing mechanisms.
+Quality Assurance and Standards
+Collaboration with industry partners and international organizations to develop national standards for AI education
+and training.
+Key Performance Indicators and Monitoring Framework
+AI literacy rates, AI-related graduates, public sector workforce with AI training, AI startups, research publications, and
+retention rate of AI-skilled diaspora professionals.
+Cross-Cutting Integration
+Integration with other pillars to provide human capital for AI infrastructure, governance frameworks, and adoption
+across sectors.
+
+Pillar 2: AI Infrastructure and Computational Sovereignty
+Strategic Objective: The Zimbabwean government aims to establish a robust, advanced AI infrastructure that
+combines high-performance computing, secure data systems, and nationwide connectivity for strategic autonomy.
+Strategic Foundation and Vision
+Zimbabwe is implementing a strategic approach to computing autonomy, focusing on high-performance computing,
+secure data systems, robust algorithms, and nationwide connectivity to ensure security, economic independence, and
+AI leadership.
+Infrastructure Strategy
+National High-Performance Computing Ecosystem
+Zimbabwe has already established a Centre for High Performance Computing, a world-class facility, and a nationwide
+distributed computing architecture which ensures enhanced resilience, accessibility, and resource utilization. This
+facility is to be expanded to also introduce an open-source cloud platform for AI adoption.
+Data Centre Excellence and Sovereignty
+Zimbabwe has already put in place data centre infrastructure which will be upgraded to Tier IV-standard data centres
+to maintain national data security and support advanced AI. These facilities will incorporate renewable energy, energyefficient hardware, and data localisation policies, ensuring business continuity during disruptions.
+Connectivity and Network Infrastructure
+AI requires robust connectivity in order to function properly. While Zimbabwe has in place solid network infrastructure
+including 5G, fibre optics and low earth orbit satellite the priority is to upgrade to in order to have the requisite
+capacity to support AI applications. There is need therefore to expand fibre backbone, invest in mobile broadband
+networks, and reduce the digital divide in underserved areas. This also includes enhanced international links and
+submarine cables.
+Hardware Localization and Manufacturing
+Zimbabwe has already set up a device assembly plant, ZITCO. This can be leveraged upon to develop indigenous
+capabilities in the AI hardware value chain, reducing reliance on foreign suppliers and building domestic industrial
+strength. This includes assembling AI hardware servers, networking equipment, manufacturing key components,
+and leveraging lithium reserves for battery production locally. Investing in local data centers and cloud infrastructure
+production will support computational sovereignty and digital independence. A National Public Digital Infrastructure
+will be established for data sharing and enabling seamless service delivery.
+Implementation Strategies and Mechanisms
+Public-Private Partnership Framework
+To achieve computational sovereignty, strategic partnerships with technology firms, shared infrastructure models,
+and a targeted investment incentive, partnership frameworks are needed. These partnerships will ensure technology
+transfer, local capacity building, and national ownership of critical assets.
+
+Regulatory and Policy Framework
+Zimbabwe’s AI infrastructure development will be guided by a robust regulatory framework, ensuring security,
+sustainability, and alignment with national priorities, while data sovereignty regulations balance protection with
+global collaboration. The current regulations in the form of the Cyber and Data Protection Act [Ch. 12.07] of 2021 and
+the Post and Telecommunications Act [Ch. 12.05] of 2010 are a good spring board for this
+Financing and Investment Strategy
+Given the high capital demands of AI infrastructure, Zimbabwe intends to finance AI infrastructure through a diversified
+strategy, including a National AI Infrastructure Fund, strategic partnerships, and innovative mechanisms like infrastructure
+bonds and revenue-sharing agreements, to efficiently mobilize capital and reduce public financial risk.
+Security and Resilience Framework
+Given the critical nature of AI infrastructure, Zimbabwe will enhance and implement robust cybersecurity and physical
+resilience measures for its AI infrastructure, including advanced threat intelligence, automated detection, skilled
+response teams, and compliance with international standards, along with physical protections and regular emergency
+response plans.
+Performance Monitoring and Optimisation
+Zimbabwe’s AI infrastructure will undergo continuous monitoring and optimization to remain world-class and
+responsive to evolving needs. Real-time monitoring, benchmarking, demand forecasting, and technology refresh
+cycles will ensure performance improvements and global competitiveness.
+Proposed Key Performance Indicators (KPIs)
+• Employment outcomes linked to AI adoption.
+• The number of AI-related research publications produced nationally.
+• Job opportunities created through AI development and deployment.
+• The emergence and adoption of quality assurance mechanisms and standards in AI applications.
+Integration with National Development Objectives
+Zimbabwe’s AI infrastructure development aims to drive economic transformation and align with national development
+goals in the creation of jobs, facilitating technology transfer, and enhancing its regional position as a leader in the
+Southern African AI ecosystem.
+Economic Application & Strategic Prioritization
+Focusing on dominating niche areas based on national strengths rather than competing in every field. Key sectors
+identified include:
+• Agriculture AI: For predictive analytics and smart farming.
+• Mining AI: For mineral beneficiation, exploration, and predictive maintenance.
+• Tourism AI: For destination marketing and personalized experiences.
+• MSME-Driven AI Adoption: Prioritize making AI tools accessible and affordable for SMEs, as their adoption is key
+to widespread societal acceptance.
+• Additional Sectors: These include Security & Defence sector, Social Services, and Real Estate.
+
+Pillar 3: AI Adoption and Service Transformation
+Strategic Objective: The goal is to promote AI adoption across Zimbabwe’s economy, improve service delivery,
+enhance customer experiences, optimize operational efficiency, align with NDS 1 & 2, and enhance quality of life.
+Strategic Foundation and Vision
+Transforming Zimbabwe into an AI-powered nation requires adopting AI across all sectors to solve real problems,
+enhance services and drive economic and social development. Building on the 2025 AI Readiness Assessment
+Methodology (RAM) developed with the support of UNESCO, this pillar offers a framework aligned with NDS2 priorities,
+ensuring inclusive, sustainable adoption that leaves no sector or community behind while addressing Zimbabwe’s
+unique challenges and opportunities.
+Sectoral AI Adoption Framework
+Agriculture and Food Security Transformation
+Agriculture, the backbone of Zimbabwe’s economy, will leverage AI to boost productivity, strengthen food security
+and build climate resilience for both smallholder and commercial farmers. Precision agriculture systems using
+satellites, drones and IoT sensors will optimise crop, irrigation and fertiliser management through real-time insights.
+AI-powered diagnostics will detect crop diseases and pests early via image analysis, with mobile applications offering
+instant treatment guidance. Market intelligence tools will deliver real-time prices, demand forecasts and sales timing
+advice. In addition, climate-smart agriculture will combine AI and climate data to guide drought-resistant crops,
+planting schedules and water use. AI-driven credit scoring and crop insurance, supported by satellite monitoring, will
+expand finance access and enable rapid, objective pay-outs for weather-related losses. AI enabled value chains using
+blockchain technology will support authenticating of sources of organic agriculture products.
+Healthcare System Transformation
+The transformation of Zimbabwe’s healthcare system through AI will centre on improving access to quality services,
+strengthening diagnostics and optimising resource use while addressing the distinct challenges of both urban and
+rural healthcare delivery. AI will support disease detection, enhance remote healthcare capabilities, improve public
+health monitoring, streamline supply chains and expand access to mental health support. This approach aims to
+create a more efficient, equitable and responsive healthcare system that meets the needs of all citizens.
+Education System Enhancement and Transformation
+The integration of AI into Zimbabwe’s education system will enhance learning, improve outcomes and align with the
+Education 5.0 philosophy, ensuring equitable access to quality education for all. AI will enable personalised learning,
+provide intelligent tutoring, localise educational content, analyse student performance for early intervention and
+improve administrative efficiency. This approach will create a more adaptive, inclusive and effective education system
+that meets diverse learner needs across the country.
+Financial Services and Economic Inclusion Transformation
+The integration of AI into Zimbabwe’s financial services is aimed at promoting universal financial inclusion and
+economic empowerment for all citizens, especially the unbanked and underbanked. This will include alternative
+credit scoring, mobile money optimization, fraud detection, financial literacy programs, micro-lending platforms, and
+inclusive insurance products. The goal is to create accessible financial services through mobile platforms and tailor
+products to the needs of small-scale farmers, informal sector workers, and rural communities.
+
+Mining Sector Optimization and Transformation
+Zimbabwe’s mining sector will apply AI to enhance safety, boost efficiency and optimise resource extraction while
+promoting environmental sustainability. AI will support predictive maintenance to reduce downtime, improve
+geological analysis for better resource assessment, strengthen safety and environmental monitoring and streamline
+supply chains from extraction to export, ensuring compliance, cost savings and responsible mining practices.
+Manufacturing and Industrial Development Transformation
+AI adoption will accelerate Zimbabwe’s manufacturing sector by boosting productivity, quality and competitiveness
+while fostering local industry growth. AI will enable smart manufacturing to optimise processes, strengthen quality
+control, enhance supply chain management, support predictive maintenance and drive product design and
+innovation, positioning Zimbabwean manufacturers to meet market demands and compete globally.
+Built Environment, Transportation and Logistics Transformation
+AI will reshape Zimbabwe’s built environment, transport and logistics sector by driving efficiency, lowering operational
+costs and enhancing connectivity to unlock economic growth and regional integration. Intelligent systems will
+optimize traffic flow, strengthen fleet management, streamline logistics and supply chains, improve public transport
+services and support faster, more compliant cross-border trade. Transit-Oriented Development will be advanced
+through the use of AI-enabled planning tools to integrate housing, businesses and services around transport hubs.
+Energy Sector Transformation
+AI will modernise Zimbabwe’s energy sector by optimising production, distribution and consumption, supporting
+renewable energy adoption and expanding access. Smart grids will improve distribution and integrate renewables;
+demand forecasting will enable efficient planning and optimisation tools will maximise renewable output. AI will
+also enhance energy efficiency for businesses and households while strengthening grid resilience through predictive
+maintenance and rapid outage recovery.
+
+Micro, Small and Medium Enterprises (MSMEs) Sector Transformation.
+AI will be integrated into SME operations to boost productivity, reduce costs, and expand market reach. Tools like
+chatbots will modernize customer service, predictive analytics will refine marketing, and automated logistics will
+streamline supply chains. Women and youth-led enterprises will receive targeted support for inclusive growth,
+innovation, and job creation. AI will help SMEs adapt to pandemics, climate change, and currency fluctuations.
+Water, Environment and Tourism Sector Transformation
+AI-powered circular economy systems will promote tourism and environment sectors and ensure resource efficiency.
+Smart water grids and predictive analytics will optimize distribution, monitor usage, and anticipate risks in climate
+patterns. Geospatial intelligence will be applied to environmental monitoring, biodiversity protection, sustainable
+growth in water, waste water recycling and eco-tourism planning. Training programs will equip African scientists with
+GIS and Remote Sensing expertise.
+Defence and Security Sector Transformation
+AI integration in the defence and security services will focus on strengthening national security focusing on cybersecurity,
+logistics, border management, and forensic investigation, among other relevant application areas related to national
+security. Applications such as AI-driven threat detection, predictive analytics, and smart surveillance will be deployed
+in accordance with legal and ethical safeguards, ensuring compliance with the Constitution, the Cyber and Data
+Protection Act, international human rights standards, and other applicable regulations. To safeguard sovereignty and
+accountability, a Defence AI Innovation Hub will promote local solutions in collaboration with universities, security
+agencies, and the private sector. This strategy will position AI as a tool for national defence resilience and public safety
+while protecting privacy, dignity, and citizens’ rights.
+Public Service Excellence and Digital Government Transformation
+The transformation of public service delivery through AI will make government services more accessible, efficient
+and responsive to citizen needs while enhancing transparency and accountability. Intelligent service portals will
+understand and respond to citizen queries; automated processing will speed up transactions and engagement
+platforms will strengthen consultation and feedback. Personalised services will enhance the user experience, ensure
+targeted interventions and accessibility, while automation of document management, data-driven decision support,
+optimised resource allocation and performance monitoring will improve administrative efficiency and drive continuous
+improvement in public service delivery.
+Implementation Strategy and Adoption Framework
+Phased Implementation Approach
+The AI implementation will begin with pilot projects in each sector to showcase value and build expertise, followed by
+scaling successful initiatives to wider applications and regions. Mature systems will then be integrated across sectors
+and continuously optimised for maximum impact and efficiency.
+Stakeholder Engagement and Change Management
+Public awareness campaigns will inform citizens about AI’s benefits and address adoption concerns, while extensive
+training programmes will equip government employees, business leaders and citizens with the skills to use AI
+effectively. Professional change management support will guide organisations in adopting AI technologies smoothly,
+minimising disruption to existing operations. Rolling out public awareness campaigns to demystify AI and promote
+societal readiness.
+
+Quality Assurance and Standards
+National AI system standards will set minimum requirements for performance, security and ethical operation,
+supported by thorough testing and validation before deployment. Continuous monitoring will ensure systems remain
+effective, safe and responsive to user needs over time.
+Enabling Infrastructure and Support Systems
+Data Infrastructure
+An open data initiative will make government data accessible for AI development while safeguarding privacy and
+security. Common data standards will promote interoperability across sectors and robust data quality management
+will ensure AI systems rely on accurate, reliable information.
+Technical Support and Maintenance
+Dedicated AI system support centres will provide technical assistance and maintenance across sectors, while
+professional vendor management will ensure high-quality products and services. Specialised integration services will
+help organisations deploy AI solutions effectively and align them with existing systems.
+Monitoring, Evaluation and Continuous Improvement
+Performance Measurement
+Sector-specific KPIs will track the impact of AI on service delivery, efficiency and outcomes, while regular cross-sector
+assessments will measure its broader effects on economic development, social progress and quality of life. Continuous
+user satisfaction monitoring will ensure AI systems meet the needs and expectations of citizens and businesses.
+Adaptive Management
+Systematic feedback loops will capture lessons from AI implementation to inform future deployments, while regular
+technology updates will keep systems aligned with the latest advances. Policy frameworks will be reviewed and
+adjusted to reflect implementation experience and evolving technological landscapes.
+Integration with National Development Priorities
+This pillar is specifically designed to support Zimbabwe’s National Development Strategy priorities while ensuring that
+AI adoption contributes to the achievement of Vision 2030 objectives. The sectoral approach ensures that AI benefits
+reach all Zimbabweans while building the foundation for sustained economic growth and social development.
+
+Pillar 4: AI Governance, Ethics and Regulatory Framework
+Strategic Objective: The AI Strategy aims to establish a sustainable, pan-African-based AI governance framework in
+Zimbabwe, promoting ethical use, human rights protection, and public trust in AI technologies. It will audit existing
+governance systems, identify new regulations, and strengthen existing structures, positioning Zimbabwe as a leader
+in responsible AI governance.
+Strategic Foundation and Governance Philosophy
+Zimbabwe’s governance framework, guided by Ubuntu’s ethos of collective responsibility and human dignity, aims to
+balance innovation with safeguarding human rights and societal values in the digital age. The framework will function
+at local, national, regional, and international levels, ensuring AI meets community needs, protects sovereignty, drives
+development, promotes regional collaboration, and positions Zimbabwe as a responsible global leader.
+Multi-Level Governance Architecture
+Local and Community-Level Governance
+Zimbabwe envisions implementing AI governance at the community level, involving district-level Community AI
+Councils, local authorities, civil society, youth, women’s groups, businesses, and technical experts. The framework will
+ensure local control over data use and local returns, while promoting Ubuntu, protecting indigenous knowledge, and
+promoting local languages and cultural heritage. A national reward system is also needed for digitizing indigenous
+knowledge systems. The proposed multi-level governance structure should be streamlined to avoid bureaucracy and
+integrate with existing bodies like the Data Protection Authority.
+National Governance Framework
+Zimbabwe’s national AI governance framework will establish a multi-sectoral National AI Council (NAIC) to oversee AI
+research and development. AI Strategy Implementation Office (AISIO) will coordinate execution, while a Parliamentary
+Standing Committee on AI and emerging technologies will deliver legislative oversight. An autonomous National
+Data Agency will regulate data protection and data sharing, while an AI Ethics Board will set ethical guidelines. Sectoral
+AI governance bodies will manage AI deployment in their respective domains.
+Regional Governance and Cooperation
+Zimbabwe is establishing an AI governance framework through the SADC AI Governance Initiative, aiming to promote
+integration, harmonize regulations, and facilitate cross-border AI collaboration. The framework will align with the
+African Union AI Strategy, promoting pan-African governance approaches and collaborating on regional AI standards.
+It will support cross-border AI applications in trade, health, climate, and resource management, while strengthening
+collective governance capabilities through regional capacity-building initiatives.
+International Governance and Diplomacy
+Zimbabwe is an active participant in international ICT governance forums and will continue on the same trajectory
+for AI governance forums in order to protect national interests and advocate for fair AI development for developing
+countries. The country will contribute to the United Nations (UN), AU and SADC AI governance initiatives and
+participate in bilateral AI cooperation agreements. Zimbabwe will also lead in South-South cooperation and contribute
+to international AI standards development. The country aims to position itself as a global voice for ethical AI which
+prioritises human dignity, social justice, and sustainable development.
+
+Regulatory Framework
+AI-Specific Legislation and Regulation
+Zimbabwe will establish a flexible policy for AI development, deployment, and use, focusing on system classification,
+risk assessment, compliance, and enforcement. The policy will also establish a clear liability framework, modernized
+IP laws, ethical procurement regulations, and data governance reforms. The policy will recommend revision of the
+National Cyber and Data Protection Act for AI-specific needs, implement an Open Data Directive, and establish secure
+data-sharing frameworks.
+Cybersecurity and AI Safety
+Zimbabwe will implement robust cybersecurity and AI safety strategies to mitigate risks from emerging technologies.
+National AI cybersecurity standards will be implemented in critical sectors like healthcare, transport, and finance,
+with mandatory safety requirements for AI systems. Enhanced protection measures and dedicated incident response
+frameworks will ensure coordinated action and effective recovery.
+Ethical AI Framework and Implementation
+Ubuntu-Centred AI Ethics
+• Adopting Ubuntu-based principles for AI development and deployment.
+• Ethical AI guidelines will focus on fairness, transparency, accountability, and human oversight.
+• Mandatory bias testing and mitigation for high-stakes applications.
+• Human rights frameworks to safeguard privacy, non-discrimination, due process, and dignity.
+Inclusive AI Development
+• Requiring participatory AI design processes that engage affected communities.
+• Mandatory accessibility standards for people with disabilities.
+• Gender equality measures for balanced development teams and gender impact assessments.
+• Special provisions for youth and the elderly.
+• Rural-urban equity measures to ensure AI benefits reach all communities.
+Institutional Capacity and Implementation
+Governance Institution Building
+• Strengthening AI governance capacity through a National AI Governance Academy.
+• Formal multi-stakeholder engagement platforms for ongoing collaboration.
+• Regulatory sandboxes for controlled testing of innovative AI applications.
+Monitoring and Enforcement
+• This entails implementing an AI Governance Monitoring System to track compliance and evaluate governance
+frameworks.
+• Regular public reporting for transparency.
+• Continuous improvement processes for review and updating of governance frameworks.
+• Establishing Key Performance Indicators (KPIs) and strategically allocating resources to different strategy pillars.
+• A phased approach to implementation, starting with key sectors like agriculture, is recommended.
+
+Environmental Sustainability and Climate Considerations
+Green AI Governance
+Zimbabwe will require environmental impact assessments for large-scale AI deployments, evaluating energy
+use, carbon footprint and resource consumption. Sustainable AI standards will guide development to minimise
+environmental harm while maximising social and economic benefits. Carbon footprint monitoring and reporting will
+be mandatory for AI operations and incentives will promote the use of renewable energy to power AI infrastructure.
+Climate-Resilient AI Governance
+Zimbabwe’s AI governance framework will integrate climate change considerations to ensure systems remain
+effective under evolving conditions. AI deployments will be required to demonstrate resilience to natural disasters
+and extreme weather through robust backup and recovery measures. Governance mechanisms will also promote
+AI applications that support climate mitigation, including carbon monitoring, renewable energy optimisation and
+sustainable resource management.
+Environmental Sustainability
+Potential environmental challenges are associated with technological growth. The strategy will integrate Environmental,
+Social, and Governance (ESG) principles and establish mechanisms for monitoring the Material, Minerals, Devices, and
+Processes (MMDP) footprint of AI at the user level, leveraging natural resources such as minerals (value addition and
+beneficiation) to support AI hardware development.
+Innovation and Economic Development Balance
+Innovation-Friendly Regulation
+Zimbabwe will adopt flexible and agile regulatory approaches that adapt to rapid technological change to curtail
+laws that quickly become outdated. Incentives will encourage AI innovation aligned with national development goals,
+meeting high safety, ethical and social benchmarks. Start-ups and MSMEs will benefit from simplified compliance
+and technical support, while protections for AI research and development will ensure that outcomes advance the
+country’s development objectives.
+Economic Development Integration
+Zimbabwe will integrate AI governance with broader economic development policies to ensure regulation drives
+rather than restricts growth. Solid governance frameworks will attract international AI investment aligned with national
+interests, promote exports of AI products and services while maintaining quality and ethical standards. This will also
+support regional economic integration through cross-border trade and investment in AI technologies.
+Public Trust and Social Acceptance
+Trust Building Mechanisms
+Zimbabwe’s AI governance framework will prioritise public engagement to involve citizens in decision-making and
+build trust in AI technologies. Transparency and accountability measures will enable public oversight, while accessible
+grievance and redress mechanisms will ensure fair, timely resolution of AI-related concerns. Ongoing public education
+and awareness programmes will help citizens understand AI, its governance and their rights in relation to AI systems.
+
+Social Cohesion and Cultural Preservation
+Zimbabwe will require cultural impact assessments to ensure AI adoption strengthens, rather than undermines,
+cultural heritage and social cohesion. AI governance frameworks will include protections for traditional knowledge
+and cultural practices, supporting the integration of indigenous and modern systems. They will also promote social
+harmony and national unity while addressing potential sources of AI-related tension or conflict.
+Implementation Roadmap and Milestones
+Phase 1: Foundation Building (2025-2027)
+Zimbabwe will establish core AI governance institutions, including the National AI Council, AI Strategy Implementation
+Office and National Data Agency, alongside developing the National AI Act and revising the Data Protection Act. Multistakeholder engagement platforms and public consultations will be initiated, while capacity-building programmes
+will be launched to equip government officials and stakeholders with the skills needed for effective AI governance.
+Phase 2: Framework Implementation (2027-2028)
+Zimbabwe will operationalise its AI regulatory framework through certification systems, compliance monitoring and
+enforcement mechanisms, while actively engaging in regional and international governance initiatives and forming
+strategic partnerships. Sectoral AI governance frameworks will be implemented across key ministries and agencies;
+alongside public engagement initiatives aimed at building trust and confidence in AI systems.
+Phase 3: Optimization and Leadership (2029-2030)
+Zimbabwe will continuously improve and optimise its AI governance frameworks based on implementation
+experience and technological advances and active participation in regional and continental initiatives. The goal is to
+achieve international recognition as a model for developing countries while ensuring governance remains sustainable,
+adaptive and responsive to technological and social change.
+Success Metrics and Evaluation Framework
+The success of this pillar will be measured by public trust in AI systems, compliance with governance requirements,
+effectiveness of enforcement mechanisms, stakeholder engagement, international recognition and the contribution
+of AI governance to national development goals. Serving as the foundation for responsible AI development, it positions
+Zimbabwe as a regional and global leader in ethical AI governance. Through multi-level frameworks that balance
+innovation with protection, Zimbabwe will build trust while ensuring AI serves all citizens and supports sustainable
+national development.
+
+Pillar 5: AI Research, Development and Innovation
+Strategic Objective: Zimbabwe aims to be a recognized hub for advanced AI research and development, promoting
+scientific discovery, technological innovation and locally tailored intellectual property that meets national priorities
+and enriches global AI knowledge.
+Strategic Foundation and Vision
+To establish a sustainable AI ecosystem in Zimbabwe, a strong foundation of fundamental and applied research is
+essential. This pillar aims to transition Zimbabwe from being a consumer to a producer of innovative AI technologies,
+fostering a dynamic Research and Development environment where academic theories are effectively applied in
+industry. The goal is to create a self-sustaining innovation cycle that attracts global talent, secures patents and positions
+Zimbabwe as a leader in niche AI areas that leverage the country's strengths.
+Core Strategic Thrusts
+Core strategic thrusts for advancing AI in Zimbabwe focus on three main areas:
+Foundational and Applied Research Excellence
+This includes defining a National AI Research Agenda that aligns research themes with national challenges, such
+as developing AI for drought-resistant crops and Natural Language Processing in local languages. Additionally, a
+competitive grant scheme via the National Research Fund is proposed for AI projects, aimed at supporting innovative,
+high-risk research. Public research outputs must be prioritized, encouraging publication in reputable, open-access
+platforms to enhance Zimbabwe's academic stature.
+Innovation and Commercialization Pipeline
+To facilitate the transition from research to market, AI Technology Transfer Offices will be bolstered within universities
+and associated research centers to manage AI-related intellectual property effectively. The government will also play
+a role as a pioneering customer for local AI developments through pre-commercial procurement, fostering real-world
+applicability and market testing. Fiscal incentives will be established for private companies to partner with public
+research entities, ensuring the relevance and practical impact of AI developments.
+Niche Specialisation and Global Leadership
+Specific universities or institutes will be designated as centres of specialization to lead in AI niches, such as sustainable
+mining and disease diagnostics. Furthermore, support will be provided for local researchers to engage with and
+contribute to significant global open-source AI initiatives, thus enhancing skills and building Zimbabwe's international
+reputation in the AI domain.
+Key Performance Indicators (KPIs)
+• Number of peer-reviewed AI publications by Zimbabwe-based researchers in top-tier international journals/
+conferences.
+• Number of patents filed and granted for AI inventions originating from Zimbabwe.
+• Volume of competitive R&D grant funding secured from both national and international sources.
+• Number of AI research projects successfully commercialised or licensed to industry.
+• Establishment and international ranking of at least two globally recognised AI research Centres of Specialisation.
+
+Pillar 6: Strategic International Collaboration and
+Diplomacy
+Strategic Objective: Zimbabwe aims to enhance its role in the global AI landscape through strategic partnerships
+that boost national capabilities, attract investments, amplify its influence in AI governance and secure technology
+transfer while protecting digital sovereignty.
+Strategic Foundation and Vision
+In an interconnected world, no nation can succeed in AI working alone; therefore, international cooperation must
+evolve into a strategic engagement. This approach emphasizes that while global collaboration is vital, it cannot replace
+the development of domestic capacities. The goal is to establish Zimbabwe as a respected partner within the global
+AI ecosystem, contributing to and benefiting from international advancements while advocating for an equitable AI
+order that serves the interests of the Global South.
+Core Strategic Thrusts
+The document outlines three core strategic thrusts aimed at enhancing Zimbabwe's position in the artificial intelligence
+(AI) landscape, focusing on partnerships, global governance and economic diplomacy.
+Bilateral and Multilateral Partnerships
+• Strategic Technology Alliances: Zimbabwe seeks to establish formal AI cooperation agreements with selected
+"AI Sprinter" nations, emphasizing joint research in pivotal sectors, such as smart cities, e-Health and AgriTech.
+• Engagement with Global Tech Hubs: The strategy includes forming formal links with leading AI hubs across the
+globe to facilitate talent exchanges, joint ventures and enhance market access for Zimbabwean AI products.
+• Diaspora Knowledge Networks: There is a proposal to formalize and extend the "Come Home to Build" program
+into a structured "Global Zimbabwean AI Network," fostering ongoing knowledge transfer, mentorship and
+investment opportunities.
+Global Governance and Standard-Setting
+• Active Multilateral Participation: Zimbabwe aims to maintain a consistent and impactful presence in AI forums
+such as the SADC, COMESA, UN, UNESCO, ITU and the African Union (AU) to advocate for ethical frameworks that
+safeguard the interests of developing nations.
+• Standards Adoption and Development: The document directs the Standards Association of Zimbabwe (SAZ)
+to actively contribute to international AI standard-setting organizations like ISO and IEEE, ensuring that global
+standards align with the specific context and needs of Zimbabwe.
+• South-South Cooperation Leadership: Zimbabwe is encouraged to lead a coalition of SADC and African nations
+to negotiate collectively with major AI powers on essential issues like data governance, intellectual property rights
+and access to computational resources.
+
+Economic Diplomacy and Investment Attraction
+• Targeted Investment Promotion: The strategy promotes hosting "Zimbabwe AI Investment Summits" and
+roadshows in key international financial centers to highlight AI opportunities and draw foreign direct investment
+into Zimbabwe's AI ecosystem.
+• AI for Development Partnerships: There is an emphasis on deepening collaboration with international
+development agencies (such as ITU, UNECA, UNESCO, UNICEF, UNDP, ADB and the World Bank) and philanthropic
+organizations (like the Gates Foundation) to co-fund AI projects aligned with Sustainable Development Goals
+(SDGs).
+Through these strategic thrusts, Zimbabwe aims to position itself as a competitive player in the global AI arena while
+fostering sustainable development and ethical practices.
+Key Performance Indicators (KPIs)
+• Number of active bilateral/multilateral AI cooperation agreements.
+• Amount of foreign direct investment (FDI) in the AI sector.
+• Number of Zimbabwean experts in leadership roles within international AI standards bodies and policy forums.
+• Hosting of at least one major international AI conference or summit in Zimbabwe every two years.
+• Influence of Zimbabwe's positions in international AI governance declarations and frameworks.
+Pillar Integration and Synergistic Implementation
+The six strategic pillars of Zimbabwe’s National AI Strategy are designed as an integrated ecosystem where each pillar
+reinforces and amplifies the others, creating synergistic effects that exceed the sum of their individual contributions.
+This integrated approach ensures that Zimbabwe’s AI transformation is sustainable and aligned with national
+development objectives.
+Cross-Pillar Synergies
+The AI strategy consists of six pillars, each reinforcing the other. Pillar 1 provides expertise for infrastructure, while
+Pillar 2 focuses on advanced AI research. Computational sovereignty in Pillar 2 supports large-scale AI adoption,
+while Pillar 3 generates practical experience. Pillar 4 focuses on governance frameworks, building public trust and
+regulatory certainty. These frameworks also promote ethical AI principles, producing ethically minded professionals
+who strengthen governance through effective implementation. Pillar 5 (R&D) functions as the "Engine of Novelty",
+utilizing talent from Pillar 1 and supported by Pillar 2’s infrastructure to generate innovative solutions for Pillar 3, with
+ethical oversight from Pillar 4. Pillar 6 (International Collaboration) serves as the "Force Multiplier and Global Conduit",
+facilitating talent access from Pillar 1, global infrastructure and funding for Pillar 2, creating export markets for Pillars 3
+and 5, while safeguarding Zimbabwe's sovereignty through Pillar 4.
+Implementation Coordination
+The implementation of these six pillars will be coordinated through the National AI Council and AI Strategy
+Implementation Office to ensure that activities across pillars are synchronized, resources are optimized and synergies
+are maximized. Regular cross-pillar coordination meetings, shared performance indicators and integrated planning
+processes will ensure that the pillars function as a unified system rather than isolated initiatives.
+
+Adaptive Management and Continuous Improvement
+The six-pillar framework is built to adapt to changing technological, economic and social conditions, with regular
+reviews ensuring the pillars work together effectively while responding to emerging opportunities and challenges
+in the fast-evolving AI landscape. Through this integrated approach, Zimbabwe’s National AI Strategy will lay the
+foundation for AI-driven national transformation that benefits all citizens and positions the country as a leader in
+responsible AI development and deployment in Africa and beyond.
+Cross-Cutting Integration Themes
+The six strategic pillars of Zimbabwe’s AI framework are an interconnected ecosystem that works together through
+five fundamental cross-cutting themes for optimum collective impact on Zimbabwe’s AI development.
+Inclusive Development and Digital Equity
+This theme ensures AI-driven transformation reduces inequality and creates meaningful opportunities for all
+Zimbabweans, particularly marginalized communities, rural populations, women, youth and people with disabilities.
+Across all six pillars, this is achieved through targeted programs ensuring equal access to AI education (Pillar 1),
+distributed infrastructure reducing digital divides (Pillar 2), sector-specific applications prioritizing underserved
+populations (Pillar 3) and community-level governance structures with Ubuntu-centred ethics (Pillar 4).
+Cultural Preservation and Enhancement
+This theme maintains and strengthens Zimbabwe’s cultural identity throughout AI adoption. It integrates indigenous
+knowledge systems into AI education (Pillar 1), develops digital cultural preservation platforms (Pillar 2), supports
+cultural industries and local languages (Pillar 3) as well as requires cultural impact assessments while protecting
+traditional knowledge (Pillar 4).
+Adaptive Governance and Democratic Accountability
+This theme promotes flexible agile governance mechanisms that evolve with technological advances while ensuring
+democratic accountability and citizen participation. It operates through flexible curriculum frameworks (Pillar
+1), infrastructure planning that accommodates technological evolution (Pillar 2), regulatory sandboxes enabling
+controlled experimentation (Pillar 3) and multi-stakeholder governance with regular policy review cycles (Pillar 4).
+Sectoral Synergies and Integrated Solutions
+This theme maximizes interconnected AI benefits across healthcare, education, agriculture, finance and public services
+through integrated solutions. It creates cross-sectoral training programs (Pillar 1), shared infrastructure platforms (Pillar
+2), integrated service delivery addressing multiple citizen needs (Pillar 3) and governance frameworks facilitating
+cross-sectoral collaboration (Pillar 4).
+Sustainable Development and Environmental Stewardship
+This theme ensures AI development contributes to sustainability while minimizing environmental impact. It
+embeds environmental education and green AI research (Pillar 1), promotes green infrastructure and renewable
+energy integration (Pillar 2), supports environmental monitoring and climate-smart practices (Pillar 3) and requires
+environmental impact assessments with sustainable development regulations (Pillar 4).
+
+Implementation Synergies and Phased Coordination
+The six pillars create powerful synergies: talent development (Pillar 1) provides expertise for infrastructure (Pillar 2),
+which enables widespread adoption (Pillar 3), generating experience for effective governance (Pillar 4), which builds
+trust for further adoption. Implementation follows three coordinated phases:
+• Phase 1 (Foundation Building, 2025-2026): Establishes fundamental capabilities through talent pipeline
+initiation, core infrastructure development and governance framework establishment.
+• Phase 2 (Core Applications and Scaling, 2027-2028): Deploys high-impact AI applications across key sectors
+while scaling foundational capabilities.
+• Phase 3 (Ecosystem Maturation and Leadership, 2029-2030): Consolidates progress and establishes Zimbabwe
+as a regional AI leader through full pillar integration.
+Cross-Cutting Enablers Framework
+Seven focused enablers provide essential support systems across all strategic pillars, ensuring coordinated
+implementation and sustainable impact aligned with the four-pillar structure.
+AI Transformation Enabler Framework
+Enabler Mission Key Actions Pillar Alignment
+1. Education Integrate AI literacy • Embed AI concepts in national Pillar 1 (Primary),
+and AI across all education curriculum from primary to higher and Pillar 4 (Ethics
+Literacy levels and create tertiary education. Revise curricula to integration)
+a digitally fluent be transdisciplinary and focused on AI
+population applications.
+• Launch ‘Digital Mhuri/Umdeni’ curriculum
+reform aligned with Education 5.0
+• Establish AI Centers of Excellence at
+leading universities and POTRAZ.
+• Train teachers through ‘Digital Varairidzi/
+Umbalisi’ professional development
+• Create mandatory ‘AI and Society’ courses
+for all tertiary students
+• Nationwide Literacy: Utilize radio, National
+TV, and online platforms for non-formal AI
+education.
+• Develop capacity for non-formal education
+institutions to offer AI Education. This helps
+to extend AI education to the remote parts
+of the rural areas to educate even the
+elderly.
+• Leverage on the opportunity cost of AI
+such that teaching can be done using
+other non-formal platforms and genres like
+Arts and Entertainment
+• Targeted Scholarships & Brain Gain: Offer
+targeted scholarships in AI fields to allied
+nations and to incentivise the Zimbabwean
+diaspora who have AI expertise to
+contribute remotely.
+
+Enabler Mission Key Actions Pillar Alignment
+2. Workforce Transform the • Launch ‘Skills for New Zimbabwe’ national Pillar 1 (Primary),
+Development current workforce upskilling platform Pillar 3 (Sectoral
+and Skills with AI-relevant • Create sector-specific AI academies application)
+skills and (AgriTech, MiningTech, Public Sector)
+capabilities • Provide subsidized access to global AI
+learning platforms
+• Establish AI-powered career guidance
+systems
+• Develop industry-recognized microcredentials and certifications
+3. Talent Develop world- • Establish National AI Research Fellowship Pillar 1
+Cultivation class AI experts program (Primary), Pillar
+and Research and research • Create specialized research focus areas at 2 (Infrastructure
+Excellence capabilities universities support)
+• Engage diaspora through fractional
+appointments and mentorship
+• Fund advanced AI research projects and
+PhD programs
+• Build international research partnerships
+and exchanges
+• Specialized Talent Pipeline: Develop
+distinct pathways for AI Researchers,
+Application Developers, and
+Commercialization Experts.
+4. Regulatory Establish • Enact National AI Policy Act with risk-based Pillar 4 (Primary),
+Framework clear, adaptive regulatory approach All pillars
+and governance • Develop national AI technical standards (Compliance)
+Standards structures for with Standards Association Zimbabwe
+responsible AI (SAZ and POTRAZ
+development • Create National AI Regulatory Sandbox
+(‘Innovation Crucible/Umtombo Welwazi’)
+• Establish clear compliance pathways and
+enforcement mechanisms with POTRAZ
+• Implement dynamic ‘living guidelines’ for
+emerging technologies
+5. Ethics and Embed Ubuntu • Implement Ubuntu-based AI Ethics Pillar 4 (Primary),
+Responsible philosophy to Framework All pillars (Ethics
+AI authentically reflect • Establish independent National AI Ethics integration)
+Zimbabwean Committee
+values in all AI • Mandate Ethical Impact Assessments for
+systems high-risk AI projects
+• Create ‘Trustworthy AI - Made in Zimbabwe’
+certification
+• Develop bias detection and mitigation
+protocols
+• Develop local/regional/global content that
+promotes Zimbabwean Ethical Values
+
+Enabler Mission Key Actions Pillar Alignment
+6. Investment Mobilize diverse • Establish National AI Innovation Fund with Pillar 2
+and funding sources to government co-investment (Infrastructure),
+Financing fuel AI ecosystem • Create ‘Pioneer Status’ tax incentives for AI Pillar 1 (Talent
+development investments funding), Pillar
+• Launch AI Investor Education Program for 3 (Adoption
+local capital markets support)
+• Conduct international roadshows to attract
+global investment
+• Align with ‘AI for Good’ philanthropic
+funding opportunities
+7. Strategic Build alliances that • Lead African AI governance through SADC Pillar 4 (Regional
+Partnerships accelerate progress and AU initiatives governance),
+and while maintaining • Host annual ‘Harare Declaration on Ethical All pillars
+Cooperation sovereignty AI for Development’ (International
+• Establish Joint Innovation Labs between cooperation)
+government and private sector Pillar 1 (Research)
+• Create ‘Data for Development’ agreements Pillar 2
+with private companies Pillar 3
+• Build Global South partnerships with other
+‘AI Sprinter’ nations
+8. Power A strategic shift • Critical Enablers: The immense Pillar 4 (Energy
+towards alternative computational and connectivity demands Infrastructure)
+energy sources, of AI were noted, with the current national
+Renewable energy infrastructure deemed insufficient.
+(solar, wind, kinetic, • Energy Sector Inclusion: The strategy must
+nuclear) to run the explicitly include the energy sector.
+power-hungry AI Reliable and abundant power is noninfrastructure in a negotiable for data centers and AI facilities.
+hybrid format.
+Enabler Integration with Six -Pillar Structurew
+The seven enablers are closely aligned with the Six -pillar framework to ensure effective support and prevent
+duplication.
+For Pillar 1, Enablers 1, 2 and 3 drive talent development through education, workforce transformation and research
+excellence, while Enablers 6 and 7 provide funding and international partnerships.
+For Pillar 2, Enabler 6 delivers critical financing for infrastructure, with Enablers 4, 7 and 8 ensuring regulatory clarity
+and international cooperation.
+For Pillar 3, Enablers 2 and 6 advance sectoral adoption via workforce development and financing, while Enablers 4
+and 5 promote responsible adoption through regulation and ethics.
+For Pillar 4, Enablers 4, 5, 7 and 8 strengthen governance with regulatory frameworks, ethics implementation and
+international collaboration, while all enablers collectively contribute to effective governance.
+
+Success Metrics and Coordination
+Each enabler includes specific success metrics:
+• Enabler 1: AI literacy rates and curriculum integration.
+• Enabler 2: Workers upskilled and certifications earned.
+• Enabler 3: Research publications and diaspora engagement.
+• Enabler 4: Regulatory clarity index and compliance rates.
+• Enabler 5: Ethics assessments completed and bias incident reports.
+• Enabler 6: Total investment mobilized and funded start-ups.
+• Enabler 7: Partnership agreements signed and regional leadership roles.
+• Enabler 8: Strategic shift towards sustainable alternative and renewable energy sources
+The National AI Council and AI Strategy Implementation Office will coordinate enabler implementation to ensure
+alignment with the six-pillar structure, maximize synergies and avoid duplication. Regular cross-enabler coordination
+meetings, shared performance indicators and integrated planning processes will ensure that enablers function as a
+unified support system for the four strategic pillars.
+
+Flagship Initiatives: Igniting the
+National AI Mission
+A strategy is only as powerful as the action it inspires. To translate our vision into reality,
+Zimbabwe will launch five bold, interconnected flagship initiatives within the first 18
+months of this strategy’s adoption. These are not pilot programs; they are national
+missions designed to be highly visible, deeply impactful and to lay the foundational
+cornerstones for the decades of work to come. They are the sparks that will ignite our
+national AI engine.
+AI GRAND
+PROJECT
+CHALLENGE
+PANGOLIN
+Yearly competition
+National AI and
+for innovative
+data platform
+solutions
+National AI
+MUGOVE Initiatives
+NZWISIO AI
+FUND
+CAMPAIGN
+Co-investment
+Public awareness
+fund for Ai
+and education
+startups
+INNOVATIVE
+CRUCIBLE
+Regulatory sandbox
+for Ai startups
+Figure 5: National AI Innitiatives
+
+The Zimbabwean AI Grand Challenge: A National Quest for
+Solutions
+A nationwide competition engaging innovators, researchers, students and entrepreneurs to solve pressing national
+priorities such as boosting maize yields, reducing child mortality and creating AI disaster warning systems. Winners gain
+funding, platform access, pilot contracts and international exposure, while all participants benefit from mentorship, AI
+problem formulation and solving, datasets and ethical AI training.
+The National AI and Data Platform (Project “Pangolin/Haka/
+Inkakha”): The Digital-Bedrock
+A secure, sovereign platform providing national datasets and computing power for AI development. Rolled out in
+phases, it will set up infrastructure, digitise agriculture and health data and open access to accredited users. Using a
+federated model, sensitive data stays within ministries but is securely accessed via privacy-preserving APIs. Driving
+digitalisation of rural and urban data for informed decision-making.
+AI for Every Zimbabwean (The “Nzwisiso.ai” Campaign):
+Winning Hearts and Minds
+A public campaign to make AI understandable, relevant and trusted through school programmes, local-language
+media and community Digital Ambassadors. Through practical demonstrations in farming, health and education,
+coupled with open ethics discussions, the initiative fosters trust and broad engagement across society.
+The National AI Regulatory Sandbox (The “Innovation
+Crucible/Umthombo Wolwazi”): Safe Space for Bold Ideas
+A monitored environment in which selected start-ups test AI solutions with temporary regulatory flexibility. Managed
+with key regulators, it enables safe innovation, informs policy updates and positions authorities as partners in advancing
+technology.
+The National AI Innovation Fund (The “Mugove/Umqele”
+Fund): Capital for Creation
+A co-investment fund matching private investment in certified AI start-ups. Independently managed, it provides both
+funding and accelerator support mentorship, legal aid and networks helping startups scale sustainably.
+
+Implementation and governance
+This section outlines the governance framework designed to steer the Zimbabwe
+National AI Strategy. It is a model built for both authority and agility, ensuring that
+the national AI mission is pursued with the focus of a unified command and the
+dynamism of a networked team. This governance structure is composed of three core,
+interlocking components: The National AI Council (The Strategic Mind), the AI Strategy
+Implementation Office (The Operational Heart) and the Technical Working Groups
+(The Expert Hands).
+The AI Strategy Implementation Office (AISIO): The
+Operational Heart
+The AISIO is the engine that executes Zimbabwe’s AI strategy, operating like a agile tech start-up within the lead ministry.
+Staffed by specialists in project management, policy, artificial intelligence and any other relevant expertise as shall be
+required as well partnerships, it drives flagship initiatives, manages monitoring and evaluation and coordinates with
+stakeholders. Serving as NAIC’s secretariat, it also leads knowledge management and public engagement through
+initiatives like “AI for Every Zimbabwean.”
+The National Digital Regulatory Committee (NDRC): The
+Regulatory Guardian
+The National Digital Regulatory Committee (ZNDC) is the independent regulatory body for AI in Zimbabwe. Hosted
+within POTRAZ for administrative efficacy, the ZNDC operates under the strategic supervision and performance
+oversight of the AI Strategy Implementation Office (AISIO). Its mandate is to develop and enforce a robust, agile
+regulatory framework and sector specific strategies that ensure responsible AI innovation, in alignment with the goals
+of this National AI Strategy. This Committee is comprised of leading experts across government, industry sectors,
+academic fields, ethics and emerging start-ups. It oversees AI performance and promotes collaborations among
+stakeholders to drive the country’s AI agenda effectively.
+The Technical Working Groups (TWGs): The Expert Hands
+The TWGs turn national AI goals into sector-specific solutions, delivering results in priority areas. Each is co-chaired
+by a senior government official and private sector leader, with initial focus on agriculture, health, mining, finance and
+education. Projects include precision farming tools, AI diagnostics, regulatory sandbox trials and curriculum reform.
+Together with NAIC’s strategic oversight (“the Mind/Pfungwa/Ingqondo”) and AISIO’s operational drive (“the Heart/
+Inhliziyo”), the TWGs (“the Hands”) ensure coordinated, impactful AI transformation.
+
+Implementation Roadmap: (2025-2030)
+A vision for the future is realized through deliberate and sustained action. This Implementation Roadmap serves as the
+nation’s coordinated plan of execution, aligning the efforts of all stakeholders within the ecosystem. It operationalizes
+the overarching strategy into a phased and disciplined sequence of initiatives, ensuring that ambition is consistently
+matched by accountability. The roadmap is structured to generate a compounding effect: beginning with targeted,
+high-impact interventions that establish momentum and credibility (The Sprint), advancing towards the development
+of essential infrastructure and institutional capacity (The Build) and culminating in the nationwide scaling of these
+achievements to drive comprehensive transformation (The Scale). As a living document, it will be subject to annual
+review by the National AI Council, yet it provides a clear, structured framework to guide collective action towards
+national objectives. It will also be taken as a learning process where the implementation and mistakes are recorded in
+order to achieve indigenous knowledge and capability.
+Phase 1: The Sprint - Laying the Foundation (First 100 Days: Approx. Q1Q2 2026)
+The Mission: This initial phase is about urgently building trust and belief across the nation and the world that AI is
+a national priority for Zimbabwe. The goal is to establish the core governance, launch the Zimbabwe strategy and
+secure the first critical partnerships. In doing so it is important to draw historical parallels with past technological
+revolutions as to be response to issues of adaptation and reskilling,
+
+AI Strategy Phase 1 Milestones and Deliverables
+Milestone Key Deliverables Lead Entity Success Indicator
+Establish • Official appointment and first Office of the NAIC is operational
+National inaugural meeting of the National AI President & and has held its first
+Command Council (NAIC). Cabinet / Ministry meeting. AISIO Director
+Structure • Legal charter for the AI Strategy of ICT, PCS / is appointed.
+Implementation Office (AISIO) POTRAZ
+finalized. - Recruitment of the AISIO
+Director and core team initiated.
+Launch the • Official launch of The Zimbabwean AISIO / TWG for Over 50 qualified teams
+National Quest AI Grand Challenge (Year 1: Food Agriculture have registered for
+Security). the Grand Challenge.
+• Publication of the challenge Significant national
+rules, prize structure and call for media coverage.
+applications. - A high-profile national
+launch event to capture public
+imagination.
+Secure • First meeting of the “Future-Ready” Ministry of Higher Legally binding
+Foundational Task Force (TWG for Education). Education / AISIO / MOUs are in place,
+Partnerships • Memorandum of Understanding MICTPCS / POTRAZ outlining commitments
+(MOU) signed with at least two for curriculum
+leading national universities to development and
+become inaugural AI Centres of research focus.
+Excellence.
+Initiate the • Launch of a global online portal for Ministry of Foreign Over 200 diaspora tech
+“Come Home to the Zimbabwean diaspora in tech. Affairs / AISIO professionals have
+Build” Program - First virtual town hall held with registered on the portal.
+diaspora tech leaders to present the A formal Diaspora
+strategy and the “Come Home to AI Advisory Group is
+Build” initiative. formed.
+• Leveraging virtual collaboration
+platforms to reduce over-reliance on
+physical infrastructure.
+Phase 2: The Build - Constructing the Core Engine (Q3 2025 - Q4 2027)
+The Mission: With the foundation laid and momentum building, this 18-month phase is about the heavy lifting. It is the
+core construction period where Zimbabwe will put in place the critical infrastructure and the human capital pipelines
+that will power AI for the nation. This phase requires disciplined project management and sustained investment.
+
+AI Strategy Phase 2 Milestones and Deliverables
+Milestone Key Deliverables Lead Entity Success Indicator
+2.1: “Project - ZCHPC initial cluster is Ministry of ICT / ZCHPC is live and provides
+Pangolin/Haka/ physically installed, operational AISIO / POTRAZ compute resources to the
+Inkaka” Phase 1 & 2 and benchmarked. - The Grand Challenge finalists.
+Pangolin Data Trust legal The first foundational
+framework is gazetted. - The datasets are accessible via
+National Agricultural Dataset and secure APIs to accredited
+National Health Records Dataset researchers.
+are 50% digitized and curated.
+2.2: Launch the - The National AI Regulatory NAIC / RBZ / POTRAZ The first cohort of start-
+“Innovation Sandbox is officially launched ups is publicly announced
+Crucible/ in partnership with the RBZ and and operating under the
+Umthombo POTRAZ. - The first cohort of 5–7 Sandbox framework.
+Welwazi” FinTech and Telecoms start-ups
+is selected and begins operating
+within the Sandbox.
+2.3: Activate the - The National AI Innovation Ministry of Finance / The fund is capitalized and
+“Mugove/Umqele” Fund is legally established AISIO has executed its first coFund and its independent board is investment deals, injecting
+appointed. - The first call for critical seed funding into
+proposals from private VC and the ecosystem.
+Angel investors is issued. - The
+first three co-investments in
+Zimbabwean AI start-ups are
+announced.
+2.4: Rollout of - The new AI and Data Literacy Ministry of Primary The new curriculum is
+“Digital Mhuri/ curriculum for primary and and Secondary being piloted in 100
+Umdeni” & secondary schools is finalized. - Education / Ministry schools. The skills platform
+“Varairidzi/ The “Digital Varairidzi/Umbalisi” of Higher and has over 10,000 registered
+Umbalisi” program has trained its first Tertiary Education users.
+cohort of 1,000 Master AI Innovation Science
+Teachers. - The “Skills for a New and Technology
+Zimbabwe” online platform Development,
+is launched with at least 50 Ministry of ICTPCS,
+subsidized courses. Ministry of Youth /
+POTRAZ
+2.5: The “Harare - The inaugural “AI for the Global Ministry of Foreign The conference attracts
+Declaration” South” international conference Affairs / NAIC over 500 international
+is hosted in Harare. - The first delegates. The Declaration
+“Harare Declaration on Ethical AI is cited in AU policy
+for Development” is published discussions.
+and presented to the African
+Union.
+
+Phase 3: The Scale - National Transformation (Q1 2028 - Q4 2030)
+The Mission: The Zimbabwe core engine, talent pipelines, and first successes are now focused on scale and saturation,
+with the mission to drive widespread AI adoption across the economy and society, ensuring benefits are felt by every
+citizen, and translating this potential into a nationwide, irreversible transformation.
+AI Strategy Phase 3 Milestones and Deliverables
+Milestone Key Deliverables Lead Entity Success Indicator
+3.1: Widespread - The winning solution from the Year 1 All TWGs / AISIO Measurable
+Sectoral Grand Challenge is now being rolled out improvements in
+Adoption to 25% of its target farmer population. - At KPIs for the target
+least three graduates from the Regulatory sectors (e.g., a 15%
+Sandbox have received full operating increase in average
+licenses and are scaling their services. - The maize yield in pilot
+government has officially adopted at least areas, a 10% reduction
+two AI solutions (e.g., for procurement in government
+auditing, e-services) for nationwide use. procurement fraud).
+3.2: A Self- - The “Mugove/Umqele/Isabelo” Fund AISIO / Ministry of The ratio of private to
+Sustaining has attracted at least two international Finance public investment in
+Ecosystem VC firms as co-investment partners. - A the AI ecosystem has
+Zimbabwean AI start-up achieves a shifted to 3:1. At least
+valuation of over US$100 million (a one major international
+“Zimba-Soaring Eagle”). - Our AI Centres tech company has
+of Excellence are now attracting paying established a research
+international students and corporate lab in Zimbabwe.
+research partners.
+3.3: A Nation of - The “Digital Mhuri/Umdeni” curriculum Ministry of National surveys show
+AI Literates is now standard in 80% of schools Education / a 40% increase in public
+nationwide. - The “Nzwisiso.ai” campaign Ministry of trust in AI technology
+has reached a verified 60% of the Information and a significant
+adult population. - The “Skills for a New Communication increase in citizens
+Zimbabwe” platform has issued over Technology using AI-powered
+50,000 professional certifications. government services.
+3.4: Global - Zimbabwe holds a leadership position NAIC / Ministry of Zimbabwean officials
+Thought (e.g., Chair or Rapporteur) in the SADC or Foreign Affairs and experts are
+Leadership African Union AI Policy Working Group. - regularly invited to
+The “Harare Declaration” is now a widely speak at major global
+recognized framework for ethical AI in AI forums like the UN’s
+the Global South. - At least two AI-related AI for Good Global
+patents filed by Zimbabwean universities Summit.
+are licensed to international companies.
+
+Roles and Responsibilities
+The AI strategy is a national agenda requiring the collective effort of the entire society. The Zimbabwe National
+Commitment outlines five pillars with sacred duties and promises to uphold, binding the nation together in a shared
+mission. The failure of any pillar weakens the structure, while the strength of each reinforces it. The Citizen at the center
+holds the entire edifice in place, representing the beginning and end of the purpose.
+The Role of Government: The Visionary Architect and Steadfast Guardian
+Government sets the national AI vision, builds legal and infrastructural foundations and safeguards inclusive progress.
+It invests in key platforms like the ZCHPC and National Data and AI Platform, ensures universal connectivity and creates
+an agile regulatory framework that protects citizens and supports innovation. It validates local start-ups through
+procurement, represents Zimbabwe in global AI forums, forges alliances and defends national interests internationally.
+The Role of the Citizenry: The Sovereign and the Soul
+Citizens are the owners and beneficiaries of the AI strategy, shaping policy through dialogue and public consultations
+such as the “AI & Ethics Dare.” They have the right to digital literacy via platforms like “Skills for a New Zimbabwe,”
+protection from AI-related harms and control over their personal data. In turn, they must engage actively, use AI
+ethically and treat their data as a personal asset.
+The Role of Industry
+Industry drives innovation, job creation and economic growth by turning ideas into products and services. It invests
+in R&D, collaborates with academia to develop talent, upholds ethical standards and supports startups through
+mentorship and supply chain access. Its responsibility is to compete globally while meeting local needs.
+The Role of Academia
+Academia advances knowledge, trains ethical leaders and critically examines AI’s societal impact. It conducts longterm research, maintains academic standards and acts as an independent voice on national AI strategy. Strong global
+links allow it to bring fresh ideas, talent and best practices into Zimbabwe’s AI ecosystem.
+The Role of Civil Society
+Civil society ensures AI serves justice, equity and human dignity. It advocates for marginalized groups, monitors AI use,
+exposes harm, educates the public and facilitates dialogue between citizens and policymakers. Its role is to hold all
+actors accountable and ensure progress aligns with shared values.
+
+Monitoring and Evaluation (M&E)
+Framework
+The Monitoring and Evaluation (M&E) Framework, based on the principle “What
+gets measured gets done,” serves as a National Dashboard of Progress, promoting
+transparency through publicly available KPI data, outcome-orientation, and adaptive
+learning, ensuring accountability and relevance throughout the strategy’s lifecycle.
+Key Performance Indicators (KPIs) for each Strategic
+Objective
+Zimbabwe will employ a set of Key Performance Indicators (KPIs) to track progress from foundational activities to
+long-term societal impact. Lagging Indicators measure the ultimate success of the strategy, while Leading Indicators
+provide operational insights into flagship initiatives’ health and momentum, offering early warnings when parts of the
+strategy are at risk of falling behind.
+The following Table is a detailed breakdown of the KPIs for each of the strategy’s core pillars and enablers.
+Pillar 1: AI for Economic Growth and Modernisation
+Objective Lagging Indicators Leading Indicators
+1.1: Transform • GDP Contribution of Target Sectors: • Adoption Rate: of commercial farms and
+Key Sectors % increase in the contribution MSMEs that have adopted a certified
+of Agriculture, Mining and “Made in Zimbabwe” AI solution.
+Manufacturing to national GDP by • Productivity Metrics: % increase in average
+2030. maize yield per hectare in areas using AI
+• National Food Security Index: tools.
+A measurable improvement in • Safety Metrics: % reduction in safety
+Zimbabwe’s score on the Global Food incidents in mines that have deployed AISecurity Index. powered predictive maintenance.
+1.2: Foster a • AI Sector Economic Value: The • Startup Formation & Survival Rate: of new
+Vibrant Digital estimated value (in US$) of AI start-ups founded per year and the
+Economy Zimbabwe’s domestic AI market by 3-year survival rate of those start-ups.
+2030. • “Mugove” Fund Performance: Total value of
+• High-Value Job Creation: of new, private capital “crowded-in” by the fund. of
+direct jobs created in the AI sector start-ups funded.
+(e.g., AI/ML Engineer, Data Scientist). • “Zimba-corn” Watch: of Zimbabwean AI
+start-ups that achieve a valuation of over
+US$100 million.
+
+1.3: Enhance • Citizen Satisfaction Index: % • Platform Usage: of active monthly users
+Public Service improvement in the national Citizen of the “Gogo.ai” health platform and the
+Delivery Satisfaction Index for public services “People’s Office” e-gov platform.
+(Health, Education, Home Affairs). • Service Delivery Time: Average time taken
+• World Bank Governance Indicators: to process a passport application or a birth
+Measurable improvement in certificate registration.
+Zimbabwe’s score for “Government • Diagnostic Accuracy: % improvement
+Effectiveness” and “Control of in the accuracy of TB diagnosis in clinics
+Corruption.” using the national AI diagnostic tool.
+Pillar 2: Foundational Infrastructure and Data Ecosystems
+Objective Lagging Indicators (The “North Star” Leading Indicators (The “Dashboard”)
+2.1: Ensure • National Compute Capacity: Total • ZCHPC Utilization Rate: % of available
+Access to HPC petaflops of sovereign HPC capacity compute time on the ZCHPC that
+available within Zimbabwe. is actively being used by accredited
+• Global AI Index (Compute Rank): researchers and startups.
+Zimbabwe’s ranking on the compute • Cost of Compute: The average cost per
+infrastructure sub-index of a major hour for a Zimbabwean startup to train
+global AI index. a standard AI model, compared to the
+global cloud provider average.
+2.2: Establish a • Data Availability Score: A national • Platform Onboarding: of government
+National Data & index score measuring the availability ministries and private sector partners
+AI Platform and quality of machine-readable data that have integrated with the “Pangolin”
+for key sectors. Data Trust framework.
+• Research Output: of peer-reviewed • Dataset Completion: % completion
+academic papers published using of the digitization and curation of
+data from the National Foundational the National Agricultural and Health
+Datasets. datasets.
+• API Calls: of secure API calls made to the
+platform per month by accredited users.
+2.3: Promote • Carbon Footprint of National • PUE (Power Usage Effectiveness): The
+Green Compute: The overall CO2 emissions PUE score of the national data centres (a
+Infrastructure per petaflop of the ZIM-HPC. measure of energy efficiency).
+• Renewable Energy Usage: % of the • Deployment of Green AI Models: of
+ZIM-HPC’s total energy consumption projects funded by the National Research
+that is sourced from certified Fund that focus on computationally
+renewable energy. efficient “Green AI” techniques.
+
+Enabler 1: Human Capital Development
+Objective Lagging Indicators Leading Indicators
+3.1: Integrate • Global Talent Competitiveness Index: • Curriculum Rollout: % of primary and
+AI into Zimbabwe’s overall ranking and its rank in secondary schools that have fully
+National the “Skills” sub-pillar. implemented the “Digital Mhuri/Umdeni”
+Education • STEM Graduates: % increase in the curriculum.
+number of students graduating from • Teacher Training: of teachers who have
+Zimbabwean universities with STEM completed the “Digital Varairidzi/Umbalisi”
+degrees. certification program.
+3.2: Launch • Workforce Productivity Growth: The • Platform Enrolment & Completion: of
+Upskilling annual growth rate of labour productivity registered users and course completion
+& Reskilling in the formal economy. rates on the “Skills for a New Zimbabwe”
+Programs • Digital Skills Penetration: % of the platform.
+adult workforce that possesses at least • Certifications Issued: of industryintermediate-level digital skills, as recognized micro-credentials awarded
+measured by national surveys. through the platform per year.
+3.3: Cultivate • “Brain Gain/Drain” Ratio: The net flow of • Fellowship & COE Enrolment: of active
+a Pool of AI AI-related talent into/out of Zimbabwe. National AI Fellows and PhD students
+Experts • Global AI Research Ranking: Zimbabwe’s enrolled at the AI Centres of Excellence.
+ranking based on the number of AI • Diaspora Engagement: of diaspora experts
+papers published at top-tier international actively participating in the mentorship
+conferences (e.g., NeuraIPS, ICML). program or as fractional faculty.
+Enabler 2: Agile Governance and Ethical Frameworks
+Objective Lagging Indicators Leading Indicators
+4.1 & 4.2: • World Justice Project Rule of Law Index: • Adoption of “Trustworthy AI” Mark: of
+Robust Zimbabwe’s score in the “Regulatory Zimbabwean companies that have
+& Ethical Enforcement” and “Fundamental Rights” voluntarily achieved the “Trustworthy AI -
+Framework categories. Made in Zimbabwe” certification.
+• Public Trust in AI: % of citizens who agree/ • AI Ombudsman Caseload: of complaints
+strongly agree with the statement “I trust filed with the AI Ombudsman and the
+AI systems used by the government and average time to resolution.
+companies in Zimbabwe to be fair and
+safe.”
+4.3: Agile • World Bank Ease of Doing Business Index: • Sandbox Throughput: of startups
+& Pro- Zimbabwe’s ranking, specifically in the that apply to, are accepted into and
+Innovation “Starting a Business” category. successfully graduate from the National AI
+Environment Regulatory Sandbox each year.
+• Time to Market: The average time it takes
+for a Sandbox graduate to receive a full
+operating license.
+
+Enabler 3: Strategic Investment and Partnerships
+Objective Lagging Indicators Leading Indicators
+5.1 & 5.2: • Total AI-related Investment: • “Mugove/Isabelo/Umqele” Fund Leverage Ratio:
+Investment & Total annual investment (public The ratio of private/international capital mobilized
+PPPs + private + international) in the for every dollar of public money invested by the
+Zimbabwean AI ecosystem as a fund.
+% of GDP. • PPP Pipeline: and total value of active Joint
+• FDI in the Tech Sector: Total Innovation Labs and “Data for Development”
+Foreign Direct Investment Agreements.
+flowing into the Zimbabwean
+technology sector.
+5.3: • Global Influence Score: A • High-Level Engagements: of joint R&D projects
+International qualitative assessment of established with international universities.
+& Regional Zimbabwe’s influence in • Conference Leadership: of Zimbabwean experts
+Collaboration shaping AI policy at SADC and invited to keynote or chair panels at major
+the AU. international AI conferences.
+
+Monitoring and Evaluation Processes and Reporting
+Mechanisms to ensure accountability and continuous
+improvement
+The strategy’s success is determined by its execution, and a rigorous, transparent, and dynamic Monitoring and
+Evaluation (M&E) framework is essential. This system provides constant, honest information to celebrate successes,
+diagnose challenges, and intelligently adapt the course in real-time. It ensures accountability to Zimbabwe’s ultimate
+stakeholders, the people, and is managed by the AI Strategy Implementation Office (AISIO) based on the “Single
+Source of Truth” principle.
+The M&E Process: A Continuous Cycle
+The M&E process is a continuous, four-stage cycle that ensures data flows seamlessly from the operational ground
+level to the strategic leadership.
+Data Collection
+Data Collection Framework
+Component Description
+Responsibility The primary responsibility for collecting raw data lies with the entities closest to
+the action: the Technical Working Groups (TWGs), the secretariats of the Flagship
+Initiatives and the relevant government ministries.
+Methodology A mixed-methods approach will be used to ensure and real-time data coverage:
+Automated Data Streams For digital platforms (e.g., ZCHPC utilization, “Skills for a New Zimbabwe” user
+numbers), data will be collected automatically via system dashboards and APIs to
+ensure real-time accuracy.
+Standardized Reporting For qualitative and project-based updates, all TWGs and implementing partners
+Templates will use standardized digital templates submitted to the AISIO on a monthly basis.
+Annual National Surveys The AISIO will commission an independent body (e.g., ZIMSTAT, reputable research
+firms) to conduct annual national surveys measuring high-level lagging indicators
+such as “Public Trust in AI” and “Citizen Satisfaction.”
+Third-Party Data The AISIO will subscribe to and integrate data from credible international sources
+to track Zimbabwe’s global performance (e.g., Global AI Index, Ease of Doing
+Business Index).
+Data Aggregation and Analysis (Creating the National Picture)
+• Responsibility: The AI Strategy Implementation Office (AISIO) is the central hub for all M&E data. Its dedicated
+M&E unit is responsible for aggregating, cleaning, verifying and analysing the data from all sources.
+• The “National AI Dashboard”: The AISIO will maintain a secure, internal “National AI Dashboard.” This will be
+a sophisticated data visualization platform that tracks every KPI in near real-time. This dashboard is the “single
+source of truth” for all reporting and will provide the analytical tools to identify trends, flag underperformance and
+diagnose bottlenecks.
+
+Reporting and Dissemination (Ensuring Transparency)
+• Responsibility: The AISIO is responsible for packaging the analysed data into different formats for different
+audiences. Our reporting mechanism is built on a “push and pull” model.
+• The Reporting Cadence:
+- Monthly Internal Performance Reviews: The Director of the AISIO will hold a mandatory monthly performance
+review with the leads of all Flagship Initiatives and TWGs to review operational data and address immediate
+challenges.
+- Quarterly Strategic Briefings: The AISIO will produce a concise Quarterly Strategic Briefing for the National AI
+Council (NAIC). This report will focus on the leading indicators, highlighting key achievements, emerging risks
+and recommendations for strategic adjustments.
+- Annual Public Report on the State of AI: The NAIC will publish an Annual Public Report. This well-designed
+report, written in accessible language, will be presented to Parliament and released to the public. It will detail
+progress made on all lagging and leading indicators, present issues requiring corrective action and the lessons
+learned.
+- The Public-Facing Digital Dashboard: A simplified, public-facing version of the National AI Dashboard will be
+available on the strategy’s official website, allowing any citizen to track a curated set of high-level KPIs.
+Review and Adaptive Action (The Learning Loop)
+• Responsibility: This is the crucial final stage where data is turned into decisions.
+• The Process:
+- Quarterly NAIC Review: At its quarterly meetings, the NAIC will review the AISIO’s strategic briefing. This
+meeting is the primary forum for course correction. The Council can make decisions to re-allocate funding,
+adjust timelines, or commission a deep-dive review into an underperforming area.
+- Annual Strategic Review Summit: Following the publication of the Annual Public Report, the NAIC will
+convene a Strategic Review Summit with all key stakeholders (TWG chairs, Flagship leads, industry and civil
+society partners). This summit will review the year’s performance and set the key priorities and targets for the
+following year.
+- Mid-Term Strategy Refresh (End of 2027): At the halfway point of the strategy’s lifecycle, an independent midterm review will be commissioned. This review will assess the continued relevance of the strategy’s core pillars
+and objectives and will recommend any major structural changes needed for the final push to 2030.
+
+Risk Management and Mitigation Strategies
+The Philosophy: Zimbabwe is launching a national AI mission with a strategic defence plan, acknowledging the
+immense power of AI and the potential for risks. The national risk register and plan aim to navigate progress with
+foresight and responsibility. The goal is to understand, manage and mitigate risks in order to stay on top of the
+challenges presented by AI.
+A Framework for Understanding AI Risk in the Zimbabwean
+Context
+Zimbabwe categorizes risks into three interconnected domains, each requiring distinct mitigation strategies.
+• Foundational & Economic Risks: These are the risks to the very viability of Zimbabwe’s economic and
+technological ambitions. They threaten to stall progress before it even begins.
+• Socio-Ethical Risks: These are the risks which threaten social cohesion, the cultural values and the rights and
+dignity of citizens.
+• Geopolitical & Security Risks: These are the external risks to national sovereignty and security in a volatile and
+competitive world.
+The following table shows a Detailed Risk Analysis and Mitigation Strategies.
+National AI Strategy Risk Matrix
+Risk Category Specific Risk & In-Depth Analysis Multi-Layered Mitigation Strategy
+Foundational & Risk 1.1: The “White Elephant” Infrastructure. Mitigation: (1) Demand-Driven Phased
+Economic Risks Analysis: The greatest immediate risk is Rollout – phased investments tied to
+that Zimbabwe invests heavily in the demonstrable demand; (2) Public-Private
+ZCHPC and National Data Platform, only Operational Model – state ownership
+for them to become underutilized, poorly with operations managed through a
+maintained “white elephants” due to limited PPP involving a world-class operator; (3)
+funding, shortage of skilled technicians, or “Anchor Tenant” Guarantee – government
+weak demand from industry and academia. ministries mandated to use the HPC to
+This would represent a catastrophic loss of guarantee baseline demand and financial
+national resources. stability.
+Risk 1.2: The Skills Gap. Analysis: Mitigation: (1) Triple Helix Curriculum
+Infrastructure may be established but Design – programs co-created by
+talent pipelines fail. Graduates lack relevant academia, industry and government; (2)
+skills, brain drain accelerates and reliance “Brain Circulation” Mandate – fellowships
+on foreign consultants deepens. and return programs to attract and retain
+talent; (3) Industry-Led Skills Academies
+– job-linked academies emphasizing
+practical, work-ready training.
+
+Risk Category Specific Risk & In-Depth Analysis Multi-Layered Mitigation Strategy
+Socio-Ethical Risk 2.1: The “Algorithmic Apartheid.” Mitigation: (1) Anti-Bias National Datasets
+Risks Analysis: AI trained on biased datasets – inclusive and representative data; (2)
+risks perpetuating inequalities (e.g., “Ubuntu” Ethical Impact Assessments –
+denying credit to women or rural citizens), mandatory fairness reviews enforced by the
+embedding discrimination under the guise AI Ethics Committee; (3) Right to Human
+of objectivity. Appeal – ensuring recourse to human
+review for all critical AI decisions.
+Risk 2.2: The Erosion of Public Trust. Mitigation: (1) Radical Transparency –
+Analysis: Failures such as data breaches, communication of both successes and
+discriminatory outcomes, or deep failures via the Nzwisiso.ai campaign; (2)
+fake scandals could undermine public “Trustworthy AI – Made in Zimbabwe” Mark
+confidence, jeopardizing even beneficial AI – a certification to reinforce citizen trust;
+programs. (3) Zero-Tolerance on Breaches – strong
+cybersecurity frameworks and penalties for
+negligent handling of data.
+Geopolitical & Risk 3.1: Over reliance on foreign solutions: Mitigation: (1) Multi-Aligned Partnerships
+Security Risks Analysis: Excessive reliance on foreign – diversification across Global North, South
+partners more so a single partner for core and Asia; (2) Sovereignty in Project Pangolin
+AI infrastructure could expose Zimbabwe – governance and data residency retained
+to undue external influence and loss of in Zimbabwe; (3) Homegrown Models
+sovereignty. – investment in indigenous AI through
+Centres of Excellence.
+Risk 3.2: Weaponisation of AI Against the Mitigation: (1) AI-Cybersecurity Fusion
+State. Analysis: Adversaries may exploit Centre – integrating AI with cybersecurity
+AI for cyberattacks or disinformation to for real-time threat defence; (2) National
+destabilize governance and elections. Reality Check Platform – AI-powered truthverification for media and government;
+(3) Public Resilience Training – citizen
+awareness programs under Nzwisiso.ai to
+counter digital misinformation.
+Institutional & Risk 4.1: Fragmented Ecosystem Mitigation: (1) National AI Compact –
+Collaborative Participation. Analysis: National AI initiatives binding commitments by government,
+Risks could stall if key players—particularly industry and academia to participate;
+industry, infrastructure, finance and (2) Cross-Sectoral Coordination Forums
+development agencies—fail to actively – regular convening under the National
+participate or if collaboration between AI Council to align infrastructure,
+them is ineffective. This risks duplication finance and development agendas; (3)
+of efforts, wasted resources and a lack of Performance-Based Incentives – rewarding
+sectoral alignment. industry participation through tax
+breaks, innovation funds and preferential
+procurement.
+Zimbabwe’s proactive risk management approach enables confidence in pursuing its ambitious vision, anticipating
+potential dangers and building necessary defenses to navigate the turbulent but promising AI age waters.
+
+Appendices
+Appendix A: Glossary of Key AI Terms
+Purpose: To create a shared and accessible vocabulary for the national AI conversation. This glossary is designed to
+demystify the technical jargon of Artificial Intelligence, ensuring that all stakeholders from policymakers and civil
+servants to journalists and the public have a clear and common understanding of the key concepts that underpin this
+strategy. The definitions provided here are simplified for clarity and are framed within the Zimbabwean context where
+possible.
+• Artificial Intelligence (AI): A broad field of computer science focused on creating systems that can perform
+tasks that normally require human intelligence. This includes learning from data, reasoning, solving problems and
+understanding language. In the context of this strategy, AI is viewed as a powerful tool for national development.
+• Machine Learning (ML): The most common type of AI today. It is the process of “training” a computer system
+by feeding it large amounts of data, allowing it to learn patterns and make predictions without being explicitly
+programmed for that task. Example: An ML model can learn to predict crop yields by analysing historical data on
+rainfall, soil type and seed variety.
+• Deep Learning: A powerful subfield of Machine Learning that uses complex, multi-layered “neural networks”
+to learn from vast amounts of data. It is the technology behind most modern AI breakthroughs, from image
+recognition to large language models.
+• Large Language Model (LLM): A type of deep learning model that has been trained on enormous amounts
+of text data. It can understand, generate and translate human language with remarkable fluency. Example: The
+technology that would power a multilingual government Chabot.
+• Generative AI: A category of AI models (often including LLMs) that can create new, original content, such as text,
+images, music, or code. Example: An AI that can generate a new piece of artwork in the style of a Zimbabwean
+sculptor.
+• Algorithm: A set of rules or instructions that a computer follows to perform a task or solve a problem. In AI, the
+algorithm “learns” and refines its own rules based on the data it is trained on.
+• Algorithmic Bias: A systematic and repeatable error in an AI system that creates unfair outcomes, such as
+privileging one arbitrary group of users over another. This often results from biases present in the training data or
+flaws in the model’s design. This is a primary risk that our “Ubuntu” Ethical Framework seeks to mitigate.
+• Data Set: A structured collection of data used for a specific purpose. A Training Dataset is used to “teach” an AI
+model, while a Testing Dataset is used to evaluate its performance. The National Foundational Datasets are a key
+part of this strategy.
+• High-Performance Computing (HPC): A powerful system of networked supercomputers capable of processing
+vast amounts of data at extremely high speeds. It is the essential “engine room” required for training large, complex
+AI models. The ZCHPC is a flagship initiative of this strategy.
+• Regulatory Sandbox: A controlled environment established by regulators that allows companies to test new
+and innovative products or services with real customers for a limited time, without being subject to all the normal
+regulations. The “Innovation Crucible” is our national AI regulatory sandbox.
+•
+• Data Sovereignty: The principle that a nation’s data is subject to the laws and governance structures of that nation.
+It asserts national control over digital assets and is a cornerstone of our strategy. Policies should be formulated to
+govern what data can be uploaded to foreign AI models to protect national and organizational security, insisting
+that critical data must reside on local, secure infrastructure.
+
+• Ubuntu (in AI Ethics): A core principle of our national ethics framework, translating to “I am because we are.” It
+mandates that AI systems should be designed to promote social cohesion, shared humanity and collective wellbeing, rather than purely individualistic or commercial goals.
+Appendix B: List of Stakeholders Consulted
+The purpose of this section is to acknowledge and honour the diverse voices that shaped the Zimbabwe National AI
+Strategy 2025–2030, reflecting the inclusive, multi-stakeholder process that gives it legitimacy. Developed through
+workshops, focus groups, interviews and written submissions, the strategy stands as a national compact co-created
+by a broad coalition of Zimbabweans. We extend our sincere gratitude to the organisations and groups whose time,
+expertise and commitment made this shared vision possible.
+Key Stakeholders in the National AI Strategy Ecosystem
+Category Entities / Institutions
+1. Government of • Office of the President and Cabinet
+Zimbabwe (MDAs) • Ministry of ICT, Postal & Courier Services
+• All Government Line Ministries
+• Parliament of Zimbabwe
+• All Public Commissions
+• Attorney-General’s Office
+• Postal & Telecommunications Regulatory Authority of Zimbabwe (POTRAZ) -
+Reserve Bank of Zimbabwe (RBZ)
+• Standards Association of Zimbabwe (SAZ)
+2. Academia and Research • University of Zimbabwe (UZ)
+Institutions • National University of Science and Technology (NUST)
+• Harare Institute of Technology (HIT)
+• Midlands State University (MSU)
+• Great Zimbabwe University (GZU)
+• Bindura University of Science Education
+• Women University in Africa
+• Africa University
+• Zimbabwe Open University
+• Reformed Church University
+• Arrupe Jesuit University (AJU)
+• Masvingo Polytechnic College
+• Masvingo Teachers' College
+• Morgenster Teachers' College
+• Mushagashe Vocational Training College
+• Research Council of Zimbabwe
+• Zimbabwe Council for Higher Education (ZIMCHE)
+• Scientific and Industrial Research and Development Centre SIRDC
+3. Industry and Private • Confederation of Zimbabwe Industries (CZI)
+Sector • Zimbabwe National Chamber of Commerce (ZNCC)
+• Chamber of Mines of Zimbabwe
+• Bankers Association of Zimbabwe
+• ICT Sector Players (TOAZ, ZISPA)
+
+4. Civil Society and • MISA
+Non-Governmental • Zimbabwe Council of Churches
+Organizations • Christian Care Masvingo
+• Media Houses
+• Internet Society
+• Computer Society of Zimbabwe
+5. International Partners • UN Agencies, AU and SADC blocks
+Appendix C: AI Characteristics
+Generally, AI has the following characteristics
+Benefits Types of AI Challenges Best Practices
+Automation of repetitive Machine Learning (ML) Job displacement Start with a clear strategy
+tasks and goals
+Enhanced data analysis Natural Language Bias and fairness Identify areas for
+and insights Processing (NLP) automation and
+optimization
+Improved decision- Computer Vision Data quality and Choose the right AI
+making management technology and vendor
+Increased productivity Robotic Process Security and privacy Ensure data quality and
+Automation (RPA) management
+Personalized customer
+experiences
+Talent acquisition and Deep Learning Integration with existing Provide training and
+management systems development for
+employees
+Employee engagement Cognitive Computing Training and Monitor and evaluate AI
+and training development performance
+Cybersecurity Expert Systems Ethics and accountability Address ethics and
+accountability concerns
+Compliance and risk Neural Networks Transparency and Continuously review and
+management explainability refine AI implementation
+Cost reduction Dependence on Engage stakeholders and
+technology communicate changes
+High implementation Establish AI governance
+costs frameworks
+Address job displacement Intellectual property Foster human-AI
+and skill gaps concerns collaboration and trust
+
+Appendix D: References
+This appendix provides a curated list of the core references that directly informed the Zimbabwe National AI Strategy,
+as well as a selection of further reading materials. These additional resources are intended to provide deeper insights
+into the technical, ethical and strategic dimensions of Artificial Intelligence for any stakeholder wishing to engage
+more deeply with the topics covered in this document.
+Part I: Core References
+These documents were the primary sources and benchmarks used in the formulation of this strategy.
+National and Regional AI Strategies (Primary Benchmarks):
+Comparative AI Strategy References from Africa
+Country Document Reference Relevance
+Republic of Kenya Republic of Kenya. (2024). Kenya National A leading African example of
+Artificial Intelligence (AI) Strategy an ecosystem-focused strategy.
+2025–2030 (Draft). Nairobi: Ministry of Essential reading for understanding
+Information, Communications and The multi-stakeholder governance and
+Digital Economy. the integration of AI with national
+development goals.
+Federal Republic of Federal Republic of Nigeria. (2024). Demonstrates a bold approach to talent
+Nigeria National Artificial Intelligence Strategy development and fostering a globally
+(NAIS) August 2024 (Draft). Abuja: Federal competitive start-up ecosystem.
+Ministry of Communications, Innovation & Particularly useful for its detailed SWOT
+Digital Economy. analysis and risk mitigation frameworks.
+Republic of Zambia Republic of Zambia. (2024). National A pragmatic and actionable strategy
+Artificial Intelligence Strategy 2024–2026. from a fellow SADC nation. Its focus
+Lusaka: Ministry of Technology and on “AI for Emerging Economies” and it
+Science. is clear, phased implementation plan
+provide a valuable model for execution.
+Zimbabwean National Policy Documents (Strategic Alignment)
+Document Title Citation Relevance
+Vision 2030 Government of Zimbabwe. (2020). The foundational document outlining
+Zimbabwe Vision 2030: Towards a the ultimate national goals that this
+Prosperous & Empowered Upper Middle- AI strategy is designed to serve and
+Income Society by 2030. Harare: Office of accelerate.
+the President and Cabinet.
+National Development Government of Zimbabwe. (2021). Provides the specific, short-to-medium
+Strategy 1 & 2 (NDS1 National Development Strategy 1 (NDS1): term national priorities that inform the
+& 2) 2021–2025. Harare: Ministry of Finance selection of our “Grand Challenge” areas
+and Economic Development. and sectoral focus.
+
+Education 5.0 Ministry of Higher & Tertiary Education, The philosophical underpinning for our
+Framework Science and Technology Development. Human Capital Development pillar. This
+(2018). Education 5.0: A Policy Framework document explains the “why” behind
+for Higher and Tertiary Education. Harare. our focus on linking education to
+innovation and industrialization.
+Cyber and Data Government of Zimbabwe. (2021). Cyber The legal cornerstone for our principles
+Protection Act and Data Protection Act [Chapter 12:07]. on data privacy and sovereignty.
+Harare. Essential reading for anyone involved
+in building or managing data-driven
+systems in Zimbabwe.
+Appendix E: AISIO and NDRC Reporting
+Structures/Organogram
+Here is a comprehensive and tailored proposal for the structure and organogram of a National Digital Regulatory
+Committee in Zimbabwe, designed to provide strategic leadership, ensure multi-stakeholder representation and drive
+responsible AI and emerging technologies adoption.
+Vision for the National Digital Regulatory Committee
+To harness the transformative power of Artificial Intelligence and other emerging technologies for sustainable economic
+development, social progress and improved governance in Zimbabwe, positioning the nation as a responsible and
+innovative leader in the Fourth Industrial Revolution.
+Guiding Principles
+· Sovereignty and National Interest: AI and emerging technologies development and deployment must align
+with Zimbabwe's national development goals and data sovereignty.
+· Inclusivity and Equity: Ensure AI and other emerging technologies benefits all citizens and avoids exacerbating
+existing inequalities.
+· Ethical and Human-Centric: AI and emerging technologies must respect human rights, privacy and fairness,
+operating with transparency and accountability.
+· Collaboration and Partnership: Foster synergy between government, industry, academia, innovators,
+development partners and civil society.
+· Agility & Future-Readiness: The structure must be adaptable to rapid technological change.
+
+Proposed Organogram: National Digital Regulatory Committee
+The structure is a multi-tiered model to ensure strategic regulatory oversight, operational coordination and technical
+execution.
+President of the Republic of
+Zimbabwe (Patron)
+Secretariat
+(MICTPCS)
+National Digital Regulatory
+AISIO Committee (NDRC Steering
+Committee (under POTRAZ)
+Working Working
+Working Group 1 Working Group 1
+Group 1 Group 1
+Technical Technical Technical Technical Technical Technical
+Working Working Working Working Working Working
+Group 1 Group 2 Group 3 Group 4 Group 5 Group 6
+
+2. Independent Advisory Board of Experts
+A non-standing committee of renowned international and Zimbabwean diaspora experts in AI, ethics, law and
+business.
+· Composition: 5-7 globally recognized experts appointed on a 2-year rotational basis.
+· Key Functions:
+- Provide unbiased, world-class technical and strategic advice to the Committee.
+- Offer insights on global AI trends and best practices.
+- Review and critique the National AI Strategy and key policies.
+Tier 3: Technical Execution and Expertise
+Specialized Working Groups (WGs)
+These are the technical "engine rooms" comprising subject-matter experts from government, industry, academia,
+development partners and civil society. They are responsible for the detailed research, planning and proposal
+development.
+WG 1: Strategy, Policy and Ethics
+· Focus: Legal frameworks, ethical guidelines, national security and international alignment.
+· Members: Legal experts, ethicists, philosophers, representatives from the Ministry of Justice and security agencies.
+WG 2: Infrastructure and Data Governance
+· Focus: National data marketplace, cloud computing, high-performance computing (HPC), broadband connectivity
+and data standards.
+· Members: Experts from POTRAZ, telecoms (Econet, NetOne), data scientists and cloud providers.
+WG 3: Innovation, R&D and Skills Development
+· Focus: Funding AI research, startup ecosystem development, curriculum modernization and public awareness.
+· Members: Representatives from UZ, NUST, MSU, research institutes, tech hubs and the Education ministries
+WG 4: Sectoral Adoption and Use Cases
+· Focus: Identifying and implementing high-impact AI pilots in key sectors of the economy.
+· Members: Sector-specific experts from:
+· Agriculture: Ministry of Agriculture, commercial farmers unions, seed companies.
+· Healthcare: Ministry of Health, medical associations, hospital administrators.
+· Finance: RBZ, Bankers Association of Zimbabwe, fintech companies.
+· Public Service: Home Affairs and heads of key government departments (e.g. Civil Registry, ZIMRA, ZIMSTAT).
+
+Tier 1: Strategic Leadership & Governance
+The National Digital Regulatory Committee (Steering Committee)
+This is the AI and emerging technologies regulator, decision-making body that provides high-level direction, champions
+the national AI and emerging technologies agenda and ensures inter-ministerial coordination.
+· Chairperson: Office of the President of Zimbabwe to guide (to signify supreme national importance and ensure
+cross-ministerial authority).
+· Vice-Chairperson: Minister of Information Communication Technology, Postal and Courier Services (providing
+the technical and operational home).
+· Core Members:
+- Minister of Finance, Economic Development and Investment Promotion
+- Minister of Higher and Tertiary Education, Innovation, Science and Technology Development
+- Scientific and Industrial Research and Development Centre (SIRDC).
+- Minister of Industry and Commerce
+- Minister of Health and Child Care
+- Minister of Primary and Secondary Education
+- Minister of Agriculture
+- Governor, Reserve Bank of Zimbabwe (RBZ)
+- Chief Secretary to the President and Cabinet (or representative)
+- Director General, Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)
+- Director, Data Protection Authority
+· Key Functions:
+- Directs the National AI Strategy and Roadmap.
+- Enact high-level AI and emerging technologies policies and regulations.
+- Allocate national resources and budget for flagship AI initiatives.
+- Resolve inter-ministerial and cross-sectoral policy conflicts.
+- Provide ultimate oversight on AI and emerging technologies ethics and governance.
+Tier 2: Coordination and Advisory
+1. The Secretariat (AISIO)
+Hosted within the Ministry of ICT, Postal and Courier Services, this is the administrative and coordination engine of the
+AI Strategy as well as emerging technologies adoption.
+· Head: Permanent Secretary of the Ministry of ICT or a designated Chief Director.
+· Composition: A dedicated team of senior policy advisors, project managers and administrators.
+· Key Functions:
+- Provide logistical and technical support to the Committee.
+- Coordinate the activities of all Working Groups.
+- Prepare reports, briefing documents and meeting minutes.
+- Act as the central repository for all emerging technologies and AI-related documentation.
+
+Linkage to Implementation
+The Advisory Board and the National AI Committee are the strategic and oversight body. Their decisions and policies
+are executed by a dedicated operational arm, structured as follows:
+The AI Strategy Implementation Office (AISIO)
+· Reporting Line: Reports through the Ministry of ICTPCS through the AI and emerging technologies Directorate.
+· Role: The permanent, project management body responsible for the day-to-day execution of the National AI
+Strategy.
+· Structure: Comprises a Director, Deputy Directors and project managers focused on ethics, stakeholder
+engagement and managing flagship AI projects.
+This proposed structure ensures that Zimbabwe has a robust, inclusive and effective governance framework to
+navigate the complexities of AI and emerging technologies, and harness its potential for the benefit of all its citizens.
+This office is the operational engine, the "boots on the ground" that will translate the high-level strategy from the
+Committee into actionable programs and projects.
+Mandate of the AI Strategy Implementation Office (AISIO)
+To drive the execution of the National AI Strategy by coordinating resources, managing projects, building capacity
+and monitoring impact, ensuring that AI and emerging technologies initiatives deliver tangible economic and social
+benefits for Zimbabwe.
+Core Principles
+· Action-Oriented: Focused on execution and delivery.
+· Cross-Functional: Works across all government ministries, agencies and with private sector partners.
+· Data-Driven: Uses metrics and KPIs to measure success and guide decisions.
+· Agile: Adapts quickly to new technologies and lessons learned.
+The AISIO should be a dedicated unit, ideally housed under the Ministry of Information Communication Technology,
+Postal and Courier Services for administrative purposes, but with a clear mandate to work across government.
+Detailed Roles and Responsibilities for AISIO Leadership
+1. Head of the AISIO – Emerging Technologies, Projects, Digital Innovations, Research and
+Development (Directorate)
+· Overall Purpose: To provide strategic vision, executive leadership, and overall accountability for the successful
+implementation of the National AI Strategy and the adoption of other emerging technologies (e.g., Blockchain,
+IoT, Quantum Computing). This role is the ultimate authority and public face of Zimbabwe's digital transformation
+agenda in the emerging technologies and AI sphere.
+
+Key Responsibilities:
+· Strategic Leadership & Accountability:
+- Serve as the primary accountable officer to the Permanent Secretary for ICT and the Government of Zimbabwe
+for the delivery of the National AI Strategy's objectives.
+- Provide final approval for the National AI Implementation Roadmap, annual work plans, and budget.
+- Champion the AI agenda at the highest levels of government, including Cabinet and Parliamentary committees,
+to secure ongoing political and financial support.
+· Resource Mobilization & Fiscal Stewardship:
+- Secure and manage the AISIO's funding from government treasury, international development partners
+(World Bank, AfDB), and the Universal Service Fund.
+- Approve all major expenditures, procurement, and resource allocation in line with strategic priorities.
+- Sign off on contracts and Memoranda of Understanding (MoUs) with key technical and funding partners.
+· Decision Authority & Governance:
+- Chair the AISIO's internal management committee, making final decisions on project prioritization, go/no-go
+decisions for flagship projects, and resolving inter-deputy director conflicts.
+- Represent Zimbabwe in international fora on AI and emerging technologies, shaping the country's position
+and attracting foreign direct investment.
+· Stakeholder & Spokesperson Role:
+- Act as the primary government spokesperson on all matters related to AI and emerging technologies.
+- Build and maintain top-level relationships with CEOs of multinational tech companies, global AI research
+leaders, and heads of major development partner agencies.
+2. Emerging Technologies Ethics and Operations (Unit)
+· Overall Purpose: To serve as the chief of staff for the AISIO, ensuring all activities are strategically aligned, ethically
+sound, administratively efficient, and compliant with national policies. This role is the guardian of the office's
+integrity and operational coherence.
+Key Responsibilities:
+· Strategic Alignment & Policy Oversight:
+- Oversee the Strategy and Policy Alignment Unit (Pillar 1) to ensure all AI initiatives comply with national laws,
+international standards, and the Zimbabwe-specific AI Ethics Framework.
+- Act as the primary liaison with the Attorney-General's office and other regulatory bodies for legal and regulatory
+reviews.
+- Ensure cross-governmental policy coherence, aligning AISIO activities with the broader national development
+plans (e.g., NDS1).
+· Stakeholder Management and Public Trust:
+- Oversee the Stakeholder Management and Communications Unit (Pillar 2) to build national consensus and
+maintain public trust.
+- Manage high-level stakeholder engagements with civil society, academia, and industry bodies to address
+ethical concerns and foster inclusive dialogue.
+- Approve all major public communications, awareness campaigns, and the content for the public-facing portal.
+
+· Performance and Accountability:
+- Oversee the Monitoring and Evaluation (M&E) Unit (Pillar 3), ensuring robust tracking of the strategy's KPIs.
+- Consolidate quarterly and annual impact reports from the M&E unit for the Director, Ministry and the National
+AI Committee.
+- Commission and oversee independent audits of AI systems for bias, fairness, and performance.
+· Internal Operations:
+- Manage the day-to-day administration, human resources, and procurement functions of the AISIO.
+- Coordinate all reporting from other Deputy Directors to the Ministry and other government MDAs.
+3. Projects and Technical Services (Unit)
+· Overall Purpose: To serve as the chief technology and delivery officer, translating strategic AI goals into executable,
+technically sound projects and programs. This role is accountable for the on-time, on-budget, and on-specification
+delivery of all AISIO technical projects.
+Key Responsibilities:
+· Technical Project Portfolio Management:
+- Provide direct oversight and leadership to the AI Infrastructure and Data Governance Unit (Pillar 4).
+- Approve technical designs, architecture plans, and implementation timelines for all flagship projects (e.g., GovData-Hub, National HPC Centre feasibility study).
+- Manage the entire project lifecycle, from ideation and scoping to procurement, execution, and deployment.
+· Technical Feasibility and Standards:
+- Ensure all projects are grounded in robust engineering principles, are scalable, and adhere to national data
+interoperability and security standards.
+- Make key technical decisions regarding cloud infrastructure, data architecture, and software platforms.
+- Partner and Ecosystem Management:
+- Serve as the primary technical interface for relationships with technology vendors, cloud service providers,
+telecom companies (POTRAZ), and implementation partners.
+- Manage the technical aspects of partnerships with academia for research collaborations.
+4. Cyber and Data Protection (Unit)
+· Overall Purpose: To serve as the Chief Security and Risk Officer, ensuring that all AI and emerging technology
+initiatives are built on a secure and trustworthy foundation that protects national digital assets and citizens' data
+privacy.
+Key Responsibilities:
+· Cybersecurity for AI Systems:
+- Develop and enforce a cybersecurity framework specifically for national AI systems and critical data
+infrastructure.
+- Conduct threat modelling and security risk assessments for all AISIO projects before they are deployed.
+- Lead incident response efforts in the event of a cybersecurity breach affecting national AI assets.
+
+· Data Protection Compliance:
+- Act as the AISIO's primary Data Protection Officer, ensuring full compliance with the Data Protection Act and
+other relevant legislation.
+- Develop and implement data governance policies for the National Data Marketplace, focusing on data
+anonymization, consent management, and lawful data processing.
+- Liaise with the Data Protection Authority on audits, impact assessments, and compliance issues.
+· Risk Management & Assurance:
+- Work closely with the Ethics and Operations to integrate data protection and security principles into the
+national AI Ethics Framework.
+- Provide security and privacy assurance for the Innovation and Capacity Building pillars, ensuring start-ups and
+academic labs adhere to baseline security standards.
+5. Digital Innovations, Research and Development (Unit)
+· Overall Purpose: To serve as the Chief Innovation Officer, catalysing the growth of a vibrant AI and emerging
+technology ecosystem in Zimbabwe's private sector and academia. This role is focused on fostering creativity,
+research, and commercial application.
+Key Responsibilities:
+· Innovation Ecosystem Development:
+- Provide strategic direction and oversight to the Innovation and Ecosystem Development Unit (Pillar 5).
+- Manage the "Zimbabwe AI Innovation Fund," making recommendations to the Director on grant allocations,
+challenge prizes, and start-up investments.
+- Facilitate the creation of AI sandboxes and testbeds for start-ups and MSMEs to experiment with new solutions.
+· Research & Development (R&D) Leadership:
+- Identify key national sectors (e.g., Agriculture, Health, Finance) for targeted R&D in AI and emerging tech.
+- Forge and manage R&D partnerships between Zimbabwean universities, international research institutions,
+and local industries.
+- Oversee the support for establishing and equipping AI Research Labs in tertiary institutions.
+· Capacity Building & Future Skills:
+- Provide strategic oversight to the Capacity Building and Education Unit (Pillar 6).
+- Approve the national AI curriculum frameworks developed for primary, secondary, and tertiary education
+levels.
+- Champion the design and rollout of large-scale public sector upskilling programs and specialized postgraduate
+programs in AI.
+- Oversee the management of scholarship and internship programs to build the national AI talent pipeline.
+
+The Six Functional Pillars
+Pillar 1: Strategy and Policy Alignment Pillar
+· Function: To ensure all AI initiatives are aligned with national laws, policies and ethical guidelines.
+· Key Roles: Policy Analyst, Legal and Ethics Expert.
+· Tasks:
+- Develop and maintain the National AI Implementation Roadmap.
+- Draft model AI procurement guidelines for government.
+- Work with the Attorney-General's office to review and propose updates to laws (e.g., Data Protection Act).
+- Develop a Zimbabwe-specific AI Ethics Framework.
+Pillar 2: Stakeholder Management and Communications Pillar
+· Function: To build a national consensus and maintain transparency around AI initiatives.
+· Key Roles: Stakeholder Engagement Lead, Communications Specialist.
+· Tasks:
+- Run public awareness campaigns on AI benefits and risks.
+- Manage relationships with private sector, academia, development partners and civil society.
+- Create a public-facing portal to showcase AI projects and progress.
+- Organize the annual "Zimbabwe AI Summit."
+Pillar 3: Monitoring and Evaluation (M&E) Pillar
+· Function: To track progress, measure impact and ensure accountability.
+· Key Roles: M&E Specialist, Data Analyst.
+· Tasks:
+- Define KPIs for the National AI Strategy (e.g., jobs created, efficiency gains, AI Start-up funding).
+- Track the progress of all flagship AI projects.
+- Produce quarterly and annual impact reports for the Committee.
+- Conduct audits of AI systems for bias and performance.
+Pillar 4: AI Infrastructure and Data Governance Pillar
+· Function: To build and manage the foundational data and compute infrastructure required for AI.
+· Key Roles: Data Architect, Cloud/IT Infrastructure Specialist.
+· Tasks:
+- Oversee the development of the National Data Marketplace or "Gov-Data-Hub".
+- Work with POTRAZ and telecoms to ensure affordable, high-speed data connectivity.
+- Propose a business case for a National High-Performance Computing (HPC) Centre.
+- Develop standards for data interoperability and open data.
+
+Pillar 5: Innovation and Ecosystem Development Pillar
+· Function: To catalyse AI innovation in the private sector and academia.
+· Key Roles: Innovation Fund Manager, Startups and MSME Liaison.
+· Tasks:
+- Manage the "Zimbabwe AI Innovation Fund" (grants, challenges).
+- Support the establishment of AI Research Labs at universities.
+- Facilitate partnerships between local startups and international tech firms.
+- Run "AI in Agriculture" or "AI for Health" innovation challenges, etc.
+Pillar 6: Capacity Building and Education Pillar
+· Function: To develop the human capital needed for an AI-powered economy.
+· Key Roles: Curriculum Development Expert, Public Sector Training Lead.
+· Tasks:
+- Work with the Ministry of Primary and Secondary Education to integrate AI/digital literacy into school curricula
+and with Ministry of Higher and Tertiary to integrate AI into tertiary institutions curricula.
+- Develop upskilling programs for public servants on AI basics.
+- Partner with universities to design specialized AI Masters and PhD programs.
+- Facilitate scholarships and internships in AI fields.
+Proposed Location and Funding
+· Location: Physically housed within the Ministry of ICT, Postal and Courier Services, but with a strong, crossgovernmental mandate.
+· Funding: Initial seed funding from the government budget, supplemented by dedicated allocations from the
+Treasury, international development partners (e.g. World Bank, AfDB) and a portion of the Universal Service Fund
+(USF) managed by POTRAZ.
+This structure ensures that the AISIO is not just a planning body but a dynamic, results-driven organization capable of
+making Zimbabwe's AI ambitions a reality.
+
+Ministry of Information Communication Technology Postal & Courier Services
+Private Bag CY419, Causeway,
+8th Floor, Bank Chambers Building,
+76 Samora Machel Avenue,
+Harare,
+Zimbabwe
+ai-ethics@unesco.org
+on.unesco.org/Ethics-of-AI
+
+Ministry of Information Communication Technology Postal & Courier Services
+Private Bag CY419, Causeway,
+8th Floor, Bank Chambers Building,
+76 Samora Machel Avenue,
+Harare

@@ -1,0 +1,85 @@
+country,year,level,metric,score
+Benin,2025,overall,Overall,41.71
+Benin,2025,pillar,Policy Capacity,61.0
+Benin,2025,pillar,AI Infrastructure,26.99
+Benin,2025,pillar,Governance,61.25
+Benin,2025,pillar,Public Sector Adoption,63.05
+Benin,2025,pillar,Development & Diffusion,26.89
+Benin,2025,pillar,Resilience,34.9
+Cote d'Ivoire,2025,overall,Overall,40.74
+Cote d'Ivoire,2025,pillar,Policy Capacity,57.5
+Cote d'Ivoire,2025,pillar,AI Infrastructure,41.21
+Cote d'Ivoire,2025,pillar,Governance,60.63
+Cote d'Ivoire,2025,pillar,Public Sector Adoption,19.02
+Cote d'Ivoire,2025,pillar,Development & Diffusion,27.94
+Cote d'Ivoire,2025,pillar,Resilience,57.53
+Egypt,2025,overall,Overall,59.1
+Egypt,2025,pillar,Policy Capacity,100.0
+Egypt,2025,pillar,AI Infrastructure,47.71
+Egypt,2025,pillar,Governance,67.5
+Egypt,2025,pillar,Public Sector Adoption,60.07
+Egypt,2025,pillar,Development & Diffusion,47.68
+Egypt,2025,pillar,Resilience,61.14
+Ghana,2025,overall,Overall,47.42
+Ghana,2025,pillar,Policy Capacity,53.5
+Ghana,2025,pillar,AI Infrastructure,46.12
+Ghana,2025,pillar,Governance,66.25
+Ghana,2025,pillar,Public Sector Adoption,53.35
+Ghana,2025,pillar,Development & Diffusion,33.68
+Ghana,2025,pillar,Resilience,41.81
+Kenya,2025,overall,Overall,52.55
+Kenya,2025,pillar,Policy Capacity,69.0
+Kenya,2025,pillar,AI Infrastructure,39.17
+Kenya,2025,pillar,Governance,70.63
+Kenya,2025,pillar,Public Sector Adoption,62.14
+Kenya,2025,pillar,Development & Diffusion,35.48
+Kenya,2025,pillar,Resilience,70.74
+Mauritius,2025,overall,Overall,52.76
+Mauritius,2025,pillar,Policy Capacity,65.5
+Mauritius,2025,pillar,AI Infrastructure,48.72
+Mauritius,2025,pillar,Governance,72.5
+Mauritius,2025,pillar,Public Sector Adoption,65.63
+Mauritius,2025,pillar,Development & Diffusion,38.52
+Mauritius,2025,pillar,Resilience,36.76
+Morocco,2025,overall,Overall,43.06
+Morocco,2025,pillar,Policy Capacity,23.0
+Morocco,2025,pillar,AI Infrastructure,48.12
+Morocco,2025,pillar,Governance,78.75
+Morocco,2025,pillar,Public Sector Adoption,34.9
+Morocco,2025,pillar,Development & Diffusion,30.81
+Morocco,2025,pillar,Resilience,39.78
+Nigeria,2025,overall,Overall,50.79
+Nigeria,2025,pillar,Policy Capacity,80.5
+Nigeria,2025,pillar,AI Infrastructure,39.1
+Nigeria,2025,pillar,Governance,78.13
+Nigeria,2025,pillar,Public Sector Adoption,47.46
+Nigeria,2025,pillar,Development & Diffusion,39.45
+Nigeria,2025,pillar,Resilience,42.66
+Rwanda,2025,overall,Overall,48.54
+Rwanda,2025,pillar,Policy Capacity,73.0
+Rwanda,2025,pillar,AI Infrastructure,33.92
+Rwanda,2025,pillar,Governance,78.75
+Rwanda,2025,pillar,Public Sector Adoption,53.62
+Rwanda,2025,pillar,Development & Diffusion,29.36
+Rwanda,2025,pillar,Resilience,55.62
+Senegal,2025,overall,Overall,40.64
+Senegal,2025,pillar,Policy Capacity,61.0
+Senegal,2025,pillar,AI Infrastructure,37.03
+Senegal,2025,pillar,Governance,63.38
+Senegal,2025,pillar,Public Sector Adoption,28.47
+Senegal,2025,pillar,Development & Diffusion,31.39
+Senegal,2025,pillar,Resilience,36.54
+South Africa,2025,overall,Overall,53.94
+South Africa,2025,pillar,Policy Capacity,43.0
+South Africa,2025,pillar,AI Infrastructure,60.05
+South Africa,2025,pillar,Governance,76.58
+South Africa,2025,pillar,Public Sector Adoption,64.93
+South Africa,2025,pillar,Development & Diffusion,37.28
+South Africa,2025,pillar,Resilience,40.81
+Zimbabwe,2025,overall,Overall,29.53
+Zimbabwe,2025,pillar,Policy Capacity,12.0
+Zimbabwe,2025,pillar,AI Infrastructure,29.37
+Zimbabwe,2025,pillar,Governance,53.0
+Zimbabwe,2025,pillar,Public Sector Adoption,27.63
+Zimbabwe,2025,pillar,Development & Diffusion,23.0
+Zimbabwe,2025,pillar,Resilience,31.45

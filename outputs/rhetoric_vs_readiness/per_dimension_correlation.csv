@@ -1,0 +1,10 @@
+dimension,pillar,text_proximate,pearson_r
+Infrastructure,Data and Infrastructure,False,-0.17154611293009922
+Human Capital,Technology Sector,False,-0.1306180006167633
+Digital Capacity,Government,False,-0.09022196657067909
+Data Availability,Data and Infrastructure,False,-0.08000918744503353
+Innovation Capacity,Technology Sector,False,-0.07750545752471753
+Adaptability,Government,False,0.15042275868631388
+Governance and Ethics,Government,True,0.17639403621713848
+Maturity,Technology Sector,False,0.18416172951900894
+Vision,Government,True,0.20375646971121936

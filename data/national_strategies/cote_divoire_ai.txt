@@ -1,0 +1,2041 @@
+À L’HORIZON 2030
+
+© COPYRIGHT MINISTÈRE DE LA TRANSITION NUMÉRIQUE ET DE LA DIGITALISATION,
+CÔTE D’IVOIRE 2024.
+Tous droits réservés. Aucune partie de cette publication ne peut être reproduite ou
+transmise, sous quelque forme et par quelque moyen que ce soit, électronique,
+mécanique, photocopie, enregistrement ou autre, ni stockée dans un système de
+récupération quelconque sans l'autorisation écrite préalable du Ministère de la
+Transition Numérique et de la Digitalisation, Côte d’Ivoire, pour laquelle une
+demande doit être adressée.
+Ce document a été rédigé par ISAAC BAYOH, PH.D, Docteur en Intelligence Artificielle,
+Ingénieur Agronome, Stratégiste en Transformation Digitale, sous la supervision du
+Ministère de la Transition Numérique et de la Digitalisation de la République de Côte
+d’ivoire, avec la participation active et qualitative des experts issus des secteurs
+public et privé, des partenaires techniques et financiers au développement, et de
+l'ensemble des acteurs de l'écosystème du numérique et des données.
+Ministère de la Transition Numérique et de la Digitalisation
+Adresse : 17 BP 1404 Abidjan 17
+Tél : +225 2720347372
+Mail : ministere@telecom.gouv.ci
+Site Web : www.telecom.gouv.ci
+
+LE MOT DU
+PREMIER MINISTRE
+Depuis plus d'une décennie, sous le
+leadership de Son Excellence Monsieur
+Alassane Ouattara, la Côte d'Ivoire a
+accompli des progrès remarquables en
+matière de développement économique
+et social. Aujourd’hui, avec l’horizon 2030
+en vue, nous intégrons l’intelligence
+artificielle (IA) comme levier stratégique de
+transformation.
+La Stratégie Nationale de l’IA est le fruit
+d’un effort collectif réunissant plus de
+1500 Ivoiriens – administration publique,
+Robert MAMBE BEUGRE
+secteur privé, secteur académique et
+Premier Ministre, Chef du
+société civile, avec l’appui des partenaires
+Gouvernement, Ministre des
+techniques et financiers au
+Sports et du Cadre de Vie
+développement.
+Elle repose sur trois piliers fondamentaux
+Garantir notre souveraineté
+que sont les investissements, pour des
+numérique en valorisant nos langues
+infrastructures solides ; l’inclusion, afin de
+locales
+garantir que chaque citoyen profite des
+Soutenir l’innovation et les startups
+opportunités de l’IA ; et la gouvernance,
+pour un écosystème technologique
+pour une adoption éthique et responsable
+dynamique.
+des technologies.
+À travers cette vision, nous aspirons à :
+Cette stratégie est une opportunité
+unique pour transformer nos défis en
+Moderniser nos secteurs clés tels que
+atouts. Elle appelle chaque citoyen à
+l’agriculture, l’énergie, et l’industrie ;
+participer activement à façonner l’avenir.
+Renforcer notre capital humain avec
+Je remercie chaleureusement tous ceux
+des initiatives de formation et de
+qui ont contribué à ce projet. Ensemble,
+reconversion
+faisons de l’intelligence artificielle un levier
+de développement durable pour une Côte
+d’Ivoire forte, solidaire et innovante.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 3
+
+LE MOT DU MINISTRE
+L’intelligence artificielle (IA) dépasse le
+cadre de la technologie. C’est une
+opportunité stratégique pour la Côte
+d’Ivoire, un moteur pour accélérer notre
+trajectoire vers un développement inclusif
+et durable à l’horizon 2030.
+Sous l’impulsion de Son Excellence
+Monsieur Alassane Ouattara, nous
+avons choisi de bâtir une stratégie
+Développer un modèle de langage en
+nationale tournée vers l’avenir, fondée sur
+langues locales, afin de mieux
+l’inclusion, l’innovation et la souveraineté
+valoriser notre patrimoine culturel ;
+numérique. Plus de 1 500 Ivoiriens, issus
+Mettre en place l’Agence Nationale
+de toutes les régions et secteurs, ont
+pour l’Intelligence Artificielle qui
+contribué à son élaboration.
+portera cette vision.
+Cette stratégie repose sur trois piliers
+fondamentaux :
+Ces initiatives ne sont pas de simples
+L’investissement, pour doter notre
+projets : elles reflètent notre engagement
+pays d’infrastructures résilientes,
+à bâtir une Côte d’Ivoire innovante,
+adaptées aux exigences de l’IA
+inspirante et au service de ses citoyens.
+L’inclusion, pour garantir que les
+bénéfices de l’IA touchent toutes les
+Je tiens à remercier chaleureusement
+populations, autant dans les villes que
+toutes les parties prenantes –
+dans les zones rurales ;
+administrations, entreprises, universités
+La gouvernance, pour encadrer
+et citoyens – pour leur contribution à cette
+l’utilisation de ces technologies de
+vision ambitieuse qui a permis de
+manière responsable, éthique et
+concevoir une stratégie alignée sur les
+sécurisée.
+attentes de notre peuple et les ambitions
+Nos ambitions sont claires et audacieuses
+de notre Nation.
+Promouvoir l’éducation et la formation
+Il est temps de transformer cette vision en
+pour préparer les talents de demain ;
+actions concrètes. La réussite de cette
+Créer un réseau d’experts métiers
+stratégie repose sur notre capacité à
+locaux pour soutenir les porteurs de
+collaborer avec détermination et
+projets digitaux ;
+solidarité.
+Ibrahim Khalil KONATE
+Ministre de la Transition Numérique et de la Digitalisation
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 4
+
+INTRODUCTION 6
+STRATÉGIE DE L’INTELLIGENCE ARTIFICIELLE 8
+I. JUSTIFICATION STRATEGIQUE 9
+II. VISION, MISSION ET OBJECTIFS 10
+III. PRINCIPES DIRECTEURS ET SECTEURS PRIORITAIRES 13
+IV. PILIER 1- INVESTISSEMENT 15
+V. PILIER 2 - INCLUSION 36
+VI. PILIER 3 - GOUVERNANCE 49
+MISE EN ŒUVRE DE LA STRATEGIE 55
+I. LEADERSHIP AU SEIN DE L’ECOSYSTEME 56
+II. SUIVI, ÉVALUATION ET MISE A JOUR DE LA STRATEGIE 60
+III. CONDUITE DU CHANGEMENT 63
+IV. FEUILLE DE ROUTE ET PLAN D’ACTION 66
+CONCLUSION GENERALE 70
+
+Introduction
+En 2023, la Côte d'Ivoire occupait le Cette stratégie incarne l’ambition
+138ᵉ rang mondial sur les 193 pays d’utiliser l’IA non seulement comme un
+évalués suivant l'indice de préparation outil technologique, mais comme un
+des gouvernements à l'intelligence vecteur d’accélération de la
+artificielle (IA), publié par Oxford transformation numérique, au service
+Insights[1]. du développement économique et
+Ce positionnement, bien qu’il reflète des social de notre pays.
+défis importants, souligne également
+les opportunités immenses qui s’offrent Avec son infrastructure numérique en
+à nous pour façonner un avenir pleine expansion et une économie
+numérique audacieux. dynamique, la Côte d’Ivoire se trouve à
+un tournant décisif pour tirer parti des
+Face à ce diagnostic, la rédaction de opportunités offertes par l’intelligence
+cette Stratégie Nationale de artificielle. De l’agriculture, où
+Développement de l’IA se veut une l’intelligence artificielle peut augmenter
+réponse résolue et visionnaire. Elle ne la productivité et garantir la sécurité
+se limite pas à combler des lacunes ; alimentaire, à la santé, où elle peut
+elle aspire à transformer ces défis en améliorer les diagnostics et l’efficacité
+leviers de progrès, en s’appuyant sur des soins, les perspectives sont
+nos forces pour bâtir un écosystème prometteuses.
+technologique robuste et inclusif.
+[1] L’« Oxford Insights Government AI Readiness Index » est un classement mondial qui évalue la capacité des
+gouvernements à adopter et à utiliser l’intelligence artificielle (IA) pour améliorer leurs services publics et leurs processus
+décisionnels.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 6
+
+Le gouvernement ivoirien reconnaît que Gouvernance dynamique : Les
+l’IA n’est pas seulement un outil cadres réglementaires et les normes
+technologique, mais également un éthiques devront évoluer
+levier stratégique pour relever les défis rapidement pour équilibrer
+nationaux, tels que le changement innovation, sécurité, équité et
+climatique, l’accès équitable aux soins confiance publique dans les
+de santé, et l’efficacité de technologies d’intelligence
+l’administration publique. artificielle.
+S’appuyant sur les efforts en cours pour Cette stratégie ambitionne de
+la transformation numérique du pays, la positionner la Côte d’Ivoire comme un
+Stratégie Nationale de l’intelligence pôle d’innovation en intelligence
+artificielle établit une feuille de route artificielle en Afrique d’ici 2030. Elle vise
+visant à intégrer l’intelligence artificielle à faire du pays un leader dans la
+dans les secteurs clés, tout en recherche, l’innovation et l’utilisation de
+garantissant une croissance inclusive, l’IA pour le bien public, en soutenant
+une gouvernance éthique et une des avancées dans l’agriculture,
+compétitivité internationale. Cette l’énergie, la santé et l’éducation. En
+stratégie repose sur trois hypothèses investissant dans les talents locaux, en
+fondamentales pour les années à venir : favorisant un environnement propice à
+l’innovation et en respectant des
+Ressources stratégiques : L’accès standards éthiques, la Côte d’Ivoire peut
+à des talents qualifiés, à des non seulement exploiter les
+données fiables, à des opportunités offertes par l’IA, mais
+infrastructures avancées et à des également en prévenir les risques.
+financements durables, qui sera A travers l’adoption de cette stratégie, la
+essentiel pour maintenir la Côte d’Ivoire affirme son engagement à
+compétitivité de la Côte d’Ivoire devenir un leader régional de
+dans le paysage mondial de l’innovation technologique. Elle s’inscrit
+l’intelligence artificielle. dans une vision d’avenir audacieuse, où
+l’intelligence artificielle devient le socle
+Adoption généralisée : d’un progrès durable, d’une prospérité
+L’intelligence artificielle deviendra partagée et d’une souveraineté
+omniprésente dans de nombreux numérique renforcée.
+secteurs économiques, nécessitant Ce document constitue le socle d’un
+des mesures proactives pour effort stratégique à l’horizon 2030 pour
+garantir que ses bénéfices soient intégrer l’IA dans l’économie et la
+équitablement répartis dans toutes société ivoiriennes, avec un accent
+les régions et communautés. particulier sur le développement inclusif
+et durable.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 7
+
+S T R A T É G I E D E
+L ’ I N T E L L I G E N C E
+A R T I F I C I E L L E
+
+I. Justification stratégique
+L’intelligence artificielle (IA) représente une opportunité sans précédent pour
+accélérer le développement économique, social et technologique de la Côte d’Ivoire.
+Dans un contexte mondial marqué par des avancées rapides dans le domaine des
+technologies émergentes, l’IA peut devenir un levier stratégique pour résoudre des
+défis majeurs tels que l’amélioration des services publics, la transformation des
+secteurs clés de l’économie, et le renforcement de la compétitivité nationale.
+Cette stratégie nationale d’IA s’inscrit dans une vision ambitieuse :
+faire de la Côte d’Ivoire un leader régional en matière d’innovation technologique
+tout en plaçant l’humain au cœur de cette transformation.
+En structurant ses efforts autour de trois piliers fondamentaux
+Investir dans l’écosystème IA
+Garantir une adoption inclusive de l’IA dans tous les secteurs et régions
+Gouverner efficacement l’IA
+Le pays se donne les moyens d’exploiter pleinement le potentiel de cette
+technologie, tout en assurant qu’elle serve les intérêts de tous les citoyens et
+respecte les valeurs fondamentales ivoiriennes. L’intelligence artificielle devient alors
+un catalyseur du développement.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 9
+
+II. Vision, mission et objectifs
+A. Vision
+Faire de l'IA inclusive, éthique et responsable l'accélérateur de la transformation
+digitale pour une Côte d'Ivoire unie et prospère à l'horizon 2030.
+B. Mission
+Favoriser une transformation technologique, économique et sociale inclusive,
+tout en préservant et en valorisant l'identité culturelle ivoirienne.
+C. Objectifs de la stratégie
+1- Objectif général
+Positionner la Côte d'Ivoire comme un leader régional dans l'adoption et l'intégration
+de l'intelligence artificielle, en garantissant une transformation inclusive et durable
+des secteurs clés pour améliorer la qualité de vie des citoyens.
+2- Objectifs spécifiques
+L’introduction de technologies basées sur l’IA soutient directement l’ODD 9 (Industrie,
+innovation et infrastructures) en modernisant les infrastructures numériques et en
+favorisant l’innovation locale.
+De plus, en améliorant les services dans les domaines de la santé et de l’éducation, la
+stratégie répond à l’ODD 3 (Bonne santé et bien-être) et l’ODD 4 (Éducation de
+qualité).
+Par ailleurs, en soutenant la durabilité dans l’agriculture et la gestion des ressources
+naturelles, elle contribue à l’ODD 2 (Zéro faim) et l’ODD 13 (Lutte contre les
+changements climatiques).
+Enfin, la stratégie met un accent particulier sur l’inclusion, l’équité et la gouvernance
+responsable, en cohérence avec l’ODD 16 (Paix, justice et institutions efficaces) et
+l’ODD 17 (Partenariats pour la réalisation des objectifs). En intégrant ces principes
+fondamentaux, la Côte d’Ivoire ambitionne de faire de l’intelligence artificielle un
+levier puissant pour accélérer la réalisation des ODD tout en construisant un avenir
+numérique souverain et prospère.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 10
+
+La Stratégie Nationale de l’Intelligence Artificielle de la Cote d’Ivoire se donne
+comme objectifs spécifiques de :
+Stimuler la croissance économique
+Promouvoir l'innovation technologique pour créer des emplois et
+renforcer la compétitivité des entreprises locales.
+Soutenir les PME et les startups dans l'intégration de solutions d'IA
+pour leur croissance.
+Améliorer la qualité de vie des citoyens
+Assurer un accès équitable à des services publics efficaces,
+notamment dans les domaines de la santé, de l'éducation et des
+transports.
+Exploiter l'IA pour réduire les inégalités et offrir des opportunités aux
+populations vulnérables.
+Développer une infrastructure technologique robuste et des
+ressources humaines de qualité
+Former une main-d'œuvre qualifiée et diversifiée pour répondre aux
+besoins croissants en compétences liées à l'IA.
+Mettre en place des plateformes technologiques et des systèmes de
+données adaptés au contexte ivoirien.
+Promouvoir un développement durable et éthique grâce à l’IA
+Utiliser l'IA pour optimiser la gestion des ressources naturelles et
+lutter contre le changement climatique.
+Assurer que l'utilisation de l'IA respecte les normes éthiques et
+environnementales.
+Protéger et valoriser le patrimoine culturel ivoirien
+Intégrer l'IA dans la promotion et la préservation des traditions,
+savoir-faire et langues locales.
+Développer des outils d'IA pour mettre en valeur l'héritage culturel et
+artistique de la Côte d'Ivoire.
+Encourager une adoption inclusive de l'IA dans tous les segments de
+la société.
+Renforcer la gouvernance et la sécurité
+Mettre en place des cadres réglementaires pour garantir une
+utilisation responsable et sécurisée de l’IA.
+Assurer la souveraineté numérique de la Côte d’Ivoire face aux défis
+mondiaux.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 11
+
+Encourager la recherche et l’innovation
+Soutenir les initiatives locales et la collaboration entre chercheurs,
+industries et gouvernements.
+Développer des programmes nationaux pour faire émerger des
+solutions d’IA adaptées au contexte ivoirien.
+Faciliter les partenariats nationaux et internationaux
+Renforcer la collaboration entre le secteur public, privé, académique
+et international.
+Attirer des investissements pour accélérer le développement de
+l’écosystème IA.
+Assurer un suivi et une évaluation rigoureuse
+Mettre en place des mécanismes de suivi pour mesurer l'impact des
+initiatives liées à l'IA.
+Ajuster la stratégie en fonction des résultats et des évolutions
+technologiques.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 12
+
+III. Principes directeurs et secteurs prioritaires
+A. Principes directeurs
+La stratégie nationale d’intelligence artificielle (IA) de la Côte d’Ivoire repose sur dix
+principes fondamentaux qui placent l’humain au centre des priorités et visent
+l’amélioration de la qualité de vie des citoyens. Ces principes reflètent l’engagement
+du pays à tirer parti de l’IA tout en assurant une mise en œuvre éthique, inclusive et
+durable.
+Principe stratégique Description
+Amélioration de la qualité L’objectif principal de la stratégie est d’utiliser l’IA comme un levier pour transformer
+de vie positivement la vie des citoyens, notamment en améliorant l’accès aux services
+essentiels tels que la santé, l’éducation et les services publics.
+Priorité à l'humain L’humain reste au cœur de la stratégie. L’IA doit compléter et améliorer les capacités
+humaines, et non les remplacer, tout en respectant les valeurs culturelles et les droits
+fondamentaux.
+Éthique et responsabilité Développer et utiliser l’IA de manière éthique, en respectant les normes nationales et
+internationales, tout en assurant la transparence et la responsabilité des acteurs
+impliqués.
+Inclusion et équité sociale Promouvoir une IA qui réduit les inégalités sociales, géographiques et économiques en
+favorisant l’accès équitable aux technologies numériques pour tous les citoyens, en
+particulier les femmes, les jeunes et les populations vulnérables.
+Formation et Prioriser la formation et le renforcement des capacités pour garantir que les citoyens
+développement des ivoiriens, en particulier les jeunes, acquièrent les compétences nécessaires pour
+compétences concevoir, utiliser et bénéficier des technologies d’IA. Un accent particulier sera mis sur
+l’intégration de l’IA dans les curricula éducatifs.
+Sécurité et souveraineté Assurer la sécurité des systèmes d’IA tout en protégeant les données personnelles et
+numérique en renforçant la souveraineté numérique de la Côte d’Ivoire.
+Innovation et Soutenir la recherche, l’innovation et l’entrepreneuriat dans le domaine de l’IA pour
+compétitivité renforcer la compétitivité des entreprises ivoiriennes sur les marchés régionaux et
+internationaux.
+Durabilité et Encourager l’utilisation de l’IA pour promouvoir des solutions respectueuses de
+responsabilité l’environnement et contribuer aux efforts nationaux de lutte contre le changement
+environnementale climatique.
+Collaboration et Développer des collaborations nationales et internationales pour bénéficier des
+partenariats meilleures pratiques, attirer des investissements et positionner la Côte d’Ivoire comme
+un acteur clé de l’écosystème de l’IA en Afrique.
+Gouvernance inclusive et Mettre en place un cadre de gouvernance clair et inclusif pour réglementer l’utilisation
+transparente de l’IA, en associant les parties prenantes publiques, privées, académiques et la société
+civile, tout en instaurant des mécanismes de suivi et d’évaluation.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 13
+
+B. Secteurs prioritaires
+Secteur Description Diagnostic sectoriel
+Secteur vital représentant 20 % du PIB et employant une majorité de la Faible adoption des technologies numériques en zones
+population. Confronté à des défis comme la variabilité climatique et les rurales et besoin urgent de plateformes accessibles aux
+Agriculture
+faibles rendements. L’IA peut optimiser la gestion des terres et prévoir les agriculteurs.
+conditions climatiques.
+Le changement climatique impacte les ressources naturelles, l’agriculture et Adoption limitée des technologies liées au climat, avec des
+Climat la sécurité alimentaire. L’IA peut anticiper les conditions climatiques et infrastructures et plateformes de données insuffisantes.
+optimiser la gestion des ressources.
+Le secteur souffre d’un déficit en infrastructures modernes et d’un accès Adoption limitée des innovations technologiques et
+Santé inégal aux soins. L’IA peut faciliter le diagnostic précoce et renforcer la centralisation des services de santé à Abidjan.
+télémédecine.
+La croissance urbaine rapide entraîne des embouteillages et une faible Absence d’infrastructure numérique intégrée et besoin de
+Mobilité efficacité des transports publics. L’IA peut analyser les flux de trafic et collaborations public-privé.
+optimiser les itinéraires.
+L’industrie reste dominée par des modèles traditionnels. L’IA et la robotique Écosystème industriel peu numérisé et déficit en compétences
+Industrie 4.0
+pourraient moderniser les processus industriels. locales pour intégrer les technologies avancées.
+Académie (Formation Le système académique fait face à un manque de ressources et une Faible représentation de l’IA dans les programmes éducatifs et
+et Recherche) inadéquation des curriculums aux exigences technologiques modernes. manque de collaboration universités-industries.
+L’absence de cadre juridique dédié expose à des risques liés à l’éthique, la Lacunes importantes dans les lois existantes, notamment en
+Cadre légal, éthique et
+protection des données et la souveraineté numérique. matière de transparence algorithmique et de gestion des
+réglementaire
+données.
+Confrontée à des inefficacités structurelles et un accès limité aux services Adoption embryonnaire des technologies IA, besoin urgent de
+Administration
+numériques en zones reculées. L’IA peut automatiser les tâches et formation des agents publics et d’infrastructures numériques
+publique
+améliorer les services publics. robustes.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030
+
+IV. Pilier 1 : Investissement
+Pour que la Côte d’Ivoire devienne un leader régional de l’intelligence artificielle (IA),
+il est crucial de bâtir un écosystème solide et inclusif, capable de répondre aux défis
+et opportunités de l’ère numérique.
+Notre premier pilier est donc l’investissement. Il s’agit d’investir dans les besoins à
+long terme de l’écosystème IA en Côte d’Ivoire.
+Ce pilier repose sur cinq axes stratégiques interconnectés qui permettront de
+transformer durablement le paysage technologique et économique du pays :
+Renforcement des compétences locales
+Développement d’infrastructures technologiques robustes
+Accès à des données de qualité
+Mobilisation de financements pour l’innovation
+Élaboration d’un cadre réglementaire et éthique
+Figure : présentation du pilier INVESTISSEMENT
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 15
+
+📍
+Formations spécialisées
+Renforcement des compétences 📍 Reconversion pour secteurs en transition
+📍
+locales Collaborations internationales
+📍
+Sensibilisation des jeunes
+📍
+Centres de données modernes
+📍
+Calcul avancé
+Développement d’infrastructures
+📍
+Infrastructures numériques nationales
+technologiques
+📍
+Innovation via infrastructures
+📍
+Durabilité des infrastructures
+📍
+Bases de données sectorielles
+INVESTISSEMENT
+📍
+Plateformes sécurisées
+📍
+Accès à des données de qualité Collecte adaptée au contexte
+📍
+Valorisation des données
+📍
+Gouvernance et éthique des données
+📍
+Fonds pour startups IA
+📍
+Mobilisation de financements pour Partenariats public-privé
+📍
+l’innovation Incitations fiscales
+📍
+Écosystèmes financiers durables
+📍
+Réglementation sur la protection des données
+📍
+IA inclusive et équitable
+Élaboration d’un cadre
+📍
+Standards éthiques nationaux
+réglementaire et éthique
+📍
+Encadrement des décisions automatisées
+📍
+Coopération et partenariats
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030
+
+A. Renforcement des compétences locales : levier
+stratégique
+Le renforcement des compétences locales est un pilier fondamental pour bâtir un
+écosystème IA robuste en Côte d’Ivoire.
+L’objectif est de garantir une main-d’œuvre qualifiée et agile, capable de répondre
+aux besoins croissants d’innovation technologique et de transformation numérique
+dans tous les secteurs économiques et sociaux.
+Pour ce faire, plusieurs activités doivent être mises en œuvre.
+1 Mettre en place des formations spécialisées
+La création de programmes de formation adaptés aux besoins spécifiques de l’IA est
+essentielle pour développer une nouvelle génération de talents. Ces programmes
+doivent inclure :
+i. Partenariats académiques et industriels
+Collaborer avec les universités, les instituts de recherche, les entreprises
+technologiques locales et internationales pour concevoir des cursus
+spécialisés.
+Ces programmes doivent couvrir des domaines tels que
+La science des données (data science)
+L’apprentissage automatique (machine learning)
+Le traitement automatique du langage naturel (NLP)
+La vision par ordinateur et d’autres disciplines liées à l’IA
+ii. Création de centres d'excellence en IA
+Ces centres, situés dans des universités ou des instituts technologiques,
+devront offrir des certifications avancées et servir de hub pour la recherche
+et l’innovation.
+iii. Approche pratique et projet
+Les formations doivent inclure des cas pratiques, des projets réels, et des
+stages en entreprise pour garantir une employabilité immédiate des
+diplômés.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 17
+
+Promouvoir la reconversion professionnelle pour les
+
+secteurs en transition
+Alors que de nombreux secteurs traditionnels subissent une transformation
+numérique, il est crucial de permettre aux travailleurs de s’adapter aux nouvelles
+réalités technologiques.
+Cela inclut :
+i. Partenariats académiques et industriels
+Programmes de formation continue
+Développer des modules de formation à court terme sur les outils d’analyse
+de données, les concepts fondamentaux de l’IA et leur application dans
+divers secteurs comme l’agriculture, la santé et l’administration publique
+Soutien aux transitions professionnelles
+Accompagner les travailleurs dans leur reconversion grâce à des initiatives
+publiques ou privées, en proposant des bourses de reconversion et des
+formations flexibles adaptées aux contraintes des professionnels en activité
+Partenariats public-privé
+Impliquer les entreprises dans la conception et le financement des
+programmes de reconversion pour s'assurer qu'ils répondent aux besoins du
+marché.
+3 Favoriser les collaborations internationales
+L'ouverture sur l’international est un levier puissant pour renforcer les capacités
+locales, en facilitant l’accès aux meilleures pratiques, aux ressources et aux
+technologies de pointe. Les actions à entreprendre incluent :
+Accès à des réseaux mondiaux d’excellence
+Nouer des partenariats avec des institutions renommées comme l’Institut
+Alan Turing, MIT ou l’Université de Stanford pour permettre aux étudiants et
+chercheurs ivoiriens de participer à des programmes de formation avancée,
+des séminaires ou des stages
+Bourses d’échange et mobilité internationale
+Créer des opportunités pour que les talents ivoiriens poursuivent des études
+ou participent à des projets de recherche à l'étranger, tout en attirant des
+experts internationaux pour enseigner ou collaborer en Côte d’Ivoire
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 18
+
+Programmes conjoints
+Développer des diplômes en partenariat avec des universités étrangères, où
+les étudiants ivoiriens peuvent bénéficier d’une double certification,
+renforçant ainsi leur compétitivité sur le marché global.
+4 Sensibiliser et inspirer les jeunes générations
+Il est crucial de cultiver un intérêt précoce pour l’IA parmi les jeunes pour créer un
+vivier durable de talents. Cela pourrait inclure :
+Initiatives éducatives au niveau secondaire
+Introduire des concepts de base de l’IA dans les programmes scolaires, avec
+des activités pratiques comme le codage ou la robotique
+Concours et hackathon
+Organiser des compétitions d’innovation technologique pour inciter les
+jeunes à explorer des solutions IA à des problèmes réels
+Mentorat et modèles de réussite
+Mettre en avant des experts ivoiriens en IA pour inspirer et guider les jeunes
+talents.
+5 Impacts attendus
+Émergence d’une expertise locale compétitive
+Former une main d'œuvre qualifiée pour répondre aux besoins locaux et
+s'exporter sur le marché international
+Accélération de la transformation numérique
+Faciliter l'adoption de l'IA dans les secteurs clés grâce à une disponibilité
+accrue de compétences
+Renforcement de l’attractivité du pays
+Positionner la Côte d’Ivoire comme un hub régional pour la formation et
+l’innovation en IA.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 19
+
+B. Développement d’infrastructures technologiques :
+socle essentiel
+Le développement d'infrastructures technologiques constitue une condition sine qua
+non pour la mise en œuvre efficace de l'intelligence artificielle en Côte d’Ivoire. Des
+infrastructures robustes et accessibles garantissent non seulement la performance
+des applications IA, mais aussi leur adoption à grande échelle dans l’ensemble du
+pays. Cet axe stratégique repose sur plusieurs activités :
+Créer/Démocratiser l’utilisation des centres de données
+
+modernes pour le stockage et le traitement des données
+Les centres de données jouent un rôle central dans la gestion, le traitement et la
+sécurisation des informations nécessaires aux systèmes d’intelligence artificielle. Les
+actions suivantes sont essentielles :
+Accélérer la construction de centres de données nationaux
+Établir des infrastructures locales capables de gérer les volumes
+croissants de données générées par les projets IA dans des secteurs tels
+que l’agriculture, la santé et l’administration
+Standards de sécurité et de durabilité
+S'assurer que les centres respectent les normes internationales en
+matière de sécurité des données et adoptent des pratiques
+écoresponsables (énergie renouvelable, optimisation énergétique
+Partenariats stratégiques
+Collaborer avec des entreprises technologiques internationales pour le
+financement, la construction et la gestion de ces centres, tout en
+favorisant le transfert de compétences aux experts ivoiriens.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 20
+
+2 Renforcer les capacités de calcul avancées
+L’efficacité des systèmes IA dépend fortement de l’accès à des capacités de calcul
+performantes. Les mesures suivantes sont proposées :
+Acquisition de supercalculateurs
+Investir dans des superordinateurs capables d’exécuter des calculs
+complexes à grande échelle, essentiels pour la formation et
+l’optimisation des modèles IA
+Création de clusters de calcul partagé
+Mettre en place des infrastructures mutualisées permettant aux
+universités, startups et entreprises de bénéficier de ressources de calcul
+avancées sans avoir à investir individuellement
+Partenariats internationaux
+Collaborer avec des leaders mondiaux en infrastructures IA pour accéder
+à des solutions technologiques de pointe, des conseils stratégiques et
+des plateformes de calcul dans le cloud
+Déployer des infrastructures numériques à l’échelle
+
+nationale
+Pour garantir une adoption équitable des technologies IA dans tout le pays, y
+compris les zones rurales, il est impératif de développer des infrastructures
+numériques accessibles. Les actions incluent :
+Extension de la connectivité
+Déployer des réseaux de télécommunications haut débit, en particulier
+dans les zones sous-desservies, pour permettre l'accès aux outils et
+applications IA.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 21
+
+Accès inclusif
+Assurer que les infrastructures numériques sont abordables et
+accessibles aux écoles, hôpitaux, petites entreprises et communautés
+locales.
+Infrastructures locales intelligentes
+Intégrer des dispositifs connectés (IoT) pour optimiser la gestion des
+ressources dans les zones rurales, comme les systèmes de gestion de
+stockage des produits agricoles, de l’eau et de l’énergie.
+Soutenir l’innovation grâce aux infrastructures
+
+technologiques
+Les infrastructures technologiques doivent non seulement soutenir les initiatives
+existantes, mais également créer un environnement propice à l’innovation. Cela
+inclut :
+Espaces d’innovation technologique
+Établir des hubs technologiques où startups, chercheurs et développeurs
+peuvent accéder à des infrastructures partagées, notamment des
+laboratoires IA, des outils de prototypage et des ressources de calcul.
+Plateformes de données ouvertes
+Créer des bases de données ouvertes pour stimuler la collaboration et
+l’innovation entre acteurs publics, privés et académiques.
+Tests et validations à grande échelle
+Mettre en place des infrastructures pour tester des applications IA dans
+des conditions réelles, favorisant ainsi leur adoption rapide et leur
+amélioration continue.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 22
+
+Intégrer une dimension de durabilité dans
+
+les infrastructures
+Pour répondre aux enjeux environnementaux et économiques, les infrastructures
+doivent être conçues de manière durable
+Efficacité énergétique
+Privilégier des solutions technologiques à faible empreinte énergétique
+et investir dans des énergies renouvelables pour alimenter les centres de
+données.
+Économie circulaire
+Encourager le recyclage et la réutilisation des équipements
+technologiques pour limiter les déchets électroniques.
+Résilience climatique
+Concevoir des infrastructures capables de résister aux défis climatiques
+locaux, garantissant une continuité de service.
+6 Impact attendu
+Accélération de l’adoption de l’IA
+Avec des infrastructures modernes, les entreprises, startups et institutions
+ivoiriennes pourront développer et déployer des solutions IA à grande échelle.
+Réduction des disparités régionales
+En rendant les technologies IA accessibles dans tout le pays, même dans les régions
+les plus reculées, les bénéfices de l’innovation toucheront un plus grand nombre de
+citoyens.
+Attractivité internationale
+Un écosystème technologique robuste positionnera la Côte d’Ivoire comme une
+destination privilégiée pour les investissements dans les technologies émergentes.
+Le développement des infrastructures technologiques est donc un catalyseur
+essentiel pour faire de l’intelligence artificielle un moteur de transformation
+économique, sociale et culturelle en Côte d’Ivoire.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 23
+
+C. Accès à des données de qualité : pilier central
+Les données constituent la ressource essentielle pour le développement et
+l’application de l’intelligence artificielle. Garantir leur disponibilité, leur qualité et leur
+accessibilité est une condition primordiale pour stimuler l’innovation, la prise de
+décision éclairée et l’adoption de l’IA dans divers secteurs. Cet axe stratégique repose
+sur les activités suivantes :
+Création de bases de données nationales structurées et
+
+sectorielles
+Les bases de données nationales sont essentielles pour soutenir le développement
+d’applications IA dans les secteurs prioritaires tels que la santé, l’agriculture,
+l’éducation et les services publics. Les actions clés incluent :
+Établir des bases de données sectorielles
+Recueillir et centraliser les données dans des domaines stratégiques, par
+exemple :
+Santé : Informations sur les maladies endémiques, les infrastructures
+sanitaires, les statistiques de morbidité et de mortalité.
+Agriculture : Données sur les rendements agricoles, la météo, les sols
+et les pratiques culturales.
+Éducation : Informations sur les performances scolaires, l’accès à
+l’éducation, et les infrastructures disponibles.
+Assurer la qualité et la représentativité des données
+Mettre en œuvre des protocoles rigoureux de collecte et de validation
+des données pour s’assurer qu’elles reflètent fidèlement les réalités
+locales.
+Encourager les initiatives publiques et privées
+Collaborer avec des entreprises technologiques et des institutions
+publiques pour renforcer les capacités de collecte et de gestion des
+données.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 24
+
+Mise en place de plateformes de partage de données
+
+sécurisées
+Les plateformes de partage de données permettent aux acteurs publics, privés et
+académiques de collaborer efficacement tout en respectant les normes de
+confidentialité et de sécurité. Les étapes clés sont :
+Créer des plateformes nationales interconnectées
+Mettre en place des systèmes de gestion des données permettant un
+accès sécurisé et contrôlé, tout en favorisant une collaboration entre les
+différents secteurs.
+Adopter des normes internationales
+S’aligner sur des standards mondiaux de protection des données,
+comme le RGPD, pour garantir la transparence et la confiance des
+utilisateurs.
+Protéger les données sensibles
+Développer des mécanismes pour anonymiser et sécuriser les
+informations sensibles, en particulier dans des secteurs critiques comme
+la santé ou la sécurité.
+Stimuler l’échange de données publiques
+Encourager les organismes publics à ouvrir leurs bases de données non
+sensibles pour favoriser l’innovation et la recherche.
+Développer des stratégies de collecte de données
+
+adaptées au contexte local
+Les données contextuelles, spécifiques à la Côte d’Ivoire, sont cruciales pour créer
+des solutions IA pertinentes et efficaces. Les priorités incluent :
+Cartographier les besoins locaux
+Identifier les types de données les plus utiles pour chaque secteur
+prioritaire, en tenant compte des particularités régionales.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 25
+
+Cartographier les besoins locaux
+Identifier les types de données les plus utiles pour chaque secteur
+prioritaire, en tenant compte des particularités régionales.
+Encourager les collectes participatives
+Impliquer les communautés locales dans la collecte de données pour
+s’assurer qu’elles reflètent les besoins réels des citoyens.
+Exploiter des sources de données non conventionnelles
+Par exemple, utiliser les informations provenant de satellites, de
+capteurs IoT, ou des réseaux sociaux pour compléter les bases de
+données classiques.
+Établir des partenariats régionaux et internationaux
+Collaborer avec des organisations spécialisées dans la collecte et
+l’analyse de données pour bénéficier de méthodologies avancées et
+d’expertises diversifiées.
+Renforcement des capacités en gestion et en
+
+valorisation des données
+Disposer de données est une chose, savoir les exploiter efficacement en est une
+autre. Pour cela, il est nécessaire de :
+Former des spécialistes en gestion et en analyse de données
+Développer des programmes académiques et de formation continue
+pour former des experts capables de gérer, analyser et valoriser les
+données.
+Sensibiliser les acteurs aux bonnes pratiques
+Éduquer les institutions et les entreprises sur l’importance de la qualité
+et de l’éthique dans la gestion des données.
+Investir dans les technologies de traitement des données
+Mettre à disposition des outils et logiciels performants pour nettoyer,
+structurer et analyser les données.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 26
+
+5 Assurer l’éthique et la gouvernance des données
+Pour gagner la confiance des citoyens et des partenaires internationaux, la gestion
+des données doit respecter des principes éthiques stricts :
+Adopter une charte nationale des données
+Définir des règles claires sur la collecte, l’utilisation et le partage des
+données en Côte d’Ivoire.
+Protéger les droits des citoyens
+Garantir que les données personnelles ne sont utilisées qu’avec
+consentement éclairé et dans des limites éthiques.
+Évaluer les impacts sociaux des projets IA
+S’assurer que l’utilisation des données ne renforce pas les inégalités ou
+les discriminations.
+6 Impact attendu
+Amélioration de la prise de décision
+Des données fiables et accessibles permettront d’élaborer des politiques publiques
+basées sur des preuves solides.
+Stimulation de l’innovation
+Les bases de données ouvertes encourageront les startups, chercheurs et
+entreprises à développer des solutions IA adaptées aux réalités ivoiriennes.
+Renforcement de la souveraineté numérique
+En centralisant et sécurisant ses données, la Côte d’Ivoire pourra mieux contrôler ses
+ressources numériques et attirer des investisseurs.
+Optimisation des services publics
+Grâce à des données mieux gérées, les services de santé, d’éducation et d’agriculture
+pourront répondre plus efficacement aux besoins des citoyens.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 27
+
+D. Mobilisation de financements pour l’innovation :
+stimulant de l’innovation
+Le développement de l’intelligence artificielle (IA) en Côte d’Ivoire repose sur des
+investissements stratégiques et efficaces pour catalyser l’innovation, renforcer
+l’écosystème technologique et positionner le pays comme un leader régional dans ce
+domaine.
+Voici les activités clés pour atteindre cet objectif :
+Création de fonds dédiés au soutien des startups IA
+
+ivoiriennes
+Les startups jouent un rôle crucial dans l’innovation technologique. Pour maximiser
+leur impact dans le domaine de l’IA, il est essentiel de leur fournir des ressources
+financières et un accompagnement adapté. Les actions prioritaires incluent :
+Lancement de fonds d’investissement spécifiques
+Mettre en place des fonds nationaux ou régionaux exclusivement dédiés
+aux startups spécialisées en IA. Ces fonds permettront de financer les
+phases de prototypage et de preuve de concept et le développement de
+solutions IA adaptées aux secteurs prioritaires (santé, agriculture,
+éducation, etc.).
+Mécanismes d’incubation et d’accélération
+Soutenir les startups à travers des programmes qui offrent un accès à
+des experts, des formations spécialisées et des espaces de coworking
+équipés de technologies avancées. Cela inclut des partenariats avec des
+incubateurs locaux et internationaux pour renforcer les capacités des
+entrepreneurs et l’organisation de concours d’innovation pour
+encourager les idées disruptives dans l’IA.
+2 Encourager les partenariats public-privé
+Les collaborations entre le secteur public et le secteur privé sont essentiels pour
+mutualiser les ressources, accélérer les projets IA et garantir leur impact à grande
+échelle. Les initiatives à développer comprennent :
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 28
+
+Mobilisation de ressources financières
+Impliquer les entreprises privées dans le financement des projets IA à
+travers des fonds conjoints ou des Co-investissements par des
+consortiums pour le développement de plateformes d’intelligence
+artificielle et des financements partagés pour construire des
+infrastructures technologiques (centres de calcul, laboratoires de
+recherche, etc.).
+Transfert de technologies et d’expertise
+Collaborer avec des multinationales et des entreprises technologiques
+internationales pour importer des technologies avancées, tout en
+formant les talents locaux à leur utilisation.
+Projets pilotes en IA
+Encourager le lancement de projets communs entre le gouvernement et
+des entreprises privées, notamment dans les secteurs tels que
+l’agriculture, la santé et l’administration publique.
+3 Mise en place d’incitations fiscales attractives
+Les incitations fiscales sont un levier puissant pour attirer des investissements, à la
+fois locaux et étrangers, dans le domaine de l’IA. Les mesures proposées incluent :
+Crédits d’impôt pour la R&D
+Offrir des déductions fiscales aux entreprises qui investissent dans la
+recherche et le développement en IA. Cela encouragera les entreprises
+locales à investir dans des projets innovants.
+Exonérations fiscales pour les startups IA
+Réduire ou supprimer temporairement les impôts pour les jeunes
+entreprises opérant dans le domaine de l’intelligence artificielle, afin de
+leur permettre de consacrer davantage de ressources à l’innovation.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 29
+
+Facilitation des importations de matériel technologique
+Exonérer de taxes douanières les équipements spécifiques nécessaires
+au développement des technologies IA, tels que les supercalculateurs et
+les outils d’analyse avancée.
+Attraction d’investissements étrangers
+Développer une politique fiscale compétitive pour inciter les
+multinationales à s’implanter en Côte d’Ivoire et à établir des centres de
+recherche en IA.
+4 Développement d’écosystèmes financiers durables
+Pour pérenniser les investissements, il est essentiel de structurer un écosystème
+financier robuste et autonome. Cela inclut :
+Éducation financière des startups
+Former les entrepreneurs à la gestion financière et à la levée de fonds
+pour assurer la durabilité de leurs projets.
+Renforcement des capacités des investisseurs locaux
+Encourager les institutions financières ivoiriennes à investir dans des
+projets technologiques en développant leur compréhension des enjeux
+et opportunités liés à l’IA.
+Création de fonds souverains dédiés à l’innovation
+Allouer une partie des ressources publiques à un fonds national
+d’innovation pour soutenir des initiatives stratégiques en IA.
+5 Impact attendu
+Émergence d’un écosystème dynamique
+La création et le soutien des startups IA contribueront à renforcer la capacité
+d’innovation locale et à répondre aux défis spécifiques du pays.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 30
+
+Attraction de capitaux internationaux
+Des incitations fiscales attractives et des partenariats solides positionneront la Côte
+d’Ivoire comme un hub technologique régional.
+Transfert de compétences et de technologies
+Les collaborations avec des acteurs privés permettront de renforcer les savoir-faire
+locaux et d’introduire des solutions IA à la pointe.
+Amélioration de l’économie numérique
+Les investissements dans l’IA favoriseront la croissance économique, créeront de
+nouveaux emplois et renforceront la compétitivité de la Côte d’Ivoire sur la scène
+internationale.
+En mettant en œuvre ces initiatives, la Côte d’Ivoire pourra non seulement mobiliser
+des ressources pour stimuler l’innovation en IA, mais aussi poser les bases d’un
+développement économique durable et inclusif.
+E. Élaboration d’un cadre réglementaire et éthique
+Un cadre légal et éthique solide est fondamental pour garantir une adoption
+responsable de l’intelligence artificielle (IA) en Côte d’Ivoire. Ce cadre doit protéger
+les droits des citoyens, promouvoir une innovation équitable et transparente, et
+positionner la Côte d’Ivoire comme un leader régional en matière de gouvernance
+technologique. Les initiatives suivantes visent à établir un environnement
+réglementaire propice à l’innovation tout en respectant les valeurs éthiques et
+sociales du pays.
+1 Adopter une réglementation sur la protection des données
+La gestion et la protection des données personnelles sont des piliers essentiels de la
+régulation de l’IA. Les actions prioritaires incluent :
+Renforcement de la législation existante
+Adapter les lois ivoiriennes aux standards internationaux comme le
+RGPD pour assurer une protection accrue des données personnelles.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 31
+
+Création d’une autorité de surveillance des données IA
+Mettre en place une entité spécialisée pour superviser la collecte, le
+traitement, et l’utilisation des données dans les projets IA.
+Promotion de la confidentialité et des droits numériques
+Imposer des obligations strictes sur la sécurité des données et garantir le
+droit des citoyens à accéder et rectifier leurs informations personnelles.
+2 Promouvoir une IA inclusive et équitable
+Pour réduire les biais algorithmiques et garantir une prise de décision transparente,
+il est nécessaire de :
+Imposer des audits algorithmiques
+Instaurer des processus réguliers d’évaluation des biais dans les
+systèmes IA utilisés dans les secteurs critiques (santé, éducation,
+administration publique).
+Encourager la diversité des données d’entraînement
+Assurer que les bases de données utilisées reflètent la diversité
+culturelle, sociale, et géographique de la Côte d’Ivoire.
+Garantir la transparence
+Obliger les développeurs à fournir des explications claires et accessibles
+sur le fonctionnement des systèmes IA, notamment pour les décisions
+ayant un impact sur les citoyens.
+3 Établir des standards nationaux en matière d’éthique de l’IA
+Un cadre éthique clair favorise une innovation responsable et durable. Les mesures
+à adopter comprennent :
+Adoption d’un Code éthique national
+Élaborer des lignes directrices inspirées des meilleures pratiques
+internationales (OCDE, UNESCO) adaptées aux spécificités ivoiriennes.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 32
+
+Création du label SafeAI
+Mettre en place une certification pour garantir que les systèmes IA
+respectent des normes éthiques, sécuritaires, et réglementaires.
+Formation des parties prenantes
+Sensibiliser les développeurs, décideurs publics, et entreprises aux
+enjeux éthiques de l’IA.
+4 Encadrer la prise de décision automatisée
+Les systèmes IA utilisés pour des décisions ayant des conséquences importantes
+doivent être régulés :
+Exigences de transparence
+Obligation de fournir des justifications compréhensibles pour les
+décisions prises par des systèmes IA dans des domaines tels que la
+justice, la santé et les finances.
+Droit de recours
+Garantir aux citoyens la possibilité de contester les décisions prises par
+des algorithmes.
+Réglementation sectorielle
+Mettre en place des règles spécifiques pour encadrer l’usage de l’IA dans
+les secteurs critiques.
+5 Encourager les partenariats et la coopération internationale
+La Côte d’Ivoire doit s’inscrire dans une dynamique globale pour harmoniser ses
+standards
+Partenariats régionaux et internationaux
+Collaborer avec des organisations comme l’Union Africaine et des pays
+leaders en IA pour bénéficier d’expertises et de technologies avancées.
+Alignement sur les standards mondiaux
+Adopter des normes de gouvernance technologique en phase avec les
+pratiques internationales pour favoriser l’interopérabilité et attirer les
+investissements étrangers.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 33
+
+F. Impact du pilier « Investissement »
+Le pilier « Investissement » constitue Ce pilier s’inscrit résolument dans une
+une pierre angulaire de la stratégie approche centrée sur l’humain et le
+nationale d’intelligence artificielle de la développement durable, en veillant à
+Côte d’Ivoire. Son ambition est de ce que l’adoption de l’IA se fasse de
+positionner le pays comme un leader manière inclusive et responsable. Il
+incontournable en matière d’innovation met l’accent sur la réduction des
+technologique sur le continent africain, inégalités, en particulier dans les
+tout en répondant aux besoins zones rurales et auprès des
+spécifiques de ses citoyens et de ses populations marginalisées, et garantit
+industries. En mobilisant des ressources que les bénéfices de l’IA soient
+financières et humaines, ce pilier vise à équitablement répartis entre toutes
+renforcer l’écosystème technologique les communautés. En intégrant les
+ivoirien en créant un environnement principes d’équité, de transparence, et
+propice à l’émergence de startups, à de respect des valeurs ivoiriennes, il
+l’attraction d’investissements étrangers, jette les bases d’une transformation
+et à la mise en œuvre de projets technologique qui allie modernité et
+structurants d’envergure. traditions.
+Il englobe également le développement Enfin, ce pilier prépare la Côte d’Ivoire
+d’infrastructures technologiques à relever les défis économiques et
+modernes, telles que des centres de sociaux de demain en renforçant sa
+données, des supercalculateurs, et des résilience et en assurant sa
+plateformes d’interopérabilité, compétitivité sur la scène mondiale. Il
+indispensables pour soutenir les s’agit d’un levier essentiel pour bâtir
+applications avancées de l’IA dans des une économie numérique forte,
+secteurs clés comme l’agriculture, la capable de répondre aux attentes
+santé, l’éducation, et l’énergie. En croissantes des citoyens et de
+stimulant l’innovation locale, ce pilier s’adapter aux évolutions rapides des
+cherche à catalyser la créativité et la technologies émergentes. Avec une
+compétitivité des entreprises ivoiriennes, vision ambitieuse et des actions
+tout en favorisant des solutions ciblées, ce pilier offre une trajectoire
+adaptées au contexte national et aux claire vers une transformation
+défis régionaux. technologique durable et inclusive,
+alignée sur les aspirations nationales
+et les opportunités globales offertes
+par l’intelligence artificielle.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 34
+
+Protection des droits des citoyens Renforcement de la confiance
+Assurance d’un environnement Assurance pour les citoyens, les
+numérique sécurisé et respectueux entreprises et les institutions
+des libertés individuelles. publiques que les technologies IA
+utilisées respectent des standards
+Innovation responsable élevés de sécurité et d’éthique.
+Promotion d’une IA éthique et
+inclusive, réduisant les biais et Soutien au développement
+renforçant la transparence. durable
+Adoption d’une IA centrée sur
+Attractivité internationale l’humain et orientée vers des
+Positionnement de la Côte d’Ivoire solutions aux défis
+comme un modèle régional de socioéconomiques et
+gouvernance technologique, attirant environnementaux.
+talents et investisseurs.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 35
+
+V. Pilier 2 : Inclusion
+L'intégration des technologies d'intelligence artificielle (IA) dans tous les secteurs
+économiques et régions de la Côte d'Ivoire est essentielle pour une transformation
+inclusive et équitable.
+Ce pilier « Inclusion » vise à exploiter les opportunités offertes par l’IA pour améliorer
+le bien-être de l’ensemble des citoyens, dynamiser les économies locales et garantir
+une répartition équitable des bénéfices à travers tout le pays. L’approche est
+structurée autour des secteurs prioritaires que sont :
+L’agriculture et la sécurité alimentaires,
+La santé et le bien-être,
+L’académie, la recherche et la formation,
+Les services et administrations publics,
+Les arts et la culture.
+Figure : présentation du pilier INCLUSION
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 36
+
+📍
+Algorithmes prédictifs pour optimiser les intrants
+Agriculture & Sécurité alimentaire 📍 Drones & capteurs pour surveiller les cultures
+📍
+Prévisions climatiques pour réduire les pertes
+📍
+Diagnostics assistés pour réduire les erreurs médicales
+📍
+Modèles prédictifs pour surveiller les épidémies
+Santé & Bien-être
+📍
+IA pour optimiser les flux hospitaliers
+📍
+Télémédecine avancée via chatbots médicaux
+📍
+Recherche appliquée en IA pour la santé et l’agriculture
+INCLUSION
+📍
+MOOCs & plateformes numériques pour démocratiser
+Académie, Recherche & Formation l’apprentissage
+📍
+Innovation locale via collaborations public-privé
+📍
+Automatisation des processus administratifs
+📍
+Analyse des données citoyennes pour améliorer les
+Services & Administrations publics
+registres
+📍
+IA pour la gestion des risques et la sécurité publique
+📍
+Numérisation & archivage du patrimoine
+📍
+Expériences immersives en AR/VR
+Arts & Culture
+📍
+IA pour la promotion des événements culturels
+📍
+Gestion intelligente des droits d’auteur
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030
+
+A. Secteurs prioritaires et domaines d’application
+1 Agriculture et sécurité alimentaire
+a. Contexte générale
+L’agriculture est un pilier fondamental de l’économie ivoirienne, contribuant à
+environ 20 % du PIB national et jouant un rôle central dans les exportations, en
+particulier à travers le cacao, l’anacarde, et l’huile de palme. Malgré son importance,
+le secteur agricole est confronté à de nombreux défis : faible productivité,
+insuffisances dans la gestion des ressources, vulnérabilité accrue aux changements
+climatiques, et adoption limitée des technologies modernes. Face à ces enjeux,
+l’intelligence artificielle (IA) offre des opportunités considérables pour moderniser le
+secteur et accroître sa résilience.
+b. Applications de l’IA dans le Secteur Agricole
+L’IA offre des solutions concrètes à divers défis agricoles
+Optimisation des intrants grâce à des algorithmes prédictifs
+Gestion des cultures via des drones et capteurs permettant de surveiller en
+temps réel l’état des sols et des plantations
+Prévisions climatiques pour aider les agriculteurs à planifier leurs activités et
+réduire les pertes dues aux aléas climatiques.
+Cependant, l’adoption de ces technologies reste limitée par le manque de
+compétences numériques des agriculteurs et une faible sensibilisation.
+c. Recommandations stratégiques
+Renforcement des Infrastructures
+Étendre la connectivité Internet dans les zones rurales.
+Investir dans des bases de données agricoles standardisées.
+Promotion de l’Agriculture de Précision :
+Généraliser l’usage des capteurs et des drones pour surveiller les
+plantations.
+Encourager l’utilisation de logiciels IA pour optimiser la gestion des
+cultures.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 38
+
+Développement des Capacités Humaines
+Formation des agriculteurs à l’utilisation des technologies IA.
+Introduction des programmes d’éducation numérique dans les régions
+rurales.
+Création d’un Cadre Réglementaire :
+Réglementer la collecte, l’utilisation et la gestion des données agricoles.
+Favoriser des politiques incitatives pour l’adoption de solutions IA.
+Encouragement de l’Inclusion Sociale :
+Inclure activement les femmes et les jeunes dans les initiatives
+technologiques.
+Développer des solutions IA adaptées aux exploitations familiales et de
+petite taille.
+d. Conclusion
+Le potentiel de l’intelligence artificielle pour transformer le secteur agricole ivoirien
+est immense. Cependant, la réussite de cette transition repose sur des
+investissements ciblés, une gouvernance adaptée, et une mobilisation collective des
+parties prenantes. Avec une approche stratégique et inclusive, la Côte d’Ivoire peut
+se positionner en leader régional, alliant modernité technologique et durabilité
+agricole.
+2 Santé et bien_être
+a. Contexte générale
+Le secteur de la santé en Côte d’Ivoire est confronté à des défis structurels majeurs :
+une population croissante, des inégalités d'accès aux soins entre zones urbaines et
+rurales, des infrastructures souvent inadéquates et une charge élevée de maladies
+infectieuses et chroniques. Ces défis impactent l'efficacité et l'équité du système de
+santé. L’intelligence artificielle (IA) offre une opportunité unique pour transformer ce
+secteur en améliorant l’accès aux soins, renforçant les capacités des infrastructures
+médicales et optimisant les politiques publiques. Les initiatives émergentes, à la fois
+publiques et privées, positionnent la Côte d’Ivoire comme un futur leader régional en
+santé numérique.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 39
+
+c. Recommandations stratégiques
+Renforcement des infrastructures numériques
+Investir dans des centres de données régionaux spécialisés en santé.
+Étendre la connectivité Internet dans les zones rurales pour soutenir les
+projets de télémédecine.
+Formation et renforcement des capacités
+Créer des programmes de formation sur l’IA pour les professionnels de
+santé.
+Introduire des cours en santé numérique dans les universités locales et
+instituts techniques.
+Gouvernance et réglementation
+Élaborer un cadre juridique clair pour l’utilisation éthique et sécurisée de
+l’IA en santé.
+Sensibiliser les professionnels et les citoyens à la confidentialité et à la
+sécurité des données médicales.
+Soutien à l’innovation locale
+Encourager les startups ivoiriennes à développer des solutions adaptées
+aux besoins locaux.
+Mettre en place des incitations fiscales pour les entreprises investissant
+dans l’IA en santé.
+Approche inclusive et équitable
+Garantir que les populations vulnérables bénéficient des avancées en
+santé numérique.
+Développer des outils multilingues et adaptés aux spécificités culturelles
+ivoiriennes.
+d. Conclusion
+L’intelligence artificielle représente une opportunité majeure pour révolutionner le
+secteur de la santé en Côte d’Ivoire. En investissant dans des infrastructures
+modernes, en formant des professionnels compétents et en élaborant des cadres
+réglementaires adaptés, le pays peut se positionner comme un leader régional en
+santé numérique. Une coordination efficace entre les acteurs publics, privés et
+académiques sera essentielle pour garantir une transformation durable et inclusive
+du système de santé ivoirien.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 40
+
+3 Académie, Recherche et formation
+a. Contexte générale
+L’écosystème académique et de formation en Côte d’Ivoire représente un levier
+stratégique pour le développement de l’intelligence artificielle (IA). Il bénéficie de la
+diversité des institutions académiques, d’un intérêt croissant pour l’IA et de
+partenariats internationaux prometteurs. Cependant, des défis structurels et
+organisationnels freinent l’optimisation de cet écosystème, notamment l’insuffisance
+des infrastructures, le manque de coordination dans la recherche et l’inégalité
+d’accès aux ressources éducatives. Une analyse approfondie permet d’identifier les
+forces et faiblesses du système ainsi que les opportunités et menaces pour guider
+son développement.
+b. Applications de l’IA dans l’Écosystème Académique
+Recherche appliquée
+Outils IA pour analyser des problématiques locales en santé et agriculture.
+Partenariats internationaux pour intégrer des méthodologies modernes
+dans les programmes de recherche.
+Formation initiale et continue
+Utilisation des MOOCs et autres plateformes numériques pour
+démocratiser l’apprentissage.
+Intégration des modules IA dans les cursus académiques existants.
+Innovation locale
+Encouragement à développer des solutions IA adaptées aux contextes
+ivoiriens grâce à des collaborations public-privé.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 41
+
+c. Recommandations stratégiques
+Renforcement des infrastructures
+Développer des laboratoires dédiés à l’IA et des plateformes cloud pour la
+recherche.
+Créer des bases de données structurées et adaptées au contexte local.
+Développement des compétences locales :
+Former des enseignants et chercheurs en partenariat avec des institutions
+internationales.
+Introduire des modules IA dès le secondaire pour préparer les jeunes
+générations.
+Structuration de la recherche :
+Mettre en place une coordination nationale pour centraliser et optimiser
+les efforts de recherche.
+Mobiliser des financements locaux et internationaux pour soutenir les
+projets innovants.
+Promotion de l’inclusion
+Mettre en place des bourses pour les femmes et les groupes sousreprésentés.
+Créer des programmes de formation adaptés aux besoins des zones
+rurales.
+Encouragement des partenariats :
+Collaborer avec le secteur privé pour financer les infrastructures et les
+formations.
+Développer des programmes d’incitation pour attirer des investissements
+étrangers.
+d. Conclusion
+L’écosystème académique ivoirien possède un potentiel significatif pour devenir un
+levier stratégique dans l’adoption et l’intégration de l’intelligence artificielle. En
+renforçant les infrastructures, en formant les compétences locales et en structurant
+les efforts de recherche, la Côte d’Ivoire peut s’affirmer comme un leader régional en
+IA. Cependant, cette ambition exige une vision claire, une coordination entre les
+parties prenantes et des politiques inclusives pour garantir une transformation
+durable et équitable.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 42
+
+4 Services et administrations publics
+a. Contexte générale
+L’administration publique joue un rôle central dans le fonctionnement de la société
+ivoirienne, en assurant la prestation de services essentiels aux citoyens et en
+soutenant la mise en œuvre des politiques publiques. Cependant, elle est confrontée
+à des défis importants, notamment une gestion parfois inefficace des ressources,
+une lenteur dans les processus administratifs, et un accès limité à des outils
+modernes pour l’analyse et la prise de décision. L’intelligence artificielle (IA) offre des
+opportunités uniques pour transformer l’administration publique, en améliorant la
+transparence, l’efficacité, et la qualité des services publics.
+b. Applications de l’IA dans l’administration publique
+L’IA peut être appliquée dans divers domaines pour transformer l’administration
+publique :
+Automatisation des processus administratifs
+Optimisation des délais de traitement des demandes et réduction des
+erreurs humaines.
+Analyse des données des citoyens
+Amélioration de la gestion des états civils, des registres fonciers et d’autres
+bases de données stratégiques.
+Prédiction et gestion des risques
+Renforcement de la sécurité publique grâce à l’analyse des données liées
+aux crises et incidents potentiels
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 43
+
+c. Recommandations stratégiques
+Renforcement des Infrastructures
+Améliorer l’interopérabilité des systèmes informatiques publics.
+Créer des bases de données centralisées pour une gestion efficace des
+services publics.
+Promotion de l’Automatisation
+Développer des outils IA pour automatiser les processus administratifs
+critiques.
+Établir des plateformes en ligne pour un accès rapide aux services publics.
+Formation des Agents Publics
+Mettre en place des programmes de renforcement des capacités en IA
+pour les fonctionnaires.
+Intégrer l’IA dans les curricula des institutions de formation publique (ENA,
+ENS, etc.)
+Cadre Réglementaire
+Développer des lois et règlements pour encadrer l’utilisation de l’IA dans
+l’administration.
+Définir des standards pour la gestion et la protection des données
+publiques.
+Inclusion et Transparence
+Sensibiliser les citoyens à l’utilisation des services publics numériques.
+Assurer une transparence totale dans la gestion des données publiques.
+d. Conclusion
+L’intégration de l’intelligence artificielle dans l’administration publique ivoirienne
+représente une opportunité majeure pour moderniser les services publics et
+renforcer la transparence. En misant sur une gouvernance adaptée, des
+infrastructures robustes et un cadre réglementaire clair, la Côte d’Ivoire peut être un
+modèle régional d’administration numérique inclusive et performante.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 44
+
+5 Arts et Culture
+a. Contexte générale
+Les arts et la culture occupent une place essentielle dans l’identité nationale et la
+dynamique sociale de la Côte d’Ivoire, mettant en valeur la richesse et la diversité des
+60 ethnies qui composent le pays. Ce secteur valorise le patrimoine matériel et
+immatériel, la musique, les arts visuels, la littérature, les festivals et les traditions,
+tout en exploitant des opportunités économiques et touristiques. L’intégration de
+l’intelligence artificielle (IA) ouvre de nouvelles perspectives pour préserver,
+promouvoir et innover dans ce domaine. En associant IA et créativité, la Côte d’Ivoire
+peut transformer la gestion et la diffusion de son patrimoine artistique et culturel,
+renforçant ainsi sa compétitivité sur la scène internationale.
+b. Applications de l’IA dans le Secteur des Arts et de la
+Culture
+Numérisation et archivage
+Utilisation d’algorithmes pour capturer et organiser des archives
+culturelles complexes.
+Création d’expériences immersives
+Développement d’applications AR/VR permettant une immersion dans les
+pratiques culturelles ivoiriennes.
+Gestion et promotion intelligente
+IA pour analyser les tendances et adapter la promotion des événements et
+œuvres aux publics cibles.
+Optimisation des droits d’auteur et de la gestion artistique
+Outils IA pour simplifier la gestion des droits d’auteur et professionnaliser
+les artistes.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 45
+
+c. Recommandations stratégiques
+Renforcement des Infrastructures
+Créer des centres numériques pour stocker les archives culturelles et
+mettre en place une plateforme nationale dédiée à la gestion et à la
+promotion du patrimoine.
+Expériences Immersives et Numériques :
+Encourager le développement d’applications AR/VR pour enrichir
+l’expérience des visiteurs et collaborer avec des artistes locaux pour
+intégrer ces technologies dans leurs œuvres.
+Formation et Sensibilisation
+Former des spécialistes en numérisation patrimoniale et en gestion de
+données culturelles tout en sensibilisant le public à l’importance de la
+préservation.
+Partenariats et Législation
+Travailler avec l’UNESCO et des acteurs privés pour financer des projets
+culturels, et établir un cadre légal pour protéger les œuvres numérisées et
+réguler leur gestion.
+Création d’un Cadre Règlementaire
+Mettre en place une législation sur la protection des données culturelles et
+sur la gestion des œuvres numérisées.
+Mobilisation des partenaires
+Encourager les partenariats avec des organisations internationales comme
+l’UNESCO pour financer et promouvoir la numérisation culturelle ;
+Collaborer avec le secteur privé pour développer des solutions
+technologiques adaptées.
+d. Conclusion
+Les arts et la culture en Côte d’Ivoire, enrichis par les innovations technologiques et
+l’intelligence artificielle, représentent une opportunité unique pour moderniser et
+valoriser le patrimoine national. En investissant dans les infrastructures numériques,
+en formant des experts locaux et en établissant des partenariats stratégiques, la
+Côte d’Ivoire peut se positionner comme un leader régional en créativité et en
+innovation culturelle. Cette transformation inclusive contribuera au développement
+économique et à la préservation de l’identité culturelle pour les générations futures.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 46
+
+B. Développement régional et inclusivité
+1- Inclusion des zones rurales
+Réduction de la fracture numérique en assurant un accès équitable aux
+technologies IA, y compris dans les zones rurales et défavorisées.
+Soutien à l’innovation locale, en formant les jeunes talents et en créant des
+hubs technologiques régionaux.
+Encouragement des partenariats public-privé pour le déploiement des
+solutions IA dans les régions éloignées.
+2. Stimulation des économies locales
+Encouragement de l’entrepreneuriat technologique dans les régions grâce à
+des incitations fiscales et à des programmes d’accompagnement.
+Soutien aux PME locales pour intégrer l’IA dans leurs opérations, leur
+permettant d’améliorer leur productivité et leur compétitivité.
+Développement de programmes spécifiques pour autonomiser les femmes
+et les jeunes dans le domaine de l’IA.
+3. Collaboration et sensibilisation
+Renforcer la collaboration entre les secteurs publics, privés et académiques
+pour identifier les besoins spécifiques de chaque secteur et région.
+Sensibiliser les citoyens aux avantages de l’IA, notamment en mettant en
+avant des success stories locales et en organisant des campagnes
+d’éducation technologique.
+Créer des mécanismes participatifs pour impliquer les communautés locales
+dans le processus d’adoption de l’IA.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 47
+
+C. Impact du pilier << Inclusion >>
+Grâce à une intégration bien planifiée des technologies IA dans tous les
+secteurs et toutes les régions
+Les services publics seront plus accessibles et efficaces, même dans les
+zones éloignées
+L’économie locale sera revitalisée, avec des opportunités accrues pour les
+petites et moyennes entreprises
+Les inégalités régionales seront réduites, assurant que tous les citoyens,
+quel que soit leur lieu de résidence, bénéficient des avancées
+technologiques
+Une meilleure harmonisation entre développement technologique et
+protection des valeurs culturelles et sociales du pays sera atteinte.
+En garantissant que l'IA bénéficie à tous les secteurs et régions, ce pilier
+ambitionne de transformer la Côte d’Ivoire en un exemple d’inclusivité
+technologique en Afrique.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 48
+
+VI. Pilier 3 : Gouvernance
+Pour garantir une utilisation responsable et éthique des technologies de l’IA, la Côte
+d’Ivoire doit mettre en place un cadre de gouvernance efficace, solide et pro
+innovation. Ce pilier « Gouvernance » repose sur :
+L’élaboration de politiques et régulations adaptées, assurant la sécurité
+des citoyens et la protection de leurs données personnelles.
+Le renforcement des capacités des institutions publiques, notamment en
+matière d’évaluation des risques liés à l’IA et d’encadrement des systèmes.
+La création d’un environnement de confiance, en mettant en avant la
+transparence, la lutte contre les biais algorithmiques et l’équité dans les
+décisions prises par les systèmes IA.
+La collaboration internationale, pour harmoniser les standards et normes
+tout en valorisant les spécificités nationales.
+Figure : présentation du pilier GOUVERNANCE
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 49
+
+📍
+Adoption d’une loi IA
+Cadre légal, éthique et juridique 📍 Création d’une autorité nationale pour superviser et
+coordonner l’IA
+📍
+Transparence des algorithmes et protection des citoyens
+📍
+Centres nationaux de données
+📍
+Incitations fiscales pour soutenir l’innovation IA
+📍
+Politique nationale encadrant l’IA
+Gouvernance et leadership
+📍
+Évaluation de la sécurité et conformité des systèmes IA
+📍
+Standards nationaux pour la transparence algorithmique
+📍
+Audits réguliers des algorithmes publics
+📍
+Renforcement de la protection des données
+GOUVERNANCE
+📍
+Transparence sur l’utilisation des systèmes IA dans les
+services publics
+📍
+Engagement auprès de l’Union africaine et des Nations unies
+Collaboration internationale 📍
+Projets de recherche sur l’éthique et l’IA
+📍
+Prévention des usages autoritaires de l’IA
+📍
+Cybersécurité des infrastructures critiques
+📍
+Création d’un forum national pour harmoniser les réglementations
+📍
+Régulation cohérente et efficace Identification des lacunes en compétences
+📍
+Formation et certification des systèmes IA
+📍
+Projets pilotes en santé et éducation
+Le secteur public comme modèle
+📍
+Intégration de l’IA dans la gestion des ressources publiques
+📍
+Outils d’audit pour les projets IA administratifs
+📍
+Tests rigoureux des systèmes IA gouvernementaux
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030
+
+A. Cadre légal, éthique et juridique
+1 Contexte
+Bien que l’IA représente une opportunité stratégique pour accélérer le
+développement socioéconomique de la Côte d’Ivoire, son adoption et son utilisation
+doivent être encadrées par un cadre légal et éthique adapté aux spécificités locales
+et aligné sur les meilleures pratiques internationales.
+Le développement de l’IA en Côte d’Ivoire dépend d’un cadre juridique, éthique et
+réglementaire clair et inclusif. Une approche proactive et structurée permettra de
+maximiser les bénéfices de l’IA tout en minimisant les risques, garantissant ainsi une
+adoption responsable au service de la population et de l’économie nationale.
+2. Recommandations
+Élaboration d’un cadre juridique dédié à l’IA
+Classifier les systèmes IA par niveau de risque.
+Imposer des obligations de transparence et de sécurité aux systèmes IA à
+haut risque.
+Création d’une autorité nationale pour l’IA
+Superviser l’adoption des politiques IA.
+Coordonner les efforts entre les secteurs public et privé.
+Garantir une régulation harmonisée.
+Mise en place de principes éthiques
+L’équité et la transparence des algorithmes.
+La protection des droits des citoyens.
+Souveraineté numérique
+Il faut assurer la souveraineté des données par la création de centres
+nationaux de données pour fournir des bases solides aux projets IA.
+Mobilisation des financements
+Il faut mettre en place des incitations fiscales et des fonds spécifiques pour
+soutenir l’innovation locale.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 51
+
+B. Gouvernance et leadership
+La Nation se doit d’encourager l'innovation tout en protégeant le public.
+L’adoption de technologies IA doit s’accompagner de garanties qui
+minimisent les risques, favorisent la transparence et renforcent la confiance
+dans l’IA. C’est pourquoi les actions suivantes sont nécessaires :
+Établir un cadre de gouvernance axé sur l'innovation
+Élaborer une politique nationale pour encadrer les opportunités et défis
+de l’IA, intégrant des principes tels que la proportionnalité et la flexibilité
+Soutenir le développement d’un écosystème d’outils et de services pour
+évaluer la sécurité, l’équité et la conformité des systèmes IA.
+Renforcer la transparence algorithmique
+Développer un standard national pour la transparence des algorithmes
+utilisés par le secteur public
+Exiger des audits réguliers des algorithmes utilisés dans les décisions
+publiques critiques.
+Protéger les droits des citoyens :
+Mettre à jour le cadre de protection des données pour autoriser leur
+usage responsable dans la détection et la correction des biais ;
+Mettre en œuvre des obligations de transparence sur l’utilisation des
+systèmes décisionnels automatisés dans les services publics.
+En garantissant que l'IA bénéficie à tous les secteurs et régions, ce pilier
+ambitionne de transformer la Côte d’Ivoire en un exemple d’inclusivité
+technologique en Afrique.
+C. Collaborer à l’échelle internationale
+La Côte d’Ivoire doit travailler avec ses partenaires pour aligner la
+gouvernance de l’IA sur les normes mondiales, tout en défendant des
+valeurs telles que la justice, la démocratie et le respect des droits humains.
+Participer activement aux cadres internationaux :
+Collaborer avec des organisations comme l’Union africaine et les Nations
+unies pour développer des normes de gouvernance IA.
+Intégrer des alliances régionales pour partager les meilleures pratiques
+et promouvoir des valeurs communes.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 52
+
+Favoriser les partenariats scientifiques :
+Soutenir des projets de recherche communs sur les implications
+éthiques et sociales de l’IA.
+Faciliter le transfert de connaissances entre chercheurs ivoiriens et leurs
+homologues internationaux.
+Lutter contre l'utilisation abusive de l’IA :
+Identifier et prévenir les risques liés à l’utilisation de l’IA à des fins
+autoritaires ou répressives.
+Renforcer la cybersécurité pour protéger les infrastructures critiques
+contre les attaques basées sur l’IA.
+D. Garantir une régulation cohérente et efficace
+Un cadre cohérent est nécessaire pour éviter les contradictions entre les
+secteurs et renforcer la capacité des régulateurs à superviser efficacement
+l’IA.
+Coordonner les régulateurs sectoriels :
+Créer un forum national pour harmoniser les réglementations
+sectorielles sur l’IA.
+Fournir des directives aux régulateurs pour répondre rapidement aux
+nouveaux défis posés par l’IA.
+Évaluer les capacités des régulateurs :
+Identifier les lacunes en matière de compétences et d’outils nécessaires
+pour réguler l’IA.
+Former les régulateurs aux méthodologies d’évaluation et de certification
+des systèmes IA.
+Soutenir les normes techniques
+E. Le secteur public comme modèle d’éthique et de
+transparence
+Le gouvernement se doit de montrer le bon exemple dans l’adoption et
+l’utilisation responsable de l’IA. Les actions suivantes sont donc nécessaires :
+Adopter l’IA dans les politiques publiques
+Lancer des projets pilotes dans des domaines comme la santé et
+l’éducation pour montrer les avantages de l’IA.
+Intégrer l’IA dans les mécanismes de gestion des ressources publiques.
+Intégrer l’IA dans les plans nationaux de développement
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 53
+
+Former les agents publics
+Développer des modules de formation pour sensibiliser les
+fonctionnaires aux opportunités et défis de l’IA.
+Fournir des outils pour évaluer et auditer les projets IA dans
+l’administration publique.
+Protéger contre les biais algorithmiques :
+Exiger des tests rigoureux pour identifier et corriger les biais dans les
+systèmes IA utilisés par le gouvernement.
+Collaborer avec des organisations indépendantes pour garantir l’équité
+des algorithmes.
+F. Impact du pilier « Gouvernance »
+Confiance accrue : Un cadre de gouvernance clair renforcera la
+confiance des citoyens et des investisseurs.
+Innovation responsable : Des règles équilibrées permettront aux
+entreprises d’innover tout en respectant les droits et valeurs des
+citoyens.
+Leadership international : La Côte d’Ivoire pourra jouer un rôle actif
+dans la définition des normes globales de gouvernance de l’IA.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 54
+
+M I S E E N O E U V R E
+D E L A
+S T R A T É G I E
+
+I. Leadership au sein de l’Ecosystème
+Pour assurer un pilotage stratégique et une mise en œuvre efficace de la Stratégie
+Nationale de l’IA, la Côte d’Ivoire créera une Agence Nationale de l’Intelligence
+Artificielle (ANIA). Cette agence jouera un rôle central en tant qu’organisme unique
+combinant les fonctions de gouvernance, de coordination et de conseil, tout en
+intégrant un Conseil National de l’IA en son sein, pour bénéficier d’un leadership
+expert et diversifié.
+A. Mandat de l’ANIA
+Formation et renforcement Innovation et prototypage
+des capacités
+Soutenir des projets
+Promouvoir le
+d’innovation et accélérer la
+développement des Superviser
+transformation numérique à
+compétences en IA pour la mise en œuvre et la
+travers des solutions IA
+construire un écosystème conformité des systèmes d’IA
+adaptées aux besoins
+inclusif et durable.
+nationaux
+Leadership stratégique Coordination intersectorielle Régulation et éthique
+Assurer la planification et le Regrouper les acteurs publics, Élaborer et superviser les
+pilotage de la mise en œuvre privés et académiques pour cadres réglementaires et
+de la Stratégie Nationale de garantir une approche éthiques pour une IA
+l’IA sur le long terme cohérente et collaborative responsable et transparente.
+Fournir Assurer
+un cadre pour les la coordination avec les acteurs
+plaintes relatives aux locaux et internationaux pour la
+non-conformités. régulation et la standardisation des
+pratiques en IA.
+B. Structure organisationelle de l’ANIA
+Avec une structure organisationnelle robuste, l’ANIA sera capable de catalyser
+l’écosystème de l’IA en Côte d’Ivoire, tout en assurant une régulation éthique, une
+formation adaptée, et une innovation centrée sur les besoins locaux. L’ANIA sera
+donc composée de cinq pôles principaux, chacun ayant des responsabilités
+spécifiques pour maximiser l’impact de l’IA en Côte d’Ivoire :
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 56
+
+B. Structure organisationnelle de l’ANIA
+Pôle Actions clés
+Gouvernance et Éthique Développer et mettre à jour le cadre légal de l’IA (transparence des algorithmes, propriété intellectuelle, protection des données)
+Superviser l’application d’un certificat “SafeAI Côte d’Ivoire” pour garantir la conformité éthique des solutions IA.
+Prototypage et Soutien aux startups, PME et chercheurs via des financements ciblés et un accès facilité aux infrastructures technologiques.
+Innovation Développement de laboratoires régionaux d’innovation pour tester et valider les applications IA en agriculture, santé, industrie.
+Promotion d’un écosystème d’innovation aligné sur les besoins locaux et régionaux.
+Formation et Capacités Lancer des programmes de formation initiale, continue et spécialisée pour développer les compétences locales en IA.
+Collaborer avec des institutions académiques (INPHB, ESATIC, UVCI) pour intégrer l’IA dans les curriculums éducatifs.
+Veille Stratégique et Création du Conseil National de l’IA (CNIA) avec des experts nationaux et internationaux (industrie, recherche, institutions publiques).
+Conseil Fournir des recommandations régulières au gouvernement sur les opportunités, défis et priorités émergentes de l’IA.
+Démocratisation et Sensibilisation des citoyens et des acteurs économiques aux opportunités de l’IA via des campagnes nationales.
+Adoption Encouragement de l’adoption des solutions IA dans les administrations publiques, PME et communautés rurales.
+Mise en œuvre de programmes d’inclusion numérique pour que l’IA bénéficie aux populations vulnérables et marginalisées.
+C. Fonctionnement du Conseil National au sein de l’ANIA
+Élément Description
+Composition Des membres issus du secteur public, privé et académique, représentant une diversité de compétences (éthique, réglementation, R&D, applications sectorielles).
+Engagement national Évaluer les progrès et fournir des recommandations stratégiques ; mener des consultations avec les citoyens et les parties prenantes pour garantir une adoption
+inclusive et équitable de l’IA.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030
+
+D. Priorités Stratégiques de l’ANIA
+Priorités Stratégiques de l’ANIA Description
+Révision légale et éthique Mettre à jour les lois sur la propriété intellectuelle pour inclure les droits liés aux créations générées par IA.
+Renforcer la loi sur la vie privée en intégrant des dispositions sur les données utilisées pour l’entraînement des modèles IA.
+Créer des directives nationales sur la transparence algorithmique et la responsabilité des décisions automatisées.
+Développement des infrastructures Établir un réseau de datacenters nationaux interconnectés pour soutenir les besoins de calcul intensif des projets IA.
+Déployer une plateforme nationale de données ouvertes pour encourager l’innovation locale.
+Renforcement des capacités Former 5 000 jeunes aux compétences IA dans les cinq prochaines années via des programmes ciblés.
+Créer un programme national de bourses pour soutenir les talents émergents en IA.
+Promotion de l’innovation locale Lancer des appels à projets annuels pour financer des initiatives IA dans les secteurs prioritaires (santé, agriculture, mobilité).
+Soutenir la création de clusters technologiques régionaux pour équilibrer le développement entre les zones urbaines et rurales.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030
+
+D. Garantir une régulation cohérente et efficace
+Leadership régional
+Positionner la Côte d’Ivoire comme un hub de l’innovation IA en Afrique de
+l’Ouest.
+Croissance inclusive
+Assurer que les bénéfices de l’IA touchent toutes les régions et populations
+du pays.
+Adoption responsable
+Favoriser une IA éthique, transparente et adaptée aux besoins locaux tout
+en respectant les standards internationaux.
+En centralisant les fonctions de gouvernance, d’innovation et de conseil,
+l’ANIA deviendra le moteur de la transformation IA en Côte d’Ivoire, tout en
+garantissant une coordination efficace et un impact durable pour les
+générations futures. La gouvernance efficace de l’IA positionnera la Côte
+d’Ivoire comme un modèle dans la promotion d’une intelligence artificielle
+responsable, inclusive et axée sur l’amélioration de la qualité de vie des
+citoyens.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 59
+
+II. Suivi, évaluation et mise à jour de la stratégie
+La stratégie nationale pour l’intelligence artificielle (SNDIA) repose sur un mécanisme
+robuste de suivi, d’évaluation et de mise à jour. Ce mécanisme garantit une mise en
+œuvre efficace, l’identification rapide des nouveaux défis et opportunités, et une
+adaptation continue de la stratégie en fonction des évolutions technologiques et des
+besoins nationaux. Le suivi sera centralisé au sein de l’Agence Nationale de
+l’Intelligence Artificielle (ANIA), qui jouera un rôle clé dans la coordination et la
+gestion des activités stratégiques.
+A. Indicateurs de performance clés (KPI)
+Les indicateurs de performance clés (KPI) permettent de mesurer les avancées
+concrètes de la stratégie. Ces indicateurs sont alignés avec les trois piliers
+stratégiques et couvrent des dimensions économiques, sociales et technologiques.
+1.Indicateurs par pilier stratégique
+Pilier Indicateurs de suivi
+Pilier 1 : Nombre de formations spécialisées en IA créées en partenariat avec les
+Investissement universités et le secteur privé.
+Pourcentage d’augmentation des compétences en IA dans les secteurs clés.
+Nombre de centres de données et infrastructures technologiques déployés.
+Volume total des investissements publics et privés dans les projets IA.
+Pilier 2 : Inclusion Nombre de solutions IA adoptées dans les secteurs prioritaires (santé,
+agriculture, éducation, etc.).
+Pourcentage des régions ayant accès aux infrastructures et solutions IA.
+Nombre de collaborations public-privé pour des projets IA implémentés dans les
+régions.
+Pilier 3 : Gouvernance Nombre de systèmes IA conformes aux standards éthiques nationaux.
+Participation de la Côte d’Ivoire à des initiatives internationales de gouvernance
+IA.
+Niveau de satisfaction des citoyens concernant la transparence et l’équité des
+systèmes IA.
+2. Indicateurs transversaux
+L’Intelligence Artificielle, en automatisant les tâches répétitives et en améliorant la
+productivité contribue à la croissance économique et à l'amélioration du niveau de
+vie des populations. Afin de mesurer son impact sur l’économie et la société, les
+indicateurs de succès suivant ont été sélectionnés :
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 60
+
+Indicateurs transversaux
+Taux de satisfaction des
+Taux d’adoption de l’IA
+usagers du service public
+dans le service public
+utilisant l’IA
+Pourcentage des usagers Niveau de connaissance
+du service public ayant des usagers du service
+intégré l’IA dans leurs public sur les concepts de
+activités quotidiennes base de l’IA
+Rang de la Côte d’Ivoire au
+Nombre d’emplois créé
+niveau régional dans la
+directement ou
+transformation du secteur
+indirectement grâce
+de l’économie induite par
+l’utilisation de l’IA
+Nombre de citoyens
+sensibilisés et formés à
+l’utilisation responsable de
+l’IA
+B. Processus de suivi et d’évaluation
+L’ANIA sera responsable de superviser et de coordonner le suivi de la mise en œuvre
+de la stratégie. Le processus de suivi inclura :
+Le comité inclura des représentants des ministères sectoriels, des
+organisations privées, des universités et de la société civile.
+Il coordonnera les activités liées aux indicateurs de performance et veillera à
+l’harmonisation des efforts entre les parties prenantes.
+Mise en place d’un comité
+de suivi au sein de l’ANIA
+Rapports trimestriels : Suivi des avancées sur les actions
+spécifiques et analyse des défis rencontrés.
+Rapports annuels : Évaluation globale des progrès réalisés,
+Production de rapports périodiques
+incluant des recommandations pour l’ajustement de la stratégie.
+Développement d’un tableau de bord interactif pour collecter
+et analyser les données en temps réel.
+Création d’une plateforme numérique de suivi
+Centralisation des données et des retours des parties
+prenantes pour une transparence totale.
+Réalisation d’évaluations annuelles par des experts
+Évaluations externes indépendantes
+indépendants.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 61
+
+Indicateurs transversaux
+C. Révision et mise à jour de la stratégie
+Pour garantir sa pertinence dans un environnement en constante évolution, la
+stratégie sera régulièrement révisée en fonction des retours d’expérience et des
+tendances émergentes.
+Analyse prospective
+L’ANIA conduira des études pour anticiper les évolutions technologiques
+et leurs impacts potentiels sur l’écosystème ivoirien.
+Les résultats orienteront les priorités stratégiques.
+Consultations inclusives
+Organisation d’ateliers avec les acteurs locaux et internationaux pour
+recueillir leurs perspectives.
+Participation active des citoyens et des bénéficiaires pour évaluer les
+résultats de la stratégie.
+Flexibilité dans les ajustements
+Adaptation des objectifs et des actions stratégiques en fonction des défis
+identifiés.
+Intégration de nouveaux secteurs ou innovations disruptives.
+Mécanisme d’approbation
+Les modifications majeures seront soumises à une validation
+gouvernementale avant leur intégration officielle.
+Une version révisée de la stratégie sera publiée tous les cinq ans, avec
+un résumé des changements.
+D. Impact attendu
+Pour garantir sa pertinence dans un environnement en constante évolution, la
+stratégie sera régulièrement révisée en fonction des retours d’expérience et des
+tendances émergentes.
+Meilleure coordination nationale : Grâce à l’ANIA, toutes les initiatives
+seront alignées sur les objectifs stratégiques.
+Innovation continue : Une adaptation régulière garantira l’intégration des
+avancées technologiques les plus récentes.
+Confiance des parties prenantes : Un processus de suivi transparent
+renforcera la confiance des citoyens, des investisseurs et des partenaires
+internationaux.
+En établissant un cadre de suivi, d’évaluation et de révision efficace, la Côte d’Ivoire
+s’assure de maximiser les bénéfices de sa stratégie nationale pour l’intelligence
+artificielle tout en minimisant les risques et en répondant aux défis émergents.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 62
+
+III. Conduite du changement
+A. Introduction
+L’intégration de l’intelligence artificielle Pour les décideurs du secteur privé, une
+(IA) dans les processus de politique de conduite du changement
+l’administration publique et du secteur est essentielle pour transformer l’IA
+privé représente un levier puissant pour d’un simple outil technologique en un
+la transformation économique et sociale véritable moteur stratégique. Les cadres
+en Côte d’Ivoire. Cependant, cette et dirigeants doivent être formés à
+adoption nécessite un changement identifier et exploiter les opportunités
+culturel, organisationnel et stratégique, qu’offre l’IA, qu’il s’agisse d’améliorer la
+rendant indispensable l’établissement productivité, de réduire les coûts, ou de
+d’une politique de conduite du développer des modèles d’affaires
+changement. innovants. Une telle politique facilite
+l’adoption de solutions IA au sein des
+Pour l’administration publique, une telle organisations en instaurant des
+politique permet de sensibiliser les mécanismes d’accompagnement, en
+agents aux avantages de l’IA, tout en les promouvant une culture de l’innovation
+accompagnant dans l’acquisition des et en favorisant la collaboration
+compétences nécessaires pour utiliser intersectorielle. Elle permet également
+ces technologies. Elle garantit de rassurer les parties prenantes sur les
+également une appropriation enjeux éthiques et économiques liés à
+progressive et inclusive des outils IA, en l’IA, tout en alignant son adoption sur
+minimisant les résistances au les objectifs stratégiques des
+changement souvent liées à la peur de entreprises.
+l’automatisation ou à la complexité des
+innovations technologiques. En En dotant ces deux secteurs d’une
+structurant ce processus, politique claire et structurée, la Côte
+l’administration publique peut non d’Ivoire peut maximiser les bénéfices de
+seulement optimiser ses services, mais l’IA tout en assurant une transition
+aussi renforcer la transparence, harmonieuse et durable vers une
+l’efficacité et la satisfaction des citoyens. économie numérique compétitive.
+B. Conduite du changement pour l’administration
+publique
+1.Objectif général
+Créer une administration publique capable d’adopter, de maîtriser et d’utiliser l’IA
+comme levier de transformation de la gouvernance et des services publics, tout en
+renforçant la confiance et la compétence des agents publics.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 63
+
+2. Sensibilisation et communication
+Campagnes de sensibilisation nationales : Lancer des initiatives pour expliquer
+aux agents publics les bénéfices de l’IA dans leurs tâches quotidiennes, en
+mettant l’accent sur des exemples concrets tels que l’automatisation des tâches
+administratives, l’amélioration de la gestion des ressources, et l’accélération des
+processus décisionnels.
+Messages clés : Souligner que l’IA est un outil de soutien, conçu pour améliorer
+la performance des services publics et renforcer la satisfaction des citoyens.
+Canaux de communication : Utiliser les réseaux intranet des administrations,
+des ateliers sur site et les plateformes de communication interne pour diffuser
+des informations adaptées.
+3. Formation et renforcement des capacités
+Formation de base : Sensibiliser l’ensemble des agents aux concepts
+fondamentaux de l’IA et à ses applications.
+Formation avancée : Former les gestionnaires et techniciens sur des outils
+pratiques comme l’analyse des données et les systèmes d’aide à la décision.
+Modules spécialisés : Développer des cours pour les décideurs sur l’éthique de
+l’IA et la gouvernance des données.
+Collaboration avec les institutions académiques : S’associer à des universités
+et des organismes de formation spécialisés pour développer ces programmes.
+Création d’une académie nationale de l’IA : Fournir une plateforme dédiée à la
+formation continue des agents publics.
+4. Adoption progressive et gestion des résistances
+Projets pilotes : Démarrer avec des projets ciblés dans des ministères
+stratégiques comme la santé, l’éducation ou la gestion des infrastructures pour
+tester les technologies IA et démontrer leur impact.
+Gestion des résistances : Identifier les craintes des agents à travers des
+enquêtes et y répondre par des sessions de dialogue et des retours d’expérience
+sur les succès des projets pilotes.
+Implication des parties prenantes : Créer des groupes de travail qui incluent
+des agents publics à tous les niveaux pour assurer une Co-construction des
+solutions IA.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 64
+
+5. Alignement avec les objectifs stratégiques
+Roadmaps sectorielles : Développer des feuilles de route spécifiques pour les
+secteurs prioritaires (ex. : banque, énergie, agriculture) avec des étapes claires
+pour l’adoption de l’IA.
+Adoption graduelle : Encourager les entreprises à expérimenter avec des projets
+pilotes avant d’élargir l’utilisation de l’IA à l’ensemble de leurs opérations.
+6. Suivi et ajustement
+Indicateurs de performance : Évaluer l’impact des projets IA sur les résultats
+financiers, l’innovation et la compétitivité des entreprises.
+Retours d’expérience : Organiser des sessions annuelles pour discuter des
+réussites, des défis et des leçons apprises.
+Diffusion des résultats : Publier des études de cas et des rapports sectoriels
+pour inciter d’autres entreprises à adopter l’IA.
+D. Conclusion
+La conduite du changement pour la stratégie nationale de l’intelligence artificielle
+repose sur des approches différenciées pour l’administration publique et le secteur
+privé. En sensibilisant, formant, et impliquant activement les parties prenantes, ces
+politiques garantissent une adoption harmonieuse et efficace de l’IA. Elles
+permettront de positionner la Côte d’Ivoire comme un leader régional en matière
+d’innovation technologique et de transformation numérique.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 65
+
+IV. Feuille de route et plan d’actions
+Numéro Projet Description Pilier
+Phase 1 Création de l’ANIA, mobilisation des parties prenantes et diagnostic national des ressources disponibles.
+1 Mise en Mission d’une Task Force pour la Sensibilisation et Création d’une Task Force temporaire pour sensibiliser les parties Gouvernance
+le Déploiement de la Stratégie prenantes, coordonner les premiers projets pilotes et préparer la mise
+en place de l’ANIA.
+2 Création de l’Agence Nationale de l’Intelligence Artificielle Établissement de l’entité centrale pour superviser, coordonner et Gouvernance
+(ANIA) exécuter la stratégie nationale en IA, comprenant locaux, équipements, et
+recrutement.
+3 Organisation d’un atelier national de lancement de la Réunion collaborative pour présenter la stratégie nationale, définir les Inclusion
+stratégie IA priorités, et créer des groupes de travail multisectoriels.
+4 Mise en Place du Processus de Certification "SafeAI” Création d’un cadre de certification garantissant la conformité éthique, Gouvernance
+juridique et sécuritaire des solutions IA déployées en Côte d’Ivoire.
+5 Diagnostic National des Ressources Cartographie des infrastructures technologiques, des compétences Investissement
+humaines, et des données disponibles pour orienter les actions
+stratégiques en IA.
+6 Création de la Cité de l’Innovation (HUB IA) Construction d’un centre d’excellence dédié à l’innovation et à la Investissement
+collaboration entre startups, chercheurs, et entreprises pour positionner
+la Côte d’Ivoire comme leader régional en IA.
+7 Mise en Place du Fonds de Pré-financement pour Startups Mécanisme financier dédié pour soutenir les startups locales et favoriser Investissement
+IA leur participation aux projets technologiques nationaux en IA.
+8 Mise en Place de la Loi sur le Contenu Local dans Législation visant à encourager l’utilisation des talents et entreprises Gouvernance
+l’Intelligence Artificielle locales dans les projets IA, tout en stimulant l’innovation et le
+développement économique national.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030
+
+Numéro Projet Description Pilier
+Phase 2 : Développement des infrastructures technologiques, formation des talents et intégration de l’IA dans les curriculums éducatifs.
+1 Addition de Services Données et IA aux Centres de Intégration de capacités IA dans les centres de données publics et privés Investissement
+Données Nationaux pour améliorer les performances, le stockage et l’analyse des données à
+grande échelle.
+2 Mise en Ligne et Accès au Supercalculateur Déploiement d’un supercalculateur accessible aux startups, chercheurs, Investissement ;
+et entreprises pour accélérer la recherche et l’innovation en IA. Inclusion
+3 Création d’un Centre de Formation IA Construction et équipement d’un centre spécialisé pour la formation Investissement ;
+initiale, continue, et reconversion professionnelle en IA. Inclusion
+4 Programme de Sensibilisation et Renforcement des Formation des acteurs de la santé à l’utilisation des outils IA pour Inclusion ;
+Capacités pour les Professionnels de la Santé améliorer les diagnostics, optimiser les soins, et gérer efficacement les Investissement
+ressources sanitaires.
+5 Réforme des Curriculums Éducatifs du Secondaire Intégration de modules d’intelligence artificielle dans les programmes du Inclusion ;
+secondaire pour préparer les futurs talents à la transformation Investissement
+numérique.
+6 Programme de Sensibilisation pour Décideurs Mise en œuvre d’un programme dédié à former 500 hauts cadres et Inclusion ;
+décideurs par an sur les opportunités, risques et applications Investissement
+stratégiques de l’IA.
+7 Renforcement de la Recherche et Innovation en IA Positionnement de la Côte d’Ivoire comme un hub régional de la Investissement
+recherche en IA, en soutenant les chercheurs et en créant des
+infrastructures de pointe
+8 Création d’un programme national de bourses en IA Ouverture de nouvelles opportunités d’apprentissage et de Inclusion
+perfectionnement
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030
+
+Numéro Projet Description Pilier
+Phase 3 : Mise en œuvre de projets IA dans les secteurs prioritaires pour démontrer l’impact concret de l’IA (santé, agriculture, éducation, transport,
+culture, industrie 4.0, réduction de la fracture numérique).
+1 Agriculture : Plateforme de Prédiction pour les Développement d’une plateforme IA pour prédire les rendements Inclusion
+Agriculteurs agricoles, optimiser les intrants, et fournir des recommandations
+adaptées aux conditions locales.
+2 Santé : Développement d’un Système IA pour le Diagnostic Mise en place d’un outil IA capable de détecter les maladies chroniques Inclusion
+Précoce et infectieuses à un stade précoce pour améliorer la prévention et les
+soins médicaux.
+3 Éducation : Plateforme IA pour le Suivi Personnalisé des Création d’une plateforme numérique utilisant l’IA pour offrir un Inclusion
+Élèves apprentissage adapté aux besoins spécifiques de chaque élève et
+améliorer la réussite scolaire.
+4 Expansion des Activités du Centre de Formation et de Renforcement des capacités du centre existant pour inclure des modules Inclusion ;
+Reconversion en IA avancés, élargir l’accès à la formation, et promouvoir l’inclusion dans le Investissement
+domaine de l’IA.
+5 Transport : Optimisation des Flux de Circulation à Abidjan Déploiement de systèmes intelligents pour analyser et optimiser les flux Inclusion ;
+avec IA de trafic en temps réel, réduisant les embouteillages et améliorant la Investissement
+mobilité urbaine.
+6 Éducation et Formation Générale en IA Intégration de l’enseignement de l’IA dans le parcours éducatif dès le Inclusion
+secondaire, pour préparer la jeunesse ivoirienne aux métiers du futur
+7 Soutien du HUB AI a la définition et à la mise en œuvre des Soutien technique et financier aux startups pour la définition et la mise Inclusion
+cas d’usage en œuvre des cas d’usage
+8 AI pour l’Inclusion et l’Impact Social Accessibilité de l’IA à toutes les couches sociales et économiques du pays. Inclusion
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030
+
+Numéro Projet Description Pilier
+Phase 4 : Déploiement d’Infrastructures Numériques Avancées
+1 Construction d’un Mini Supercalculateur National et Mise a niveau des capacités de traitement à large échelle (climatologie, Investissement
+Extension du Hub IA santé, etc.) tout en favorisant la collaboration entre chercheurs,
+entrepreneurs, et organismes publics.
+2 Développement de 3 nouveaux centres de données IA en Installation des sites stratégiques capables de stocker et de traiter des Investissement
+Côte d’Ivoire quantités massives de données
+3 Mise en place du Cloud Souverain Ivoirien Réponse aux besoins de l’administration et des entreprises pour l’analyse Investissement
+de données et l’exécution d’applications IA à grande échelle, tout en
+protégeant la souveraineté numérique du pays.
+Numéro Projet Description Pilier
+Phase 5 : Mise en place d’un cadre de suivi, publication de rapports annuels, et organisation de consultations nationales pour ajuster la stratégie IA.
+1 Établissement d’un Cadre de Suivi Basé sur des Indicateurs Développement d’un système d’indicateurs de performance aligné sur Gouvernance
+de Performance Clés (KPI) les objectifs stratégiques pour mesurer l’impact des projets IA et guider
+les ajustements nécessaires.
+2 Publication de Rapports d’Avancement Annuels Rédaction et diffusion de rapports réguliers sur l’état d’avancement des Gouvernance
+projets IA, pour renforcer la transparence et maintenir l’engagement des
+parties prenantes.
+3 Organisation de Consultations Nationales pour Ajuster la Mise en place d’ateliers participatifs avec les acteurs clés pour évaluer les Inclusion
+Stratégie progrès réalisés, recueillir des retours, et ajuster les priorités stratégiques
+en conséquence.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030
+
+Numéro Projet Description Pilier Budget
+Phase 6 : Extension des projets IA réussis, renforcement des infrastructures existantes, et transformation du centre de formation IA en un pôle
+d’excellence régional.
+1 Extension des Projets Pilotes à d’Autres Régions Réplication des initiatives IA réussies dans des régions rurales et Investissement 18 750
+semi-urbaines pour assurer une couverture nationale et réduire les
+disparités régionales.
+2 Renforcement des Infrastructures Existantes Modernisation et extension des infrastructures numériques, Investissement 75 250
+incluant les centres de données et les réseaux, pour répondre aux
+besoins croissants de l’écosystème IA.
+3 Expansion du Centre de Formation et de Transformation du centre de formation en un pôle d’excellence Investissement 25 000
+Reconversion en IA régional, intégrant des modules avancés et des collaborations
+internationales pour attirer étudiants et chercheurs.
+Intégration de Modules Avancés de Recherche et Développement de programmes de recherche spécialisés et Investissement ; 15 000
+Partenariats Internationaux renforcement des collaborations avec des institutions Inclusion
+internationales pour stimuler l’innovation et la compétitivité.
+Total Phase 2 134 000
+Phase 0 Conduite du changement Assurer le succès de la stratégie à travers la gestion du Inclusion 5 000
+comportement et du changement humain
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030
+
+CONCLUSION GÉNÉRALE
+L'intelligence artificielle (IA) est bien plus qu'une opportunité technologique pour la
+Côte d’Ivoire : elle est un levier stratégique pour transformer en profondeur les
+secteurs clés de l’économie, de la société, et de l’administration.
+Cette stratégie nationale pose les bases solides d’un écosystème IA capable de
+répondre aux défis actuels et futurs, tout en exploitant les immenses potentialités
+qu’offre l’IA pour un développement inclusif et durable tout en maintenant l’identité
+culturelle de la Côte d’Ivoire.
+Avec une vision claire et des objectifs bien définis, cette stratégie repose sur trois
+piliers fondamentaux :
+investir dans les besoins à long terme de l’écosystème IA
+garantir que l’IA bénéficie à tous les secteurs et à toutes les régions
+établir une gouvernance efficace et éthique de cette technologie.
+Ces piliers s’articulent autour de projets concrets qui répondent aux besoins
+immédiats du pays tout en préparant un avenir prospère où l’IA sera intégrée dans
+chaque aspect de la société ivoirienne.
+La réussite de cette stratégie dépendra d’un engagement collectif et coordonné entre
+les différents acteurs : gouvernement, secteur privé, institutions académiques,
+organisations internationales et société civile.
+En outre, un suivi rigoureux et une adaptation continue seront nécessaires pour
+maintenir le cap dans un environnement technologique en constante évolution.
+Avec cette feuille de route, la Côte d’Ivoire se positionne comme leader régional en
+matière d’intelligence artificielle, offrant à ses citoyens une meilleure qualité de vie et
+à ses entreprises une compétitivité accrue sur la scène mondiale.
+En investissant dans l’humain, les infrastructures, et la gouvernance, la Côte d’Ivoire
+tirera pleinement parti des opportunités quasi-infinies offertes par l’intelligence
+artificielle.
+Stratégie Nationale de l’Intelligence Artificielle - SNIA 2030 71

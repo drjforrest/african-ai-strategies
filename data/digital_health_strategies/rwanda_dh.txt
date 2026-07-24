@@ -1,0 +1,2522 @@
+THE NATIONAL DIGITAL
+HEALTH STRATEGIC PLAN
+2018-2023
+June 2018
+
+MinistryofHealth_ eHealthUnit
+Document History
+Date Comments By
+July2006 InitialRelease MOHeHealthunit
+April2009 Updatedversion MOHeHealthUnit
+Oct2016 Updatedversion MOHeHealthUnit
+Nov2017 Updatedversion–alignedwithnewpolicy MOHeHealthUnit
+Feb2018 Updated version – incorporating commentsfrom MOHeHealthUnit
+RISA
+June2018 Updated version following workshop with RISA MOHeHealthUnit
+andotherstakeholders
+RwandaDigitalHealthStrategicPlanDraftPage|2
+
+MinistryofHealth_ eHealthUnit
+Table of contents
+LISTOFFIGURESANDTABLES 5
+LISTOFABBREVIATIONS: 6
+Glossary: 8
+FORWARD 9
+ACKNOWLEDGEMENTS 10
+EXECUTIVESUMMARY 11
+Introduction 13
+SituationAnalysis 15
+Countrycontext 15
+Demographicandgeographicsituation 15
+Socio-economicsituation 15
+DigitalHealthContext 16
+GlobalDigitalHealthtrendsandBestPractices 18
+SWOTanalysis: 20
+KeyChallenges/Problemstatements: 22
+Vision,MissionandValues 24
+Vision 24
+MissionforeHealth 24
+Values 24
+Comprehensivestrategicframework 24
+FLAGSHIPPROJECTS 27
+HealthEnterpriseArchitecture 28
+ElectronicMedicalRecordS(includingFacilitymanagementSystem) 28
+Citizen’sHealthportal 28
+Telehealth 29
+QuickWins 29
+KeyInterventionsandStrategies 30
+Strengthenintegrationandinteroperabilityofhealthinformationsystems 30
+HealthEnterpriseArchitecture(includingHealthinformationexchange)–FlagshipProject 30
+ImprovehealthservicedeliveryandaccessibilitythroughDigitalHealth 33
+EMR/facilitymanagementsysteminallhealthfacilities 33
+LaboratoryInformationSystems 35
+Promotetelemedicineforremotediagnosticsandcare–FlagshipProject 36
+Improveaccesstohealthinformationanddigitalservicesforcitizens 38
+RwandaDigitalHealthStrategicPlanDraftPage|3
+
+MinistryofHealth_ eHealthUnit
+ImplementaCitizen’sHealthPortal–FlagshipProject 38
+Improvecollection,managementanduseofdataatalllevelsofcare 39
+ContinuetoexpandRHMISplatformAndbuildcapacityfordataqualityassuranceanddatademandand
+use 39
+CommunityHealthsurveillanceandreporting(RapidSMS) 42
+Enhanceepidemicdiseasesurveillanceandresponse(eIDSR) 45
+Strengthenthemanagementofcriticalresourcesinthehealthsector,byenhancingthefollowingsystems:
+
+Supplychainmanagementsystems: 46
+BloodBankInformationsystem 48
+MedicalEquipmentManagementandMaintenanceSystem 49
+FinancialManagementsystem 50
+QualityAssuranceandPerformance-BasedFinancingSystems 52
+HealthSectorMutualAssistanceGroup(MAG)microfinancesystem(New) 53
+HUMANRESOURCEINFORMATIONSYSTEM 54
+ImproveICTinfrastructureandsoftwaresupportintheHealthSector 57
+Leveragetechnologytobuildthecapacityofthehealthworkforce,offerdecision-supportandprepare
+healthworkersatalllevelstomanageandusethefullrangeofDigitalHealthtechnologies 58
+WorkforceDigitalLiteracydevelopmentStrategy 58
+ExpanduseofeLearning 59
+Improvethelegalandregulatoryframeworkforsecurity,confidentialityandcontrolledaccessto
+information. 60
+Developandimplementapersonaldatasharing/confidentialitypolicyandenforcementframework 60
+Promoteresearchanddevelopmenttoadaptinnovationsandtheuseofemergingtechnologiesinthe
+healthsector 61
+ActivityLogframe 63
+Budget 63
+eHealthGovernance 64
+eHealthManagementStructure 64
+eHealthTechnicalWorkinggroup(TWG) 65
+EnsuringasuccessfulImplementation 65
+MonitoringandEvaluation 66
+REFERENCES. 69
+RwandaDigitalHealthStrategicPlanDraftPage|4
+
+MinistryofHealth_ eHealthUnit
+LISTOFFIGURESANDTABLES
+Figure1:RwandaDigitalHealthFramework 12
+Figure2:DigitalHealthFramework 24
+Figure3:FlagshipProjects 27
+Figure4:RwandaHealthEnterpriseArchitectureFramework 31
+Figure5:CurrenteHealthManagementStructure 65
+Table1:KeyHealthIndicators 16
+Table2:BudgetSummary 63
+Table3:M&Eframework,PolicyOrientations,Indicators,baselines,targetsanddatasources 66
+RwandaDigitalHealthStrategicPlanDraftPage|5
+
+MinistryofHealth_ eHealthUnit
+LISTOFABBREVIATIONS:
+4G: Fourthgeneration
+ATC: AnatomicalTherapeuticallyChemicalClassification
+CDC: CenterforDiseaseControl
+CHAI: ClintonHealthAccessInitiative
+CHUK: CentreHospitalierUniversitairedeKigali
+CHW: CommunityHealthWorkers
+DHIS-2: DistrictHealthInformationSystemversion2
+DHMT: DistrictHealthManagementTeam
+DHS: DemographicHealthSurvey
+DHU: DistrictHealthManagementUnits
+DICOM: DigitalImagingandCommunicationsinMedicine
+DQA: DataQualityAudit
+DSL: DigitalSubscriberLine
+EDPRS: EconomicDevelopmentandPovertyReductionStrategy
+EICV: EnquêteIntégralesurlesConditionsdeVie
+eIDSR: ElectronicIntegratedDiseaseSurveillanceandResponse
+eLMIS: ElectronicLogisticsManagementInformationSystem
+EMR: ElectronicMedicalRecords
+HIE: HealthInformationExchange
+HISP: HealthInformationSystemProgram
+HMIS: HealthManagementInformationSystem
+HRTT: HealthResourceTrackingTool
+iCCM: IntegratedCommunityCaseManagement
+ICD: InternationalStatisticalClassificationofDiseasesandRelatedHealthProblems
+ICT: InformationandCommunicationTechnology
+IFMIS: IntegratedFinanceManagementInformationSystem
+IMCI: IntegratedManagementofChildhoodIllness
+IPPIS: IntegratedPayrollandPersonalInformation
+KPI: KeyPerformanceIndicators
+LAN: LocalAreaNetwork
+LIS: LaboratoryInformationSystem
+LMO: LogisticsManagementOffice
+LTE: Long-TermEvolution
+MEMS: MedicalEquipmentmaintenanceSystem
+mHealth: MobileHealth
+MIFOTRA: MinistryofPublicServiceandLabor
+MINICOFIN: MinistryofFinanceandEconomicPlanning
+MNHBC: MaternalandNewbornHome-basedCare
+MOH: MinistryofHealth
+MPPD: MedicalProcurementandProductionDivision
+MTI: MedicalTechnologyandInfrastructure
+MyICT: MinistryofYouthandICT
+NBTC/CNTS: NationalBloodTransfusionCenter/CentreNationaldeTransfusionSanguine
+NHA: NationalHealthAccounts
+NICI: NationalInformationandCommunicationIntegration
+NID: NationalIdentification
+NISR: NationalInstituteofStatisticsRwanda
+NRL: NationalReferenceLaboratory
+OpenMRS: OpenMedicalRecordSystem
+PHCPI: PrimaryHealthCarePerformanceInitiative (PHCPI)
+RwandaDigitalHealthStrategicPlanDraftPage|6
+
+MinistryofHealth_ eHealthUnit
+PMTCT: PreventionofMother-to-ChildTransmission
+POC: PointofCare
+PPP: PublicPrivatePartnership
+PRISM: PerformanceofRoutineInformationSystemManagement
+RapidSMS: RapidShortMessageService
+RBC: RwandaBiomedicalCenter
+RHEA: RwandaHealthEnterpriseArchitecture
+RHMIS: RwandaHealthManagementInformationSystem
+SISCom: SYSTÈMED'INFORMATIONDEsantéCOMMUNAUTAIRE
+SRMP: SmartRwandaMasterPlan
+SWOT: StrengthsWeaknessesOpportunitiesandThreats
+TWG: TechnicalWorkingGroup
+VCT: VoluntaryCounselingandTesting
+VSAT: VerySmallApertureTerminal
+WHO: WorldHealthOrganization
+WiMAX:WorldwideInteroperabilityforMicrowaveAccess
+RwandaDigitalHealthStrategicPlanDraftPage|7
+
+MinistryofHealth_ eHealthUnit
+GLOSSARY:
+● DigitalHealth:ThedeliveryofHealthcareservicesthroughtheuseofICT.Itincludesmobile
+health(mHealth),healthinformationtechnology,electronicmedicalrecords(EMR),and
+Telemedicine.
+● mHealth:DeliveryofHealthcareservicesthroughtheuseofmobilenetworksanddevices
+● eHealth:TheuseofICTtosupporthealthcaredelivery
+● Telehealth:Theprovisionofclinicalservicefromadistance,ortheuseofelectronicinformation
+andcommunicationtechnologiestoprovideandsupportofhealthcareservices,healtheducation
+whendistanceseparatestheparticipants
+● Telemedicine: Theremotediagnosisandtreatmentofpatientsusing electronicinformationand
+communicationtechnologies
+● Interoperability:Theabilityofdifferentinformationtechnologysystemsandsoftware
+applicationstocommunicate,exchangedata,andusetheinformationthathavebeenexchanged.
+Integrationallowstwoapplicationstoexchangeinformation.Interoperabilityallowsmany.
+● InformationandCommunicationsTechnology:AnextendedtermforInformationTechnology(IT)
+● eLearning:Theprovisionoflearning,trainingoreducationprogramusingelectronicmeans.It
+involvestheuseofcomputeroranyotherelectronicdevices(mobile,tablet,etc)
+● WebPortal: aspeciallydesignedwebsitethatbringsinformationfromdiversesources,like
+emails,forumsandsearchengines,togetherinauniformway
+● ElectronicMedicalRecords:Digitalversionofpaperchartsinhealthfacility.EMRcontainsnotes
+andinformationcollectedbyandforcliniciansinahealthfacilityandaremostlyusedbyhealth
+providersfordiagnosisandtreatment.
+● Blockchain:Blockchainisalogoftransactionsthatisreplicatedanddistributedacrossmultiple
+decentralizedlocations:Assuch,itoffersasecure,highintegrity,“neutral”3rdpartymechanism
+forknowingwhatdataiswhereandpreciselyhowitischangingovertime(Forbes).Itoffersgreat
+opportunitiesforsecurelysharingpersonalmedicalrecordsortrackingindividualdosesof
+medicinesthroughthesupplychain,forexample.
+● Bigdataanalytics:Bigdatainhealthcarereferstoelectronichealthdatasetssolargeand
+complexthattheyaredifficult(orimpossible)tomanagewithtraditionalsoftwareand/or
+hardware;norcantheybeeasilymanagedwithtraditionalorcommondatamanagementtools
+andmethods. Byapplyingadvancedanalyticsandartificialintelligencetools,bigdatacanbe
+minedorharvestedtoimprovepublichealthandindividualpatientcare.
+RwandaDigitalHealthStrategicPlanDraftPage|8
+
+MinistryofHealth_ eHealthUnit
+FORWARD
+The Government of Rwanda seeks to provide quality health care to all Rwandans. The e-Health Strategic
+Plan is a guiding document that describes Rwanda’s long-term vision for e-Health, withastrongfocuson
+activities, tangible benefits and deliverables for the next five years. The strategic plan builds on the
+existing 2009 five-year strategic plan and the various Digital Health initiatives that the Ministry has
+embarked on over the past few years. The strategic plan is also complementary to the Smart Rwanda
+Masterplan.
+Section 4.1 of the Smart Rwanda master plan commits the governmentofRwandato“Expandingremote
+medical/healthcare services and enhance accessibility” with a list of clear objectives, outcomeindicators
+and related projects. This strategic plan takes this commitment into consideration in addition to other
+healthsectorgoalsasdefinedintheHealthSectorStrategicPlan(HSSPIII).
+Over the past decade a number of information systems have been put in place including; integrated
+routine reporting Health Management Information System, Electronic Medical Records, Electronic
+Logistics Management Information Systems, Mobile community based information systems, Human
+Resources Information system, Resource tracking information system, Laboratory Information System,
+Integrated Disease Surveillance Information Systems, Health Resource Tracking Tool, Blood bank
+information system and telemedicine equipment. The Health Sector has also adopted some standardsto
+ensurethatthevariousinformationsystemsareinteroperable.
+This strategic plan builds onearliersuccessesbyproposingstrategiestoscaleupcertaininterventionsata
+national level and enhancing their performance to ensure that the systems meet users’ needs. The
+strategic plan also proposes new information system interventions in order to automate the remaining
+servicesinthehealthsector.
+The strategic plan emphasizes engagement of the private sector in form of public private partnerships
+especially in activities related to software development and support as well as ICT infrastructure
+maintenance.
+This Strategic plan was developed by the Ministry of Health with inputs from RBC, MYICT, RDB, eHealth
+TWG members, and with financial and technical support from USAID’s Rwanda Health Systems
+StrengtheningProject/MSH,UNICEF/RwandaandHealthSystemsInnovationsLtd.
+Ministerof Health
+RwandaDigitalHealthStrategicPlanDraftPage|9
+
+MinistryofHealth_ eHealthUnit
+ACKNOWLEDGEMENTS
+TheMinistryofHealthwouldliketothankthemanystakeholdersfromGOR(MITEC,RISA,RDB,
+MINECOFIN),implementingpartners(MSH,UNICEF,PIH,GirlHub,RFHP,CHAI,CDC),andRBC
+programstaffwhoparticipatedinthedevelopmentofthisstrategicplan. Inparticular,wewish
+tothankthefollowingpartnerorganizationsforfundingkeyphasesofthework:
+● USAIDthroughMSH’sRwandaHealthSystemsStrengthening(RHSS)Projectforfinancing
+theinitialplanningworkshopandprovidingtechnicalassistanceforthefinalizationof
+theplan
+● UNICEFthatprovidedadditionaltechnicalassistancetowritethepolicyandkeysections
+oftheplan.
+RwandaDigitalHealthStrategicPlanDraftPage|10
+
+MinistryofHealth_ eHealthUnit
+EXECUTIVESUMMARY
+The Government of Rwanda has a vision touseInformationCommunicationTechnologiesintransforming
+the health sector. The Digital Health strategic planunderlinesthisvisionasstipulatedintheHealthSector
+StrategicPlan(HSSPIV)andtheSmartRwandaMasterplan.
+Over the past decade,theMinistryofHealthhasimplementedawiderageinformationsystemsinabidto
+automate health services and improve health outcomes. The systems are at various stages of
+implementation,somebeingatinitialstageswhileothersareoperationalatnationalscale.
+Keychallenges
+A number of system evaluations have been carried out to assess theprogressoftheimplementationand
+to document the successes and challenges. In addition to this a SWOT analysis oftheHealthInformation
+ecosystem was carried out and thefollowinghealthsystemchallengeshavebeendocumentedandwillbe
+addressedbythenewDigitalHealthpolicyandstrategicplan:
+● Medical records in hospitals and health centers are paper-based and this renders sharing of
+medicalrecordsandpatientfollowupverydifficult.
+● Due to Rwanda’s hilly terrain and inefficient transport infrastructure especially in rural areas,
+patients find it difficult to access health facilities. Patients also have to make long distance
+travelstourbanareastoaccessspecializedmedicalservices.
+● Health services are primarily health facility based, citizens are not sufficiently engaged or
+informedinmattersconcerningtheirhealth.
+● Multiple reporting systems impose a burden on health workers and make it difficult to access
+data for evidence-based decision-making. Some systems are stove-piped, so it is difficult to
+comparekeyperformanceindicatorsfromdifferentsystems.
+● An increasing share of services delivered by the private sector that does not report
+systematicallymeansthatagrowingpieceoftheepidemiologicalsituationismissing.
+● Appropriate distribution of Health Sector human resources (doctors, nurses and even
+community health workers) are key to effective service delivery, better systems are needed to
+ensure staff are equitably distributed, to manage their career development, and for future
+workforceplanning.
+● Assuring continuous availability of drugs at all levels of the health system remains a problem.
+The supply chain system needs to be extended andbettertechnologiesimplementedformore
+efficientdistribution,stockmanagementandquantification.
+● Sustainability of interventions is always a concern in the Health Sector, which is heavily
+dependent on donor funding. With decentralization, health facilities need robust financial
+managementsystemstoimproveefficiency,accountabilityandenhancerevenuecollection.
+● Impressive initiatives have been undertaken to implement a wide range of health information
+sub-systems in Rwanda, but frequently they have been developed on different platforms and
+data stored in legacy systems. This has resulted in considerable duplication of effort and
+difficulty to access and consolidate data for evidence-based decision-making. Terminologyand
+technologystandardsneedtobeimplementedtoensuresysteminteroperability.
+● Withanincreasingdependenceoninformationtechnologyateverylevelofthehealthsystemto
+support many different operational needs, the current MOH led mechanisms to support avast
+community of users is unable to keep up with the demand that is needed to keepthesystems
+running constantly. There is a need to leverage investments made by the Government in
+RwandaDigitalHealthStrategicPlanDraftPage|11
+
+MinistryofHealth_ eHealthUnit
+connectivity and hosting services and to engage the private sector that can provide many of
+theseservicesmoreefficientlyandinlinewithRwanda’se-Governancestrategies.
+● Electronic information is easier to share and is vulnerable to fraudulent use if adequate
+measuresarenotputinplacetoensureitssecurity.
+Strategicframework
+The figure to the left depicts some of the key
+elements of the future citizen- or patient-centered digital health services to be implemented
+though this policy (in the green ring) are built upon the foundational components in the outer
+circleinordertofocusonthehealthofallRwandancitizens.
+PolicyDirections
+The overarching goal of the Digital Health Strategic plan is to improve health service delivery
+andaccessibilitythroughDigitalHealth. Specificpolicydirectionsobjectivesoftheplanareto:
+1. Strengthenintegrationandinteroperabilityofhealthinformationsystems
+2. ImprovehealthservicedeliveryandaccessibilitythroughDigitalHealth
+3. Improveaccesstohealthinformationanddigitalservicesforcitizens
+4. Improvecollection,managementanduseofdataatalllevelsofcare
+5. Strengthenthemanagementofcriticalresourcesinthehealthsector,byenhancingthe
+followingsystems:
+6. ImproveICTinfrastructureandsoftwaresupportintheHealthSector
+7. Improvethelegalandregulatoryframeworkforsecurity,confidentialityandcontrolled
+accesstoinformation.
+8. Leveragetechnologytobuildthecapacityofthehealthworkforce,offerdecision-support
+andpreparehealthworkersatalllevelstomanageandusethefullrangeofDigitalHealth
+technologies
+9. Promoteresearchanddevelopmenttoadapt innovationsandtheuseofemerging
+technologiesinthehealthsector
+RwandaDigitalHealthStrategicPlanDraftPage|12
+
+MinistryofHealth_ eHealthUnit
+INTRODUCTION
+Purposeofthisdocument
+The Digital HealthStrategicplanisaguidingdocumentthatpresentsahigh-levelplantodevelop
+and implement Digital Health in Rwanda. It describes Rwanda’s long-term vision for Digital
+Health with a strong focus on the tangible benefits and deliverables that will be achieved over
+the next five years. The strategic plan also describes the leadership and governance structure
+that has been put in place to guide the implementation, andhelpensurethetimelycompletion
+ofDigitalHealthdeliverablesandrealizationoftheassociatedbenefitsforRwandans.
+The strategic plan was initially updated following a 3-day Digital Health Strategic Planning
+workshop attended by over 80 stakeholders in Gisenyi from November 3-6, 2015. This was
+followed by a series of meetings with sub-groups of stakeholders to develop the detailed
+sub-projects. In Rwanda, the Ministry of health defines Digital Health as – The delivery of
+Healthcare services through the use of ICT. It includes mobile health (mHealth), health
+informationtechnology,electronicmedicalrecords(EMR),andTelemedicine.
+Rwanda’s Digital Health policy translates the Government’s overall vision of using Information
+Communication Technologies to transform the health sector as set out in the Health Sector
+strategic plan and the SmartRwanda master plan developed by the Ministry of Youth and ICT
+(MyICT).
+The National Information and Communication Integration (NICI) document (2010) committed
+the Government of Rwanda to an integrated socio-economic policy and plan leveraging ICT. In
+line with this plan, the Ministry of Health is committed to the deployment of ICT in order to
+improvehealthcareservicedelivery.
+In 2015 the SmartRwanda plan was developed by theMinistryofYouthandICT.Thisplanbrings
+a new focus on services and lessontechnologyalone. TheSmartRwandaplanpromotesprivate
+sector engagement such as the RwandaOnline initiative and proposed new governance
+structures with sectormanagerstakingtheleadandICTsupportingtheirpriorities.Animportant
+component of the SmartRwanda master plan is SmartHealth, which proposes a series of Digital
+Healthinterventions.
+In2017,theMoHdevelopedanewHealthSectorStrategicPlan(HSSPIV). ThisreflectsRwanda’s
+commitments to achieving the Sustainable Development Goals (SDGs) and includes key
+strategies related to Health Information Systems (HIS) and use of ICT to improve global health
+security. KeyinterventionshavebeenaddedtotheDigitalHealthpolicyandplantoreflectthese
+priorities.
+The Ministry of Health has been implementing various Digital Health solutions over the past
+years, guided by the first five-year national eHealth Strategic Plan, that started in 2009. A
+RwandaDigitalHealthStrategicPlanDraftPage|13
+
+MinistryofHealth_ eHealthUnit
+number of systems are functional at a national level such as RHMIS, RapidSMS, eLMIS, etc.The
+Ministry will build on some of these successes to improve the existing systems andputinplace
+newones.
+Digital Health will be key to transforming andenablingthesustainabilityofRwanda’shealthcare
+system. It supports an environment with integrated services to efficiently deliver high-quality
+andcoordinatedhealthcareservicestothecitizensofRwanda.
+ThedocumentpresentstheDigitalHealthStrategicPlaninsevenparts:
+1) SituationAnalysis(context,progressandchallenges)
+2) PolicyDirectionsandOverarchinggoals
+3) Vision,Mission,ValuesandKeyStrategicobjectives
+4) Comprehensivestrategicframework
+5) Implementationplan
+6) Budget
+7) Governance,
+8) Monitoring&evaluation
+9) Logicalframework(inAnnex)
+10) Summariesofselecteddigitalhealthrelatedevaluations
+RwandaDigitalHealthStrategicPlanDraftPage|14
+
+MinistryofHealth_ eHealthUnit
+SITUATIONANALYSIS
+COUNTRYCONTEXT
+DEMOGRAPHICANDGEOGRAPHICSITUATION
+Rwanda is a small, mountainous and land locked country of 26,338 square kilometers lying just
+southoftheequatorwithanaverageelevationof1,700meters.Approximately35percentofthe
+landisfitforcultivation.
+Rwanda’s population is growing rapidly with implications on socio-economic conditions and
+coverage of health services. The most recent population census, conducted in 2012, estimated
+the population to be around 10.5 million people. Population density is the highest in
+Sub-Saharan Africa (416 inhabitants per square kilometer). The population is essentially young,
+with 52 percent of all Rwandansundertheageof20.Intermsofgender,the2012censusshows
+females to be in the majority (52 percent) while males make up 48 percent of the population
+(NISR,2012)(1).
+The illiteracy rate declined from 34 percent to 15.5percentamongwomenandfrom24percent
+to10.3percentamongmenbetween2005and2010(DHS2005and2010)(2,3).
+SOCIO-ECONOMICSITUATION
+Significant efforts have beenmadetodeveloptheservicesectorandstimulateinvestmentinthe
+industrial sector; however, the Rwandan economy remains dominated by agriculture. In 2012,
+the service sector accounts for the largest share of Rwanda’s Gross DomesticProduct(GDP),46
+percent,followedbyagriculturewith32percentandindustrywith22percent(NISR,2012)(4).
+According to EDPRS II, average GDP Growthduringthe2008-2012periodwas8.2%andtheGDP
+per capita in 2012 was $644. Data from integrated household living conditions surveys (EICV)
+show that the percentage of people living below the poverty line was 44.9% in 2010-11, down
+from 56.7% in 2005-06. In 2010-11, net primary school and secondary school attendance were
+respectively at 91.7% and 20.9%. The percentage of peoplehavingaccesstosafedrinkingwater
+was 74.2% while it was 10.8% for people havingaccesstoelectricityforlighting(EDPRS2,2012)
+(5).
+The health sector has a crucial role to play in the achievement ofthenationalmid-term(EDPRS
+2) goal of 11.5% economic growth rate. Continuous progress in the coverage and quality of
+preventive, curative and rehabilitativehealthinterventionsandinthehealthseekingbehaviorof
+the population ensure improvements in the health status and productivity of the Rwandan
+population. The health sector also has an influence on the enabling environment for economic
+and social transformation as envisioned by the EDPRS II, aiming to contribute to a reduction in
+the fertility rate, which will help ease the demographic pressure in the country. Availability of
+RwandaDigitalHealthStrategicPlanDraftPage|15
+
+MinistryofHealth_ eHealthUnit
+high quality health services, as an important element of the service sector, contributes to the
+generationofcollectivewealthandiscrucialtoattractinginvestorsandtourists.
+Table1:KeyHealthIndicators
+DIGITALHEALTHCONTEXT
+Globally, Digital Health is seen as akeypillarinhealthsystemstrengtheningasevidencedbythe
+global Health Sustainable Development Goals. A recent survey that was carried out by Health
+Enabled (9) showed that African countries have embraced the use of Information
+Communication Technology for transforming Health Sectors by putting governance frameworks
+in placethatprovideanenablingenvironmentaswellasimplementingavarietyofDigitalHealth
+solutions.
+Due to the attention that is being given to Digital Health, strong international software
+development communities have been formed and have developed a number of open source
+platforms such as DHIS-2, OpenMRS, OpenHIE, etc. A perfect example has been the use of
+DHIS-2, which is currently deployed in 47 countries worldwide mainly for collecting and
+analyzingofroutinehealthdataandcase-basedtrackingofpatients.(10)
+In Africa, mHealth applications such as RapidSMS, mHero and others havebeenwidelyusedfor
+follow up of pregnant mothers, tracking of epidemics such as Ebola, etc. Electronic medical
+recordshavealsobeenwidelyusedforpatientmonitoring.
+AnumberofcountrieshavealsoadoptedtheuseofDigitalHealthterminologystandardssuchas
+ICD-10, LOINC as well as messaging standards such as HL7 to facilitate system integration and
+interoperability.
+In Rwanda, there has been significantprogressinimplementingDigitalHealthsolutionsoverthe
+past decade. A five-year Digital Health strategic plan was endorsed in 2009andthecountryhas
+RwandaDigitalHealthStrategicPlanDraftPage|16
+
+MinistryofHealth_ eHealthUnit
+been exemplary in Africa in implementing Digital Health solutions at anationalscale.Beloware
+thedifferentinitiativesthathavebeenimplemented;
+● AnopensourceElectronicMedicalRecordSystem(EMR)calledOpenMRSwas
+implementedinvarioushealthfacilities.
+● RBC implemented a Logistics Management Information System (eLMIS) at the central
+level(MPDDwarehouse),30districtpharmaciesandinallpublichealthfacilities
+● Following an introductory period of pilot testing in Musanze District, the RapidSMS
+software was rolled out to all community health workers (CHW) across the country. It
+enables CHWs to report on vital events and selected health indicators concerning
+pregnantwomenandchildrenupto2yearsofage.
+● Transition of most routine reporting systems to the Rwanda HMIS (RHMIS) on the
+web-enabled DHIS-2 platform: These systems include the RHMIS, TracNet, SISCom,
+eIDSR, Health Financing, eTB). In addition, this platform hosts a data warehouse that
+pulls together key performance indicators across the entire sector. These systems are
+supported byDataManagersandM&Eofficersacrossallhospitalsandhealthcenters,as
+wellasteamsfromRBCandtheMOHatthecentrallevel.
+● Creation of a web-based Mutuelle Membership Management System (3MS) that has
+beentransitionedtoRSSB: ThissystemfacilitatesprocessingofCBHIcontributionsinthe
+over 400 mutuelle sections across the country and helps to track progress towards
+universalhealthcoverage.
+● Development of a medical equipment maintenance system (MEMS): Developed with
+support from CHAI, this system enables all hospitals to better manage medical
+equipment,includinginventorycontrol,serviceandrepair.
+● The Laboratory Information System (LIS) was introduced into Rwanda’s National
+Laboratory in 2012. The system streamlines receiving and processing of lab samples.
+RBChasplanstorollitouttoselectedreferralanddistricthospitals.
+● Rwanda’s Nation Blood Bank implementedaweb-basedsystematthenationalleveland
+in each of the provincial blood banks. The system manages data regarding blood
+donations,testinganddistributionacrossthecountry.
+● The Ministry of Health designed and implemented the Rwanda Health Information
+Exchange. The initiative created a blueprint architecture (see Error! Reference source
+not found.) illustrating how all health sector information systems cantalktoeachother
+and demonstrated the feasibility and challenges of implementing an interoperable
+electronicmedicalrecordssysteminruralhealthfacilities.
+RwandaDigitalHealthStrategicPlanDraftPage|17
+
+MinistryofHealth_ eHealthUnit
+● The former Kigali Health Institute, in partnership with the Ministry of Health, designed
+and introduced a Masters degree program in eHealth(healthinformatics)in2010.After
+the creationoftheUniversityofRwandathecoursewastransitionedtotheUR/CMPHas
+a Center of Excellence for eHealth andBiomedicaltechnologyin2014.Sofar,morethan
+40 candidates have completed this 2-yearcourse.Thiscompetency-basedcourseshould
+help to provide the local human resources needed to support Digital Health initiatives
+intothefuture.
+GLOBALDIGITALHEALTHTRENDSANDBESTPRACTICES
+The incredible potential to improve global health delivery through appropriate use of digital
+health drives discussion in global digital community. Every pillarofthe“health”umbrellaisnow
+acknowledging the importance of innovation, and more than ever we are seeing the
+prioritization ofstreamlinedprocessesthroughdigitalplatforms.Medicine,inparticular,isavery
+old industry with massive companies that struggle to innovate from the inside—hence why so
+muchmoneyisbeinginvestedexternally.
+The digital community has shown the high interest in digital health. Members connect to learn
+about feasibility, planning, and implementation of a broad spectrum of digital health projects,
+including electronic medical record systems, mHealth, Telemedicine and Interoperability of
+systems. These technologies aim to increase the quality of care, with greater safety in patient
+follow-up.
+Digital Health becomes an insider in the clinical processes: Health isdata.Digitalhealthmakes
+it possible to circulate this data safely, monitoring patients in and out of hospital, improving
+everything from sleep patterns to patient treatment. Both chronic or acute patients can be
+empowered and improve their health outcomes. At the same time health care services can be
+safer,savetimeandavoidroutinedoctorvisitsorhospitalstays.
+Insurance companies have realizedthevaluesincetheycansavemoneybyreducingthenumber
+of patient re-admissions, improve success rates for adherence and investing in services that
+promote better health life styles. A cultural change is necessary, in order to understand that
+digitaltechnologiesarenotareplacementforhealthprofessionals,onthecontrary,
+Blockchain in healthcare: Blockchain technology is one of the leading trends in the digital
+community. In healthcare, the blockchain is expected to benefit patients interacting with
+healthcare systems by reducing their waiting times and avoiding repetitive registration
+processes. It will reduce manual paperwork and overheads and underlying costs by providing
+transparent and immutable personalised healthcare records that can be accessed from
+anywhere in the world: a “Universal EMR”. It’s expected that blockchain will become the most
+RwandaDigitalHealthStrategicPlanDraftPage|18
+
+MinistryofHealth_ eHealthUnit
+innovative healthcare technology ever by creating a trusted peer-to-peer network for sharing
+informationandvalue.
+mHealth: Mobile health is one of the fastest growing phenomena in the last decade. Despite
+many definitions and sometimes antagonistic concepts and opinions it is, nonetheless,
+developing into a set of strong tools focused on patient engagement, compliance, data
+monitoring, clinical trials and other areas. This initiative could be a big stepforwardtoleverage
+the digital health services by healthcare workforce. No longer dependent upon having an
+expensive computer, mHealth can contribute to knowledge transfer among countries and
+regions, health professionals’ capacity building, clinical guidelines and job aids to assist health
+workerimplementcomplexprotocolsandguidelines.
+Several mHealth: initiatives, such as RapidSMS, mobile payments for CBHI payments and
+tablet-based data collection are already commonly used in the sector, but there are
+opportunitiestodomuchmore:
+● expandeduseofsmartphonevideofortelemedicineconsultations
+● healthworkerdecisionsupportthoughphone-basedprotocols
+● social media and mobile phone health information messaging for health behavior
+changecommunication
+● health status monitoring – when connected with wearable or other devices for
+monitoringbloodsugar,bloodpressure,temperature,etc…
+Big Data & Analytics are delivering practical solutions: By definition, big data in healthcare
+referstoelectronichealthdatasetssolargeandcomplexthattheyaredifficult(orimpossible)to
+manage with traditional software and/or hardware; nor can they be easily managed with
+traditional or common data management tools andmethods.Healthdatavolumeisexpectedto
+grow dramatically in the years ahead. In addition, healthcare reimbursement models are
+changing: meaningful use and pay for performance are emerging as critical new factors in
+today’s healthcare environment. Although profit isnotandshouldnotbeaprimarymotivator,it
+is vitally important forhealthcareorganizationstoacquiretheavailabletools,infrastructure,and
+techniques toleveragebigdataeffectivelyorelserisklosingmillionsinrevenueandcostsavings.
+In addition, the advent ofbigdataprovidesnewopportunitiesfordataminingand de-identified
+medicalrecordscanbesoldtocreateanewrevenuestreamforthehealthsector.
+Artificial intelligence: Advances in the field of artificial intelligence offer great potential for
+decision support to front-line health workers and to help predict adverse health events and
+healthrisks,sothattheycanbemanagedatanearlystage.
+Digital finance: Digital finance has the potential to make the health sector’s financial
+transactions more efficient and secure with cashless transactions. This will reduce fraud, make
+cost recovery more effective and open the way for the large majority of unbanked citizens to
+RwandaDigitalHealthStrategicPlanDraftPage|19
+
+MinistryofHealth_ eHealthUnit
+contribute easily to their CBHI payments or set up health savingsaccountsusingmobilemoney,
+sothattheyarebetterprotectedfromfinancialriskiftheyfallill.
+Learning from best practices: Rwanda has opportunitiestolearnfrombestpracticesacrossthe
+globe. One examplethattheGORhasfollowedcloselyisthatofEstonia. ThroughtheireEstonia
+intitiative 95% of health data is digitized; 99% of prescriptions aredigital;and100%healthcare
+billingisnowelectronic.
+Estonia’shealthcaresystemhasbeenrevolutionizedbyinnovativeeSolutions.Patientsand
+doctors,nottomentionhospitalsandthegovernment,benefitfromconvenientaccessand
+savingsthateServiceshavedelivered.EachpersoninEstoniathathasvisitedadoctorhasan
+onlineeHealthrecordthatcanbetrackedlongitudinally.IdentifiedbytheelectronicID-card,the
+healthinformationiskeptcompletelysecureandatthesametimeaccessibletoauthorized
+individuals.Thesystemusesblockchaintechnologytoensuredataintegrityandmitigateinternal
+threatstothedata.
+Similarly,thereareopportunitiestolearnfromsuccessfulintitiativesacrossAfrica,suchasthe
+rapidexpansionofmobilemoneyadoptioninKenyaandTanzania,andmHealthtechnologies
+suchasMomConnectinSouthAfrica. TheEastAfricanCommunityishelpingtopromotesome
+oftheseinitiativesthroughspecializedsecretariatsandscientificcommissions.
+SWOTANALYSIS:
+A Strengths, Weaknesses, Opportunities and Threats (SWOT) analysis wasconductedduringthe
+initial strategic planning workshop on key themes: Electronic Medical Records (EMR), ICT
+infrastructure and support, Data Use forEvidence-BasedDecision-Making,andmHealth(Mobile
+Health) Systems. The key areas represent many aspects of eHealth as theyaddressissuesatall
+levelsofthehealthcaresystem.
+Thecrosscuttingresultsfromthoseanalysesaresummarizedbelow:
+Strengths: Across nearly all themes, there was praise forthelevelofGovernmentcommitment
+and leadership for eHealth initiatives and evidence-based decision-making. Investments in
+capacity building are also recognized as contributing to the widespread adoption of eHealth
+technologies – especially at district and facility levels. There are staff designated to support
+eHealth in most institutions, starting from Data Managers at the Health Center and Hospital
+levels and ICTofficersinmostProvincial&Districthospitals. Allhealthfacilitiesnowhaveaccess
+to one or more computers and nearly all district hospitals have wired or wireless local area
+networksandlocalserversforhostingtheEMR.
+The Health Sector now has awiderangeofgoodqualitydatasourcesavailableonlinetousersat
+every level of the health system – a major improvement since 2009 when most data were
+captured in off-line and largely paper-based systems. The adoptions ofopensourceweb-based
+platforms, such as RapidSMS, DHIS-2 and OpenMRS, have helped to harmonize disparate
+information systems and will improve sustainability. The Government has put in place policies
+that have promoted the rapid expansion of the telecommunications network to the extentthat
+nearly all district hospitals now are connected to the national fiber optic internet connections.
+RwandaDigitalHealthStrategicPlanDraftPage|20
+
+MinistryofHealth_ eHealthUnit
+CHWs in nearly all villages benefit from being able to use their mobile phones thanks to 98%
+network coverage and donationsof45,000mobilephones. TheNationalDataCenteropenedits
+doors to the Ministry of Health in2013–andmostweb-enabledsystemsarenowhostedonthe
+world-class infrastructure. The national programforruralelectrificationisoncoursetohavefull
+coverageofallhealthcentersanddistricthospitalsby2017.
+Weaknesses: Key weaknesses that were identified included the low numbers of staff trained in
+some of the more specialized areas of systems analysis and software development (both in
+public and private sectors), insufficient back-up electric power, andlimitednumbersofstaffand
+resources at central level tosupportnationallydeployedsystems.Otherweaknessarerelatedto
+change management as clinicians with relatively low computerliteracyhavebeenslowtoadopt
+and use some of the systems on a routine basis and in some facilities managers have not been
+adequately engaged in promoting the benefits of the systems. ThecurrenteHealthgovernance
+structure has been sharply affected by funding cuts resulting in fewer staff to support key
+initiatives. In addition,changestotheMOH,RBCanddecentralizedhealthserviceshaveresulted
+in eHealth and ICTexpertisebeingscatteredacrosstheseinstitutionsinamannerthatisdifficult
+tocoordinate.
+While there have been considerable investments in integrated supervision and data quality
+assessments, maintaining high levels of quality acrossallreportingsystemsremainsachallenge.
+Some data are not usedeffectivelyatthelocallevelwheretheyarecollectedandfeedbackfrom
+higher levels remains relatively ad hoc. Staff attrition and turnover, especially at the national
+level, have resulted in the loss of specialized staff supporting EMR programming and system
+administration. Some of the platforms, such as EMR and Health solutions, have been put in
+place without a clear understanding of the total cost of ownership and funding for recurrent
+expenditures such as user support and equipment maintenance & replacement remain
+challengesforlong-termsustainability.
+Opportunities: Strong international software development communities exist for key open
+source platforms and there is also increasing expertise to support them in-country. If Rwanda
+continues to build on these platforms there is a better likelihood of sustainability and a
+continuous upgrade path. Rwanda’s investments in the National ID system (NID) and efforts to
+strengthen civil registration will form a sound basis for patient unique identifiers – crucial for
+electronic medical records. The overall coverage of the cell phone network at well over 90% of
+the country has enabled the MOHtoimplementnationallevelsystemsforreportingdata–even
+to the village level. Similarly, MYICT and RDB have been working together to extend the
+fiber-optic and 4G networks to provide last mile connectivitytohealthfacilities,toestablishthe
+world-class National Data Center for securely hosting data and applications, to promote local
+private firms to manufacture and maintain computers and to train technicians at the
+decentralized level to maintain ICT infrastructure. The Health Information Exchange project
+completed in 2014 developed a forward-looking enterprise architecture framework and a
+functional platform upon which to implement interoperability between key systems. Rwanda’s
+recent passing of thepublic-privatepartnership(PPP)lawsignalsanopportunitytodeveloplong
+term partnerships with the private sector that could play a crucial role in providing the
+underlying supportforICTandsoftwaredevelopmentfunctionsthattheMOHhasfounddifficult
+to staff andmaintain.Eventhoughdevelopmentassistancefundingisdecreasingsharply,donors
+still appear interested in funding innovative projects to improve information systems and
+RwandaDigitalHealthStrategicPlanDraftPage|21
+
+MinistryofHealth_ eHealthUnit
+evidence-based decision-making. Finally, RwandaisseenasaleaderinICTinEastAfricaandthe
+government has invested in setting a Center of Excellence for eHealth and Biomedical
+Engineering – this center can become a regional hub for promoting innovation and developing
+localcapacitythatcancreateeconomicopportunitiesthatextendbeyondRwanda’sborders.
+Threats: The key crosscutting threats identified across the themes included: Investments in
+systems without adequate information about the total cost of ownership once the system is
+implemented. This has become morecriticalasexternalsourcesoffundingaredecliningrapidly
+and Rwanda seeks to identify domestic sources of financing. With the increasing shift to
+electronic medical records, data security and patient privacy could become issues without the
+development and implementation of formal data security policies and electronic dataexchange
+protocols for individual data. Similarly, such systems can’t tolerate downtime and need to
+function on a 24 hour/7 day a week basis. At the peripheral level, there remain big challenges
+with continuity of electric power and periodic cuts in Internet connectivity that are dependent
+on other sectors. Although there have been considerable investments in capacity building of
+Ministry of Health staff to support basic ICT functions, decreasing budgets at the national level
+have resulted in low retention rates for these specialized staff andthreatenthesustainabilityof
+some of the systems. ThoughaPPPlawhasbeenpassedbyParliament,muchworkneedstobe
+done on changing internal financial management procedures before the private sector can be
+effectively engaged to take on a strong supporting role indigitalhealth.Mostgroupsalsonoted
+a threat intrinsic to ICT: constant change. Innovations are constantly being developed and it is
+becomingmoredifficulttomanagethechangeprocess–bothforsystemupgradesandforusers,
+especiallywiththeshiftofusersfromdatamanagerswithspecificICTtrainingtoclinicians,many
+ofwhomstartwithlowlevelsofcomputerliteracyandareresistanttonewtechnologies.
+KEYCHALLENGES/PROBLEMSTATEMENTS:
+Belowaresomehighlevelchallengesfromthepolicythatthisstrategicplanwilladdress:
+● Medical recordsinhospitalsandhealthcentersarepaper-basedandthisrenderssharing
+ofmedicalrecordsandpatientfollowupverydifficult.
+● Due to Rwanda’s hilly terrain and inefficient transport infrastructure especially in rural
+areas, patients find it difficult to access health facilities. Patientsalsohavetomakelong
+distancetravelstourbanareastoaccessspecializedmedicalservices.
+● Healthservicesareprimarilyhealthfacilitybased,citizensarenotsufficientlyengagedor
+informed in matters concerning their health that can be managed at the household
+level.
+● Multiple reporting systems impose a burden on health workers and make it difficult to
+access data for evidence-based decision-making. Some systems are stove-piped,soitis
+difficulttocomparekeyperformanceindicatorsfromdifferentsystems.
+● An increasing share of services delivered by the private sector, which does not report
+systematically,meansthatagrowingpieceoftheepidemiologicalsituationismissing.
+● Appropriate distribution of Health Sector human resources (doctors, nurses and even
+community health workers) are key to effective service delivery, better systems are
+needed to ensure staff are equitably distributed, to manage their career development,
+andforfutureworkforceplanning.
+RwandaDigitalHealthStrategicPlanDraftPage|22
+
+MinistryofHealth_ eHealthUnit
+● Assuring continuous availability of drugs at all levels of the health system remains a
+problem. The supply chain system needs to be extended and better technologies
+implementedformoreefficientdistribution,stockmanagementandquantification.
+● Sustainability of interventions is always a concern in the health sector, which has been
+heavily dependent on donor funding historically. With decentralization, health facilities
+need robust financial management systems to improve efficiency, accountability and
+enhancerevenuecollection.
+● With an increasing dependence on information technology at every level of the health
+system to support many different operational needs, the current MOH led mechanisms
+to support a vast community of users is unabletokeepupwiththedemandtokeepthe
+systems running constantly. There is a need to leverage investments made by the
+Government in connectivity and hosting services and to engage the private sector that
+can provide many of these services more efficiently and in line with Rwanda’s
+e-Governancestrategies.
+● Electronic information is easier to share but is vulnerable to fraudulent use if adequate
+measuresarenotputinplacetoensureitssecurity.
+● Most medical records in hospitals and health centers are paper-based and this renders
+sharingofmedicalrecordsandpatientfollowupverydifficult.
+● Multiple reporting systems impose a burden on health workers and make it difficult to
+access data for evidence-based decision-making. Some systems are stove-piped,soitis
+difficult to compare different types of data for evidence-based decision-making, for
+example, linking utilization of medicines with disease morbidity. Terminology and
+technologystandardsneedtobeimplementedtoensuresysteminteroperability.
+● An increasing share of services delivered by the private sector, which does not report
+systematically,meansthatagrowingpieceoftheepidemiologicalsituationismissing.
+● Appropriate distribution of health sector human resources (doctors, nurses and even
+community health workers) are key to effective service delivery. Better systems are
+needed to ensure staff are equitably distributed, to manage their career development,
+tosupportdigitalliteracyandcapacitybuilding,andforfutureworkforceplanning.
+● Assuring continuous availability of drugs at all levels of the health system remains a
+problem. The supply chain system needs to be extended and better technologies
+implementedformoreefficientdistribution,stockmanagementandquantification.
+● Sustainability of interventions is always a concern in the health sector, which has been
+heavily dependent on donor funding historically. With decentralization, health facilities
+need robust financial management systems to improve efficiency, accountability and
+enhancerevenuecollection.
+RwandaDigitalHealthStrategicPlanDraftPage|23
+
+MinistryofHealth_ eHealthUnit
+VISION,MISSIONANDVALUES
+VISION
+The vision for Digital Health is to leverage ICT investments to support an efficient health
+workforce offering cost effective patient-centered services with secure access to data for
+continuity of care and evidence-based decision-making, resulting in improved health and
+economicstatusforallRwandancitizens.
+MISSIONFOREHEALTH
+The mission of Digital Health in Rwanda is to contribute to the transformation of the health
+sector by providing access to infrastructure; digital health services; and information that is
+accurate, valid, reliable, timely, relevant, and complete in a bid to improve the quality of and
+universalaccesstohealthcareservices.
+VALUES
+Service to the citizen: Strategies and priorities will be based upon a client-centered service
+deliverymodelwherehealthworkersareaccountabletothepopulation.
+Promote health: Implement digital health services using a public health approach that
+emphasizesprevention,healthpromotioninadditiontotreatment.
+Public protection: Digital health services will be guided by effective policies and regulation to
+protecttheirdataandtimelyinformationthatprotectsthepublicfromhealthrisks.
+Efficiency and cost-effectiveness: The eHealth Unit is committed to achievinghighestefficiency
+atalllevelsofhealthcarewithminimalinvestment.
+Sustainability: Decisions about adopting new systems and technology will be based upon a
+sound analysis of totalcostofownership,engagementofprivatesector,andthedevelopmentof
+localcapacitytomanagethetechnologytoensuresustainability.
+COMPREHENSIVESTRATEGICFRAMEWORK
+Figure 2, to the left, depicts some of the key
+elements of the future citizen- or patient-centered
+digital health services to be implemented though
+thispolicy.
+The five digitalhealthsystemcomponents(ingreen)
+and the foundationalcomponentsintheoutercircle
+are examined in detail in the following sections. A
+RwandaDigitalHealthStrategicPlanDraftPage|24
+
+MinistryofHealth_ eHealthUnit
+briefsummarydescribingthebasicnatureofeachcomponentisprovided.
+The sections below summarize the logical framework that has been developed for the
+implementation of the main policy directions determined by the Digital Health Policy and the
+sub-projects prioritized in this Digital Health Strategic Plan. Below is the summary of these
+policydirectionsandtheirassociatedsubprojects:
+1. Strengthenintegrationandinteroperabilityofhealthinformationsystems
+1.1. UpdatetheRwandaHealthEnterpriseArchitectureframework
+1.2. EnhancetheHealthInformationExchange
+1.3. Implementauniquepatientidentifierlinkedtonationalcivilregistrationandvital
+statistics
+2. ImprovehealthservicedeliveryandaccessibilitythroughDigitalHealth
+2.1. ConfigureandimplementanEMRinallhealthfacilities
+2.2. Laboratoryinformationsystem
+2.3. Promotetelemedicineforremotediagnosticsandcare
+3. Improveaccesstohealthinformationanddigitalservicesforcitizens
+3.1. ImplementaCitizen’sHealthPortal(includingNationalHealthObservatory)
+4. Improvecollection,managementanduseofdataatalllevelsofcare
+4.1. ContinuetoexpandRHMISplatform
+4.2. Continuetobuildcapacityfordataqualityassuranceanddatademandanduse
+4.3. Enhanceepidemicdiseasesurveillanceandresponse
+5. Strengthenthemanagementofcriticalresourcesinthehealthsector,byenhancingthe
+followingsystems:
+5.1. Supplychainsystem
+5.2. Medicalequipmentmaintenance&management
+5.3. Bloodbanksystem
+5.4. FinancialManagement
+5.5. QualityImprovementandPerformance-BasedFinancinginformationsystems
+5.6. HealthSectorMutualAssistanceGroup(MAG)microfinancesystem
+5.7. Humanresourcemanagement
+6. ImproveICTinfrastructureandsoftwaresupportintheHealthSector
+6.1. Improvingelectricityandinternetconnectivity
+6.2. PuttinginplaceLANandWANequipmenttosupportEMR
+6.3. Safedisposalandrecycling
+6.4. ImprovingusersupportthroughPPPs
+7. Improvethelegalandregulatoryframeworkforsecurity,confidentialityandcontrolled
+accesstoinformation.
+7.1. Developandimplementapersonaldatasharing/confidentialitypolicyandenforcement
+strategy
+7.2. Developotherpoliciesandregulatoryframeworksguidingdigitalhealthsystemsand
+devices(e.g.useofSocialMedia,telemedicine)
+RwandaDigitalHealthStrategicPlanDraftPage|25
+
+MinistryofHealth_ eHealthUnit
+8. Leveragetechnologytobuildthecapacityofthehealthworkforce,offerdecision-support
+andpreparehealthworkersatalllevelstomanageandusethefullrangeofDigitalHealth
+technologies
+8.1. Workforcedevelopmentstrategy
+8.2. ExpanduseofeLearning
+9. Promoteresearchanddevelopmenttoadapt innovationsandtheuseofemerging
+technologiesinthehealthsector
+9.1. Supportoperationalresearchoninnovativedigitalhealthtechnologies
+RwandaDigitalHealthStrategicPlanDraftPage|26
+
+MinistryofHealth_ eHealthUnit
+FLAGSHIPPROJECTS
+Whilethisstrategicplanincludesawiderangeofdigital
+healthinterventionsacrossmostofthehealth
+programandserviceareas,fourinitiativeswere
+selectedastheflagshipprojectsforthesector.
+Thesearethemostcross-cuttingandarelikelyto
+havethehighestimpactonthewell-beingof
+citizens.
+///
+RwandaDigitalHealthStrategicPlanDraftPage|27
+
+MinistryofHealth_ eHealthUnit
+HEALTHENTERPRISEARCHITECTURE
+RwandawasapioneeramongAfricancountriesindevelopingandenterprise
+architectureforhealthandimplementingthefirstproofofconceptforahealth
+informationexchangethroughtheRwandaHealthEnterpriseArchitectureProject
+(2010-2014). WiththeGOR’smulti-sectoralEnterpriseArchitectureinitiativenowwell
+underway,theseconceptsneedtobeupdated. Inparticular,theHIEalignsverycloselythe
+“GovernmentServiceBus”thatwillsimplifyexchangeofdataacrosssystemsthatmanage
+transactionsforawiderangeofservicesprovidedtotheRwandanpopulation.
+Thisinitiativeenvisionsthefollowingdevelopments:
+● UpdatingtheRwandaHealthEnterpriseArchitectureframework
+● Standardsforinteroperability
+● Policiesfordataprivacyandexchange
+● InfrastructureattheNationalDataWarehousetoscaleuptheHealthInformation
+Exchange
+● Linkstomulti-sectoralinitiativesincludingthe“CitizenServiceBus”and/ordirectlinks
+withUbudeheandNID.
+ELECTRONICMEDICALRECORDS(INCLUDINGFACILITYMANAGEMENTSYSTEM)
+HealthfacilitiesinRwandahavebeenusingelectronicmedicalrecordssystemsofone
+typeoranotherformanyyears. Nearly400healthcentershaveOpenMRS-basedHIV
+casemanagementmodules,whileabout10hospitalshaveamorecomprehensive‘full
+package’alsodevelopedinOpenMRS. Atleast20facilitiesareusingOpenClinicatthehospital
+levelwithfeaturessimilartothefullpackage. Followingtheassessmentthatindicatedthat
+manyoftheOpenMRSmoduleswerenotbeingfullyutilized,theMOHconductedadetailed
+businessprocessanalysiswithhealthfacilitystaffanddevelopedfunctionalrequirementsfora
+comprehensivehospitalmanagementsystem.
+WhilethecostsforimplementingaunifiedsolutionforEMRwillbehigh,thebenefitsaremany
+andtheexpectedreturnoninvestmentcanbeusedtojustifythatthehealthfacilitiesfundmuch
+oftheinvestmentthemselves. Otherbenefitsinclude:
+● Increasedefficiency–sharingresultsfordiagnostictests,billingandinsuranceclaims
+processing
+● Patientmanagementandreferral–historicalrecordsofpatientvisitscanbequickly
+accessedinthefacilityand,ifthesharedhealthrecordisimplemented,therecordscan
+besharedwithotherfacilitieswhenthepatientsarereferred.
+● Improvedworkflowsandscheduling/appointmentstoreducepatientwaitingtimes
+RwandaDigitalHealthStrategicPlanDraftPage|28
+
+MinistryofHealth_ eHealthUnit
+CITIZEN’SHEALTHPORTAL
+Withtheviewtowardsincreasingcitizen-orpatient-centeredcare,therapidly
+increasingpenetrationofmobilephonesandinternetconnectivitycanbeleveragedto
+delivernewtypeseofservicesandengagecitizensmoreintheirownhealthcare. The
+developmentofacitizen’sinformationportalisbeingledbytheMinistryofLocalGovernment
+(MINALOC)andhealthinformationandservicesarelikelytobeamajorcomponent. TheHealth
+InformationPortalthatwouldprovidecitizenswith:
+● Accesstotheirownpersonalhistoryofhealthrecords
+● Informationabouthealthrisksandrealtimedataaboutdiseasetrends
+● Tipsforself-care–especiallyrelatedtogrowingburdenofNCDs
+● Informationtohelpthemfindandselecthealthcareproviders/services
+TELEHEALTH
+TworelatedinitiativesthatbuildonRwanda’sinvestmentsinconnectivityandshow
+greatpromisearetelemedicineandeLearning. Thesewillextendthereachof
+specializedhealthservicestopatientsandcapacitybuildingtohealthcareprovidersin
+remoteareasincost-effectiveways. Telemedicineisanidealdomaintoengageprivatesector
+investmentandsomeinnovativeinitiativeshavealreadybegunbyofferingphoneandpharmacy
+kiosk-baseremoteconsultations. However,moreworkneedstobedoneonthepolicyfrontto
+createanenablingenvironmentfortheseservices. eLearningcanleveragesomeofthesame
+technologiestoprovideacosteffectiveplatformforcontinuingprofessionaldevelopment(CPD),
+reducetheneedforcostlyworkshopsandhelptodealwiththeneededforcontinuousrefresher
+trainingduetostaffturnover. Keyinterventionsinclude:
+● Establishinganenablingenvironmentfortelemedicine
+● Operationalizingvideoconferencing
+● Establishingacentralcommandcenterforsector monitoring
+● LeveragingeLearningforworkforcecapacitybuilding
+QUICKWINS
+The eHealth team has identified a number of quick winsthatwillhelpgainmomentumtowards
+the implementation of this strategic plan. Several of these are foundational interventions that
+arepre-requisitesformanyoftheothersub-projects.
+Thefollowingaresomeofthemainquickwins:
+● Elaboration of a data security policy for individually identifiable data: Having such a
+policy is essential before the implementation of the EMR and health information
+exchange. In addition, it will determine the citizen’s role in providing consent to data
+sharingandtheextenttowhichthewillbeabletoaccesstheirownrecords.
+RwandaDigitalHealthStrategicPlanDraftPage|29
+
+MinistryofHealth_ eHealthUnit
+● Client/PatientregistrywithuniqueIDs. Withthetransitionfromrelianceonaggregated
+data fromtheHMIStoindividualdatastoredinandEMR,ithasbecomecriticaltohavea
+unique patient identifier to link records longitudinally across the systems. Many
+stakeholders will benefit from this system including chronic disease programs (HIV, TB,
+NCDs) and health providers needing access to data stored in shared health records. It
+will also benefit the individual citizen who canhaveasingleIDnumbertolinktheirdata
+across many services in and beyond the health sector. It builds on work done by
+MINALOC to enhance the CRVS as well as the NID and is an important component of
+MITEC’senterprisearchitectureframework:thegovernmentservicebus.
+● eLearning: Substantial progress has already been made to set up a health sector
+eLearning platform and develop the capacity of key staff todesignandfacilitatecourse.
+Similarly, nearly all district hospitals now have videoconferencing equipment and
+broadband internet. Transitioning more of the sector's capacity build initiatives to
+blended-learning or eLearning approaches can save substantial resources forthehealth
+sector and is especially appropriate for digital literacy andrefreshertrainingforusersof
+healthinformationsystemsplatforms.
+K I S
+EY NTERVENTIONS AND TRATEGIES
+STRENGTHENINTEGRATIONANDINTEROPERABILITYOFHEALTHINFORMATIONSYSTEMS
+ThiscomponentfocusesonupdatingtheRwandaHealthEnterpriseArchitectureframeworkto
+linkitwiththeGovernment’smulti-sectoralinitiativetodevelopanenterpriseservicebus. In
+addition,itwillbuildonthehealthinformationexchangeincludingaclientregistryforuniquely
+identifyingcitizensacrossthehealthsystemandthedevelopmentofpoliciestoprotectand
+securelyshareindividualdata.
+HEALTHENTERPRISEARCHITECTURE(INCLUDINGHEALTHINFORMATIONEXCHANGE)–FLAGSHIPPROJECT
+As indicated in the situationalanalysis,Rwandahasmadesubstantialprogressindevelopingand
+adopting health information standards, as part of the Rwanda Health Enterprise Architecture
+(RHEA) initiative, and creating a Health Information Exchange. Key infrastructure is already in
+place including: a client registry that is based on available data from the Ubudehe database, a
+health facility registry, a health providers’ registry, terminology service, health information
+mediator (HIM/Interoperability layer), a database of shared health records, a health data
+warehouse and several interoperability profiles connecting different information systems
+together (including OpenMRS, RHMIS, RapidSMS, etc…). Rwamagana district served as a pilot
+district to demonstrate a proof of concept in the implementation and use of Rwanda Health
+Information Exchange (RHIE) using a maternal health use case. The proof of concept was
+successful but the system is no longer functional largely because there is nomoredataentryat
+RwandaDigitalHealthStrategicPlanDraftPage|30
+
+MinistryofHealth_ eHealthUnit
+the health facility level although the central infrastructure is still in place and is located in the
+NationalDataCenter.
+The figure below shows how the health information exchange relates to other key components
+oftheRHEAframework.
+Figure4:RwandaHealthEnterpriseArchitectureFramework
+Thedifferentinfrastructurecomponentsperformthefollowingfunctions:
+● A national Shared Health Record (SHR) that maintains a person-centric longitudinal
+record. It is a back-end service for the RHIE and only be accessed at the point-of-care
+(POC) or through a web interface. The SHR is built on OpenMRS and used primarily for
+storageandretrievalofclinicalinformation.
+● A Terminology Service (TS) that promotes semantic interoperabilitybetweensystemsby
+storingcommondatasetssuchasLOINC,ICD10andenablesvalidation.
+● A Client Registry (CR) thatusesalgorithmstoperformmatchingusingclientidentifiersin
+new messages coming from the POC systems with existing clients recorded intheCRto
+ascertain if the new records are for an existing client or a new client is being added to
+theCRandSHR.
+● A Provider Registry (PR) that is a register of healthcare providers from multiple
+sources/levels of health service. The PR validates healthcare providers submitting data
+fromPOCapplicationsagainstthecentralPRbeforetheyentertheSHR.
+RwandaDigitalHealthStrategicPlanDraftPage|31
+
+MinistryofHealth_ eHealthUnit
+● A FacilityRegistry(FR)thatisadatabasethatkeepstrackofdifferenthealthcarefacilities
+within Rwanda,e.g.clinics,hospitals.
+● A Health Information Exchange (Interoperability Layer) that facilitates the transfer of
+information between the registries andPOCsystemsOpenMRSandRapidSMS.TheRHIE
+IL is a software system called Open Health Information Mediator (OpenHIM) that was
+developedbytheJembiSouthAfricanteamspecificallyfortheRHIEusecase.
+Thisinfrastructurewillbeverykeyinsupportingfutureinteroperabilityneedsbutmore
+investmentsarestillrequiredtoupdateandenhancetheexistingtechnologies.
+Whenthisinterventioniscomplete,thefollowingshouldbeinplace:
+● The RwandaHealthEnterpriseArchitectureframeworkguidesinteroperabilityacrossthe
+entirehealthsystem
+● Data flows securely and efficiently between systemsthatarelinkedthroughtheHIEand
+personalinformationisprotected.
+● Person registration systems are fully integrated with the NID (including infants and
+youngchildren)
+● Health facilities use computerized financial management system to comply with public
+sectoraccountingstandardsandefficientlymanagetheirfinancialresources.
+● The RHIE framework is leveraged to implement interoperability between key health
+sectorsystemsformoreefficientandtimelydataflows.
+Someofthekeybenefitsofthisstrategyareto:
+● Improve identification and tracking of patients across theentirehealthsystemincluding
+managementandreferralofpatientswithinandbetweenhealthfacilities
+● Seamlessdataexchangeamongsystemswithminimalduplicationofdataentries.
+● Link between EMR Billing system and future RSSB Claims management system to
+improveefficiencyofbillingandclaimsprocessingwithpaperlesstransactions
+● IntegrationbetweenEMRandIFMIStoimproveHealthFacilityaccountingandreporting
+● Efficiencyofprocessinglaboratorysamplesandcommunicationofresults
+● Facilitate access to data from multiple systems with single password (e.g. Data
+WarehouseforAggregateData)
+● Reduce errors and eliminate registers by facilitating aggregation of individual data to
+RHMIS
+● Improving accuracy of drug and supply quantification by linking data from multiple
+systems(e.g.eLMIS,HMISandIFMIS)
+● Improvingefficiencyofdrugsupplychainincludingprocurement,dispensing
+Strategicobjectives:
+The main strategic objective of this foundational component of the eHealth strategic plan is to
+updatetheRwandahealthenterprisearchitectureframework. Inadditionitaimstoleveragethe
+RwandaDigitalHealthStrategicPlanDraftPage|32
+
+MinistryofHealth_ eHealthUnit
+existing Health Information Exchange implementation and develop it further, create a shared
+health recordforallcitizens,expandtheinteroperabilityprofilesandadoptstandardstoimprove
+theoverallinteroperabilityacrossallsystemsinthehealthenvironment.
+Keyinterventions:
+A detailed logical framework for this component is included in the annex of this report. Key
+interventionsproposedinclude:
+● UpdatealltheRHEAcomponentsandupgradethemwherenecessary
+● Improve data access, operational efficiencies and unique patient tracking across the
+entirehealthsystembycreatingasharedhealthrecordforallcitizens.
+● LinktheRHIEwiththeNationalIDtofacilitatecivilregistrationandvitalstatistics
+● EstablishInteroperabilityStandardsandGuidelines
+● Selectandadaptstandardprocedurecoding(‘nomenclature’)foruseinEMRandbilling.
+● Complete linkage between Civil Registration and NID for seamless Unique Patient
+Identification
+● Design,testandimplementinteroperabilityprofilesbetweenkeyhealthsectorsystems
+● Completeconfigurationandroll-outoftheRwandahealthdatawarehouse
+● Develop capacity of Provincial/District authorities and Central level staff to access,
+analyze and use data from key Health Sector data sources for evidence-based
+decision-making
+● Developin-countrycapacitytomaintaintheRHIE
+● EnsurethattheRHIEissecurelyhostedandbackedupregularly
+IMPROVEHEALTHSERVICEDELIVERYANDACCESSIBILITYTHROUGHDIGITALHEALTH
+EMR/FACILITYMANAGEMENTSYSTEMINALLHEALTHFACILITIES
+The Government of Rwanda proposed the use of Electronic Medical Records systems (EMR) to
+transform patient and resource management in all health facilities. To achieve this goal, the
+Ministry of Health embarked on developing an open source software, that was expected to
+provide the solution of evolving health care data needs. This development was based on an
+existing EMR software that is called OpenMRS. To date the MOH has implemented various
+modules of the EMR system, including but not limited to HIV,primarycareandbillingpackages.
+Although the HIV package has been implemented in 362 healthfacilitiesacrossthecountry,the
+billing package hasonlybeenimplementationin8districthospitals.Theuseofthissysteminthe
+health facilities whereithasbeenimplementedremainssomewhatlimitedandthesystemisnot
+beingexploitedtoitsfullpotential.
+Given the importance of the EMR – and thechallengesencounteredduringtheimplementation
+of the current system, the MOH and RBC see this as one of the most importantcomponentsof
+this5yearStrategicPlan.
+RwandaDigitalHealthStrategicPlanDraftPage|33
+
+MinistryofHealth_ eHealthUnit
+Inthecomingfiveyears,theMinistryofHealthwouldliketoachievethefollowing:
+● An Integrated EMR/Facility Management System implemented in all public districthospitals
+andhealthcenters
+● SustainablemechanismsinplaceforICTinfrastructureandendusersoftwaresupport
+● An EMR which is interoperable with other key systems such as insurance, financial
+management,supplychain,RHMIS,etc.
+● Availability of shared health records (for all people that have medical files in the EMR) at
+national level and accessible at all pointsofcarethatusetheEMRandbypatientswhowish
+toseetheirhealthrecords.
+Someoftheanticipatedkeybenefitsinclude:
+● Improvedqualityofclinicalservicesprovidedathealthfacilities
+● Improvedexchangeofclinicaldata
+● Improvedpatientfollow-upparticularlyforchronicdiseases
+● Improvedreportingthroughoutthehealthsystemhierarchies
+● Costreductionduetogradualeliminationofpaperbasedsystems
+● Enhancedpatientreferralsystemamongstvarioushealthfacilities
+● Timelyinterventionsbasedonevidencebasedclinicaldecisionmaking
+● Improvedoverallhealthfacilitymanagement
+● Improvedrevenuegenerationfromhealthcareservices
+● Increasedengagementofcitizensinthemanagementoftheirownhealthcare.
+Having weighed the different options for EMR implementation it is envisaged that the best
+option will be for the Ministry of Health, with help from RDB, RISA and MITEC, to select an
+appropriate partner who can either develop the existing software to meet the health facilities
+requirements or to customize an off-the-shelf software to meet the requirements. This would
+ideally be through a Public Private Partnership (PPP) arrangement. The private partner
+organization will also participate in the implementation in order to offset the high investment
+costofrollingoutthesystematanationallevel.
+A national EMR infrastructure can be implemented using either of two main strategies. One
+strategy is by using a client-server model where the EMR isinstalledonacentralserverandthe
+health facilities accessing it as “clients”. This option requires consistent connectivity and high
+bandwidth between the health facilities and a very powerful server farm to host the EMR
+instances. It also requires a robust EMR system that can be scaledtothenationallevelandthat
+can handle a very large number of transactions atanyonetime.Thesecondoption,currentlyin
+use, is the installation of the EMR systemonserversateveryhealthfacilitysuchthateveryEMR
+at a health facility operates as an independent point of care system. This option requires
+significant investment in ICT infrastructure at every health facility, but does not require
+consistentconnectivityanddoesnotrequirearobustscalableEMRsystem.
+The Ministry will adopt a mixed modelwhereduringthefirstphase,asmallnumberofhospitals
+will be connected to an EMR on a central server while the restofthefacilitieswillhaveanEMR
+RwandaDigitalHealthStrategicPlanDraftPage|34
+
+MinistryofHealth_ eHealthUnit
+implemented locally. Depending on the success of the centralized EMR, theotherhealthfacility
+EMRswillbemigratedgraduallytothecentralserver..
+Strategicobjectives
+The main objective is to implement an EMR in all public health facilities in the country anduse
+this process as an opportunity for business process re-engineering – making data flow more
+efficient and improving patient management. An Integrated Hospital Management System
+(including EMR) will beimplementedinallDistrictHospitalsandalighterversionofthesoftware
+will be implemented in health centers in line with the user and technical requirements. Shared
+health records (for all people that have medical files in the EMR) will be synchronized with a
+server at national level, through the health information exchange (HIE), and accessed at all
+points of care that use the EMR. The EMR will be interoperable with other systems such as
+insurance claims, financial management, supply chain,RHMIS,etc. Sustainablemechanismswill
+beputinplaceforICTinfrastructureandendusersoftwaresupport.
+Key interventions proposed are described in the detailed logical framework that is included in
+the annex of this strategic document. The implementation of the EMR will be divided into
+phases:
+● Phase I: Customization of software according to user and technical requirements and
+implementationindistricthospitals(mixedmodel)
+● PhaseII CustomizeadditionalmodulesandhealthcenterversionofEMRandimplement
+inHealthcenters
+● PhaseIII: MigratelocalEMRsontothecentralizedserverwherepossible
+● PhaseIV:Createasharedhealthrecord
+Throughout all the phases, there will be strong advocacy to ensure stakeholders involvement
+during the EMR development and implementation process as well as policy alignment to
+enhancesystemadoptionanduse.
+LABORATORYINFORMATIONSYSTEMS
+A fully functional laboratory information system (LIS) has been implemented at the National
+Reference Laboratory. Originally, a client-server application only accessible over the lab’s local
+area network, the system has recently been upgraded to a web-enabled version. The system
+interfaces with key lab testing equipment to record results automatically. The LIS is primarily
+used centrally – not yet decentralized for use in other labs due partly to the current system
+architecture. The LIS also lacks a true application program interface (API) to facilitate
+interoperability with other systems such as OpenMRS (HIV PCR test, etc..) or eIDSR (lab test
+orders and results) and to implement SMS or email alertcapabilitiestonotifytestrequestorsof
+testresults.
+RwandaDigitalHealthStrategicPlanDraftPage|35
+
+MinistryofHealth_ eHealthUnit
+The current platform, developed by LabWare, is not open source and licensing costs may
+preclude rolling it out to all but the best equipped health facilities – where the electronic
+interfaces with lab equipment will add value for money. The current EMR project, described
+above, also includes a lab module. Inrecentyears,NRLhasbegunadaptingabasicopen-source
+lab information system (BLIS) in selected satellite labs – especially for HIV testing services that
+havebeendecentralized.
+Oncethisinitiativeiscomplete:
+● Lab systems will be interoperable with other electronic medical records and health
+information systems platforms so that laboratory results are automatically available to
+therequestingfacilitieswhenthetestsarecompleted.
+● Use ofanenhancedLISwillbeextendedtoallreferralhospitalsandsatellitelabs,sothat
+samples for lab tests and results can be managed in an efficient manner through a
+decentralized network of facilities and results can be obtained more quickly on-line or
+throughautomatedalerts.
+● The labmoduleintheEMRprimarycarepackagewillbedeployedaspartoftheHospital
+andHealthCenterEMRs.
+Keyinterventionsidentifiedareintwomainareas:
+● EnhancethenationalLIS:
+● UpgradetothewebinterfaceandaddSMSalertcapabilities
+● CreatesynchronizationbetweenlocalinstancesandnationalLISserver
+● Create interoperability between LIS and eIDSR (lab test orders and results) for
+patientlabtestrequestsandresultsandHMISforbasiclabtestingmetrics
+● DevelopadashboardtotrackkeyLISindicatorsinaDHIS-2instance
+● Implementasysteminremainingsatellitelabs
+● Trainingforusersinnewinterfaceandatnewsites
+● ImplementDistrictHospitalandHealthCenterlabmodulesaspartofEMR:
+● DeveloporconfiguretheEMRlabmoduletolocalrequirements
+● DevelopinteroperabilitywithNationalLIS
+PROMOTETELEMEDICINEFORREMOTEDIAGNOSTICSANDCARE–FLAGSHIPPROJECT
+One of the areasthathavebeenidentifiedaspriorityintheSmartRwandamasterplanistheuse
+of telemedicine technologies to increase accessibility to health services. There are various
+definitions of Telemedicine but they allrefertotheremotediagnosisandtreatmentofpatients
+bymeansoftelecommunicationstechnology.
+Telemedicine systems have been implemented in Rwanda for more than adecadeusingvarying
+methods as technology advances in the country. The first telemedicine initiative was the useof
+Digital Subscriber Line (DSL) technology to connect two referral hospitals (King Faisal Hospital
+RwandaDigitalHealthStrategicPlanDraftPage|36
+
+MinistryofHealth_ eHealthUnit
+and CHUK) in order to do live broadcast of surgical interventions from the operation theatre of
+King Faisal Hospital to the conference room in CHUK. The DSL technology is now obsolete in
+Rwanda and other types of broadband technologies have been put in place including wireless
+broadband such as 4G LTE, 3G and fibreoptic cables. Another initiativein2008to2010involved
+upgrading film-based x-ray machines with digital sensors and PC workstations (teleradiology)to
+eliminate the need for costly and toxic consumables and to enable images to be transmittedto
+referral facilities for interpretation. At the time, the large size of the digital images and low
+bandwidth internet connections in most district hospitals limited the ability to transmit the
+images.
+In spite of these investments, a recent Auditor General’s report decried the status of
+telemedicine in district hospitals suggesting that the initiative demonstrated ‘poor value for
+money.’ Some equipment was non-functional or had never been set up correctly, while most
+was laying idle for lack of a true training program to produce the content that needed to be
+delivered.
+A private telemedicine company has now established their mHealth telemedicine platform for
+use in Rwanda. This service uses regular analog or smartphones to enable citizens to schedule
+appointments and consult with physicians by voice or video. Theyhavealsoestablishedprivate
+kiosksinselectedpharmacies,wherepatientscanseekmedicaladvice.
+Inthecomingfiveyears,theMinistryofHealthwouldliketoachievethefollowing:
+● Have functioning videoconferencing facilities in all district and tertiary hospitals to
+facilitatereal-timeconferencingbetweenhospitals
+● Have a functioning telemedicine platform that supports telemedicine services
+includingbutnotlimitedto;
+o Teleradiology
+o Remoteconsultation
+o Remotediagnosisandtreatment
+o Selfcare/patienteducation
+o Healthprovidereducation/CMEs
+● Have regulatory mechanisms and telemedicine standards that are conducive for
+public and private investors in telemedicine services while protecting the security
+andconfidentialityofpatientdata
+● Have tariffs and mechanisms for insurance claims and reimbursements for
+telemedicineservices
+● Have a budget line to support purchasing and maintenance of equipment and to
+coverotherrecurrentcostssuchascommunicationcosts
+● Havetelemedicinechampionsacrossthecountryinvarioushealthfacilities
+Someoftheexpectedbenefitsfromtelemedicineinclude:
+● Convenience: The ability for patients to make a virtual visit from their own homes or a
+nearby primary care facility with a physician at any time of the day,throughvideo,web
+chat, or phone. Clients can also follow-up remotelyonaprescriptionordiagnosiswitha
+RwandaDigitalHealthStrategicPlanDraftPage|37
+
+MinistryofHealth_ eHealthUnit
+physician. With the availability of low cost connecteddigitaldiagnosticdevices(suchas
+blood pressure cuffs and diabetes testing kits), physicians can monitorthehealthstatus
+oftheirpatientsremotely.
+● Reduced waiting time. Telemedicine eliminates the time needed to travel to a facility
+andqueuewhilewaitingtoseeaphysician.
+● Cost-efficiency. Doctors can charge less foratelemedicineconsultationthantheywould
+for an in-person visit because the resources thatarerequiredtoconductatelemedicine
+consultation are muchless.Telemedicinereducestravelexpensesforpatients,especially
+for those living inruralcommunities.Ruralfamilieswhowouldnormallytravelhoursout
+of their way to access key health services can receive them from the comfort of their
+homes.
+● Expedited transmission of digital images (MRIs or X-rays) and laboratory results for a
+second opinion. Physicians can use telemedicine to exchange various types of images
+andlaboratoryresultsandgetasecondopinionwithinaveryshorttime.
+Keystrategiestosupporttelemedicineforthenextfiveyearsinclude:
+● implementing video conferencing and telemedicine technologies to support both
+trainingofcliniciansandremoteconsultationsinalldistrictandtertiaryhospitals.
+● Developing a regulatory framework and standards to govern telemedicine services
+provided by both public and private sectors. This will include developing a framework
+for setting tariffs for telemedicine services that will be covered by the major
+government-runhealthinsuranceschemes.
+Key interventions proposed are included inthedetailedlogicalframeworkforthiscomponentin
+theannexofthisstrategicdocument. Theseinclude:
+● Setting up videoconferencing facilities in all district and tertiary hospitals to facilitate
+real-timeconferencingbetweenhospitalsandpatientconsultationswithspecialists.
+● Selecting andimplementingatelemedicineplatformthatsupportstelemedicineservices
+indistricthospitalsandhealthcenters.
+● Putting in place regulatory mechanisms and telemedicine standards to create a
+conduciveenvironmentforpublicandprivateinvestorsintelemedicineservices
+● Put in place policies and mechanisms for insurance claims and reimbursements for
+telemedicineservices
+● Creating a budget line and leveraging financialresourcesforimplementingtelemedicine
+systemssuchaspurchasingandmaintenanceofequipmentandcommunicationcosts
+● Encouraging innovation by investors from the private sector who are interested in
+providingmHealthtelemedicineservices
+● Identifying and appointing telemedicine champions in the varioushospitalsandtraining
+allrelevantusers
+IMPROVEACCESSTOHEALTHINFORMATIONANDDIGITALSERVICESFORCITIZENS
+RwandaDigitalHealthStrategicPlanDraftPage|38
+
+MinistryofHealth_ eHealthUnit
+IMPLEMENTACITIZEN’SHEALTHPORTAL–FLAGSHIPPROJECT
+While the concept of “patient-centered health care” has been evolving over the past decade,
+there remains a gap in the area of healthtechnologies–mostofwhicharecurrentlyfocusedon
+health service providers. The person-centric vision is that, “the power of each individual is
+developed and unleashed to be active in managing their health and partnering in their health
+care, enabled by information and technology”. The citizenhealthinformationportalwillprovide
+individuals with the ability to interact with health professionals, obtain relevant health
+informationandaccesstheirhealthrecords.
+This intervention is very much in line with other GORinitiativessuchastheIremboplatformfor
+mobilephone-basedservicesandpaymentandtheMINALOCCitizen’sInformationportal.
+OncetheCitizen’sHealthPortaliscomplete:
+● Rwandans will be able to access health-related information and services easily via web
+orsmartphone.
+● The information portal will be linked to the shared health record, registries, health
+observatory,andpatientschedulingsystems.
+● Personaldatastoredsecurelybutportablewhenapatientrequestsittobeshared
+Key interventions proposed for the development of the Citizen’s Health Portal include the
+following:
+● Assessavailableinformationanduserneeds:
+o Conduct an assessmentofweb-enabledhealthinformationavailableinKinyarwanda
+orsuitablefortranslation.
+o Work with RBC health programs to identify key other content areas and message
+contenttosharewiththepopulationthroughtheportal.
+● Develop policies that enable personal data sharing: Review existing data sharing laws
+anddevelopspecificpoliciestoprovidecitizenswithaccesstotheirownhealthrecords.
+● DevelopofcontentforCitizen’sweb-portalintegratedwiththeMINALOCportal:
+o Design of interoperability profiles between citizen’s portal, shared health record,
+facilityregistry,providerregistryandEMRschedulingsystems
+o Translation&adaptationofhealthinformationcontent
+● Conduct a communications campaign to inform citizens about the portal, provide user
+guidesandencouragethemtoregister
+IMPROVECOLLECTION,MANAGEMENTANDUSEOFDATAATALLLEVELSOFCARE
+CONTINUETOEXPANDRHMISPLATFORMANDBUILDCAPACITYFORDATAQUALITYASSURANCEANDDATADEMANDANDUSE
+RwandaDigitalHealthStrategicPlanDraftPage|39
+
+MinistryofHealth_ eHealthUnit
+The Rwanda Health Management Information System (RHMIS) has flourished since it
+transitionedovertotheDHIS-2platformin2012. TheMOHhasincorporatedadditionalmodules
+onto the platform for the community health worker information system (SIScom), the PBF
+reporting system, the TB and HIV reporting systems, and most recently the epidemic disease
+surveillance system (eIDSR). The tracker module has been used toreportonneonatalandchild
+death audits and to track individual TB and Leprosy patients. Considerable capacity has been
+built across the sector to configure the DHIS-2 atthecentrallevelandtomanageDHIS-2dataat
+the health facility level. The PRISM assessment in 2014 demonstrated that there had been
+improvements in HMIS data management and usesincetheinitialassessmentwasconductedin
+2012. Nevertheless, there are stillchallengesthatremainandnewdatacollectionrequirements
+tobemet.
+For several years, the Ministry of health has been promoting the collection and use of health
+information for evidence-based planning and decision-making, however it has not always been
+easy toaccessthedatafrommanyseparatedatabasesthataremaintainedbydifferentagencies
+within the MOH and RBC. With the implementation of the DHIS-2 software platform and the
+subsequent transition of most MOH data collection systems to that platform, it is now
+technically feasible to combine key indicators from these different databases into a single
+platform.
+Over the same period, WHO has been advocating for all countries to implement a broader
+concept of a National Health Observatory. In addition to serving as a data repository, this
+includes several elements of a knowledge management platform with useful narratives built
+around a standard taxonomy that provide a detailed profile of each of the building blocks of a
+nation’s health system. WHO hired staff from the UR/School of Public Health to develop the
+national health system profile and have set up the framework for the Rwanda Health
+Observatory. Inseparateinitiatives,theMOHandRBChavebeenworkingwithotherpartnersto
+design a full set of performance dashboards for all of the departments and automated district
+healthprofilestosupportstrategicplanning.
+TheSWOTanalysisidentifiedanumberofkeyweaknessesrelatedtotheRHMIS:
+● Data use remains limited: there is little formal feedback from the national level to district
+hospitals and, though the display of data hasimprovedinhealthfacilities,mostanalysesare
+not updated routinely. Data use is also complicatedbydataaccessproblems(manysystems,
+many passwords) and capacity building efforts focused on data managers & M&E staff, but
+not on management and decision-makers. Some government staff, such as those at
+Provincial level and in other Ministries are uncertain about what health sector data are
+availablewhathowtheycanaccessit.
+● Data quality assurance remains an issue: Health workers are still not conversant with
+definitions of some indicators and data quality controlisdifficultbecausetoomuchdataare
+collected, some of it not used and few data validation rules have been implemented in the
+RwandaDigitalHealthStrategicPlanDraftPage|40
+
+MinistryofHealth_ eHealthUnit
+DHIS-2 instances. Though districtlevelstaffweretrainedinconductingDQAsin2012-13,few
+continue to conduct these audits and DQA’s are mostly done by central level teams that
+don’thavethetimeorresourcestoreachmanyfacilities.
+● Costs of running all of the DHIS-2 instances are high: In particular, there is the high costof
+hosting RHMIS instances at the National DataCenterataround$5,000to$7,000permonth.
+These costs are difficult to recover fromfacilitiesandmustbefundedbyprogramsatcentral
+level.Inaddition,declinesinfundingatthecentrallevelmeanthatthecentrallevelMOHcan
+nolongerpayforthereplacementofthecomputersthatwereprovidedbydonorsduringthe
+initial RHMIS roll-out. Healthfacilitieswillneedtogeneratetheirownfundstoreplacethem
+infuture.
+● User support and systems administration: The central level MOH HMIS support team has
+had a lot of turnover and,sincesomehaveshiftedtoRBC,healthfacilitystaffaresometimes
+unsureofwheretoturnforsupport. Thereisnoformaluserhelpdeskmechanisminplace.
+RBCandtheMOHhavebeenverysuccessfulinsettinguptheDHIS-2platformtomeettheneeds
+of most health programs’ routine data collection needs. There is an opportunitytocontinueto
+build on that platform for all future reporting needs and to use the new tracker functionality
+increasingly to monitor the individual health status of key populations and shift towards
+patient-centeredcare.
+In order to simplify access to data stored in many separate DHIS-2 instances, the data required
+for key health sector indicators will be synchronized automatically in the existing Health Data
+Warehouse. Thehealthsectordatasharingpolicywillbeupdatedtoclarifydataaccessrightsfor
+usersinothersectorsandnon-governmentalstakeholders.
+There is also a desire to shift data use from being done exclusively by Data ManagersandM&E
+Officers to more senior managers and decision-makers at District and Central levels. All
+managers within RBC and MOH – as well as key managers from the District Hospital and DHUshould create and use dashboards to monitor their key performance indicators. This strategic
+plan proposed the development of a command-room style set of dashboards built on the data
+warehouse to be used by senior management for real-time monitoring of key sector
+performanceindicators.
+Between the RHMIS instances and the EMR, there is now a critical mass of users across the
+entire country (well over 2000 at the current time) and there is a need to rationalize user
+support. In addition to training and retaining a smallcoreteamofsystemadminstaffwithinthe
+MOH and ICT officers at District Hospitals, there are now the economies of scale required to
+interest the private sector in providing end-user helpdesk services and software development
+supportforsuchprojects.
+TheMinistryofHealthhasidentifiedthefollowingbroadstrategicgoals:
+RwandaDigitalHealthStrategicPlanDraftPage|41
+
+MinistryofHealth_ eHealthUnit
+● LeveragetheDHIS-2platformtointegratenewroutinedatacollectionsystems.
+● Enhancedataquality
+● Buildcapacityforevidence-baseddecisionmakingatalllevelsofhealthsystem
+● Developnewtypesofinformationproducts,suchadashboards,andfeedbackloops
+Leverage the DHIS-2 platform: for implementing a variety of new systems on the DHIS-2
+platform, especially the trackermodule. Thisincludesafacility-basednutritionsupplementation
+tracking system (FBF), a HIV case registry, and a central repository for community verbal
+autopsies. In addition, with the rapid increase in the number of private health posts,thereisa
+need to put in place a simple reporting system – preferablyusingmobilephones–forallhealth
+posts.
+In order to improve data use, the MOH will operationalize the data warehouse by developinga
+simplified user interface tomapdataelementstobesynchronizedbetweendatawarehouseand
+other DHIS-2 instancesanddesigningmorecompellingdashboards.Itwillalsointegrateselected
+data warehouse indicators into the public Citizen’s Health Portal and automate links tothenew
+RwandaHealthObservatory.
+Updateandenforcethedatasharingpolicyinorderto:
+● Resolve questions about data access to all stakeholder groups and update the Health
+DataSharingandConfidentialityPolicyaccordingly
+● Define and disseminate policy for requesting and granting access to the Rwanda health
+datawarehouseforprovincialanddistrictauthoritiesandimplementingpartners
+Continue to enhance data quality: This includes, institutionalizing annual/quarterly database
+review workshops to discard un-used data, clean up indicator definitions, check and fix data
+outliers; institutionalizingdataqualityaudits(DQAs)byDistrictHospitalinallhealthcenters;and
+monitoring and publishing DQA scores in the data warehouse as an indicator of health facility
+performance.
+Reinforce capacity for evidence-based decision making at all levels: Key interventions do
+developincreaseddatademandanduseinclude:
+● Train a team of staff from MOH and RBC to update narrative content of the Rwanda
+HealthObservatoryandfacilitatecollaborationonaroutinebasis.
+● Develop capacity of Provincial/District authorities and Central level staff to access,
+analyze and use data from key health sector data sources for evidence-based
+decision-making
+Establish efficient ‘information center’ services to log and respond to routine and ad hoc
+requests for RHMIS data from MOH/RBC, researchers, and decentralized level. Develop and
+disseminate data use SOPs and guides for Central and District level and use the Knowledge
+Management platform to develop communities of practice ofkeyusergroups(e.g.DistrictM&E
+officersandDataManagers)toshareexperienceandprovidemutualsupport.
+Develop new types of information products and feedback loops: ImprovefeedbackfromDHto
+HC and from Programs to Districts/DH, design a broader range of information products
+(statistical bulletins, policy briefs) and implement push technology (SMS alerts and targeted
+RwandaDigitalHealthStrategicPlanDraftPage|42
+
+MinistryofHealth_ eHealthUnit
+emailed reports) to disseminate key analyses. Establishacentrallevelcommand-centerstyleset
+of dashboards, built upon the data warehouse to display key sector performance indicators in
+real time. Complete theprimaryhealthcareperformanceindicator(PHCPI)dashboardsinitiative
+to develop model dashboards for MOH and RBC Divisions and districts. Link selected data to
+district profiles on a web portal that can be cross-linked with the MOH and RBC web-sites.
+Formalize access to data by clarifying data sharing agreements with decentralized authorities
+and other stakeholders. Rollout enhanced dashboards from data warehouse within MOH and
+RBCDivisionsandatDistrictlevelwithappropriatecapacitybuildingstrategy.
+Buildcapacitywithinthehealthsectorfordatademandanduse:
+● Train team of staff from MOH and RBC to update narrative content of the health
+observatoryandfacilitatecollaborationonaroutinebasis.
+● Develop capacity of Provincial/District authorities and Central level staff to access,
+analyze and use data from key Health Sector data sources for evidence-based
+decision-making
+COMMUNITYHEALTHSURVEILLANCEANDREPORTING(RAPIDSMS)
+The Ministry of Health introduced RapidSMS in 2009 and it has gone through a number of
+iterations. The system was first deployed as a pilot project in the District of Musanze for early
+identification of pregnancies, notifyingemergencycasesandbirthreporting.Within9monthsof
+the initial deployment there was anecdotal evidence that maternal deaths had declined in part
+due to use of the system and the Government requested that RapidSMS be scaledup.Notonly
+could pregnant women be traced to their various villages,butdeliveriesathealthfacilitieswere
+increasingandCommunityHealthWorkerperformancecouldbemonitored.
+In November 2012 RapidSMS was expanded to version 2 aiming to track the continuum ofcare
+life cycle (first 1,000 daysofachild’slife,fromconceptionto2years).Thesystemwasthenbeen
+adopted and scaled up to all 30 districts, operated by45,000CHWsin15,000villagesacrossthe
+country. The system expanded tracking of pregnant women (pregnancy confirmation, antenatal
+care, emergency response through Red Alertmessagesandresponsescenarios)andchildhealth
+(child nutrition, major child killer diseases (malaria, pneumonia & diarrhea), un-immunized
+childreninthecommunity.
+In 2017, newborn emergency alerts, severemalaria&stockoutnotificationwereseenascritical
+requirements to reduce maternal and child health death,therefore,RapidSMSwasexpandedto
+Version3.
+A lot has been done to ensure that RapidSMS is used effectively at national scale. There is
+effective supervision that providesrefreshertrainingandCHWsarecommittedandmotivatedto
+learn and use RapidSMS. Selected data from RapidSMS has also been integrated into theCHW
+performance based financing (PBF) system, giving them additional incentivestousethesystem.
+The positive relationship between CHW supervisors and CHWs facilitates daily follow-up of
+RapidSMS activities. The involvement of community leaders leads to local ownership and
+RwandaDigitalHealthStrategicPlanDraftPage|43
+
+MinistryofHealth_ eHealthUnit
+enhances usage of the system. Medical doctors have been appointed by district hospitals to
+serveasfocalpointsandthiswillincreaseusageoftheRapidSMSsystematthedistrictlevel.
+Besides these achievements however, there are several challenges that need consistent
+attention in order to optimize the benefits that the RapidSMS system brings. Some of these
+challengesinclude:
+● TechnicalIssues:
+o related to using cell phones due to language barriers, therearefewCHWswho
+donotknowhowtousetheircellphonestosendtextmessages
+o Difficultieschargingphonesinremoteareas.
+o Weakinternetconnectionsfordatamanagers&CHWsupervisorsinsomeareas
+o Replacementofbatterychargers&brokenphones.
+● Userandmanagementissues:
+o LackofownershipofRapidSMSactivitiesbylocalleaders
+o MisunderstandingofcasedefinitionsforRapidSMSindicators
+o RapidSMSdatausebyDoctorsandNursesisverylimited
+o NotallpregnantwomenreportedusingRapidSMSespeciallyinurbanareas
+o CHWturnoverandtheneedtotrainnewCHWs;
+● Tools/Resources:
+o Non-standardizedsupportivesupervisionchecklistforalldistrictstouse;
+o Insufficiency budget to produce registers for recording RapidSMS messages for
+betterfollowup.
+o DelaysbyfacilitiestorespondtoREDalertnotifications
+o Fewambulancestorespondtoredalerts.
+o Insufficient communication fees for in charge of CHWs for better follow up of
+RapidSMSactivities.
+o Delaysinthetransferoffunds
+The overarching goals are tomakeeachpregnancy“everyone’sbusiness”andtoensurethat“no
+woman dies due to pregnancy or delivery” and to have all 30 districts record zero preventable
+maternal deaths. The MOH is planning to upgrade to RapidPro in order tobenefitthefollowing
+features:
+1. System integration with other system through open Application Protocol
+Interface’s(APIs).
+2. Increasingly OpenHIE / RHEAstandardscompatibleandbeabletointeractwith
+HMIS(DHIS2),Electronicmedicalrecords
+3. Easyworkflowwithlogicforrunningmobile-basedservices.
+4. Support multiple reporting channels SMS, IVR, USSD, Twitter, Facebook
+Messenger, Telegram, WhatsApp (beta) and Android‘Surveryor’Appforoffline
+datacollection
+Tothisend,theMinistryofHealthwillpursuetwobroadstrategicgoals:
+RwandaDigitalHealthStrategicPlanDraftPage|44
+
+MinistryofHealth_ eHealthUnit
+Strategic Goal 1: Ensure timely availability of quality information that will support
+Government capacity to develop/review/updatepolicies,strategies,andstandards/protocols
+formaternalhealth,andchildgrowthmonitoring.
+This will be reviewed through tracking the number of districts using real-time data monitoring
+system for reporting newborn health outcomes. To achieve this the Ministry will implement a
+numberofinitiativesincluding:
+● Further Upgrade,development,expansionandmanagementofRapidSMStoRapidProat
+the national level including ownership, interfacing with other systems, mass messages,
+messages to pregnant women and new areas and maintenance of the
+RapidSMS/RapidPro software
+● Strengthenthemechanismofdatareviewandfeedbacktohealthfacilities
+Strategic Goal 2: Ensure availability of timely and quality data to ensure that new born,
+childrenandwomenhaveequitableaccesstohealthservices.
+This will be reviewed through tracking the number of health facilities with functional essential
+Newborn, IMCI, and EmONC services in supporteddistricts. Toachievethiswewillimplementa
+numberofinitiativesincluding:
+● Building Institutional capacity to provide newborn services at district and health center
+levelsthroughRapidSMS
+● Enhancing scale up of the RapidSMS to track the Pregnancy and newborn life cycle
+throughnationalfeedbackco-ordinationmeetingsofCHWs
+TheobjectivesoftheRapidSMSforthesestrategicgoalsareto:
+● Reachatleast1,000,000peoplewithnewmessagesonkeyfamilyhealthpractices
+● Reachatleast500,000additionalpeoplewithmessagesonsafehygienepractices
+● Strengthening RapidSMS at all levels of the health system through training and
+supervisionofCHWs,coordination,andadvocacyinalldistrictsforRapidSMS
+● HarmonizeRapidSMStoiCCM/MNHBCtrainingmanual
+ENHANCEEPIDEMICDISEASESURVEILLANCEANDRESPONSE(EIDSR)
+Rwanda implemented an electronic integrateddiseasesurveillanceandresponse(eIDSR)system
+in 2012 on a platform called TracNet that was used to track HIV indicators. The disease
+surveillancesystemwastransitionedtotheDHIS-2platformin2014.
+The current system reports epidemic surveillance data in real-time from health facilities and it
+links surveillance data with laboratory results. The system automatically detects probable
+disease outbreaks using specialalgorithmsandhelpswithquickanalysisofsurveillancedataand
+generationofgraphs,tables,andmapstoguidedecision-making(planningandprioritization).
+RwandaDigitalHealthStrategicPlanDraftPage|45
+
+MinistryofHealth_ eHealthUnit
+Inadditionthesystem:
+● Provides automated alerts, reminders, and feedback messages to relevant officers in
+timelyandsystematicwayaboutreportingdelaysandprobableoutbreaks.
+● Can be used to monitor routine surveillance and periodic strategic activities
+implementedtocontainandmanageoutbreaks
+Although the system meets basic needs of the users, there remain a number ofchallengesthat
+theESRteamhopetoaddressinthecomingyears. Theseinclude:
+● Mobile data reporting throughtheUSSDinterfacedoesnotfunctionreliablyanditisnot
+possibletomakecorrectionsondatasubmittedbyphone
+● Data quality issues persist such as discrepancy between data entered inthesystemand
+that recorded in registers. Few users enter follow-up data about the suspected cases
+that have been reported. This includes laboratory test results and follow-up status
+reportsthatareneededtoconfirmanoutbreak.
+● Thecontacttracingmodulehaslimitedfunctionality
+● Absence of interoperability functions with the laboratory information system, EMR and
+othereHealthsystems
+● TheESRteamhasinsufficientcapacitytoconfigure,upgradeandmaintainthesystem
+● SignificantturnoverofstafftrainedonutilizationofeIDSR
+● Absence of automated and in person feedback instructions/orientation messages after
+reportingsuspectedcases
+● Limited technical documentation that specifies the requirements for the system, in
+terms of functionalities, interfaces, performance, qualities and security and
+sustainabilityplan
+● The system is largely focused on data collection by health providers and there is no
+support for engaging the community in outbreak detection and response – a new
+requirementfromWHO’sInternationalHealthRegulations(IHR).
+In spite of these issues, Rwanda is the firstcountryintheregionthathasimplementedaDHIS-2
+based disease surveillance system on a national scale and other countries arekeentobuildthis
+experience. Key features that Rwanda has implemented have been shared with the global
+DHIS-2 community and are in the process of being included in the core functionality of the
+softwaresothatothersmaybenefitfromthem.
+RBC plans to have in place a fully developed disease surveillance system addressingallnewIHR
+requirements, improved data quality and interoperability with other relevant systems. TheESR
+team will have the required skills to configure, upgrade and maintain the system guided by
+comprehensive technical documentation of the system in order to ensureitssustainability. The
+system will include a community outbreak alert module linking human and animal health to
+enablethegeneralpopulationtoreportunusualhealthevents.
+The RBC/ESR team recently identified the following key strategies and interventionstoenhance
+thefunctionalityofthesystem:
+RwandaDigitalHealthStrategicPlanDraftPage|46
+
+MinistryofHealth_ eHealthUnit
+● Developing interoperability with the National Laboratory Information System(LabWare)
+sothatlabresultsareautomaticallytransmittedtotheeIDSRassoonastheyareknown.
+● Enhancing the outbreak management module with a more intuitive userinterface,easy
+togenerateepidemiccurves,hotspotmapsand linelistings
+● Adding contact tracing functions that enable off-line collection of household level data
+oncontactsusingtabletsandotherAndroiddevices.
+● AddingacommunityoutbreakalertmoduletotheeIDSRsystem.
+● Providing district and national level disease surveillance officers with tablets to use
+duringoutbreakinvestigations.
+● Linking publicly shared eIDSR data directly to the RBC web site for their public
+informationportal.
+STRENGTHENTHEMANAGEMENTOFCRITICALRESOURCESINTHEHEALTHSECTOR,BYENHANCINGTHEFOLLOWINGSYSTEMS:
+SUPPLYCHAINMANAGEMENTSYSTEMS:
+As described in the eLMIS assessment, this system has now been rolled out to all District
+Pharmacies and public health facilities. eLMIS provides near real-time visibility of all facilities
+within the value chain on their supply chain activities (Stock On Hand, Order Management,
+Consumption, Expiries etc…). Currently RBC/MPDD is only fulfilling orders if they are entered
+through the eLMIS, so this helps to enforce use of the system. However, some facilities –
+especially those with limited internet connections – do not systematically enter their stock
+movements on a daily basis. Dependingupontheproportionoffacilitiesthatreport,thismakes
+certain types of analyses less reliable – so there is a need to monitorandreinforceroutineuse.
+There are other functions supported by the eLMIS softwareplatformthatarecurrentlynotfully
+utilized,including:batchrecalls/quarantineandtransportandcapacitymanagement.
+At the national level, the eLMIS is currently interoperable with the RBC/MPDD financial
+management system (SAGE), but the MPPD Warehouse Management Systemhaslimitationsfor
+interoperability,makingithardertointegratewiththeeLMIS.
+Otheropportunitiesexistforinteroperability,forexamplewithDHIS-2toenhanceusersabilityto
+use information from eLMIS through the built-in business intelligence tools and for
+quantification, as well as with the EMR system that manages patient level essential drug
+prescriptions at hospital level. Maintainingparallelsystems(paperandelectronic)alongsidethe
+eLMISresultsinduplicationofeffortsaffectingeLMISutilizationanddataintegrity.
+Such system enhancements will significantly add value for users of the system at all levels.
+Finally, there is a need to resolve sustainability issues by ensuringthatallfacilitiesbudgetfunds
+for the annual license fees (this is a hosted application) and for further capacity building –
+especially in the area of system administration and analysis ofsupplychaindata–toenablethe
+Rwandanteamtoconfiguretheplatformthemselves.
+TheNationalDroneDeliveryServiceProject:
+RwandaDigitalHealthStrategicPlanDraftPage|47
+
+MinistryofHealth_ eHealthUnit
+On October 14 2016, His Excellency thePresidentofRwanda,PaulKagamelaunchedtheworld’s
+first national drone delivery service. Currently, a fleetof15smalldronescreatedbytherobotics
+company Zipline are aiming to transport blood for transfusions and other emergency medical
+suppliesacrossthecountry.
+If the pilot projectisasuccess,Ziplinewilloperate150flightsadayfromthecentralwarehouses
+where blood products and medical supplies are stored, and deliver them to 21 Health facilities
+across the country. The drones, programmed viaGPS,canflyasfaras93milesbeforetheyneed
+to land, traveling at about 62 Km per hour. The drone network is designed so thatwhenhealth
+careworkersneedacertainbloodtype,theycansendatexttoZipline’sdistributioncenter.From
+there, packages of blood are loaded onto the drone, which is then launched from a launcher.
+When the drone is approaching the clinic, the health care worker who placed the order gets a
+text asking them to go outside. From 300 feet above the ground, the drone then drops its
+packagebyparachuteandreturnstothecentralwarehouse.
+Essentialdrugsandbloodproductstakeupalargeshareofthehealthbudgetanddigitalhealth
+initiativescanplayanimportantroleinmanagingthemmoreefficientlytoavoidwastageand
+reducethedurationofthesupplychainpipeline. RBChopestoseethefollowinginitiatives
+completed:
+● The functionality of eLMIS platform will be enhanced at all levels of health system to
+make it interoperable with other key systems to eliminate duplication of effort and to
+providebusinessintelligencetoolstoavoidsupplychainbottlenecksandwaste.
+● The supply chain systems will provide visibility of accurate stock positions tothefacility
+levelinallpublichealthfacilitiesandvillagelevelforCHWs.
+● Routine management of the system is fully transitioned to the MPPD ICT team and
+sustainablecontractingarrangementshavebeenagreedwiththevendor.
+● The Zipline drone project is scaled up tomorehealthfacilitiesandtransportsotherhigh
+value,lifesavingproducts(suchasrabiesvaccinesoranti-venomforsnakebites).
+The following are highlights of the interventions proposed for improving the supply chain for
+drugsandmedicalproducts:
+● ImplementkeyeLISsystemenhancements:
+o Push eLMISdataintoDHIS-2foranalyticsandbusinessintelligencetoolsthatallowslinks
+betweenpatientdataandconsumptiondata–tosupportbetterdrugquantification
+o Upgrade facilities infrastructure including provision of reliable internet services and
+adequatecomputerswithcapabilitiestoruntheeLMISapplication.
+● DevelopmoreeffectiveinteroperabilitybetweeneLMISandothersystem:
+o EMR pharmacy module to be made interoperable with eLMIS (which need daily total
+consumption).
+o eLMIS currently doesn’t manage blood bank products. It would be useful if these data
+are collected and sharedwiththebloodbankteamtogivethemstockvisibilityatfacility
+level–withoutimplementingbloodbanksystemeverywhere.
+o Replace RHMIS tracer drug monitoring report with eLMIS generated data on drugstock
+status(alldrugs)ondemandtoavoiddoubleentryinbothsystems.
+RwandaDigitalHealthStrategicPlanDraftPage|48
+
+MinistryofHealth_ eHealthUnit
+o Build and interoperability profile between the Zipline drone delivery system and the
+DHIS-2toenabletheMOHtomonitorkeymetricsoftheZiplineprogram.
+● Encourageroutineuseofthesystemtoimprovestockavailabilityandreduceloses:
+o Establishasystemtomonitorandreinforceusewithinallfacilities
+o Develop specific SOPs for eLMIS use – improveshandoversandrefreshertraining(could
+useeLearningplatformaswell)
+o Fully utilize the eLMIS functionality (e.g. replenishment engine) to strengthen the
+forecasting and supply planning and logistics of all HIV/AIDS commodities and other
+PharmaceuticalandHealthProductsManagement(PHPM)
+● Sustainability:
+o Negotiate reasonable contract terms withthesupplierandensurethatICTandsoftware
+licensecostsarerecoveredthroughcostrecoveryinitiatives.
+o Develop local capacity for system administration (backend support). Much of eLMIS
+systemsadministrationisnotfullytransitionedtoRBC/MPDD.
+● Dronedeliveries:
+o Expandtherangeofproductsthataredeliveredtohospitals
+o Expandthenumberoffacilitiesthatareservedbydronedeliveries
+BLOODBANKINFORMATIONSYSTEM
+Rwanda’s CNTS (Nation Blood Bank) has adopted an internationally reknown software
+(ePROGESA)thatmanagesbloodbankandbloodproducts. Itfunctionsonacentralserverandis
+used by staff at central level and in 4 regional blood bank centers. Dedicated staff have been
+trainedineachfacilityandtheyusethesystemroutinely.
+However, there remain some gaps, for example, the blood bank system doesn’t currently
+interface directly to any of the bloodtestingequipment,requiringextraefforttomanuallyenter
+results of all sample tests into the system. In addition, ePROGESA doesn’t have visibility to
+stocks of blood productsathealthfacilitylevel.ThesedataarecurrentlycollectedinthenRHMIS
+– but there is no effective means in place for sharing them with thebloodbankteam. Another
+option could be to include blood products and supplies for blood collection in the eLMIS. In
+addition, the system produces reports that areprimarilydoneaspdfdocuments,whicharevery
+difficult to analyze – and CNTS staff have limited IT skills to design other reports or export to
+other software (e.g. Excel, Access or iReport). Finally, as a proprietary system supported by
+Mak-System in France, ePROGESA lacks local support forsystemadministrationtasksandliaison
+with developers is sometimes difficult. The software also has annual license fees that are a
+barrier to expanding its use in a wider range of facilities especially when blood products are
+distributed for free – making it difficult for the CNTS to generate revenues to cover the
+$30,000/yearlicenseandmaintenancefees.
+TheCNTSteamisgenerallysatisfiedwiththecurrenteProgesaplatform,butrequireanumberof
+system enhancements to interface the system with their blood testing equipment, to improve
+the supply chain by obtaining data from all health facilities thatmaintainbloodproductsandto
+improve data analysis and reporting. With funding cuts across the RBC, theCNTSalsoneedsto
+RwandaDigitalHealthStrategicPlanDraftPage|49
+
+MinistryofHealth_ eHealthUnit
+implement their sustainability plan to develop local capacity for routine system administration
+tasksandtocovertheannuallicenseandrunningcostsoftheeProgesasystem.
+Thefollowingarekeyinterventionsproposedforimprovingthebloodbanksystem:
+● Implement interoperability with othersystems:Inordertoimprovevisibilityofbloodproduct
+supplies to health facility level – eProgesa could use linkswithEMRoreLMIS.Thesedataare
+currently collected in RHMIS – but no effective means for sharing data with the blood bank
+team.
+● Implementarangeofrequiredsystemenhancements:
+● Develop electronicinterfaces(USB,etc..)withbloodtestingequipmenttosimplifylab
+testrecordingineProgesa
+● Improve reporting by identifying a report writer or designing data export utilities so
+thatdatacanbeanalyzedmoreeasilyinothersoftware(e.g.Excel,AccessoriReport)
+● During blood collection drives all data are currently collected on paper. It would be
+useful to have laptop or tablet-based system to administer donor questionnaires
+electronicallyandlinktodonatedbloodunits.
+● Ensure sustainability of the system: Ensure that ICT and software licensecostsarerecovered
+through cost recovery initiatives such as the CNTS sustainability plan currently being
+developed.Trainingtodeveloplocalcapacityforsystemadministration(backendsupport)
+MEDICALEQUIPMENTMANAGEMENTANDMAINTENANCESYSTEM
+The repair and maintenance of medical equipment has been a challenge across many hospitals
+inRwanda–andlargenumbersofnon-functionalmedicalequipmenthavebeenreported.
+In response to this RBC/Medical Technology and Infrastructure Division (MTI) and partners
+developed of an open source Medical Equipment Management and Maintenance System
+(MEMMS). The system was developed in 2013-14 torespondtospecificlocalrequirementsand
+rolled out to all hospitalsandhasthepotentialtoprovidegoodvisibilityofequipmentsituations
+from national to district hospital level. Unfortunately, the system isnotbeingfullyusedinmany
+hospitals (limited number of itemsenteredininventory,ticketingsystemnotusedsystematically
+forrequestingandtrackingrepairs,etc….).
+Though MEMMS source code is available but MOH doesn’t currently have capacity to maintain
+the platform in-house. The system is not yet fully handed over to MOH, which currentlyhasno
+programmers with experience using the Ruby on Rails software with which it was developed.
+MTIhasnospecificbudgetavailableforenhancementsorrefreshertraining.
+There is a need to enhance the system to make it fully functional in all hospitals – not only for
+equipment inventory, but for managing routine maintenance and repairs. This will require a
+range of system enhancements to improve usability, interoperability and reporting capabilities,
+but most importantly there is a need for capacity building of MTIstafftofullyownandmonitor
+use of the system and some type of contracting mechanism – preferably with a local ICT firm
+(throughaPPP)-toimplementrequiredsoftwareenhancements.
+Thekeyinterventionsproposedaregroupedinto3areas:
+RwandaDigitalHealthStrategicPlanDraftPage|50
+
+MinistryofHealth_ eHealthUnit
+● Enhancethesystemtoimproveusabilityandinteroperability:
+● Review and document requirements, update system to improve usability(metadata
+maintenance,etc..)
+o Develop HMIS equipment status report – summary of functional and
+non-functionalequipment–interoperabilewithRHMISandDataWarehouse
+formonitoringequipmentrepairstatus.
+● Providerequiredcapacitybuildingforsystemadministratorsandstaff:
+o Complete capacitybuildingfordevelopersandhandoverofsoftwarecodeto
+MOHteamorpreferablyalocalprivatecompanycapableofmaintainingit.
+o Conduct refresher training for Hospital and National level teams on new
+features.
+o Develop mechanism to cross-train a pool of system administrators of key
+systems (LIS, Blood bank, DHIS-2, OpenMRS) so that they can cover during
+absences.
+● Enhancereportinganddecisionsupporttoolsproducedbythesystem:
+o Design information products useful to hospital staff and national level that
+requiredatatobeup-to-date.
+o Developmechanismformonitoringuseandprovidingfeedback(upanddown).
+FINANCIALMANAGEMENTSYSTEM
+Financial management systems have become a big priority for both public and private health
+services especially since donor funding has begun to decrease. Districts are under pressure to
+domoreevidence-basedallocationoffinancialresourcesandhealthfacilitiesneedcomputerized
+systems for better cost recovery and to reduce unbilled services. Atthenationallevelthereisa
+drive to make public hospitals into decentralized budget agencies that will implement the full
+rangeofpublicfinancialmanagementtoolsforincreasedefficiencyandtransparency.
+Part of the challengehasbeenthatfinancialmanagementsystemscutacrosstheresponsibilities
+of several ministries. MINICOFIN hasresponsibilitiesforpublicfinancialmanagement,MIFOTRA
+deals with human resource and government payroll issues and the MOH manages many of the
+sector’s financial resources. Much of MINICOFIN and MIFOTRA’sattentionhasbeenonsystems
+tosupportpublicadministrationandnotonthefinancialinformationneedsservicedelivery.
+Meanwhile several implementing partners have assisted selected health facilities by purchasing
+and implementing off-the-shelf solutions (SAGE, QuickBooks, TomPro) tocoverbasicaccounting
+needs.
+Severalinitiativesarealreadyinplace:
+● A Health Resource Tracking Tool (HRTT) is implemented in a configurable platform and
+usednationwide
+● MINICOFIN has developed the Integrated Financial Management Information System
+IFMIS system for public sector financial management and has made a commitment to
+adaptittoHealthsectorneeds
+● ThereisastrongcommitmentoftheGORtoautomateallfinancialtransactions
+RwandaDigitalHealthStrategicPlanDraftPage|51
+
+MinistryofHealth_ eHealthUnit
+● A billing module has already been developed within the EMR ‘full package’ and
+introducedinafewhealthfacilities.
+● The Ministry of Health has implemented costing exercises to determinethetruecostof
+deliveringhealthservicesandsettariffsforbothPublicandPrivatefacilities
+● RHMIS (DHIS-2) has a standard format for monthly financial reporting that provides
+information on financial trends since 2012 and enables data to be aggregated at
+differentlevelsofthehealthsystem
+● MIFOTRA have developed an Integrated Payroll and Personnel Information System
+(IPPIS) for use in public sector payroll and tracking individual Imihigo performance
+objectives.
+Thereremain,however,manychallenges:
+● Health facilities don’t have standard financial accounting and billing software
+(QuickBooks,SAGE,etc..).MostareusingpapersystemsandMicrosoftexcelthatmakeit
+difficulttoreportaccuratelyandtoanalyzetrendsovertime.
+● Monthly financial reporting is still paper based – Although health facilities have been
+reportingsummaryfinancialdataintotheRHMISsince2012,thisdoesnotreplacepaper
+reportingrequirementstothedistrictsandcentrallevelMOH.
+● Certain cadres (accountants, clinicians) are resistant to change and have low computer
+literacy
+● EMR billing module is not implemented in many facilities and still needs upgrading to
+meetrequirementsatHospitalandeventuallyHClevel.
+● ThereisnointeroperabilitybetweentheEMRandfinancialmanagementsystems.
+● HRTT is limited to public sector health expenditure and has much duplication that
+requires cleaning before analysis – reporting and detailed analysis is done better using
+other tools. Much of NHA production still requires manual steps and additional data
+collection.
+● PBF quality assessments and accreditation assessments are currently done using
+different tools (OpenODK and paper forms) and would benefit from tablet-based data
+collectionandlinkstoDHIS-2platformformonitoringtrends.
+● The Tariff procedure list is not harmonizedorcodedtoaninternationalstandardsothat
+changes could be automatically replicated across all computerized hospital billing
+systems. Procedures could also be grouped by cost centers or into diagnostic related
+groupstosimplifyfinancialanalysisandbilling.
+Given the increasing importance and complexity of financial management tasks within the
+health sector, all health facilities shouldbeusingcomputerizedfinancialmanagementtools.The
+EMR and financial management systems should be interlinked,sothatthereisnoduplicationof
+functions between the two platforms (e.g. billing and accounts receivable) and data are
+transferredautomaticallybetweenthetwoplatforms.
+Financial reporting for public sector facilities should be electronic and the data used
+systematically by authorities at all levels to track financial performance of the sector and for
+evidence-basedresourceallocation.
+RwandaDigitalHealthStrategicPlanDraftPage|52
+
+MinistryofHealth_ eHealthUnit
+While there are advantages and disadvantages to different policy options, there is a general
+agreement that financial management systems must be computerized as quickly as possible to
+ensureefficiency,transparencyandenableevidencebasedresourceallocation.
+Thekeyinterventionsproposedinclude:
+● Build upon the IFMIS system to implement MOH requirements for health facility level
+financialmanagement.
+● Leverage the HIE to implement standard procedure nomenclature and tariffsharmonization
+acrossallsystems.
+o AgreeonstandardizedclassificationsystemandadapttoRwandaservicepackages,
+o Groupcostsbycostcentersandordiagnosticrelatedgroupsforfinancialanalysis.
+o Establish and interoperability profile with the EMR system to automatically synchronize
+procedurelistsandtariffsacrossallpublichealthfacilities.
+● Select and implement a hospital management information system with billing capabilities
+andmakeitinteroperablewiththefinancialmanagementsystemthatisadopted.
+● Develop a roll-out strategy for new financial management systems with adequate capacity
+buildingandlongtermsupportforusers–potentialforPPPorPSE.
+● LinktheHRTTtotheDHIS-2datawarehouseforsharingkeyHRTTdata(e.g.donorfundingby
+district,byprogram,etc….)andusingdashboardsandmapsforanalysis.
+QUALITYASSURANCEANDPERFORMANCE-BASEDFINANCINGSYSTEMS
+QualityofcareisacornerstoneoftheRwandanhealth system. Rwandahasimplementedand
+scaleduptoallpublichospitalsaNationalHospitalAccreditationsystem. Inaddition,a
+performance-basedfinancing systemisimplementedatHospital,HealthCenterandcommunity
+healthworkerlevelstoincentivizepriorityhealthservicesandensureadequatequalityofcare.
+The health sector’s Performance-Based Financing (PBF) system has been migrated to DHIS-2
+platform making it much more sustainable and linking with data already collected from other
+systems. For PBF data management the DHIS-2 platform isworkingwellforgeneralquantitative
+indicator data collection and payment calculations, but with the merger of the Accreditation
+Standards with the PBF quality checklist there is a need to collect the qualitative data
+electronically as well. There is also a need to make moreeffectiveuseofthedatacollectedon
+quality of care for better accountability as well as for targeted facilitation and performance
+improvementinterventions.
+Thekeyinterventionsproposedinclude:
+● DevelopmentacomprehensiveHospitalAccreditationdatamanagementplatformincluding:
+o Complete the tablet-based questionnaires for data collection (both for Accreditation
+surveysandIntegratedSupportiveSupervisions)
+o Configuration a web-based platform to enable editing and printing of completed
+accreditationsurveyscollectedontablets
+RwandaDigitalHealthStrategicPlanDraftPage|53
+
+MinistryofHealth_ eHealthUnit
+o Develop interoperability between the web-based platform to DHIS-2 to create
+dashboardsofAccreditationperformance
+o Trainallsurveyorsinuseoftabletbasedsystem
+o Once theaccreditationsystemissuccessfullylaunched,usethesametoolstoimplement
+atabletbasedintegratedsupervisionchecklistsystem
+● Develop effective mechanisms using mHealth and the Citizen’s Health Portal for citizens to
+reportqualityofcareissuesfacedduringtheirinteractionswithhealthfacilities:
+o UpgradetheMOHwebsiteandCitizen’sPortaltoincludeanon-linesuggestionbox
+o Implement an mHealth application that will enable patients to give feedback about
+qualityofcaretofacilitiesaftertheyhavebeenseen
+HEALTHSECTORMUTUALASSISTANCEGROUP(MAG)MICROFINANCESYSTEM(NEW)
+The Ministry of Health has supported the establishment of a health sector Mutual Assistance
+Groupsavingsandloangroupasahumanresourceretentionstrategy. ByApril2018over11,000
+people (nearly 70% of eligible staff) had joined the group. Given the large number of
+transactions to be managed (monthly contributions from each member and agrowingportfolio
+of loans to process andrecover),theMAGneedsasophisticated,web-basedinformationsystem
+tosupportthefollowingfunctions,including:
+● Managingmembers
+● Trackingindividualmembercontributions
+● Managingloancontracts
+● Trackingindividualloanpayments
+● Managingbankaccountsandinvestments
+● Calculatingfundbalanceanddividends
+● Providing self-service features to allow members to adjust their contributions, check the
+balanceoftheiraccountsandapplyforloanson-line
+Similar microfinance schemes are functional in Rwanda, such astheCaissed’EntraidedeButare
+(CEB), that have served as a model for the design of the MAG. Some of them have automated
+their business processes. InadditiontherearecompaniesinRwandaandacrossEastAfricawith
+experiencedevelopingandimplementingmicrofinancemanagementsoftware.
+Keyinterventionsproposedinclude:
+● AnalyzingMAGbusinessprocessesanddevelopingdetailedfunctionalrequirements
+● IssuinganRFPtoselectafirmtodeveloporadaptasystem
+● Arrangingnationalhostingfacilitiesandinstallingthesysteminthedatacenter
+● TrainingMAGadministratorsandHealthFacilityMAGfocalpointstousethesystem
+● Developinganon-linevideotutorialformemberswhousetheself-serviceinterface
+HUMANRESOURCEINFORMATIONSYSTEM
+Human resources are perhaps the most critical input in the health service delivery system, in
+2015 HR costs (salaries, social security, employee taxes, employee bonuses and training costs)
+RwandaDigitalHealthStrategicPlanDraftPage|54
+
+MinistryofHealth_ eHealthUnit
+represented around 55% of district hospital and health center expenditures (Source: RHMIS
+monthly reports 2015). In addition to the expense, there is considerable staff turnover,
+shortages of certain cadres (e.g. doctors, specialists & midwifes) and employee retention
+representsseriouschallenges,especiallyinremoteareas.
+Effective HR informationsystemsarecrucialtohelpmonitorthedistributionandperformanceof
+staff across all of the nearly 500 public health facilities (note to mentiontheincreasingnumber
+of private clinics and hospitals) as well as to ensure that they are equitably distributed
+throughout the country, paid promptly and have career paths with opportunities for
+advancement.
+The SWOT assessment conducted with key HR management staff identified a number of
+strengths related to HR informationsystems,Forexamplethereare4majorHRsystemsinusein
+thesector:
+● iHRIS – MOH has been using iHRIS/Manage platform for HR related management
+information since 2010. Recently HR staff and Data Managers from all District Hospitals
+were re-trained and made a major push to update data on staff in all health centers in
+additiontothehospitalsthemselves.
+● Nursing council has been using iHRIS/Qualify module since 2013 and it now seems
+tobewellestablished.
+● Data on the very large pool of community health workers is now managed well
+withinRapidSMS.
+● IPPIS – Mifotra has invested in this web-based HR system that is used across all
+ministriesespeciallyforpayroll,workplanning,performancecontractsithasbeendeveloped
+locallyandisprovidedfreetogovernmentinstutions. Since2015allpublicsectoremployees
+inthehealthsectorhavebeenpaidthroughIPPIS.
+In addition, during 2013-14 the Ministry of Health implemented the WISN tool (workforce
+indicators of staffing needs) on a nation-wide scale. This analysis helped to identify specific
+staffing gaps and even some oversupply and therewasanintentiontousethetoolcontinuously
+tohelpdrivedecisionsaboutstaffrelocationandposting
+Inspiteoftheavailabilityofthesesystems,thereremainmanychallenges:
+● TheMOHhasonlyrecentlybegunusingIPPISforpayroll. Althoughithasmanymodules,
+some are still under development and it is not clear how flexible it is for collecting and
+analyzingsomeofthespecificHRdatathatarerequiredforthehealthsector.
+● iHRIS is missing key modules that the ministry has wanted: Payroll and Leave
+Management in particular. Using the two systems makes extra work, especially since
+thereisnointeroperabilitybetweenthem.
+● Apart from the Nursing Council, other professional councils have not adopted
+iHRIS/Qualify,optingforspreadsheetsandothertoolstotracktheirmembers,asaresult
+all of the health professional data are not inoneplace,andthereisabiggapintracking
+theprivatesectorworkforcenotincludediniHRIS/Manage.
+● During the process of updating the Health Sector HR strategic plan, the team found it
+very difficult to findcomprehensivedataonworkforcedistributionacrossthesectorand
+RwandaDigitalHealthStrategicPlanDraftPage|55
+
+MinistryofHealth_ eHealthUnit
+projecting training capacity of the Ministry of Education for meeting the gaps. There is
+no single data source that reunites CHWs, Professional Cadres and other MOH staff for
+rapidanalysisanddecision-making.
+● The health sector relies heavily on in-service training organized by many programs, but
+there is no systematic way to track who has been trained in what – even though iHRIS
+hasseveraltrainingmodulesthatcould,beadapted.
+● Some iHRIS/Qualify functions are not used such as tracking continuous professional
+developmentcredits.
+● At the MOH level, there has been considerable turnover in thestaffwhomanageiHRIS.
+Senior management with the HR department don’t recognize the potential valueofthe
+data it stores. These factors have resulted in limited internal capacity to administer the
+system and an inability to use the data from the system for routine HR workforce
+monitoringandplanning.
+● The WISN tool is very labor intensive to use – requiring manualentryofdata–muchof
+which is available electronically in iHRIS and the RHMIS. WHO, who developed the
+system, seems to have little interest in upgrading thesystemtomakeiteasiertoimport
+thedataautomaticallytomakeiteasiertouse.
+● High staff turnover appears to be a significant issue in the health sector – but there is
+little data available to quantify turnover rates or to better understand the reasons for
+turnoversothatappropriatestrategiescanbedevelopedtomitigateit.
+In addition to payroll, theMinistryofHealthneedsinformationsystemstosupportthefollowing
+HRmanagementfunctions:
+● HRplanning:
+o Workloadassessment(WISNtoolwasusedonce,couldbeimproved)
+o Workforce distribution analysis and redistribution (iHRIS, iPPIS are used in the
+sector but neither provide a complete picture of all HR resourcesinprivateand
+publicsectors)
+o Workforce training capacity and current pipelines of new cadres (should come
+from UR/CHMS and KHI systems,buttheredoesnotappeartobearoutinedata
+sharingagreementinplace)
+● Monitoring of in-service training – no system is currently used although there was an
+attempttouseitaspartoftheHRHprogramfortrainingofspecialists
+● Licensing of medical professionals: iHRIS/Qualify is used by the nursing council but not
+by any others. A new CPD program has been developed, but iHRIS is not used to
+monitor credits. There are opportunities to improve revenues for theCouncilsbyusing
+automatedreminderstomemberswhoarelatewiththeirrenewalpayments.
+● Routine HR management (many of these are supported by both IPPIS and
+iHRIS/Manage)
+The health sector needs a comprehensive data source that unites CHWs, professional cadres,
+MOH and private sector staff for rapid analysis and decision-making related to workforce
+distribution. KeyHRactionsthatarecurrentlynotperformedusingeithersystemshouldbefully
+exploited(forexample:in-servicetrainingandperformancemanagement).
+Belowisasummaryofkeyobjectivesandinterventions:
+RwandaDigitalHealthStrategicPlanDraftPage|56
+
+MinistryofHealth_ eHealthUnit
+● EvaluateiHRISandIPPISbaseduponexistingHRsystemrequirements:
+● Conduct an in-depth analysis comparing the functionality ofIPPISandiHRISbasedupon
+the HR system requirementsidentifiedaboveandcontainedintheWHO/CDCHRsystem
+requirements document prepared in 2010. While using IPPIS for payroll and several
+other functions has been mandated by MIFOTRA, this analysis willhelptodetermineto
+what extent iHRIS should continue to be usedinacomplementarymannerorwhatnew
+featurestheMOHshouldadvocateforaddingtoIPPISinfuture.
+● If the two systems are complementary – establish a mechanism for interoperability, so
+that key HR actions (new hires, transfers, exit, promotions) only need to be entered in
+one system and they can then be synchronized so that there isnoneedfordoubledata
+entry.
+● DevelopaLeaveManagementmoduleinwhicheverofthetwoplatformsisbestsuited.
+● A single data source should be established that reunites CHWs from RapidSMS,
+Professional cadres from (iHRIS/Qualify) and other MOH, private sectorandcontractual
+staff (from iHRIS or IPPIS) for rapid analysis and decision-making –thiscouldbedonein
+iHRIS/ManagerorDHIS-2.
+● Use the training module in iHRIS to enter data from all in-service training required for
+different levels of health workers so that it is clear who has been trained in what–and
+traininggapscanbequicklyidentifiedandfilled.
+● Empower the ProfessionalCouncilstomanagedataforallprofessionalcadresinpublicand
+private sectors: All Professional Councils should expand use of the same iHRIS/Qualify
+system for registering theircadresinbothpublicandprivatesectors(thatarenotincludedin
+any ofthecurrentMOHHRsystems),improvingrecoveryofmembershipfeesandtrackingof
+CPD requirement completion. The data should be shared routinely with MOH (perhaps in
+iHRIS/Manage or DHIS-2) so thatkeyhumanresourceindicatorscanbemonitoredeasilyand
+acomprehensiveannualcensuscanbeproduced.
+● Enhance data quality assurance: Improve the routine monitoring of data quality in iHRISor
+IPPIS, tracking frequency of use of the system by HR managers and preparing targeted
+exception reports to send to HR officers routinely (at least every quarter) so that errors are
+corrected. Focus on the data that are required tocalculatekeyworkforceindicatorssuchas
+turnover,retirementrates,populationservedpercadreandsalarydataforaccuratepayroll.
+● Decide about the future of WISN: If the tool’s use is to becontinued–considerreplicating
+muchofitsfunctionalityintheDHIS-2platformsothatdatacanbeautomaticallyaddedfrom
+RHMIS on service volumes and from iHRIS or IPPIS for staff distribution. This platform will
+alsoenablestaffingneedstoberolleduptodistrictandhigherlevelsveryeasily.
+● Research about staff retention issues: Conduct a quantitative and qualitative study onstaff
+turnover and develop retention strategies to address the root causes of the problem,
+enhanceHRinformationtoolstobettermonitorstaffturnoverandretention-relateddata.
+● Transition system admin support forHRsystems: Transitionsystemadministrationtasksfor
+iHRIS and IPPIS over to the RBC/HIS team or explore including system admin and helpdesk
+tasks in the larger private sector partnership being proposed for other core MOH systems
+suchasEMR.
+IMPROVEICTINFRASTRUCTUREANDSOFTWARESUPPORTINTHEHEALTHSECTOR
+RwandaDigitalHealthStrategicPlanDraftPage|57
+
+MinistryofHealth_ eHealthUnit
+A 2015 ICT survey showed that halfofdistricthospitalsareconnectedtobroadbandInternetvia
+fiber-optic cable or ADSL and 80% of Health centers are connected to the Internet via Wireless
+modems. About 25% of hospitals are equipped with video conferencing equipment. 80% of
+hospitals are also equipped with servers that can run hospital management systems. However,
+therearenumerouschallengesthatneedtobeaddressedandtheseinclude:
+● Fundingforinfrastructureinvestmentishardtosecure–especiallyforreplacementafter
+theyarenolongeruseable.
+● HighcostofhostinginNationalDataCenterthatiswellaboveinternationalcloud
+hostingcharges.
+● Protectingequipmentinareaswhichareinhighriskofthunderandlightning
+● LANandEquipmentupgradeiscostlyandthepublicsectordoesnotsetupa
+depreciationfundforthispurpose.
+● FiberOpticlinesareoftenfarfromtheHealthFacilities
+● Therearelimitedmechanismsforhelpdesk,hardwaremaintenance/repairandend-user
+supportinremoteareas
+● Thereisnoadequate,environmentallyfriendlydisposalofITequipment
+● MinistryofHealthadministrativedocumentsaretracked,dealtwithontimeand
+securelystored
+TheMinistryofHealthwebsiteisnotuser-friendlyanditscontentsarenotupdatedontime
+Forthesectortotakefulladvantageofthetechnology,asolidinfrastructurefoundationis
+crucial. Thisincludes:
+● Health facilities have adequate infrastructure including local area networks, computers,
+UPSetc..
+● Health facilities have sufficient Internet bandwidth that allows them to run their
+day-to-daybusiness.
+● An affordable environment is available to host all online applications with secure
+mechanismsforbackup
+● Upgrade MOH web site – especially for storageandeasyaccessofhealthsectorpolicies
+andotherofficialdocumentswithlinkstootherrelevantwebsites
+● A Public Private Partnership mechanism is put in placetoensuresoftwaredevelopment
+andsupportaswellashardwaremaintenance.
+● Awell-trainedICTteamexiststhatprovidesbasicusersupport.
+● The eHealth center of Excellence at the UR/SPH builds capacity that is relevant to the
+HealthSectorneeds
+In the past the MOH has been successful at engaging partners to fund many of the investment
+costs related to ICT (purchase of computers, network infrastructure, development of software
+and initial training of users). ICT infrastructure is verycostlyandneedstoberegularlyupdated.
+With the reductions in external funding the biggest share of the costs needs to come from
+domesticresources.TheMOHhastwomainpolicyoptions:
+● develop a joint funding arrangement that shared costs between the Ministry of Health,
+MITECH,thedistrictsandthehealthfacilitiesthemselves.
+RwandaDigitalHealthStrategicPlanDraftPage|58
+
+MinistryofHealth_ eHealthUnit
+● Engage the private sector under the PPP law to provide software development and
+supportaswellasICTequipmentmaintenance.
+Themainstrategicobjectivesandinterventionsproposedinclude:
+● Ensurethathealthsectordataandinformationsystemsaresecureandefficient
+● EnsurethatICTinfrastructureisreliableandaffordableinHealthFacilities
+● Procure,upgradeandsafelydisposeofcomputerequipment
+● Buildcapacityofhealthworkforcetousesystemseffectively
+● Establish effective mechanisms for basic internal system administration support across
+allplatforms,leveragingpublicprivatepartnershipsasmuchaspossible
+LEVERAGETECHNOLOGYTOBUILDTHECAPACITYOFTHEHEALTHWORKFORCE,OFFERDECISION-SUPPORTANDPREPAREHEALTHWORKERSAT
+ALLLEVELSTOMANAGEANDUSETHEFULLRANGEOFDIGITALHEALTHTECHNOLOGIES
+WORKFORCEDIGITALLITERACYDEVELOPMENTSTRATEGY
+Capacitybuildingofthehealthworkforcerequiresamulti-sectoralapproachwithdifferenttypes
+oftrainingprovidedduringahealthworker’slivecourse. Fivekeyapproachesareproposed,
+including:
+● Initialdigitalliteracy:Allcitizenswillbehaveaccesstobasicdigitalliteracythrough
+primaryandsecondaryschoolsystemandthedigitalliteracyoutreachprograms.
+● Pre-serviceprofessionaleducation:Allhealth-relatedschoolsthattrainprofessionals
+whoworkinthehealthsystemwilldevelopcoursesongenericorstandardeHealth
+technologies(e.g.HMIS,EMR,dataaccessandprivacypolicies). Thisalsoincludes
+specializedgraduate(Masters,PhD)orcertificatecoursesineHealth.
+● HealthProfessionsCouncils:Councilsshouldidentify,prioritizeandcertifydigitalhealth
+relatedeLearningcoursesthathealthworkersmaytakeforCPDcredits
+● Systemspecificusertraining:Capacitybuildingforusersandsystemadministratorsof
+specificsoftwarewillbeincludedintheimplementationplan. Thiswilllargelybe
+conductedthroughin-serviceandon-the-jobtrainingsessions. Thiscapacitybuildingis
+budgetedinthesystemimplementation. Trainingshouldalsomakeprovisionstodeal
+withstaffturnover.
+Keyinterventionsproposedinclude:
+● Conductanassessmentofdigitalliteracycapacityandgaps
+● Enhancetrainingapproachestobetterrespondtocapacitygaps
+● LeveragetheeLearningplatformespeciallyforCPD,refreshertrainingandtodealwith
+staffturnover.
+● Encouragetheestablishmentofdigitalhealthsystemuseranddevelopercommunities
+forspecificplatforms(e.g.DHIS-2,EMR,MEMMS).
+EXPANDUSEOFELEARNING
+RwandaDigitalHealthStrategicPlanDraftPage|59
+
+MinistryofHealth_ eHealthUnit
+Training and continuous professional development (CPD)arecriticaltomaintainingacompetent
+health workforce, but most training is still delivered through traditional classroom methods as
+part of both pre-service and in-service training. With the growth of the workforce and the
+reductions in externalfundingthatpreviouslypaidformostin-servicetraining,thereisaneedto
+identify more cost-effective methods for building capacity within the health workforce. At the
+same time, the multi-sectoral investments in ICT infrastructure (hosting services, broadband
+internet connectivity and availability of computers is all health facilities) as well as a growing
+cadre of computer literate health workers have created an enabling environment for eLearning
+andblended-learningapproaches.
+The University of Rwanda has established several eLearning platforms. The key implementation
+of eLearning in the health sector to datewasthecourseforupgradingtheskillsofabout700A3
+nurses to become A2 nurses. However, with the shift of medical education from MOH to the
+Ministry of Education (MINEDUC), much of the capacity for implementing and facilitating
+eLearning courses also shifted to MINEDUC. In 2016, health sector staff started their own
+initiatives to use the eLearning platform for refresher training of data managers and M&E staff
+who are regular users of the various health information systems, but the technology has not
+beenwidelyrolledout.
+In order to reduce the cost of capacity building and refresher training across the health sector,
+the MOH has proposed a review of all capacity building plans in order to identify those
+competencies that can be effectively delivered by eLearning. The MOH will establish a
+centralized eLearning platform and train a core team of staff in eLearningcontentdevelopment
+and facilitation. This team will work together with UR staff and the professional councils to
+implement the prioritized eLearning courses. Incentives will be developed for health workers
+who complete these courses, such as certificates and CPD credits, and some courses will be
+requiredforcontinuedlicensingandcertification.
+There has been some debate about how muchtheMOHshouldbeinvolvedinthedevelopment
+and facilitation of eLearning courses, as capacity building isprimarilythemandateofMINEDUC.
+At the same time, the primaryfocusofMINEDUChastraditionallybeonpre-servicetraining(for
+health and other disciplines), while MOH has played the leading role in delivering in-service
+trainingforthesector.
+MOH can take the lead on the development of health-related in-service eLearning courses, as
+the content specialists, and engage MINEDUC (through UR/CMHS) to assist withtrainingcourse
+developersandfacilitators.
+In order to implement eLearning across the sector, the MOH will work closely with staff from
+UR/CenterofExcellenceforBiomedicalengineeringandeHealthto:
+o Train facilitators from selected RBC programs and MOH departments in eLearning
+curriculumdevelopment
+o Developandfacilitatetargetedelearningcourses.
+o DevelopincentivesforhealthworkerstotakeeLearningcoursesincludingCPDcredits.
+RwandaDigitalHealthStrategicPlanDraftPage|60
+
+MinistryofHealth_ eHealthUnit
+IMPROVETHELEGALANDREGULATORYFRAMEWORKFORSECURITY,CONFIDENTIALITYANDCONTROLLEDACCESSTOINFORMATION.
+DEVELOPANDIMPLEMENTAPERSONALDATASHARING/CONFIDENTIALITYPOLICYANDENFORCEMENTFRAMEWORK
+RwandahasdevelopedaHealthSectorDataSharingpolicy,butitcurrentlyaddressesonlyaccess
+toaggregateddata. Beforethetransitiontoelectronicmedicalrecordsiscompleteaneffective
+policyandregulatoryframeworkmustbeputinplaceforcontrollingaccesstoperson
+identifiabledata.
+Severalhealthprograms,suchasHIV,TBandtheCHW’sRapidSMSsystemrelyonunique
+identifierstotrackindividualslongitudinally,buttheyarenotfullyintegratedwiththecountry’s
+NationalIDsystem(thatcurrentlydoesnotissueIDsforcitizensunder16). Thisissueisbeing
+dealtwithinadifferentpartofthestrategicplan.
+Thebigchallengescomeoncemosthealthdataareavailablethroughcentralizedplatformssuch
+asthesharedhealthrecord. Thereiscurrentlynoregulatoryframeworkthatdetermineswho
+hasaccesstothosedata. Forexample:
+● Whatistheroleofpatientsinapprovingwhoreceivestheirdata?
+● Arecertaincadres(e.g.doctors)automaticallyentitledhaveaccesstoallmedical
+records? Canothersonlyseecertaintypesofdata(e.g.financial,proceduresbut
+notdiagnoses)?
+● Howcancitizensaccessandmanagetheirownpersonalmedicalrecords?
+● Whatrulesgovernthetransmissionofpersonaldatabetweendifferentsystems?
+Policiesalonewithoutastrongregulatorystructureandisnotenough. Theremustbe
+mechanismstomonitoraccesstorecords(suchasblockchaintechnology)andalertauthoritiesif
+therearesecuritybreaches.
+Itisurgentforthehealthsectorto
+● Develop legal framework and policies for data exchange, access and security of
+personallyidentifiabledata,useofmobiledevicesandsocialmedia, telemedicine
+● Establishment of Standard Operating Procedures (SOPs) and Guidelines for ICTSecurity,
+Backup plan Disaster recovery Plan, Licensing and SSL and security are developed and
+enforced.
+● Implement technologies such as blockchain to monitor transactions of person
+identifiabledataacrossdifferentsystems.
+PROMOTERESEARCHANDDEVELOPMENTTOADAPTINNOVATIONSANDTHEUSEOFEMERGINGTECHNOLOGIESINTHEHEALTHSECTOR
+Withtechnologicalinnovationdisruptingalmostallsectorsacrosstheglobe,thehealthsector
+withitscomplexityandsensitivity,hasseenmanyofthenascentinnovativesolutionsbeing
+RwandaDigitalHealthStrategicPlanDraftPage|61
+
+MinistryofHealth_ eHealthUnit
+deployedandchangingeveryaspectofhealthcare—itstechnology,itsdeliverytoconsumers
+anditsbusinessmodels.
+Coupledwiththecountry’svisiontobecomeatestbedforinnovation,theimplementationof
+thisstrategicplanwillrelyheavilyontheinnovationecosystemalreadyinplace,aregulatory
+sandbox1thatisintheprocessofbeingestablished,anupcomingemergingtechnologies
+blueprint inthemaking,innovationhubs,academia,privatesector,civilsocietyandother
+relevantGovernmentledinitiatives.
+Inordertoadoptthesesolutions,thehealthsectoritselfneedstobepreparedbycreatingan
+enablingenvironment.Thisissuggestedthroughathree-foldapproache:
+o Bycreatinginternalcapacityofteamsthatactivelyseekoutinnovationsandnew
+technologies,testorproducethemandfinallyadoptthemfornationaluse.Financial
+andhumanresourcesshouldbeavailedtosupportthis.
+o Bycuratingandleveragingonnetworksofexistinginnovatorstoaddresshealthsector
+challenges.Thisisusuallydonethroughsetupofhackathonsandcompetitions.Prizes
+andfundsaresetuptoincentivizethisapproachandthisgoesalongwayinraising
+awarenessonexistingissuesthatneedtobeaddressedoutsidetheformalprocesses.
+o Byincubatingandscalingthemostpromisinghealthcareinnovationsidentified.Forthis
+tosucceed,adedicatedteaminsidetheMinistryofHealthwouldchampionthe
+selectionprocess.ThisapproachcombinesR&Dwithinnovationandoftenyieldslong
+termandmanysolutionsatatime.
+Withtheabove,theexpectedcontributionofinnovationshouldbeclearlyvisibleinthefollowing
+areas:
+o Costeffectivenessofdigitalhealthtechnologies–bydevelopinganinnovationagenda
+thatisalignedwiththehealthsector’sprioritiesandpromoting theirsystematic
+evaluationoradaptation–includingtotalcostofownershipandanassessmentof
+returnsoninvestment.
+o Keydigitalhealthinnovationsthatpromisetobegamechangerscanbeincubated,
+evaluated,andsupportedforquickscaleup.
+o Improvedcitizencentrichealthcarebusinessmodelsthatcombinedatafromfragmented
+healthsystems,canincreaseefficiency,improveservicedelivery,andsavetime.Itis
+importanttonotethattheothersideoftechnologyandinnovationinhealthsector–
+holdingontostovepipedlegacysystemsthatarenotagileenoughtosupportachanging
+environment -increasescostsandultimatelythecitizenisthevictim.
+Inthebroadersense,Rwandahasalreadyshowcaseditswillingnesstocollaboratewith
+innovators:ZiplineandBabyltonameafew.Thiscommitmenttoinnovationwillincreasethe
+sector’sagilitytoquicklyadoptand/ordiscardtechnologies.
+TheeHealthUnitwilldrivetheseinitiativeswithsupportfrompartnersintheeHealthTWGby:
+● Establishinganinnovationagendatopromotesolutionsforpriorityproblems
+1http://www.rura.rw/fileadmin/Documents/ICT/Laws/Sandbox_Framework_.pdf
+RwandaDigitalHealthStrategicPlanDraftPage|62
+
+MinistryofHealth_ eHealthUnit
+● Mobilizingresourcestosupportsmallgrantsorprizestoincentivizedevelopmentof
+selectedinnovations
+● Promotingoperationalresearchstudiestoevaluatethecost-effectiveness,acceptability
+andhealthimpactofselectedinnovations.
+RwandaDigitalHealthStrategicPlanDraftPage|63
+
+MinistryofHealth_ eHealthUnit
+ACTIVITYLOGFRAME
+Achieving the vision and benefits of Digital Health is a journey that will enable significant
+movement towards the positive transformation of health care in Rwanda. To achieve the
+long-term visionforeHealth,animplementationstrategyhasbeendevelopedwhichoutlinesthe
+key actions that need to be taken with the corresponding timeframes. The activity log frame is
+attachedinAnnex2.
+The log-frame describes a series of activities spread over the five years. Ingeneraltheactivities
+areinlinewithanumberofstrategicprinciples:
+● Enhancing existing systems to ensure that they meet the user and technical
+requirements.
+● Reusingexistingtechnologieswherepossibleanddevelopingnewones
+● Scalingupsystemsatnationallevelwhere
+● Makingsystemsinteroperable
+● Providingsecureaccesstodatawhilemaintainingsecurityandconfidentiality
+● Providingtherequiredsupporttoallusers
+The timelines outlined for some of the activities are estimates that will be confirmed as more
+detailed planning occurs over the upcoming years. Some projectsmaybecompletedfasterthan
+their estimated timelines, while others may be slower. Project timelines are also contingent on
+other factors, which maybebeyondthecontrolofprojectleads,suchasthedevelopmentofthe
+National ICT infrastructure, timing of formal approvals, new legislative issues, or theavailability
+ofcriticalspecializedresources.
+BUDGET
+Annex 3 shows the estimated budget for each component in the five-year strategic plan. The
+budget was calculatedbasingontheactivitiesthatareinvolvedforeachproject.Thebudgetwas
+developed using the Health Information SystemImplementationPlanBudgetingTool,whichwas
+developedbytheWHOprojectcalledtheHealthMetricsNetwork.
+Table2:BudgetSummary
+STRATEGICINTERVENTION DEVELOPMENT RECURRENT TOTAL($)
+($) ($)
+1 HealthInformationExchange 462,400 - 462,400
+(Interoperability)
+2 ElectronicMedicalRecords 7,198,350 10,084,125 17,328,270
+3 LaboratoryInformationSystem 49,636 - 49,636
+4 TelemedicineandeLearning 1,070,829 72,000 1,142,829
+5 Citizen’sHealthPortal
+6 HMIS&RoutineInformationSystems 486,300 - 486,300
+RwandaDigitalHealthStrategicPlanDraftPage|64
+
+MinistryofHealth_ eHealthUnit
+7 EnhancetheuseofRapidSMSin 674,405 38,750 718,505
+reductionofmaternalandchild
+death
+8 Diseasesurveillancesystem 90,540 - 90,540
+9 ElectronicLogisticsManagement 1,108,234 - 554,117
+InformationSystem
+10 MedicalEquipmentMaintenance& 74,909 16,740 91,649
+Management
+11 Bloodbankinformationsystem 84,938 - 84,938
+12 FinancialManagementSystems: 158,267 - 163,267
+13 QualityImprovement&PBFsystems
+14 MutualAssistanceGroup
+microfinancesystem
+15 HRmanagementsystemupgrades 121,445 - 121,445
+16 ICTinfrastructureandsupport 59,321 - 59,321
+17 Innovation
+TOTAL 11,780,184 10,219,415 21,501,627
+About 80% of thebudgetisrelatedtotheimplementationofanelectronicmedicalrecord(EMR)
+system in all hospitals (about 50) and all health centers (about 500), including billing for health
+services in health facilities. Close to 60% of the EMR budget is for ICT infrastructure including
+mainly Local Area networks and computers. Close to 40% of the EMR budget is allocated to
+trainingofusersandsystemsupport.
+It is envisaged that key interventions such as EMR will be implemented via a Public Private
+PartnershiparrangementinordertoreducetheburdenoftheinvestmentcostontheMOH.
+EHEALTHGOVERNANCE
+TheMinistryofHealthcoordinatesDigitalHealthpolicydevelopment,coordination,planning,
+follow-up,evaluationandpromotion;whiletheRwandaBiomedicalCenter(RBC)hastheoverall
+responsibilityforimplementationofDigitalHealthactivitiesrelatedtospecificprograms,
+ensuringthatallDigitalHealthissuesintherespectiveprogramsareaddressed.
+RecognizingthatnoDigitalHealthprojectstandsentirelyaloneorisindependentoftheothers,
+allprojectsmustbecarefullymanagedandcoordinatedinordertoensuretheirfullalignment
+withtheHealthSectorvisionandDigitalHealthstrategicframework. Thisfundamental
+alignmentwillbeensuredbytheeHealthunitandtheeHealthTechnicalWorkingGroup,with
+guidancefromMinistryofHealthleadership.
+The Ministry of Health will ensure the coordination of Digital Health activities with other key
+stakeholders such as all member institutions of the Rwanda Biomedical Center, development
+RwandaDigitalHealthStrategicPlanDraftPage|65
+
+MinistryofHealth_ eHealthUnit
+partners and other relevant government institutions to ensurethattheDigitalHealthpolicyand
+strategicplansareadheredto.
+EHEALTHMANAGEMENTSTRUCTURE
+Currently eHealth related staff are scattered widely across MOH, RBC and HealthFacilities. The
+eHealth Unit is based in the Clinical Services Division of the MOH and supports coordination,
+strategic planning and M&E of eHealth activities. ICT infrastructure (networks, servers,
+procurement) is supported by separate ICTdepartmentintheMOH’sPlanning,HealthFinancing
+and Information Systems (PHFIS) Directorate and RBC. Implementation of eHealth platforms is
+primarilymanagedbyRBC’sHealthInformationSystemsUnit.
+Figure5:CurrenteHealthManagementStructure
+This organizational structure is not optimal for coordination or project management. MOH
+should work with MITEC torevieweHealthandICTrelatedfunctionalresponsibilitiesinlinewith
+guidancetheyprovidetootherMinistriesandadjustthestructureaccordingly.
+EHEALTHTECHNICALWORKINGGROUP(TWG)
+TheMinistryofHealthhasestablishedtheeHealthTechnicalWorkingGroupasakey
+coordinationbodyinthisdomain.ItiscomposedoftheeHealthunitstaff,allhealthinformation
+systemmanagers,eHealthtechnicalleadsinRBC,implementingpartnersandother
+representativesofrelevantpublicandprivateorganizationsasdeterminedbytheMinistryof
+Health.
+TheTechnicalWorkinggroupisexpectedtomeetatleastmonthlytodiscusstechnicalmatters,
+monitortheimplementationofthejointactionplan,andproviderecommendationstothe
+MinistryofHealthonnewinitiativesthatareproposed.
+The MOH will seek to broaden the engagement in the TWG by attracting other stakeholders,
+including Professional Councils, academic institutions, development partners, district hospitals
+and RISA and by holding more regular meetings in order to make this coordination mechanism
+moreeffective.
+ENSURINGASUCCESSFULIMPLEMENTATION
+RwandaDigitalHealthStrategicPlanDraftPage|66
+
+MinistryofHealth_ eHealthUnit
+The implementation of Digital Health in Rwanda is about fundamental cultural and business
+process changes in the way healthcare is delivered across the country. It is about enabling the
+transformation and modernization of service delivery methods to improve the quality,
+timeliness, safety and efficiency of healthcare service delivery. A high level of coordination and
+integrationiscriticaltothesuccessfulimplementationoftheDigitalHealthstrategy.Inparticular,
+thekeyprinciplesthatwill adheredtoinordertoachievesuccessinclude:
+▪ Strong and enduring National leadership: ensuring the realization of the Digital Health
+vision;
+▪ Unwavering commitment: ensuring successful completion and uptake of the use of Digital
+Healthsystems;
+▪ Collaboration: key stakeholders working together throughout the implementation of the
+DigitalHealthstrategy;
+▪ Physician engagement: ensuringthatphysiciansareactivelyengagedandparticipatinginthe
+DigitalHealthsystemdesign,implementationanduse.
+MONITORINGANDEVALUATION
+Monitoring and evaluation of the strategic plan implementation is critical for measuring the
+progress that is being made. Themonitoringandevaluationwillbebasedonthemilestonesand
+targets set for each Digital Health system componentasstipulatedintheDigitalHealthstrategic
+plan. A monitoring and evaluation framework has been developed (see Table 3), which is
+comprisedofasetofclearindicators,datasourcesandregularreviewmechanisms.
+The eHealth unit will also develop a joint action plan to coordinate multi-stakeholder
+interventions and help to monitor the progress of Digital Health project implementation and
+provideareporttotheMinistryofHealth’sseniormanagementonaquarterlybasis.
+Inaddition,theeHealthteamwillpromoteandcollaborateonoperationalresearchstudiesto
+assesskeydigitalhealthconcerns. Thisincludescostingstudiestoassessreturnoninvestments
+andimpactevaluationstodeterminetheeffectivenessofselecteddigitalhealthinterventions.
+Table3:M&Eframework,PolicyOrientations,Indicators,baselines,targetsanddatasources
+Outcomes Baseline2016 Targets2022 Datasources
+1.HealthEnterpriseArchitecture(includingHealthinformationexchange)–FlagshipProject
+Nationalsharedhealthrecordplatformcreated 0 1 Projectreports
+2.EMR/facilitymanagementsysteminallhealthfacilities
+HealthfacilitiesusingIntegratedEMR(Private, PublicHospital 100%(48) EMRserver
+PublicHospitalsandHealthcenters) (12) ?? monitoringtool
+Private 100%(500)
+polyclinics(7)
+PublicHealth
+Centers(362)
+3.LaboratoryInformationSystems
+RwandaDigitalHealthStrategicPlanDraftPage|67
+
+MinistryofHealth_ eHealthUnit
+Lab systems are interoperable withotherelectronic 0 1 ProjectReports
+medicalrecords
+LabresultsavailabletofacilitiesconnectedtoLIS 0 43 ProjectReports
+4.Promotetelemedicineforremotediagnosticsandcare–FlagshipProject
+Functioning videoconferencing facilities in all 15 48 ProjectReports
+hospitals
+Telemedicineplatformthatsupports 0 1 ProjectReports
+telemedicineservices
+5.Implementacitizen’shealthportal–flagshipproject
+Citizensaccessingindividualmedicalinformation 0 30% SharedHealth
+Records
+Citizenscontributingtotheirownhealthrecords 0 25% Citizen’sHealth
+Portal
+6.ContinuetoexpandRHMISplatformandbuildcapacityfordataqualityassuranceanddatademandanduse
+% of District Health Units and District Hospitals 0 80% RHMIS
+creating&usingdashboardsintheDataWarehouse
+Number of senior managers from RBC and MOH 2 40 RHMIS
+departments creating & using dashboards from the
+DataWarehouse
+7.Communitysurveillanceandreporting(RapidSMS)
+Numberofdistrictsusingupgraded 0 30 ProjectReports
+RapidSMS/RapidPro
+PercentofRedAlertsrespondedtoontime ?? 90% RapidSMS
+Population receiving new messages on key family 1,500,000 RapidSMS
+healthandsafehygienepractices
+8.Enhanceepidemicdiseasesurveillanceandresponse(eIDSR)
+Percent of confirmed disease outbreaks detected ??? 99% eIDSR
+initiallythroughtheeIDSR
+Percent of suspected cases reported in eIDSR that 12% 90% eIDSR
+havefollow-updataenteredinthesystem
+9.Supplychainmanagementsystems
+The fully integrated eLMIS platform interoperable 0 3systems Projectreports
+with other key systems to eliminate duplication of
+effort
+Percent of public health facilities using the eLMIS 90%(orders) 95% eLMIS
+for key stock management tasks (ordering & ?? 80%
+reportingdailyconsumption) (consumption)
+Percent of public hospitals served with blood 1 100%(48) ZipLine
+productsandotherurgentsuppliesusingdrones
+10.BloodBankInformationsystem
+An integrated system with electronic interfaces 0 1 Projectreports
+(USB,etc..)withbloodtestingequipment
+11.MedicalEquipmentManagementandMaintenanceSystem
+RwandaDigitalHealthStrategicPlanDraftPage|68
+
+MinistryofHealth_ eHealthUnit
+Percent of public hospitals using the upgraded 0 100%(48) MEMMS
+MEMMS
+12.FinancialManagementsystem
+Percent of public hospitals effectively using IFMIS 0 100%(48) iFMIS
+forfinancialmanagement
+Percent of public health facilities using EMR billing 5 100%(48) EMRserver
+moduleorfinancialaccountingsoftwareforbilling monitoringtool
+13.QualityAssuranceandPerformance-BasedFinancingSystems
+Percent of surveyors using tablets to capture data 0 100%(48) Accreditation
+from Accrediation surveys, ISS checklists and PBF platform,ISS
+checklists
+Accreditation data management platform 0 1 Projectreports
+operational
+14.HealthSectorMutualAssistanceGroup(MAG)microfinancesystem(New)
+Percent of eligible health sector employees who 0 80 MAGinformation
+havejoinedtheMAG system
+Percent of loans issued electronically through the 0 60% MAGinformation
+MAGweb-basedsystem system
+15.Humanresourceinformationsystem
+Percent of health workers managed through iHRIS 40% 80% iHRIS
+systemusedbyallprofessionalcouncils
+16.ImproveICTinfrastructureandsoftwaresupportintheHealthSector
+PercentoffacilitieswithadequateICTequipmentto 90% RHMISAnnual
+supportnetworkedEMR reports
+Percentoffacilitieswithnetworksconnectedto 10% 90% RHMISAnnual
+broadbandinternet reports
+17.WorkforceDigitalLiteracydevelopmentStrategy
+Percent of health related pre-service training ?? 100% Trainingassessment
+institutions (nursingschools,university).thatinclude
+eHealthrelatedcontentintheircurriculum
+18.ExpanduseofeLearning
+Percent of hospitals with functioning 31%(n=15) 100%(n=48) RHMISAnnual
+videoconferencingfacilities reports
+Telemedicine platform that supports telemedicine 0 1 Projectreports
+services
+Percent of key cadres of health workers (doctors, 10% 60% eLearningplatform
+nurses, data managers & M&E officers) completing
+eLearning courses as part of refresher training or
+continuingprofessionaldevelopment
+19. Promote researchanddevelopmenttoadaptinnovationsandtheuseofemergingtechnologies
+inthehealthsector
+Innovationagendadevelopedfordigitalhealth 0 1 Projectreports
+Percent of innovations proposed that have been 0% 50% Projectreports
+testedandapproved
+RwandaDigitalHealthStrategicPlanDraftPage|69
+
+MinistryofHealth_ eHealthUnit
+RwandaDigitalHealthStrategicPlanDraftPage|70
+
+MinistryofHealth_ eHealthUnit
+REFERENCES.
+1. TheSMARTRwandaMasterPlan2015-2020
+2. NationalInstituteofStatisticsofRwanda (NISR).RPHC4:PopulationProjections
+3. National Institute of Statistics of Rwanda (NISR). 2012 Population and Housing Census
+Provisional results (2012).
+(http://www.statistics.gov.rw/publications/2012-population-and-housing-censusprovisional-results)
+4. National Institute ofStatisticsofRwanda (NISR). Fourthpopulationandhousingcensus,
+Rwanda2012.Thematicreport.
+5. NationalInstituteofStatisticsofRwanda (NISR). GrossDomesticProduct–2016Q1
+6. National Institute of Statistics of Rwanda (NISR).
+http://www.statistics.gov.rw/publication/poverty-trend-analysis-report-201011-201314
+7. EconomicDevelopmentandPovertyEradicationStrategyII,2013-2018
+8. www.statistics.gov.rwonJuly21,2016
+9. HealthEAfrica,DigitalHealthLandscapeReport2016
+10. https://www.dhis2.org/inaction
+RwandaDigitalHealthStrategicPlanDraftPage|71

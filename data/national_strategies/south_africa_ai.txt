@@ -1,0 +1,2714 @@
+STAATSKOERANT,10 ApRil 2026 No. 54477 3
+G n • a K
+eneral otices lGemene ennisGewinGs
+DEPARTMENT OF COMMUNICATIONS AND DIGITAL TECHNOLOGIES
+NOTICE 3880 OF 2026
+DRAFT SOUTH AFRICA NATIONAL ARTIFICIAL INTELLIGENCE (AI)
+POLICY
+The Minister of Communications and Digital Technologies, hereby publishes, in
+accordance with section 85 (2) (b) of the Constitution of the Republic of South Africa,
+1996, the Draft South Africa National Artificial Intelligence (AI) Policy that was approved
+by Cabinet on 25 March 2026 (combined with the Special Sitting of Cabinet on 01 April
+2026), for public comment.
+Members of the public and interested persons are invited to submit their comments /
+inputs / written representations on this Draft Policy, within sixty (60) days of the date of
+publication of this notice, final day being 10 June 2026, 16h00 at the latest. Late
+submissions may not be considered.
+All written comments and enquiries on this publication should be directed to:
+The Director-General, Department of Communications and Digital Technologies
+Attention: Mr M. Mashologu (Deputy Director-General: Digital Society and Economy)
+Block A, iParioli Office Park, 1166 Park Street, Hatfield, Pretoria
+Private Bag X860, Pretoria, 0001
+By email: aipolicy@dcdt.gov.za
+All contributors are requested to mark clearly "Draft South Africa National Artificial
+Intelligence (AI) Policy" in the subject field of their correspondence.
+An interested person making a written submission is deemed to have consented to its
+disclosure to a requester, except if otherwise clearly requested by such interested
+person based on one of the grounds for refusal of access to records as provided in the
+Promotion of Access to Information Act, 2000 (Act No. 2 of 2000).
+A copy of the Draft Policy is available at www.dcdt.gov.za and www.gov.za
+_________________________
+MR SOLLY MALATSI, MP
+MINISTER OF COMMUNICATIONS AND DIGITAL TECHNOLOGIES
+DATE: 09 April 2026
+Page 1 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+4 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+Explanatory Note
+Setting a policy agenda for AI is inherently complex, as the technology has an immense
+range of applications. Because of the broad range of applications and applicability in
+almost every conceivable sector, a general national policy cannot, and should not,
+address every aspect of AI. Rather, a national policy’s primary objective is to identify the
+core principles that guide sectoral approaches.
+Considering the rapid development of AI technologies and the mainstream adoption of
+such technologies, traditional regulatory or policy development approaches are unlikely
+to adequately address the challenges and leverage the opportunities associated with AI.
+Included in this approach is the use of open-ended language in the Draft National AI
+Policy, which creates the opportunity for engagement towards the finalisation of the final
+policy document.
+The Draft National AI Policy is based on the South Africa National Artificial Intelligence
+Policy Framework of August 2024, the 32 submissions received on this Framework, and
+consultations with government structures through the Cabinet Cluster process.
+As such, the Department of Communications and Digital Technologies acknowledges
+that the Draft National AI Policy is a work-in-progress, and that the national government’s
+final approach to the AI Policy agenda will require extensive external consultations with
+both local and international experts and interest groups. The Draft National AI Policy
+should thus be seen as a point of departure and indication of government’s current
+thinking, rather than a strict indication of South Africa’s final approach to the AI policy
+landscape.
+There are various interventions that have wording that is purposefully open-ended (such
+as “establish guidelines/standards”). This approach is implemented in the Draft National
+AI Policy due to the acknowledgement of the importance of engaging with industry and
+subject-matter experts to find appropriate definitions.
+Exactly because of the broad nature of AI technologies, it is important to note that the
+implementation of the interventions proposed by the Draft National AI Policy fall under
+the mandates of various government departments and entities. The successful
+implementation of the policy will thus require a whole-of-government approach.
+The National AI Policy will establish the national priorities and norms, but a key aspect
+of the Policy is the recognition of sector-specific dynamics that require specialised
+approaches.
+Sector-specific working groups will be established to develop implementation roadmaps
+aligned to each Cluster’s sectors, including manufacturing, energy, infrastructure,
+transport and trade, and other such sectors where the need for specific responses are
+identified. These would serve in developing sector strategies and guidelines for the
+implementation of appropriate and specific AI.
+Accordingly, DCDT envisions a staged implementation approach, to enable government
+to respond to the most pressing regulatory needs immediately, while simultaneously cocreating a comprehensive policy approach that is future-proof and technology-neutral:
+Page 2 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 5
+1. Year 1 (2025/26):
+a. Finalisation of the National AI Policy
+b. Identification and publication of key draft regulatory requirements
+necessary to address unacceptable risks
+c. Initiate development of National AI Policy Guidelines
+2. Year 2 (2026/27):
+a. Publish National AI Policy Guidelines
+b. Implement key regulatory requirements for high-risk use cases
+c. Identify and publish draft regulatory requirements for medium and low
+risk AI use cases
+d. Develop and adopt sectoral AI strategies
+e. Commence institutional framework design and funding approach, and
+secure funding.
+3. Year 3 (2027/28)
+a. Full implementation of outstanding policy interventions, which may
+need to be updated to match emerging trends in AI technologies.
+Page 3 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+6 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+DRAFT SOUTH AFRICA NATIONAL ARTIFICIAL INTELLIGENCE (AI)
+POLICY
+(March 2026)
+Foreword
+The rapid evolution of Artificial Intelligence (AI) technology presents both
+unprecedented opportunities and unique challenges for South Africa. This National
+Artificial Intelligence (AI) Policy document reflects our nation’s unwavering
+commitment to harnessing AI's transformative power while addressing the specific
+needs of our society.
+Building on the foundational principles laid out in the initial national AI policy
+framework, this document introduces expanded strategic pillars, and strategic building
+blocks leveraging on sector-specific applications that place greater emphasis on
+inclusive growth, capacity development, and safeguarding human rights. These
+measures are rooted in the fundamental role played by the Nation’s Constitution, as
+well as the Bill of Rights therein.
+The additional measures ensure that South Africa not only keeps pace with global
+advancements but also carves out a leadership role in AI adoption across the African
+continent.
+A key enhancement to this policy is the deeper focus on the ethical governance of AI
+systems. Important provisions address fairness, bias mitigation, and data sovereignty,
+recognizing South Africa’s socio-political landscape and the imperative to redress
+historical inequalities.
+The document extends the initial AI policy framework by embedding principles of
+intergenerational equity, ensuring that AI-driven innovation prioritizes the well-being of
+current and future generations.
+The development of AI ombudsperson structures and the establishment of an AI Ethics
+Board underscore the importance of transparency, accountability, and human-centric
+AI deployment.
+Page 4 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 7
+The expanded scope of this policy also introduces targeted interventions for capacity
+building and digital infrastructure enhancement. It outlines comprehensive educational
+initiatives to integrate AI into primary, secondary, and tertiary education, fostering a
+robust pipeline of talent to fuel innovation.
+Additionally, the document highlights the creation of AI hubs and supercomputing
+facilities aimed at empowering local startups and small enterprises. These initiatives
+reflect a strategic shift toward democratizing access to AI technologies, ensuring that
+economic benefits are widely distributed across sectors and communities.
+As we move forward, this updated document signals a bold step toward fostering a
+sustainable and inclusive AI ecosystem. By aligning AI advancements with South
+Africa’s Constitution and socio-economic goals, the policy paves the way for a resilient
+digital economy that prioritizes equity, innovation, and national competitiveness.
+We extend our gratitude to all stakeholders whose insights have shaped this
+comprehensive policy. Together, we are laying the foundation for a future where AI
+serves as a catalyst for national economic development and social upliftment.
+______________________
+OMEGA SHELEMBE
+ACTING DIRECTOR-GENERAL
+DATE: 2026-04-09
+Page 5 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+8 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+1. Introduction and Background
+1.1 Policy Issue Identification
+The advent of Artificial Intelligence (AI) is transforming economies and societies across
+the globe. As a strategic general-purpose technology, AI holds the potential to drive
+innovation, enhance productivity, and contribute meaningfully to socio-economic
+development. However, in the absence of a coherent national policy and coordinated
+strategies, South Africa risks falling behind in leveraging AI to address its
+developmental challenges and improve the well-being of its citizens. A lack of an
+integrated, inclusive, and contextually relevant national AI policy has the potential to
+exacerbate digital divides, deepen inequality, and limit the nation’s ability to safeguard
+rights, values, and sovereignty, as well as to support the emergence of startups in a
+rapidly evolving global AI ecosystem.
+1.2 Background to the Policy Issue
+South Africa’s journey toward developing a national AI policy is both an opportunity
+and a challenge, shaped by the dynamic interplay of technological, economic, and
+societal forces. The rapid advancement of AI technologies globally and their
+transformative potential create an urgent need for South Africa to harness these
+innovations to remain competitive and relevant. AI offers vast opportunities for
+economic growth, innovation, and job creation, addressing critical social demands
+across healthcare, education, agriculture, and public safety. However, the pressure to
+harmonize with international standards and frameworks for ethical AI development and
+deployment underscores the necessity for robust and adaptive policymaking.
+Despite these promising prospects, South Africa faces significant historical and
+structural barriers that complicate AI adoption. The persistent digital divide, the
+entrenched socio-economic inequities, the high rates of unemployment, and
+institutional inertia all represent substantial weights of the past that often resist change.
+Unequal access to technology, education, and infrastructure poses challenges to
+achieving equitable AI adoption and ensuring that its benefits are widely shared. In
+addition, outdated regulatory frameworks would struggle to keep pace with the rapid
+evolution of AI technologies, highlighting the urgent need for legal and institutional
+reforms to create an environment conducive to innovation and inclusion.
+Page 6 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 9
+Crafting an effective AI policy for South Africa demands a delicate balance between
+addressing current technological imperatives, overcoming historical constraints, and
+striving toward a future vision of equity and sustainability. Policy interventions must
+bridge the gap between the push of technological advancement and the pull of
+economic transformation while addressing systemic inequalities. Investments in
+education, infrastructure, and inclusive governance frameworks will be critical to
+ensuring that AI not only drives economic growth but also contributes to social equity,
+sustainable development, and global leadership in ethical AI practices.
+1.3 Policy Context and Environment, Links to Other Policies
+The policy is situated within a broader legislative and strategic ecosystem. It forms part
+of a national legislative and regulatory architecture which includes, among others: the
+Constitution, intellectual property, copyright, performers’ rights and artists’ rights
+including the Copyright Act of 1978, Copyright Amendment Bill and Performers'
+Protection Amendment Bill, Intellectual Property Rights Act 2008, Protection of
+Personal Information Act (POPIA 2013), the Electronic Communications Act of 2005,
+Electronic Communications and Transactions Act of 2002, Films and Publications Act
+of 1996, and Patents Act of 1978.
+Other regulation and legislation which would be relevant includes the Cybercrimes Act
+of 2020, Technology Innovation Act of 2008, Promotion of Access to Information Act
+of 2000 (PAIA), National Cybersecurity Policy Framework (NCPF), the National Policy
+on Data and Cloud, National Integrated ICT Policy, NICIS Framework of 2014, Critical
+Infrastructure Protection Act or 2019, the South African Human Rights Commission
+Act 2013 and the like.
+All these are in support of the provisions of the Constitution of the Republic, as well as
+the accompanying Bill of Rights. As a result, AI must not be used to violate any s9,
+s10, s12, s14, s15, s16, s17, s18, s19, s21, s22, s23, s24, s27, s28, s29, s30, s31,
+s32, s33, s35 rights. Instead, AI may be used to advance all these, as well as s11,
+s13, s20, s25, s26, s34 and any other rights.
+Page 7 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+10 No . 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+It also interfaces with continental and international frameworks such as the African
+Union (AU) Digital Transformation Strategy, Continental AI Strategy, African Digital
+Compact, Data Policy Framework, among others. It also considers the Smart Africa AI
+Blueprint, OECD AI Principles, and UNESCO’s Recommendation on the Ethics of AI,
+among others. The policy contributes to the realization of national initiatives, including
+the National Development Plan 2030, Digital Economy Masterplan, and the
+Presidential Commission on the Fourth Industrial Revolution (PC4IR) Report.
+1.4 Brief Overview of the Policy Process Followed
+The development of the policy followed a phased, consultative, and evidence-based
+process, in line with South Africa’s National Policy Development Framework of 2020.
+This included desktop research and benchmarking against international best
+practices, the identification of policy gaps and opportunities, and the integration of
+insights from the PC4IR Report. A multi-stakeholder engagement approach was
+adopted, involving consultations with academia, industry, civil society, grassroots
+movements, and various government departments. The policy drafting was further
+informed by a key working group which examined AI’s implications across sectors,
+including health, education, finance, agriculture, and public safety. The outcomes of
+these engagements shaped the policy vision, objectives, and implementation priorities
+presented in the document.
+1.5 Key Concepts
+1.5.1 Artificial Intelligence
+Artificial Intelligence (AI) is a multidisciplinary field that integrates principles from
+computer science, engineering, philosophy, psychology, mathematics, neuroscience,
+linguistics, and biology.1 Its primary goal is to develop intelligent agents capable of
+learning, modelling data, making predictions, and either autonomously making
+decisions or assisting humans in decision-making. While AI systems are inspired by
+human intelligence, they do not replicate it directly. Instead, AI aims to create
+machines that demonstrate reasoning, perception, learning, and adaptability in various
+1 Arias, C.R. (2022). An Introduction to Artificial Intelligence. SPU Works. 173.
+https://digitalcommons.spu.edu/works/173
+Page 8 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 11
+contexts.2 AI is fundamentally software-based and algorithm-driven, though it extends
+to physical entities such as robotics3 and autonomous weapons.
+AI can be defined as the combination of artificial (indicating non-natural) and
+intelligence (the ability to reason, perceive, learn, and generate insights).4 It
+encompasses activities such as speech recognition, problem-solving, planning, and
+adaptation to different environments.5 Advances in Big Data, computing power, and
+deep learning algorithms have significantly accelerated AI's capabilities, enabling it to
+process vast datasets more efficiently than humans.6 AI technologies are transforming
+entire industries by optimizing resource use, enhancing productivity, and improving
+data-driven decision-making.7
+1.5.2 Machine Learning
+Machine Learning (ML) is often considered a subset of Artificial Intelligence (AI) that
+enhances computational capabilities by enabling systems to learn from data and
+develop analytical models without relying solely on explicit programming.8 Unlike
+traditional programming, which follows predefined rules, ML algorithms identify
+patterns and relationships from observed examples, allowing systems to improve
+performance over time. This ability has led to the development of intelligent systems
+2 Organization for Economic Cooperation and Development. (2020). Artificial Intelligence: How can we ensure
+that AI benefits society as a whole? https://www.oecd.org/digital/artificial-intelligence/
+3 El Hadi, M. M. (2023). Artificial Intelligence Background, Definitions, Challenges and Benefits.
+https://jstc.journals.ekb.eg/article_297957_18c63823bf45bdd85ffd54bf0dafa8f5.pdf
+4 El Hadi, M. M. (2023). Artificial Intelligence Background, Definitions, Challenges and Benefits.
+https://jstc.journals.ekb.eg/article_297957_18c63823bf45bdd85ffd54bf0dafa8f5.pdf
+5 El Hadi, M. M. (2023). Artificial Intelligence Background, Definitions, Challenges and Benefits.
+https://jstc.journals.ekb.eg/article_297957_18c63823bf45bdd85ffd54bf0dafa8f5.pdf
+6 Arias, C.R. (2022). An Introduction to Artificial Intelligence. SPU Works. 173.
+https://digitalcommons.spu.edu/works/173
+7Mohammad, S.M. (2020). Artificial Intelligence in Information Technology. International Journal of Innovations in
+Engineering Research And Technology [IJIERT]. ISSN: 2394-3696. Vol 7(6). 2020.
+8 Jayanth, A. B., Harish, R. D. S., & Binoy, N. (2017). Machine Learning Approaches to Electricity Consumption
+Forecasting in Automated Metering Infrastructure (AMI) Systems: An Empirical Study. 254-263. 10.1007/978-3319-57264-2_26.
+Page 9 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+12 No . 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+that can support decision-making and optimize interactions across various sectors,
+including healthcare, finance, and digital markets.9
+Machine Learning employs different learning paradigms, including supervised,
+unsupervised, and reinforcement learning, each designed for specific tasks.10
+Supervised learning, used in classification and regression, trains models on labelled
+datasets to make accurate predictions.11 Unsupervised learning identifies hidden
+patterns in unlabeled data, enabling techniques like clustering and dimensionality
+reduction.12 Reinforcement learning, inspired by trial-and-error learning, allows
+systems to interact with dynamic environments and refine their actions.13 Harnessing
+ML allows extraction of valuable insights from vast datasets, enhance decision-making
+processes, and drive innovation in AI-driven technologies, leading to improved
+efficiency and transformative advancements across industries.14
+1.5.3 Deep Learning
+Deep Learning (DL) is a specialized branch of machine learning that leverages multilayered artificial neural networks (ANNs) to automatically extract meaningful patterns
+and representations from raw data.15 Unlike traditional machine learning techniques,
+which often require manual feature engineering, deep learning models learn
+9 Shrestha, P. (2021). Application of Machine Learning and Deep Learning Techniques for Nepal Stock Market
+Price Prediction. 10.13140/RG.2.2.11794.38085.
+https://www.researchgate.net/publication/353634645_Application_of_Machine_Learning_and_Deep_Learning_T
+echniques_for_Nepal_stock_market_price_prediction/citation/download
+10 LeCun, Y., Bengio, Y. & Hinton, G. (2015). Deep learning. Nature 521, pp 436–444.
+https://doi.org/10.1038/nature14539
+11 Madani, A., Arnaout, R., Mofrad, M. et al. (2018). Fast and Accurate View Classification of Echocardiograms
+Using Deep Learning. Digital Med 1(6). https://doi.org/10.1038/s41746-017-0013-1
+12 Madani, A., Arnaout, R., Mofrad, M. et al. (2018). Fast and Accurate View Classification of Echocardiograms
+Using Deep Learning. Digital Med 1(6). https://doi.org/10.1038/s41746-017-0013-1
+13 Janiesch, C., Zschech, P., & Heinrich, K. (2021). Machine Learning and Deep Learning. Electronic Markets.
+31. 10.1007/s12525-021-00475-2.
+14 Acemoglu, D. & Restrepo, R. (2018). Artificial Intelligence, Automation and Work. National Bureau of
+Economic Research. https://www.nber.org/system/files/working_papers/w24196/w24196.pdf
+15 Goodfellow, I., Yoshua, B., & Aaron, C. (2017). Machine Learning Basics.
+https://www.deeplearningbook.org/contents/ml.html
+Page 10 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 13
+hierarchical representations of data through layers of interconnected neurons, allowing
+them to process complex, high-dimensional inputs such as images, text, and speech.16
+While deep learning outperforms conventional methods in tasks involving large
+datasets, other models like decision trees may still be preferable in cases where data
+is limited, or interpretability is crucial.17 Nevertheless, advancements such as crossmodal learning have expanded deep learning’s versatility, enabling it to process
+multiple data formats simultaneously, which is particularly valuable in fields like ecommerce and healthcare.18
+The power of deep learning lies in its ability to automate feature extraction, reducing
+reliance on manual input and effectively handling unstructured and noisy data.19
+Through a hierarchical learning process, complex features are built from simpler ones,
+enhancing model accuracy and adaptability.20 Various architectures, including
+Convolutional Neural Networks (CNNs) for image processing, Recurrent Neural
+Networks (RNNs) for sequential data, and Generative Adversarial Networks (GANs)
+for synthetic data generation, have been developed to tackle specific challenges
+across industries.21 Integrating deep learning into AI-driven applications can unlock
+valuable insights from vast datasets, improving decision-making and fostering
+innovation in areas such as autonomous systems and natural language processing.22
+16 LeCun, Y., Bengio, Y. & Hinton, G. (2015). Deep learning. Nature 521, pp 436–444.
+https://doi.org/10.1038/nature14539
+17 Zhang, L., Wang, S. & Liu, B. (2018). Deep Learning for Sentiment Analysis: A Survey. Wiley Interdisciplinary
+Reviews: Data Mining and Knowledge Discovery. 8. 10.1002/widm.1253.
+https://www.researchgate.net/publication/322694910_Deep_Learning_for_Sentiment_Analysis_A_Survey
+18 Zhang, L., Wang, S. & Liu, B. (2018). Deep Learning for Sentiment Analysis: A Survey. Wiley Interdisciplinary
+Reviews: Data Mining and Knowledge Discovery. 8. 10.1002/widm.1253.
+https://www.researchgate.net/publication/322694910_Deep_Learning_for_Sentiment_Analysis_A_Survey
+19 Brynjolfsson, E. & McAfee, A. (2017). The Business of Artificial Intelligence. https://hbr.org/2017/07/thebusiness-of-artificial-intelligence
+20 Goodfellow, I., Yoshua, B., & Aaron, C. (2017). Machine Learning Basics.
+https://www.deeplearningbook.org/contents/ml.html
+21 Leijnen, S. & van Veen, F. (2020). The Neural Network Zoo. Proceedings 2020, 47(1),
+9; https://doi.org/10.3390/proceedings2020047009
+22 Goodfellow, I., Yoshua, B., & Aaron, C. (2017). Machine Learning Basics.
+https://www.deeplearningbook.org/contents/ml.html
+Page 11 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+14 No . 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+2. Problem Statement
+2.1 Underlying Policy Statement
+South Africa stands at a critical juncture where embracing AI offers both profound
+opportunities and complex challenges. The underlying policy imperative is to develop
+a comprehensive, inclusive, and ethically grounded national AI policy that ensures
+responsible innovation, protects public interest, and advances social and economic
+transformation. This requires deliberate action to bridge the digital divide, address
+systemic inequalities, modernize regulatory frameworks, and build capacity for AI
+deployment across sectors. The policy seeks to enable safe and secure adoption of
+AI technologies, while safeguarding rights and aligning with national values and
+international norms
+2.2 Nature, History, and Scope of the Problem (including Trend
+Identification and Assessment)
+Globally, AI has emerged as a general-purpose technology that is reshaping economic
+systems, labour markets, and governance structures. For South Africa, AI presents
+transformative potential to drive economic growth, improve public service delivery, and
+respond to national development priorities. However, the country's historical socioeconomic disparities, digital inequities, and outdated institutional arrangements pose
+significant barriers to equitable AI adoption. The persistent digital divide, especially in
+underserved and rural communities, limits access to the infrastructure, skills, and
+opportunities needed to benefit from AI. Many South Africans remain excluded from
+digital services due to a lack of connectivity, affordability challenges, or inadequate
+digital literacy. Moreover, entrenched socio-economic inequality - stemming from
+apartheid-era structural injustices - continues to affect access to education,
+employment, and participation in the innovation economy.
+Institutions tasked with regulatory oversight often struggle to keep pace with the rapid
+evolution of AI technologies. South Africa lacks dedicated legislative frameworks and
+institutional capacity tailored for AI-specific risks such as algorithmic bias,
+accountability in autonomous decision-making, and data protection in large-scale
+analytics systems. In addition, there is growing pressure to align with emerging global
+Page 12 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 15
+standards and ethical principles for AI governance. International trends reflect a shift
+toward risk-based, values-driven AI regulation - seen in the European Union’s AI Act,
+OECD recommendations, and UNESCO's ethical AI frameworks. South Africa must
+respond to these developments while ensuring its AI policy reflects local socioeconomic and socio-political realities, as well as developmental imperatives.
+The challenge is thus multifaceted: to stimulate innovation and competitiveness,
+ensure fairness and inclusion, and anticipate risks; technological, ethical, economic,
+and societal. Bridging the gap between the "push" of current technological imperatives
+and the "pull" of future social aspirations, while addressing the "weight" of historical
+disadvantage, is central to the policy’s design.
+Page 13 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+16 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+3. Proposed Policy Vision
+3.1 Proposed National Vision emanating from the South Africa AI
+Policy
+“AI for inclusive economic growth, job creation, cost reduction, and a developing
+Africa.”
+In line with the mission of the State, this vision reflects South Africa’s aspiration to
+harness AI to catalyse socio-economic transformation, drive innovation, and contribute
+to a more inclusive, sustainable, and competitive national and continental future.
+3.2 Critical Sectors for AI Implementation
+AI in South Africa will play a key role in the critical areas of:
+a. Education
+b. Healthcare
+c. And Agriculture
+d. (With Public Administration implementation as a key lever or tool).
+In all these sectors, the deployment of AI relies on robust digital infrastructure and
+widespread connectivity.
+3.3 The Rationale for a Policy Intervention
+The development of this policy is a strategic imperative to guide the responsible and
+ethical development, deployment, and utilization of AI across all sectors of society. As
+AI technologies rapidly advance, they offer unprecedented opportunities for economic
+growth, improved public services, and enhanced quality of life. However, without a
+coherent and comprehensive policy position, these benefits could be overshadowed
+by potential risks such as job displacement, privacy concerns, and even national
+security risks.
+The policy provides clear guidelines and a structured approach to harnessing AI’s
+potential that enables adoption whilst ensuring safety, ethical use, and alignment with
+public interest in a risk-proportionate manner – in alignment with South Africa’s socioeconomic goals and values. It provides mechanisms for the establishment of a
+framework to regulate the development, deployment, and use of AI in a trustworthy
+Page 14 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 17
+and ethical manner - and in a manner that supports responsible innovation and growth,
+in harmony with a cross-border enablement system.
+A key rationale for establishing this policy is to foster sectoral strategies that address
+specific needs and opportunities within different industries, such as healthcare,
+education, security, finance, etc. By laying down an overarching policy position, the
+national AI policy enables the development of tailored strategies that leverage AI to
+drive innovation and efficiency in each sector. This approach ensures that the unique
+challenges and opportunities of each industry are considered, leading to more
+effective and targeted implementation of AI technologies. Additionally, sectoral
+strategies derived from this policy will facilitate a more coordinated and cohesive effort
+across various governmental and private entities, promoting collaboration and
+knowledge sharing.
+The policy serves as the foundational basis for creating AI regulations and potentially
+future AI legislation in South Africa. As regulators work to establish rules and standards
+for AI, it is crucial that these regulations are grounded in a well-defined policy position
+that reflects the country’s vision and priorities for AI. By providing a clear yet flexible
+stance, this policy guides the development of tailored regulatory mechanisms that
+ensure AI applications are safe, responsible, ethical, and aligned with public interest.
+This will not only protect citizens from potential harms but also build trust in AI
+technologies, encouraging their adoption and fostering a thriving AI ecosystem in
+South Africa.
+3.4 Theory of Change for Framing the National AI Policy: A Futures
+Triangle Approach to Shaping South Africa's AI Landscape
+The Futures Triangle23 approach serves as a crucial framework for framing the
+national AI policy, enabling the development of a comprehensive framework that
+addresses the multifaceted challenges and opportunities shaping South Africa's AI
+landscape.
+23 Inayatullah, S. (2008). The Futures Triangle: Tracing the outline of the future. Journal of Futures
+Studies, 13(2), 1-10.
+Page 15 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+18 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+By integrating the "Push of the Present," "Pull of the Future," and "Weight of the Past,"
+this approach allows the policymaking effort to holistically analyse the driving forces,
+aspirations, and historical constraints shaping the development and implementation of
+AI and related policy in South Africa.
+Figure 1: Futures Triangle
+3.4.1 Push of the Present
+These are the quantitative factors and patterns shaping the future.
+• Technological Advancement: AI technologies are advancing rapidly
+worldwide, necessitating South Africa to adopt these innovations to stay
+competitive and relevant. The nation must keep pace with global
+advancements to avoid falling behind in technological capabilities. In this
+respect, it becomes crucial to address the current gaps in data quality,
+availability, and readiness for AI.
+• Economic Necessity: AI offers significant potential for economic growth by
+enhancing productivity, creating new industries, and fostering innovation.
+Embracing AI can drive South Africa’s economic development, unleash the
+Page 16 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 19
+country’s entrepreneurial energy, create job opportunities, and improve
+overall economic resilience.
+• Social Demands: There is an increasing demand for AI-driven solutions in
+critical sectors of the economy (healthcare, agriculture, education, and
+public safety, etc.). AI can provide innovative solutions to social challenges,
+improving service delivery and enhancing quality of life.
+• Policy Momentum: Global trends in AI governance and the need to
+harmonize with international standards are pushing South Africa to develop
+its own AI policies. The country needs to align with international norms and
+standards to ensure harmonized, ethical, and effective AI development and
+deployment.
+3.4.2 Pull of the Future
+This refers to the captivating visions of the future that are so irresistible that one cannot
+resist focusing on them. The National Development Plan (NDP) was aimed to envision
+South Africa’s future where poverty, unemployment and inequality are overcome.
+• Economic Transformation: The vision is to use AI to transform South
+Africa's economy, create new industries, reduce unemployment, and foster
+innovation. This involves creating a dynamic and competitive economic
+environment that can adapt to global changes and leverage AI for
+sustainable growth.
+• Social Equity: Ensuring that AI contributes to social equity by addressing
+disparities and improving access to services is a key goal. AI can help bridge
+gaps in areas like healthcare, agriculture, education, and economic
+opportunities, promoting inclusiveness and reducing inequalities.
+• Sustainable Development: AI can drive sustainable practices in
+agriculture, energy management, and urban planning. Utilizing AI for
+sustainability aligns with global environmental goals and helps South Africa
+Page 17 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+20 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+address its environmental challenges, as well as strive towards key
+Sustainable Development Goals (SDGs).
+• Global Leadership: South Africa aims to be a leader in AI within the African
+continent and a significant player on the global stage. This involves not only
+technological advancements but also influencing global AI ethics and
+governance frameworks.
+3.4.3 Weight of the Past
+This refers to the obstacles and entrenched structures that are impeding our progress
+and resisting change. South Africa has shown unsatisfactory progress in dealing with
+its historical challenges.
+• Digital Divide: The persistent digital divide, characterized by unequal
+access to technology and education, poses a significant challenge. Bridging
+this divide is crucial for ensuring equitable AI adoption and benefits.
+• Historical Inequities: Socio-economic disparities rooted in historical
+injustices could slow the adoption of AI technologies. Addressing these
+disparities requires inclusive policies that ensure broad access to AI
+benefits.
+• Institutional Inertia: Resistance to change within established institutions
+and bureaucratic inertia could impede the rapid adoption of new
+technologies. Overcoming this inertia requires strong leadership and clear
+policy direction.
+• Regulatory Frameworks: Existing regulatory and legislative frameworks
+may not be equipped to handle the rapid pace of technological change.
+Updating and reforming these frameworks are essential to create a
+conducive environment for AI development.
+Page 18 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 21
+3.4.4 Analysis of the Interactions
+3.4.4.1Push-Pull Dynamics
+The strong push from technological and economic imperatives, combined with the
+aspirational pull of economic transformation and social equity, suggests a powerful
+momentum towards adopting a comprehensive AI policy. However, balancing
+immediate technological advancements with long-term social goals will be crucial. The
+push factors drive the urgent need for policy development, while the pull factors guide
+the policy towards sustainable and inclusive goals.
+3.4.4.2 Push-Weight Tension
+Current technological and economic pressures may conflict with the weight of historical
+issues such as the digital divide and socio-economic inequalities. Addressing these
+historical weights requires deliberate policy interventions that ensure inclusive access
+to AI benefits. Investments in fundamental digital infrastructure are necessary to bridge
+the digital divide and enable widespread AI adoption.
+3.4.4.3 Pull-Weight Interaction
+The aspirational pull towards social equity and sustainable development must contend
+with historical and institutional barriers. Strategies to overcome these barriers include
+targeted investments in education, infrastructure, and regulatory reforms to foster an
+enabling environment for AI. Policy must be designed to ensure that AI initiatives are
+inclusive and equitable, addressing historical disparities and promoting broad access
+to AI benefits.
+Page 19 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+22 No . 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+4. Core Policy Objectives
+Developing a robust and forward-looking AI policy is essential for South Africa to
+harness the transformative potential of AI amid the rapid global evolution of this
+technology. AI presents a unique opportunity to drive economic growth, enhance
+service delivery, and position South Africa as an innovation leader. The Fourth
+Industrial Revolution (4IR) is characterized by the fusion of technologies blurring the
+lines between the physical, digital, and biological spheres. At the core of 4IR is Artificial
+Intelligence (AI), which is projected to contribute approximately USD $19.9 trillion to
+the global economy by 2030.
+By fostering advancements in key sectors such as healthcare, agriculture, education,
+industry and public safety, AI can become a powerful tool for addressing societal
+challenges and unlocking new avenues for development. A comprehensive policy will
+enable South Africa to align with global trends, capitalize on emerging opportunities,
+and establish itself as a key player in the global AI ecosystem.
+However, South Africa faces significant obstacles that must be addressed to ensure
+the inclusive adoption of AI. Historical inequalities, persistent digital divides, and
+outdated regulatory frameworks pose substantial barriers to creating an environment
+conducive to innovation and widespread AI deployment. Addressing these challenges
+requires a multifaceted approach, including deliberate efforts to bridge the
+technological and socio-economic gaps that hinder progress. A policy-driven focus on
+fostering digital literacy, expanding internet access, and creating a supportive
+ecosystem for technological innovation is critical for unlocking the transformative
+potential of AI in South Africa.
+A central pillar of the national AI policy is the concept of intergenerational equity,
+which underscores the importance of ensuring that AI development serves the needs
+and rights of both current and future generations. This involves embedding
+sustainability and ethical foresight into AI strategies to create long-term value for
+society while mitigating risks. By prioritizing responsible AI practices, South Africa can
+ensure that technological advancements promote inclusivity, protect human rights,
+and support Sustainable Development Goals. This ethical approach to AI policy
+Page 20 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 23
+development positions the nation to address both immediate challenges and long-term
+aspirations effectively.
+To achieve these objectives, South Africa must enact regulatory reforms and prioritize
+investments in strategic areas such as education, digital infrastructure, and research
+and development. Strengthening foundational capabilities will not only bridge the
+digital divide but also foster a skilled workforce capable of driving AI innovation.
+Furthermore, harmonizing and aligning the policy with international AI governance
+standards will enhance the country’s global competitiveness while addressing
+domestic socio-economic disparities. By taking a holistic and inclusive approach,
+South Africa can leverage AI as a catalyst for economic transformation, social equity,
+and sustainable growth, ensuring that the benefits of AI are shared widely across all
+sectors of society.
+The guidelines espoused in this policy must be followed. And in line with the OECD’s
+human-centred values: “AI actors should respect the rule of law, human rights,
+democratic and human-centred values throughout the AI system lifecycle. These
+include non-discrimination and equality, freedom, dignity, autonomy of individuals,
+privacy and data protection, diversity, fairness, social justice, and internationally
+recognised labour rights. This also includes addressing misinformation and
+disinformation amplified by AI, while respecting freedom of expression and other rights
+and freedoms protected by applicable international law. To this end, AI actors should
+implement mechanisms and safeguards, such as capacity for human agency and
+oversight, including to address risks arising from uses outside of intended purpose,
+intentional misuse, or unintentional misuse in a manner appropriate to the context and
+consistent with the state of the art.”24
+This policy seeks to ensure the responsible integration of AI into both public and
+private sector business models to unlock hidden opportunities to drive economic
+growth, explore ways to enhance societal well-being, and through talent and capacity
+development, position Africa as a leading continent in AI innovation. To achieve these
+24 Organisation for Economic Co-operation and Development (OECD). (n.d.). Human centred values
+and principles for artificial intelligence. Retrieved from https://www.oecd.org
+Page 21 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+24 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+goals, South Africa will need to introduce appropriate regulatory reforms, targeted
+investments in skills development, digital infrastructure development, and nurture local
+innovation and startup ecosystems.
+4.1 Expected Outcomes of This Policy
+This policy is designed to lead to:
+a. Increased uptake of AI technologies in public, private, society, and other
+sectors.
+b. Enhanced institutional capacity for AI governance and regulation.
+c. Growth in local AI innovation ecosystems and job creation.
+d. Reduction in the digital divide through equitable access to AI education,
+technologies, and services.
+e. Stronger national positioning in global AI discussions and partnerships.
+4.2 Objectives of the Policy
+The policy outlines the following six (06) objectives to address identified challenges:
+a. Strengthen AI-related education, research, and skills training through STEAMfocused curricula, public education campaigns, and AI community centres.
+b. Use AI in public service delivery, data- driven asset distribution, and startup
+support through sandboxes and accelerators, as well as for industrial
+innovativeness and startup development.
+c. Establish an AI Ethics Board, National AI Commission / Office, and AI
+Regulatory Authority (while configuring a harmonized regulatory environment
+with existing authorities) to oversee and guide AI development, implementation,
+and compliance.
+d. Develop localized ethical standards aligned with international norms, promote
+fairness, transparency, accountability, and inclusiveness across the AI lifecycle.
+e. Use AI tools to digitize and preserve indigenous languages, arts, music, and
+literature. Leverage AI for
+Page 22 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 25
+real-time language translation in all 12 official languages, while harmonizing
+with international practices, and
+f. Design responsible and human-centred AI tools to address rural development,
+supplement healthcare, enable public services, and extend education services,
+especially in indigenous languages.
+4.3 Target Beneficiaries and Stakeholders
+The target beneficiaries of this policy include:
+a. Citizens, particularly marginalized and underserved communities.
+b. Youth, children, women, and persons with disabilities.
+c. Micro, Small and Medium Enterprises (MSME) and startups.
+d. Investors and the business sector.
+e. Public sector entities.
+f. Education and healthcare institutions.
+g. Researchers and developers of AI technologies.
+Key stakeholders involved in the design and rollout of AI policy include:
+a. National, provincial, and local government departments.
+b. Regulatory bodies.
+c. Academic and research institutions.
+d. Industry and professional bodies.
+e. Civil society and grassroots organizations.
+f. International development and governance partners.
+4.4 Resource Allocations of This Policy – Human, Financial,
+Equipment, and Systems
+The following are the key resources which this policy seeks to allocate:
+a. Human Capital: Expand public-sector (and citizens’) training in AI literacy and
+governance; embed AI in basic-to-tertiary education; support local AI talent
+through mentorship and exchange programmes.
+b. Financial Resources: Allocate funding for infrastructure (including data
+centres and supercomputing), startup support, and AI research grants. Create
+incentives such as tax breaks and subsidies for private-sector collaboration.
+Page 23 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+26 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+c. Equipment and Systems: Invest in AI community hubs, data infrastructure,
+real-time analytics platforms, and connectivity tools like fibre networks, lowearth orbit satellites, and affordable devices, as well as energy and regulatory
+systems.
+4.5 Roles and Responsibilities
+The following entities will play key defined roles in the regulation of AI in South Africa,
+as well as their roles and contribution in the AI ecosystem.
+a. Department of Communications and Digital Technologies (DCDT): Lead
+the development and implementation of the national AI policy. The Department
+would facilitate public-private partnerships, oversee AI regulatory compliance,
+and promote digital inclusion and literacy. The DCDT would be responsible as
+custodian for the national policy on AI, monitor the development of strategies
+for provinces, sectors and industries (and intervene to find solutions for intersector disagreements therein), the governance and regulation of AI, as well as
+the regulation of AI.
+b. Department of Science, Technology and Innovation (DSTI): Its role would
+be to drive research and development in AI technologies. This would include
+funding AI research projects and infrastructure, support innovation hubs, and
+collaborating with academic institutions to advance AI knowledge.
+c. Council for Scientific and Industrial Research (CSIR): Its role would be to
+conduct applied research and provide scientific support for AI initiatives. It
+would contribute towards the development of AI solutions for various sectors,
+offer technical expertise, and ensure the ethical use of AI technologies.
+d. Technology Innovation Agency (TIA): Its role would be to support the
+commercialization of AI innovations. Thus, contributing key funding and
+resources for AI startups, to foster innovative ecosystems, and facilitate
+technology transfer.
+e. Industrial Development Corporation (IDC): Its role would be to promote
+industrial growth through AI adoption. In that way, it would ensure investment
+in AI-driven industrial projects, supporting the integration of AI in manufacturing,
+and enhancing the competitiveness of South African industries.
+Page 24 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 27
+f. South African Human Rights Commission (SAHRC): Its role would be to
+ensure that AI technologies (and by extension the developers thereof) respect
+human rights and ethical standards. It would contribute to monitoring AI
+applications for compliance with human rights laws, address biases in AI
+systems, and advocate for fair and transparent AI practices.
+g. Information Regulator (South Africa): Its role would be to oversee data
+protection and privacy in AI applications. It would contribute to ensuring that AI
+systems comply with the Protection of Personal Information Act (POPIA) and
+Promotion of Access to Information Act (PAIA), safeguard citizens’ data
+(through any other relevant legislation), and address privacy concerns related
+to AI technologies.
+Other key international institutions and approaches to benchmark against would be:
+i. National Institute of Standards and Technology (NIST) AI Risk Management
+Framework (AI RMF 1.0).
+ii. United Nations Educational, Scientific and Cultural Organization (UNESCO) –
+Ten core principles of a human-rights centred approach to the ethics of AI -
+https://www.unesco.org/en/artificial-intelligence/recommendation-ethics#.
+iii. International Organization of Securities Commissions (IOSCO) AI and ML
+Guidance in supervising market intermediaries and asset managers.
+iv. Organisation for Economic Co-operation and Development (OECD)
+recommendation of the Council on Artificial Intelligence.
+v. Open Worldwide Application Security Project (OWASP) - Machine Learning
+Security Top Ten.
+4.6 Institutional Infrastructure and Arrangements Established
+The following entities would be established because of this policy for regulation of AI
+in South Africa.
+a. National AI Commission (National AI Office): To coordinate refinements on
+policy, implementation and further policy development with input from
+government, industry, and civil society due to the rapidly evolving nature of AI
+development. This dedicated, standalone office should coordinate AI
+implementation, bring together stakeholders, and monitor progress. The
+Page 25 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+28 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+relationship between the Board and the DCDT would define whether it is a
+Schedule 3 Public Entity (NPC under government influence) or a more
+independent NPC with partial public funding. (Some of the institutions specified
+below could be “housed” in this office through various arrangements).
+b. AI Ethics Board: To enforce ethical governance, and for considerations related
+to bias, privacy, and fairness. Incorporate inputs received from companiesbased ethics boards in ongoing reviews of guidelines. This could be established
+as a Non-Profit Company. The relationship between the Board and the DCDT
+would define whether it is a Schedule 3 Public Entity (NPC under government
+influence) or a more independent NPC with partial public funding.
+c. AI Regulatory Authority: To monitor compliance, perform audits, and issue
+certifications. Also, to audit AI systems for fairness and to conduct gender and
+human rights impact assessments.
+d. AI Ombudsperson Office: To allow affected individuals to challenge AI-driven
+decisions and to receive redress.
+e. AI Insurance Superfund: Modelled after the Road Accident Fund, to
+compensate individuals or entities harmed by AI-driven outcomes. This fund
+would provide a safety net in cases where liability is difficult to determine,
+especially for systems operating in ambiguous decision-making spaces.
+f. National AI Safety Institute: Working in concert with other similar international
+bodies in advancing the science of AI safety as well as developing, updating
+and disseminating guidelines for AI safety. This, as part of a risk and mitigation
+approach to regulation.
+g. Integrated AI-Powered Monitoring Centre: To monitor as a central nervecentre towards increasing the efficiency levels of all service delivery (and
+related) touchpoints in each sector of government and society.
+4.7 Regulatory Configuration for the Age of Artificial Intelligence
+As a result of this policy, a National AI Commission / Office, an AI Regulatory Council,
+and an AI Ethics Board will be established to coordinate strategy, monitor compliance
+and enforce governance. Further, this policy actively repositions the Independent
+Communication Authority of South Africa (ICASA) for an AI-driven regulatory future.
+While traditionally focused on broadcasting, telecommunications, and postal services,
+Page 26 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 29
+ICASA will be increasingly positioned to play a crucial role in ensuring AI systems in
+its domain operate ethically, transparently, and in compliance with regulatory
+standards. ICASA’s evolving mandate would include overseeing ethical AI use in
+telecoms, ICT and broadcasting, ensuring fairness, transparency, and nondiscrimination in content recommendation, network management, and advertising.
+Working in concert with the Information Regulator, ICASA will help ensure AI systems
+used by network operators and broadcasters align with data protection principles
+under POPIA.
+Additionally, ICASA would contribute to developing technical standards for AI in
+various next generation networks and spectrum management, and it will require
+algorithmic impact assessments for high-risk systems used by licensees. ICASA will
+also provide guidance and offer regulatory sandboxes to support responsible AI
+innovation within its sector (and related sectors). To govern AI effectively, South
+Africa’s regulatory framework will benefit from a more integrated, cross-sectoral model.
+A National AI Regulatory Forum, coordinated by the Department of Communications
+and Digital Technologies (DCDT), will bring together ICASA, the Information
+Regulator, Competition Commission, SARB, FSCA, CSIR, and DTIC to coordinate
+oversight, standards, and ethical guidance.
+Each regulator will maintain distinct responsibilities: ICASA on AI in digital
+infrastructure and broadcasting; the Information Regulator on data privacy; the
+Competition Commission on digital market fairness; and financial regulators on AI in
+fintech. Shared regulatory sandboxes and innovation hubs will encourage
+experimentation while ensuring safeguards. To be effective in this context, ICASA will
+move beyond sectoral silos and adopt a tech-convergent (and tech-enabled) approach
+through closer collaboration with other regulators. It will adopt and be capacitated with
+some proactive, foresight-driven methods, enhancing its internal AI capabilities, and
+modernizing compliance tools to include algorithmic audits.
+ICASA will also become more participatory, engaging industry, academia, and civil
+society to build inclusive and forward-looking regulatory frameworks for AI use in
+communications and broadcasting. ICASA will work with other regulators worldwide in
+setting up an agile, tech-based, collaborative approach to regulating AI in digital
+Page 27 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+30 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+environments. South Africa’s digital services regulatory mechanism will exercise
+formal coordination such as joint compliance protocols, shared audit infrastructure,
+and cross-sector task teams. And this will be bolstered by an integrated, data-powered
+infrastructure, centres and systems for monitoring and increasing service delivery
+efficiency levels.
+4.8 Communication
+The policy emphasizes transparency, public engagement, and inclusive
+communication through:
+a. Public Awareness Campaigns: Promote understanding of AI technologies,
+rights, and risks, particularly in local languages.
+b. Community Platforms: Enable feedback and participation in public-sector AI
+applications, and
+c. Accessible Information: Ensure citizens can understand and challenge AI
+decisions, with explainable AI systems required for high-risk use cases.
+Page 28 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 31
+5. Trends in Policy and Regulatory Options for AI in South Africa
+South Africa has various policy options to navigate the complexities of AI development
+in multiple sectors while promoting ethical standards, fostering economic growth, and
+establishing a solid regulatory framework. The options span several critical areas:
+ethics, regulatory flexibility, economic development, and international alignment. Each
+option carries its own set of trade-offs and requires careful consideration of the
+country’s unique socio-economic and each sector’s technological context. This policy
+proposes at least four options: an ethics-first approach, a flexible iterative approach,
+an economy-focused approach, and an approach that aligns with global standards and
+partnerships – all suitable for different sectors and industries. Yet, a combination of
+these would serve as an ideal.
+5.1 Ethics-First Approach (Prioritizing Ethical AI Development)
+An ethics-first approach would involve implementing stringent guidelines and
+safeguards around the ethical use of AI technologies. This option could ensure robust
+protections against misuse, addressing concerns around transparency, accountability,
+and fairness. Emphasizing ethics aligns with South Africa’s socio-historical landscape,
+where issues of fairness and inclusivity are particularly sensitive due to past inequities.
+Such an approach could go a long way in building public trust and fostering social
+acceptance of AI by demonstrating a commitment to responsible practices. This
+approach provides a clear, protective structure for managing ethical concerns, such
+as bias and discrimination, which could resonate with South Africa’s diverse society.
+It is often argued that this approach could slow the pace of AI innovation, especially if
+stringent guidelines increase compliance costs or discourage experimental uses of AI.
+Also, it could limit opportunities for quick adoption and scaling of AI in sectors like law
+enforcement and education, where faster deployment may yield significant public
+benefits. Among the available options, organizations could be required to implement
+ethics checklists at every development stage, ensuring that bias, fairness, and
+transparency are systematically addressed.
+Page 29 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+32 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+5.2 Flexible, Iterative Regulation (Enabling Innovation While
+Managing Risk)
+A flexible regulatory approach would entail developing adaptable strategies that evolve
+with AI’s rapid technological advancements. This option could involve phased
+regulations or “sandbox” environments where AI innovations are tested under
+regulatory supervision before broader deployment. Such an approach allows for faster
+scaling while maintaining the ability to respond to unforeseen ethical or security
+concerns. As a result, regulations should be adaptable and flexible, providing for future
+review as AI technologies and applications evolve, while ethical AI development allows
+room for innovation. This could also include the use of technology in regulation. Among
+the options would be pro-active measures of mitigating risk, including conducting
+security audits specific to AI/ML and ‘red teaming’ - minimizing dependence on thirdparty datasets in the training process; an ensemble operation based on a multi-layered
+protection design.
+While not part of the country’s established regulatory tradition, such an approach
+would support innovation by allowing AI technologies to develop in a less restrictive
+environment, potentially making South Africa an attractive destination for AI startups
+and investments. It would also provide regulators with real-time insights into emerging
+AI applications, helping them adapt regulations based on practical experience and
+observed risks. On the flip side, this approach might introduce ethical and security
+risks, especially if emerging issues are not identified promptly or regulated adequately.
+It could create inconsistencies in AI standards across sectors, potentially reducing
+public trust in AI and complicating oversight.
+5.3 Economic-Focused Strategy (Maximizing AI’s Economic
+Impact)
+An economic-focused approach would prioritize AI applications that directly contribute
+to economic growth, such as using AI to enhance productivity in key sectors like
+mining, agriculture, and public administration. This option would involve substantial
+investments in AI-related education and training, as well as incentives for local AI
+research and startups. Among available options could be a strategic focus on ensuring
+that data is AI-ready, accessible, and governed by experts in AI and data science.
+Page 30 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 33
+It would help promote economic resilience by leveraging AI to create new jobs,
+stimulate growth in strategic industries, and improve productivity. Further, it aligns with
+South Africa’s goal of fostering a digital economy, which could help bridge economic
+disparities and enhance competitiveness. However, without robust ethical and
+regulatory oversight, this approach could risk exacerbating inequalities, particularly if
+AI applications lead to job displacement without adequate worker reskilling. It could
+lead to increased digital divides, where economic gains primarily benefit certain
+sectors or regions, leaving marginalized communities without equitable access to AI’s
+benefits.
+5.4 Alignment with Global Standards and Partnerships
+South Africa could position itself in the international AI landscape by aligning its
+policies with global standards such as the OECD AI principles and collaborating with
+international AI governance bodies. This approach would include developing
+frameworks that are interoperable with global standards on ethics, transparency, and
+data protection, fostering trust in AI both domestically and internationally. This
+approach would strengthen the country’s credibility as a responsible AI actor on the
+global stage, potentially attracting foreign investment and partnerships. Also, it
+provides a pathway for the country to influence AI governance in Africa, establishing it
+as a leader in AI ethics and governance on the continent.
+However, aligning with international standards may limit South Africa’s regulatory
+flexibility, potentially creating policy mismatches if global standards do not address
+local needs. This approach could prioritize international competitiveness over local
+socio-economic priorities, potentially stalling efforts to address historical inequities.
+A combination of all the above options (depending on the innovation and safety
+needs of each sector), however, would serve as an ideal approach.
+There are various other approaches to regulation, including a principles-based
+regulation, a guardrails approach, and a just AI approach. But before those are
+considered, there must be clarity on the best policy and strategy approaches.
+Page 31 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+34 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+6. Emerging Issues on the South Africa AI Policy
+6.1 Ethics in AI Policy
+South Africa’s national AI policy emphasizes ethical considerations as a foundational
+element, aiming to build trust in AI technologies by embedding fairness, transparency,
+accountability, and inclusivity into the development and deployment of AI systems.
+Ethical concerns in AI revolve around ensuring that the technology respects human
+rights and upholds societal values. For instance, the policy explicitly addresses bias
+mitigation, aiming to reduce discrimination in AI outcomes, which is critical given South
+Africa’s diverse and historically unequal society.
+The ethical deployment of AI also extends to ensuring explainability and transparency,
+particularly in high-stakes areas like healthcare and finance. By mandating that AI
+systems be sufficiently interpretable, the policy aligns with global best practices, which
+advocate for transparency to build public trust and facilitate the ethical use of AI.
+Furthermore, the policy’s commitment to inclusivity recognizes the potential for AI to
+either bridge or widen existing socio-economic gaps, making ethical considerations a
+priority to prevent exacerbation of inequalities.
+6.2 A Regulatory Framework for AI Policy
+Regulating AI is a complex task, particularly in a rapidly evolving field. This policy
+recognizes the need for adaptive, comprehensive regulations that address both
+current and potential future challenges. This approach is informed by the policy’s
+adoption of a Futures Triangle perspective, which examines the pressures from current
+technology, future aspirations, and historical legacies that impact the adoption and
+regulation of AI in South Africa. Key regulatory areas would include data protection and
+privacy, with the policy recommending robust data governance standards. This aligns
+with global trends, such as the European Union’s General Data Protection Regulation
+(GDPR), emphasizing that data should be collected, processed, and stored
+transparently and securely. These measures aim to safeguard citizens' privacy while
+supporting data-driven innovation, balancing the need for regulatory oversight with
+flexibility to adapt to new developments in AI.
+Page 32 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 35
+The policy also proposes sector-specific regulations to address unique AI applications
+in areas like public safety, healthcare, education, fintech etc. These targeted
+regulations are essential as they consider the ethical implications specific to each field,
+ensuring that AI applications are deployed responsibly and effectively. The policy thus
+positions smart regulation not only as a mechanism for control, but also to foster an
+enabling environment where AI can develop safely and ethically.
+6.3 Economic Impact of AI
+AI presents transformative opportunities for South Africa's economy, with the potential
+to enhance productivity, create new industries, and address national challenges in
+areas such as healthcare, agriculture, education, and public safety. The national AI
+policy underscores AI’s role in economic development, viewing it as a key driver of the
+Fourth Industrial Revolution (4IR) and a contributor to national economic resilience.
+The policy envisages that an opportunity exists for new industries to be created
+through the development of AI. By fostering an AI ecosystem that promotes innovation,
+South Africa can harness AI to improve competitiveness and stimulate job creation,
+particularly through support for AI startups and public-private-partnerships.
+The policy’s focus on talent and capacity development is central to realizing AI’s
+economic potential. Investments in AI-related education and training aim to create a
+skilled workforce capable of developing and managing AI technologies. This strategic
+emphasis on human capital development ensures that the economic benefits of AI are
+widely distributed, promoting inclusivity in the digital economy. The policy emphasizes
+a commitment to advocating for the inclusion of underrepresented communities within
+the AI ecosystem, ensuring that AI technologies are accessible to all South Africans.
+Moreover, the policy considers the economic risks associated with AI, such as job
+displacement due to automation. It advocates for a balanced approach that combines
+economic incentives for AI innovation with strategies for workforce reskilling and
+upskilling. This mitigates potential adverse effects on employment, especially in
+industries most susceptible to automation. Through targeted economic policies, South
+Africa can leverage AI for growth while addressing potential economic challenges.
+Page 33 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+36 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+6.4 Emerging Issues and the Global Context
+Global AI trends do slightly influence the national AI policy, particularly regarding
+international AI ethics and governance. The policy’s alignment with global standards,
+such as the OECD’s recommendations on AI ethics, underscores South Africa’s
+intention to participate in the global discourse on responsible AI. As AI applications
+become more prevalent, issues like cybersecurity and geopolitical dynamics are
+becoming increasingly important. The policy addresses these by proposing strong
+cybersecurity measures to protect AI infrastructure, recognizing that vulnerabilities in
+AI systems could have national security implications.
+The policy also embraces sustainable development goals (SDGs), recognizing AI’s
+potential to contribute to environmental sustainability. By integrating AI with
+sustainable practices in agriculture and energy, the policy positions AI as a tool for
+addressing climate change and resource management challenges. This approach
+reflects a broader trend towards AI for Good, where AI is harnessed not just for
+economic gain but for social and environmental impact as well.
+Page 34 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 37
+7. Governance
+7.1 Performance Reporting and Accountability
+The national AI policy mandates clear accountability mechanisms across AI system
+development and deployment. Developers and deploying organizations are obligated
+to provide sufficiently explainable AI outputs, especially in high-risk contexts such as
+credit scoring, law enforcement, and healthcare. Public-sector systems are to be held
+to higher standards of sufficient transparency and accountability. Institutions deploying
+AI must establish traceable lines of responsibility, with a named accountable official or
+entity. Oversight institutions, including the proposed AI Ethics Board and AI Regulatory
+Authority, will monitor compliance, conduct audits, and assess system fairness,
+including gender and human rights impact assessments. These institutions are
+mandated to evaluate AI’s societal effects, enforce algorithmic transparency, and
+ensure the legality and contestability of automated decisions.
+7.2 Transparency and Information Dissemination
+The policy adopts the principles of “sufficient explainability” and “sufficient
+transparency,” ensuring that AI systems offer comprehensible outputs and visible
+operational processes. Public-sector and high-risk AI systems must be auditable, and
+plain-language notifications must be issued when individuals are affected by
+automated decisions. Citizens must be informed of their rights and provided with
+avenues to challenge algorithmic outcomes. Transparency is also ensured through
+routine algorithm impact assessments, open publication of AI audits, and public
+education campaigns. These mechanisms will build public trust and provide insight
+into AI decision-making logic, data sources, and potential consequences.
+7.3 Risk Assessment and Mitigation Strategy
+While aimed at encouraging innovation, South Africa’s AI governance adopts a riskbased approach, categorizing AI systems based on levels of potential harm. The policy
+draws some inspiration from the European Union AI Act and includes strict regulations
+for high-risk applications. A National AI Safety Institute will be established to advance
+risk science and develop safety standards with international collaboration.
+Page 35 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+38 No . 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+Key risk mitigation strategies include:
+a. Regular scenario-based risk planning, Human Rights Impact Assessments
+(HRIAs) and Regulatory Impact Assessments (RIAs).
+b. Enhanced data governance through POPIA-aligned frameworks.
+c. Bias detection and mitigation protocols, including mandatory testing of highstakes systems.
+d. Legal and technical remedies for deepfakes, defamatory AI, and child-targeted
+manipulative systems.
+e. An AI insurance superfund to compensate affected individuals in ambiguous
+liability scenarios, and
+f. Cross-sector collaboration to harmonize data security and prevent the misuse
+of AI technologies.
+Page 36 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 39
+8. Policy Monitoring, Evaluation and Review
+8.1 Policy Measurement
+The policy will introduce the need for detailed implementation plans emanating from
+the multi-sector strategy development processes - with measurable outcomes to
+enhance accountability and progress tracking. The implementation roadmap under
+each sector strategy will have detailed timelines, measurable milestones, and
+accountability mechanisms. There must be some well-structured and transparent
+collaboration frameworks between sectors, including incentives such as tax breaks,
+grants, and subsidies to encourage private-sector participation, particularly for startups
+and small businesses. These must be seamless, easy to understand, and designed
+with a full view of the citizen in mind. The proposed sectoral approach would ensure
+that AI governance is distributed across government spheres and provinces, economic
+and social sectors, each adapting to AI within their regulatory scope.
+Further, an AI cross-system intelligence integration mechanism will be put in place to
+combine data from different sources to provide a complete security and activity view.
+The policy would foster institutional coherence by assigning clear lines of responsibility
+across government departments and regulatory bodies. Further by creating a
+coordinating facility for AI governance that includes independent oversight, public
+institutions, and civil society representation. This means that regulators such as the
+Competition Commission, and Environmental Management Inspectorate would
+cooperate through established mechanism. The policy mandates the development of
+implementation plans with measurable outcomes, timelines, and milestones across all
+sectoral strategies. Performance indicators will be tailored to the specific focus area -
+such as AI adoption rates, ethical compliance benchmarks, bias mitigation results, and
+infrastructure deployment levels. Regular AI Maturity Assessment Indexing and AI
+Readiness Indexing will be institutionalised to evaluate national preparedness and
+progress.
+8.2 Monitoring Processes
+A cross-governmental, sectoral approach will underpin the monitoring of the
+implementation and effects of this policy. It thus proposes:
+a. Sector-specific implementation roadmaps with defined timelines and outputs.
+Page 37 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+40 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+b. Regular algorithmic audits and bias testing (especially for high-risk systems).
+c. Public tracking tools for procurement transparency and accountability.
+d. Monitoring of inclusivity outcomes, e.g., benefits accrued to marginalized
+communities, and
+e. An AI cross-system intelligence integration mechanism will be introduced to
+consolidate data from various sectors and enhance decision-making in realtime.
+8.3 Evaluation of the Policy
+Evaluation will be both formative and summative. It will:
+a. Assess whether objectives (e.g., ethical AI use, inclusivity, competitiveness)
+are being met.
+b. Identify unintended consequences or emerging risks.
+c. Include independent oversight and peer reviews to uphold objectivity.
+d. Identify the patterns of improvement and otherwise, with regard to innovation,
+economic impact, startup enablement.
+e. Include regular human rights and gender impact assessments to evaluate
+social effects of AI implementations.
+Periodic independent certification of high-stakes AI applications will be enforced to
+ensure that evolving practices align with the policy’s principles of fairness, safety, and
+transparency.
+8.4 Policy Review Schedule
+The policy framework will undergo comprehensive review every three years, or earlier
+if triggered by significant technological or legislative shifts. Interim evaluations will
+inform mid-term updates and corrective actions. A flexible but structured review
+mechanism will allow the policy to adapt to fast-paced developments in AI, ensuring
+ongoing relevance and responsiveness.
+Page 38 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 41
+9. Strategic Pillars for the South Africa AI Policy
+Strategic pillars of this AI policy are the fundamental components or key areas of focus
+that support and drive the implementation of the policy's goals and objectives. They
+serve as the core framework around which the policy is structured, providing clear
+guidance and direction for its implementation. This policy is based on 6 Strategic
+Pillars (SP).
+These are:
+a. Capacity and Talent Development
+b. AI for Inclusive Growth and Job Creation
+c. Responsible Governance
+d. Ethical and Inclusive AI
+e. Cultural Preservation and International Integration
+f. Human-Centred Deployment
+Page 39 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+42 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+Each of these pillars are built using Strategic Building Blocks (SBB) as follows:
+Strategic Pillars Strategic Building Blocks
+a. Capacity and Talent Development i. Education, Training and Industry
+Collaboration
+ii. Digital Infrastructure
+b. AI for Inclusive Growth and Job i. Research, Development, and
+Creation
+Innovation
+ii. AI for Startups, MSMEs and
+Innovation
+c. Responsible Governance i. Safety and Security
+ii. Privacy and Data Protection
+iii. Professional Responsibility
+d. Ethical and Inclusive AI i. Ethical AI Guidelines Development
+ii. Fairness and Mitigating Bias
+e. Cultural Preservation and i. Promotion of Cultural and Human
+International Integration Values
+ii. Global Collaboration and
+Competitiveness
+f. Human-Centred Deployment i. Human Control of Technology
+(Human-Centred Approach in AI
+Systems)
+ii. Transparency & Sufficient
+Explainability
+iii. Public Sector Implementation
+Page 40 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 43
+9.1 Strategic Pillar (SP) 1: Talent Development / Capacity
+Development
+9.1.1 Strategic Building Block (SBB) 1: Education, Training and
+Industry Collaboration
+Aim: To ensure that South Africa has a robust AI talent pool.
+The inclusion of AI in school curricula is imperative for equipping students from
+primary to tertiary education. This entails the education of educators in AI tools and
+the integration of multilingual education where applicable. There should be training
+programmes developed that cater to accreditation bodies such as the Quality Council
+for Trades and Occupations (QCTO), targeting data management and AI-specific
+infrastructure. Industry-academic partnerships are also crucial for experiential learning
+in the practical implementation of AI, focusing on interdisciplinary teamwork, risk
+management, and data stewardship.
+AI education should not only focus on technical skills but also integrate Social
+Sciences and Humanities to address ethical challenges and provide governance
+sensitivity. This integration helps embed creativity, emotional intelligence, and critical
+thinking capabilities in students. Curricula must cover ethics, biases, and societal
+impacts of AI. Additionally, community-based AI education centres must be
+established to promote accessibility. Upskilling and reskilling initiatives are crucial to
+reduce job displacement due to AI in industries such as finance, agriculture, mining,
+and logistics.
+For successful deployment of AI in education, strategic talent retention measures
+are required to retain qualified professionals in the country. Skilling programmes must
+begin early for professionals such as educators, librarians, and researchers. Interinstitutional coordination (among all types of educational, research and innovation
+institutions) is essential to prevent duplication of efforts. This will require a breaking
+down of silos between schools in the same districts, rural, township and urban. In
+addition, investment in assistive technologies can benefit children with disabilities
+while closing the digital divide responsibly. Instituting a master institute focused on
+enhancing applied research innovation and startups will ensure national accessibility
+to skills development in different fields pertaining to AI.
+Page 41 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+44 No . 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+South Africa must urgently expand its human capital base to compete in the AI era.
+This requires a National AI Skills Development Strategy spanning schools, TVET
+colleges, universities, and lifelong learning pathways. Dedicated specialised AI
+programmes should be introduced across higher education and vocational institutes,
+co-designed with industry to meet labour market demand. To cultivate world-class
+research talent, government would introduce competitive AI research grants,
+innovation challenges, and fellowships. In parallel, diaspora engagement programmes
+can facilitate knowledge transfer and mentorship, while targeted AI entrepreneurship
+training and incubation hubs will strengthen the pipeline of innovators and startups.
+9.1.1.1 Policy Interventions
+Educational Integration: Incorporate AI education including
+o
+responsible use and risk management into the educational curricula from
+foundational, basic education to tertiary levels. Skilling of educators and
+other assistants in AI tools, as well as emphasizing multilingual education
+where feasible.
+Training Programmes: Develop specialized training and continuous
+o
+learning programmes in AI. Engage with the Quality Council for Trades
+and Occupations (QCTO) to standardize AI qualifications and job roles.
+Training would include data management, curation, and AI-specific data
+infrastructures. Introduce AI-focused curricula and training guidelines
+to prepare a future workforce. Support self-taught individuals without
+necessarily having formal qualifications.
+Capacity Development and Partnerships: Ensure ongoing expertise
+o
+and capacity development within regulatory bodies and
+government agencies – creating agility. Emphasize on real-world skills
+development through collaboration with industry. Foster partnerships
+between academia and industry for real-world AI application training.
+These partnerships would highlight interdisciplinary collaboration, risk
+management, data governance, and cooperation between technical
+experts and social scientists.
+Page 42 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 45
+STEM and Humanities Integration (towards STEAM): AI training must
+o
+incorporate Social Sciences and Humanities to address ethical
+dilemmas and promote governance sensitivity. Also, these humancentric skills would serve to embed creativity, emotional intelligence, and
+critical thinking, particularly in early learning. Embed AI education from
+primary to tertiary levels with curriculums addressing ethics, biases, and
+societal impacts. Launch community-driven AI education hubs, as well
+as mobile training centres.
+Reskilling and Upskilling Programmes: Initiatives for reskilling the
+o
+sectors impacted by AI aimed at alleviating job displacement. Conduct
+research to project AI’s impact on jobs, particularly in sectors like
+finance, agriculture, mining, and logistics. Because the AI era will result
+in the creation of new professions, the country must put in place an
+appropriate labour market transition strategy. Support unemployed
+individuals and adults in general to acquire skills through internet
+resources, with micro-credentialing – as well as various informal learning
+pathways. Also, by mapping the industries which are likely to be affected
+by AI-driven disruptions.
+Strategic Retention of Talent: Implement a more focused approach to
+o
+retain skilled professionals in the country, which is crucial for building a
+robust AI sector. Develop international exchange programmes to
+ensure an infusion of skills and technology. Utilize AI tools to craft a
+responsive educational curriculum, also to review and re-iterate.
+Develop educational sector strategies for deploying and implementing AI
+(with responsible use of personal and other data) – including the
+responsible use of predictive sets for early career guidance. Encourage
+diaspora knowledge transfer programmes to bring back skills from South
+Africans abroad.
+Upskilling and Cooperation: Implement special skilling programmes
+o
+upfront for key information custodians - educators, librarians, and
+archivists, etc. Also, for researchers, entrepreneurs and postgraduate
+Page 43 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+46 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+students. Bolster cooperation between academic, innovation and
+research institutions to streamline efforts and avoid duplication. And
+ensure that educational and research institutions (including rural and
+urban schools) share resources to break down silos in similar and
+adjacent districts.
+AI-related skills development must go beyond advanced research and
+o
+coding to include technical education, artisanship training, and sectorspecific capacity-building. This will ensure that South Africa’s
+masterplans in manufacturing, mining, and other industrial sectors are
+supported by a workforce capable of adopting and deploying AI
+solutions.
+Invest in Assistive AI Technologies to support children with
+o
+disabilities, ensuring inclusive access to education and essential
+services. Invest in addressing the digital divide, while giving attention to
+measures which would enable children. AI tools should prioritize
+inclusivity and respect children’s cognitive abilities. Also, ensure that
+these tools would honestly state the functionalities and limitations which
+they possess and avoid amplifying disparities when directed at children.
+Master AI Institute: Review the mandate of the Artificial Institute of
+o
+South Africa and ensure it sufficiently funded and capacitated to
+spearhead the diffusion of relevant skills, entrepreneurship, applied
+research and innovation for the benefit of the country and continent.
+Further, establish an effective creative AI, big data analytics, blockchain,
+and cybersecurity capacity-building infrastructure.
+▪ This should be a key part of an ever-growing ecosystem of skills,
+research and innovation apparatus – which would be available
+country-wide and online.
+▪ This should build on the work which the DCDT has started, with
+hubs located in various learning, research and innovation
+institutions – including international linkages.
+Page 44 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 47
+9.1.2 Strategic Building Block (SBB) 2: Digital Infrastructure
+Aim: To advance technological capabilities and drive innovation
+To enable the adoption of AI in South Africa, there is a requirement to establish
+effective and affordable supercomputing infrastructure. This includes giving top priority
+to access such infrastructure for learning and research - and setting up a national data
+centre and a related computing network to improve the country's computing power
+index. Moreover, it is essential to invest in digital connectivity technologies such as
+5G, 6G and high-capacity fibre. Priority should be accorded to last-mile connectivity
+via low earth orbiting satellites to deal with hurdles in non-local digital infrastructure
+access. Granting access to 5G, and future 6G and broadband networks to everyone
+and sunsetting legacy systems is crucial. Universal internet access can be addressed
+by declaring it a socio-economic right. Monitoring the effect of price decreases on lowend devices must be conducted to make technology affordable. Creating AI community
+centres in under-served communities allows for AI literacy and training, involving rural
+businesses in rural infrastructure development.
+South Africa must promote investment in connectivity infrastructure using
+international cloud-based services either by collaboration with foreign providers and/or
+regional supercomputing centres. However, there is an issue of security when using
+foreign infrastructure, infringing on data privacy. Therefore, investment in domestic
+infrastructure is also needed, to ensure data sovereignty. Development of shared
+supercomputing centres such as AI giga-factories facilitates startups and researchers
+and promotes sector-specific regulation compliance. Development of secure data
+repositories promotes safe access to knowledge. Yet there is a need to reduce
+environmental degradation from the energy demands of data centres.
+9.1.2.1 Policy Interventions
+Supercomputing Infrastructure: Develop robust and cost-effective
+o
+supercomputing infrastructure to support AI research and development.
+Prioritize access to supercomputing infrastructure for education and
+innovation. Develop and implement a plan for national data centres with
+Page 45 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+48 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+related national computing network, to increase South Africa’s national
+computing power index. Prioritize investments in digital infrastructure
+that leverages on global cloud-based solutions. Partner with
+international cloud providers and regional supercomputing hubs;
+and use offshore capabilities and strategic partnerships to mitigate
+against the possibly negative effects of the high energy demand, and to
+reduce the strain on local infrastructure.
+▪ A contrary view is that reliance on foreign infrastructure
+compromises the security of sensitive South African data. And
+therefore, there is a need to invest in local infrastructure and
+related data sovereignty measures to safeguard the national
+interest. Acknowledge and create plans to reduce the country’s
+current hardware dependence on the US and China (in the
+context of their geopolitical rivalry).
+Digital Connectivity: Invest in digital infrastructure and advanced
+o
+connectivity technologies like 5G, future 6G and high-capacity fibre
+networks. Focus on last mile connectivity, including the use of satellite
+technologies, and address the barriers to accessing non-local digital
+infrastructure. Prioritize expansion of infrastructure, affordable
+connectivity and unlocking South Africa’s public and private data
+holdings to enable locally driven AI solutions. Create shared
+supercomputing facilities such as AI giga-factories for startups and
+researchers.
+Establish Regional AI Factories to enhance AI sovereignty and
+o
+inclusive innovation throughout South Africa. These decentralized hubs
+will foster local data control, drive sector-specific AI solutions, and
+stimulate regional economies.
+Universal Access and Affordability: Accelerate broadband and 5G
+o
+(and future 6G) rollout and phase out legacy networks – while framing
+universal internet connectivity as a fundamental socio-economic right.
+Access to electronic equipment is a prerequisite for integrating AI
+Page 46 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 49
+into education systems at all levels. This includes equitable access to
+hardware, connectivity, and infrastructure to ensure inclusive
+participation. Monitor the impact of the reduction of prices on low-end
+devices (smartphones/tablets) for low-income households.
+Reaching the last mile: Create cost-effective, accessible digital
+o
+infrastructure to support AI adoption – including the use of satellite
+systems. Create government-led investments to address infrastructure,
+electricity, and digital tools. Expand low-cost, high-speed internet
+coverage in rural and underserved areas to ensure that these
+communities can participate in the AI-driven economy. Develop
+community-based connectivity solutions such as Wi-Fi hotspots, digital
+hubs, and mobile network extensions tailored to rural and peri-urban
+areas.
+Infrastructure-Readiness: Emphasize on data infrastructure
+o
+readiness mechanisms while also establishing trusted data
+repositories to ensure secure and compliant access to information. Put
+measures in place to mitigate against the environmental impact on
+infrastructure (particularly significant consumption of electricity and
+water by data centres). As ICT protocols become outmoded and
+superseded with new ones, the standards for telecommunications
+technologies and digital infrastructure should enable the growth and
+development as well as effective deployment of AI products.
+Energy Preparedness for the AI Age: Take specific measures to
+o
+ensure the availability of electricity, water and other environmental
+resources to power the operation of appropriate levels of compute
+resources (and provide favourable terms for locally based data centres
+in the national energy mix). Similarly, ensure the long-term availability of
+appropriate critical minerals and rare earth resources for the AI age.
+Establish AI community centres and hubs in underserved regions to
+o
+promote AI literacy and training. Involve local businesses in rural
+infrastructure development. Create equitable digital access for schools
+Page 47 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+50 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+and community centres. Also create collaboration mechanisms between
+government and private hyperscalers, as well as encourage the
+development of energy-efficient data centres. Facilitate sectorspecific strategies ensuring seamless regulatory alignment.
+▪ Investigate the effect of quantum computing and open-source
+tools on the expected evolution of AI and prepare the national
+infrastructure accordingly.
+9.2 Strategic Pillar (SP) 2: AI for Inclusive Growth and Job
+Creation
+9.2.1 Strategic Building Block (SBB) 1: Research, Development, and
+Innovation
+Aim: To advance technological capabilities and drive innovation.
+South Africa plans to set up and sponsor specialized AI research institutions on top
+of what already exists, such as the partnerships of national research conducted in
+basic, specialized, and applied AI research across various universities. The country
+will prioritize such projects as those which are building scientific knowledge on
+machine intelligence. Investing in AI research, development, and infrastructure is key
+to fostering innovation. Encouraging collaborations among academia, industry, and
+the government is essential to make local innovation a top priority. These involve
+offering economic incentives and capital grants to local AI startups. The creation of
+institutions which encourage inter-disciplinary collaborations between industry and
+academia for AI technology development is important. Additionally, regulatory
+sandboxes need to be strengthened to experiment with privacy-preserving AI
+applications.
+To build a healthy startup culture with AI assistance, extensive research on its
+technicalities is required. Policy formulation needs to be aimed at highly capable
+foundation models with regulatory milestones defined to prevent one-size-fits-all
+policies. Frameworks need to be established for making postgraduate research data
+available for utilising solutions from institutions. Additionally, embracing a dynamic way
+of developing technologies such as quantum computing and open-source tools will
+Page 48 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 51
+make us future-ready while maintaining technology neutrality in policy formulation.
+AI represents a critical lever for economic growth, productivity, and industrial
+competitiveness. To drive this transformation, South Africa would establish AI Centres
+of Excellence through government–industry co-funding, serving as hubs of innovation
+and application. Economic impact must be measurable, with quantifiable adoption
+targets for increasing AI uptake in priority NDP sectors. Dedicated sector-specific AI
+roadmaps are essential to accelerate adoption in areas such as healthcare,
+agriculture, education, finance, and manufacturing. This will be supported through
+targeted subsidies, tax incentives, and procurement policies, ensuring that AI
+technologies become embedded across industries. To scale innovation, AI startups
+and MSMEs must be supported through grants, compute credits, and access to critical
+datasets.
+9.2.1.1 Policy Interventions
+Research Centres: Establish and appropriately fund dedicated AI
+o
+research centres. Also scale and monetize the outputs of existing
+institutions (e.g., CSIR). Enhance regulatory sandboxes to test privacypreserving AI applications. Initiate a review of the country’s exchangecontrol systems to encourage the export of IP and the repatriation of
+funds. Strategic funding from the government and private sector can
+spur advancements and enhance the country's competitiveness in the
+global AI landscape.
+Public-Private Partnerships: Promote collaborations between
+o
+academia, industry, and government – and prioritize South African
+innovation. Provide dedicated financial support, regulatory practices
+and incentives for AI research and local AI startups. And advocate for
+technology neutrality, ensuring that the AI policy does not prescribe
+specific technologies or service providers. Develop a coordinated
+national AI innovation ecosystem which supports industrial
+development and innovativeness.
+Conduct in-depth research into AI's technical complexities and use
+o
+AI to foster a thriving startup ecosystem. Create mechanisms to make
+Page 49 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+52 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+the postgraduate research data of each institution easily accessible to
+utilize and harness the solutions which come from these institutions. For
+future-readiness and cost-effectiveness, the country must employ a
+more dynamic approach to foster evolving technologies such as
+quantum computing and opensource tools. Create an environment
+where open-source tools are widely utilized in the development of AI
+applications. Further policy development related to highly capable AI
+foundation models will be required. Some of these models present
+unpredictable risks and require a definition of different regulatory
+thresholds to avoid a one-size-fits-all regulatory regime.
+9.2.2 Strategic Building Block (SBB) 2: AI for Startups, MSMEs and
+Innovation
+Aim: To ensure startups and MSMEs effectively leverage AI technologies.
+South Africa plans to establish AI accelerators based on successful mentorship
+and funding schemes such as Singapore's. The accelerators would assist startups in
+terms of resources to scale up. The aim is to, where possible, provide equity-free
+funding, mentorship, and exposure to a network of international experts and investors.
+To promote innovation while avoiding unfairness, South Africa will create regulatory
+sandboxes that allow micro, small, and medium enterprises (MSMEs) and startups to
+pilot AI innovations under observation. It does so across industries with co-funding
+models. It incentivises social entrepreneurs, MSMEs, youth-owned, and womenowned startups, providing government with legal exemptions to preferentially
+purchase from them.
+Incentives in the form of tax credits, financing from an AI Innovation Fund, and
+grants will be provided after the likes of examples from around the globe such as
+Canada's Strategic Innovation Fund. Data is treated as a public good to promote fair
+development through open data initiatives. Public institutions that are within data
+ecosystems will be paid to finance innovations. In doing so, South Africa aims to foster
+an environment that will stimulate domestic innovation without making regulatory
+systems rigid enough to smother technological developments. As a result, South Africa
+Page 50 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 53
+will establish a vibrant, well-supported digital startups ecosystem by fostering AIrelated R&D, promote entrepreneurship, and enable industrial applications of AI. This
+will be achieved through coordinated innovation funding, sectoral innovation hubs, and
+support for startups that contribute to industrial competitiveness and digital trade.
+9.2.2.1 Policy Interventions
+AI Accelerators: Create accelerators along the lines of Singapore’s
+o
+mentorship and funding models. Offer tax breaks, funding mechanisms
+(AI Innovation Fund) and grants for AI adoption, drawing on global
+examples like Canada’s Strategic Innovation Fund. Encourage and
+fund social entrepreneurs, small and medium-sized enterprises,
+women, and youth-led startups to spark local innovation. Create legal
+exemptions enabling government to procure solutions directly
+from social entrepreneurs, small and medium-sized enterprises,
+women, and youth-led startups, as well as academic, research and
+innovation institutions which have benefitted from government funding
+and establishment support.
+Regulatory Sandboxes: Establish AI testing environments for MSMEs
+o
+and startups, to ensure the testing of AI innovations under regulatory
+oversight to prevent dominant interests from undermining fairness.
+These testing environments would span various sectors and industries,
+with appropriate cooperation and co-funding mechanisms. South Africa
+would facilitate a sandbox approach to innovation, where AI is a
+significant component. All regulatory measures would take into account
+the innovative nature of technology-based startups and would be
+applied in an adaptable and flexible manner which allows room for
+innovation.
+Non-private/non-regulated data must be treated as a public good to
+o
+drive equitable development, thus encouraging open data initiatives and
+data commons. Local personal data provides market intelligence and
+many other advantages – thus it must be treated as a public good.
+Compensate the public institutions appropriately for their
+Page 51 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+54 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+contributions in the development of data ecosystems – to support
+innovations. Also, create incentives for public, academic and private sector to
+contribute to open data initiatives.
+AI must also be harnessed to drive industrial transformation,
+o
+reconfigure supply chains, and support businesses in adapting to the
+platform economy. This includes enabling firms to reprogramme their
+operations, investments, and customer engagement for participation in
+digital markets.
+9.3 Strategic Pillar (SP) 3: Responsible Governance
+9.3.1 Strategic Building Block (SBB) 1: Safety and Security
+Aim: To protect citizens and infrastructure.
+Cybersecurity in South Africa targets the installation of robust controls for the
+protection of AI systems and information against mal-use or meddling. This covers the
+identification of strategic risks including detrimental bias and AI abuse. There ought to
+be a mechanism of risk management that can cater to these threats based on
+prevailing local socio-economic realities and vulnerabilities in technology. The larger
+digital presence in AI systems comes with enormous data protection threats, especially
+in handling personal data at scale. Solutions must deal with these threats while
+facilitating seamless but secure collaboration among state actors and private actors
+via established data sharing protocols. It also becomes important to safeguard children
+against manipulative AI systems such as exploitative advertising.
+Impeccable technical and legal remedies for Deep-fakes and Defamatory AI need
+to be established. Further, establishing an AI insurance superfund can serve as a
+guarantee of compensation for damages resulting from AI-based decisions in which
+liability is unclear. A National AI Safety Institute will establish the art of AI safety by
+creating standards with the assistance of international organizations. Ongoing
+scenario-based risk planning for AI systems and Regulatory Impact Assessments
+(RIAs) will be done. Safeguarding South African data ownership in handling third-party
+suppliers is essential. Following a model that is like the EU's high-risk application
+classification is a sound way of handling potential risks. Cooperation with regulatory
+Page 52 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 55
+authorities such as the Information Regulator will combat misinformation online
+practices.
+South Africa will ensure that AI-related policies on data management, industry
+regulation, and digital trade are harmonised, thereby strengthening trust and
+accountability. Governance would combine proactive monitoring with crisis response
+protocols, creating and updating appropriate playbooks, while ensuring technical,
+societal, and ethical impacts are assessed. Ongoing stakeholder feedback would
+guide continuous improvement and help manage emerging risks effectively.
+Effective governance is the backbone of a trusted AI ecosystem. South Africa
+would implement AI-specific data governance frameworks that ensure provenance,
+quality control, and interoperability of datasets. To measure progress, a National AI
+Maturity Index would be established to track adoption, readiness, and impact across
+sectors. Government institutions would also strengthen capacity through executivelevel digital transformation leadership roles such as Chief AI or Digital Officers, backed
+by specialised training for public officials. To ensure accountability, mandatory
+reporting frameworks for AI deployments in the public sector will be introduced,
+reinforcing transparency and public trust.
+9.3.1.1 Policy Interventions
+Cybersecurity Measures: Implement robust cybersecurity protocols to
+o
+safeguard AI systems and data from unlawful access or acquisition of
+data and to prevent attempts to alter their behaviour or performance by
+bad actors. Identify strategic risks, such as harmful bias and misuse of
+AI. Solutions must also address data protection risks arising from
+expanded digital access, particularly in AI systems that process personal
+information at scale.
+Risk Management: Develop frameworks to identify and mitigate risks
+o
+associated with AI. Include a risk management framework that considers
+local socio-economic conditions and technological vulnerabilities.
+Develop data sharing protocols to facilitate seamless yet secure
+Page 53 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+56 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+collaboration between state institutions and private entities, ensuring
+that innovation does not compromise privacy. Apply these protocols in
+electronic government systems and applications also.
+Stage regular scenario-based risk planning for AI systems, as well as
+o
+Regulatory Impact Assessment (RIA). By applying an approach like
+the EU AI Act which categorises AI systems based on risk levels and
+imposes stricter regulations on high-risk applications, South Africa
+would manage potential risks effectively. Develop capacity to research
+specific risks related to South Africa and the continent of Africa. And
+prioritize South African data ownership and protect citizen data when
+dealing with 3rd party vendors.
+Protect children from manipulative AI systems, such as predatory
+o
+advertising, gamified features that encourage excessive screen time,
+and other exploitative practices. AI systems must be prevented from
+exploiting children’s behavioural patterns for commercial gain.
+Strengthen the work of the Information Regulator to counter
+o
+misinformation, disinformation and other harmful online practices. And
+provide as well as capacitate clear technical and legal recourse
+against the use of Deepfakes and Defamatory AI.
+▪ Create an AI Insurance Superfund, modelled after the Road
+Accident Fund, to compensate individuals or entities harmed by
+AI-driven outcomes. This fund would provide a safety net in cases
+where liability is difficult to determine, especially for systems
+operating in ambiguous decision-making spaces.
+▪ Create a National AI Safety Institute, working in concert with
+other similar international bodies in advancing the science of AI
+safety as well as developing, updating and disseminating
+guidelines and playbooks for AI safety. This, as part of a risk and
+mitigation approach to regulation.
+Page 54 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 57
+9.3.2 Strategic Building Block (SBB) 2: Privacy and Data Protection
+Aim: To safeguard personal information and to ensure protection of data in general.
+The national AI policy is aimed at crafting standard data creation and usage
+procedures for the private and public sectors. It aims to enhance the existing data
+protection legislation so that wider measures can be taken. Transparency is one of the
+highlighted aspects regarding the use of AI data, particularly the handling protocol of
+sensitive information. The policy harmonizes AI privacy controls with the Protection of
+Personal Information Act (POPIA) to protect privacy rights of individuals, applying its
+eight conditions strictly. It is also harmonized with laws such as the Cybercrimes Act,
+Consumer Protection Act, and Electronic Communications and Transactions Act.
+Intellectual Property (IP) rights are also given precedence, especially for large
+language models (LLMs), with mandatory watermarking to secure developers' rights.
+To ensure safe cross-border data flows without loss of sovereignty, South Africa
+will put its National Policy on Data and Cloud into action. It will create precise
+parameters for cross-border data flows in the financial sector, e-commerce, logistics,
+and healthcare. Such policies will complement regional ones such as the African
+Continental Free Trade Area (AfCFTA). Research will also be done on how AI
+platforms handle customer data to ensure sufficient remedies when necessary. The
+policy places focus on the application of principles like "data protection by design,"
+accountability, data minimisation, purpose limitation, storage limitation. Safeguarding
+citizens' data in government third-party procurement is imperative in upholding South
+African data sovereignty in public procurement and other areas.
+9.3.2.1 Policy Interventions
+Data Protection and Governance: Strengthen existing data protection
+o
+regulations and create legislation to ensure broader regulatory
+measures. Establish standardized data generation and utilization
+practices across public and private sectors. Align AI privacy measures
+with the Protection of Personal Information Act (POPIA) to safeguard
+individual rights to privacy. Ensure strict enforcement of the Act’s 8
+conditions for lawful processing of data. Emphasize on the application of
+Page 55 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+58 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+data protection principles such as data protection by design and
+default, accountability, data minimisation, purpose limitation and
+storage limitation.
+Data Handling & Transparency: Ensure transparency in AI data usage
+o
+and storage practices. Apply secure data handling protocols for
+process-sensitive information in all critical areas of society and the
+economy. Section 32 of POPIA, for instance, governs the processing of
+health data while upholding confidentiality. Further, this necessitates the
+use of Privacy Impact Assessments. Treat Intellectual Property (IP)
+rights as a critical area for AI governance, particularly regarding the use
+of copyrighted materials to train large language models (LLMs). This
+requires mandatory water-markings to protect the rights of developers,
+as well as fair intellectual property regulation of AI innovation and AI
+creations.
+Connect the AI Policy to existing legislation like the Cybercrimes Act,
+o
+Consumer Protection Act, and the Electronic Communications and
+Transactions Act. And adopt a risk-based privacy approach to prevent
+over-regulation. Conduct research on AI software websites and
+platforms for their management of customer data. Ensure appropriate
+remedies. Protect citizen- and other people’s-data in the case of thirdparty procurement by the South African government. The maintenance
+of South Africans’ data sovereignty in public procurement and
+other areas is essential.
+Facilitate cross-border data transfers in AI data processing by
+o
+implementing the National Policy on Data and Cloud to ensure data
+security and sovereignty – and to prevent perpetuation of colonial-era
+data extraction practices.
+▪ Prioritize the application of clear protocols for global data flows
+for AI applications in sectors like financial services, ecommerce, logistics and health care. Use these mechanisms
+Page 56 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 59
+to give effect to the African Continental Free Trade Area
+(AfCFTA), Southern African Customs Union, Single Digital
+African Market, and AU and SADC protocols.
+9.3.3 Strategic Building Block (SBB) 3: Professional Responsibility
+Aim: To foster responsible AI development and use.
+The policy focuses on the need to develop a code of conduct for AI professionals.
+This is part of wider initiatives to bring AI development and use in line with ethical
+values and principles. The policy also calls for integrating ethics training into
+professional development and learning in AI so that professionals can meet the ethical
+issues arising from their work. There must be a clear definition of an AI professional,
+and whether South Africa needs a specialist professional body for purposes of
+accreditation. This would include making use of existing institutions such as the
+Institute of Directors and the Ethics Institute to create specific ethical standards for
+developers, organizations, and end-users.
+Organizations with AI must be held accountable for the actions of their systems
+through having clear accountability lines. Provisions must be made for handling any
+adverse effects, and lastly, the accountability must be traceable to a specific official or
+organization. This promotes transparency and trust in how organizations manage their
+use of technology. These measures are complemented by South Africa's more
+detailed policy aims towards securing responsible innovation as well as the avoidance
+of unwanted implications from AI technology. Through encouraging professional
+ethical behaviour and business responsibility, South Africa is seeking to provide an
+environment allowing technological change's advantages to be distributed fairly
+throughout society.
+9.3.3.1 Policy Interventions
+Develop a clear definition of an AI professional, including whether
+o
+South Africa should create a dedicated professional body for AI
+accreditation, including for developers, organizations, or end-users.
+Leverage professional bodies such as the Institute of Directors as well
+Page 57 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+60 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+as the Ethics Institute, to develop ethical standards. This is so that the
+training would be tailored for professionals and non-professionals.
+Create the code of conduct for AI professionals. And integrate ethics
+training into AI education and professional development.
+Accountability: Organizations must take responsibility for the outcomes
+o
+of their AI systems. This includes establishing clear lines of
+accountability and mechanisms for addressing any negative impacts.
+This accountability must ultimately point to an attributable official or
+entity.
+9.4 Strategic Pillar (SP) 4: Ethical and Inclusive AI
+9.4.1 Strategic Building Block (SBB) 1: Ethical AI Guidelines
+Development
+Aim: To ensure responsible and ethical development, deployment and use of AI.
+South Africa's approach to AI emphasizes ethical development and deployment,
+focusing on principles such as fairness, transparency, accountability, inclusivity,
+confidentiality, human autonomy, reliability, and accountability. The preservation of
+democracy is a key focus in AI development and deployment to ensure that AI systems
+support democratic values rather than undermine them. A targeted regulatory
+approach is proposed to regulate high-risk AI systems while introducing proportional
+controls based on risk levels. The regulatory framework aims to classify AI systems by
+risk levels and implement strict protections for critical infrastructure like financial
+systems. Guidelines for responsible AI practices will align with human rights principles
+such as privacy and access to information. Sector-specific guidelines are planned for
+industries like law enforcement and healthcare. An independent AI Ethics Board will
+be established to enforce ethical governance regarding bias and fairness. Additionally,
+a National AI Commission/Office will coordinate policy development with input from
+government, industry, and civil society.
+To ensure robust oversight throughout the full lifecycle of AI (design through to
+decommissioning), governance guidelines are being developed. A child-centric ethical
+framework integrating international standards like POPIA will safeguard children's data
+Page 58 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 61
+by minimizing collection and using anonymization techniques. An AI Ombudsperson
+office will allow individuals to challenge decisions made by AI-driven systems. Multiple
+regulatory bodies such as the Information Regulator will play clearly defined roles in
+governing South Africa's use of technology responsibly.
+The adoption of AI in South Africa must remain firmly rooted in human rights and
+social justice. This includes mandatory gender and human rights impact assessments
+for all AI systems, particularly in high-risk domains. Oversight will be strengthened
+through independent certification of high-risk AI applications, with results made
+accessible through public audit reports. Inclusivity is paramount: AI must be harnessed
+to advance disability inclusion by supporting assistive technologies and accessibility
+tools, while child-centric principles should safeguard young people in education
+systems, commerce and online platforms. Together, these measures will entrench
+fairness and inclusivity in the national AI ecosystem.
+9.4.1.1 Policy Interventions
+Ethical Development and Deployment: Make the preservation of
+o
+Democracy a key focus in the development, deployment and use of AI.
+Ensure that AI systems are designed and implemented with ethical
+considerations at the forefront, with a focus on the impact that the AI
+would have on people, addressing issues which include bias, fairness,
+transparency, justification, inclusivity, confidentiality, limitations, human
+autonomy, reliability, and accountability. In defining the approach to
+social equity, the country would emphasize on the ethical
+development and deployment of AI. The principle of nonmaleficence in AI emphasizes the importance of safety and ethical
+considerations in AI development.
+Targeted Regulatory Approach: Identify and regulate high-risk AI
+o
+systems, such as those which control critical infrastructure (e.g.,
+water systems, energy grids, and emergency responses), also consumer
+decision-making systems. Introduce the notion of “proportional controls.”
+A Targeted Regulatory Approach would provide
+Page 59 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+62 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+a nuanced method which distinguishes between the various types of AI
+and their related risks and opportunities. This is because some AIs are
+used for such diverse activities as content generation content,
+classifying, recognition, processing, translation, negotiation, analysis,
+design, editing, detection, recommendation, control, automation,
+modelling, monitoring, navigation, simulation, auditing, prediction, etc.
+▪ A Risk and Opportunities Approach to AI governance and
+regulation should be at the forefront of policy. And incorporate
+global best practice including NIST AI Risk Management
+Framework and ISO/IEC 42001. Emphasize a fair balance
+between policy-level oversight and organizational-level
+compliance to encourage safe and transparent AI adoption.
+Use Technology-Centric Regulation: And focus on applications that
+o
+have the most significant impact on individuals' safety and rights.
+Classify AI systems according to risk levels and have strict protections
+to ensure operational resilience for the country’s financial systems. And
+create guidelines for responsible AI practices, ensuring alignment with
+human rights principles, including the right to privacy and the right of
+access to information as enshrined in the Bill of Rights. Also, initiate
+further and ongoing development of sector-specific guidelines tailored
+to industries such as law enforcement, healthcare and finance.
+▪ Establish an independent AI Ethics Board to enforce ethical
+governance, and for considerations related to bias, privacy, and
+fairness. Incorporate inputs received from companies-based
+ethics boards in ongoing reviews of guidelines.
+▪ Establish a National AI Commission / Office to coordinate
+refinements on policy, implementation and further policy
+development with input from government, industry, and civil
+society due to the rapidly evolving nature of AI development. This
+dedicated, standalone office should coordinate AI
+Page 60 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 63
+implementation, bring together stakeholders, and monitor
+progress (and should be the nerve-centre of the various national
+AI implementation measures).
+▪ Establish an AI Regulatory Authority to monitor compliance,
+perform audits, and issue certifications. Also, to audit AI systems
+for fairness and to conduct gender and human rights impact
+assessments.
+▪ Establish an AI Ombudsperson office to allow affected
+individuals to challenge AI-driven decisions and to receive
+redress.
+Utilize the current institutional frameworks effectively: Establish
+o
+collaboration mechanisms between regulatory bodies with entities
+such as the South African Reserve Bank and Financial Sector
+Contingency Forum to manage AI-related operational risks. This policy
+emphasizes the roles of multiple regulatory bodies whose mandate is
+relevant to the governance of AI in South Africa. These include:
+▪ The Information Regulator
+▪ Independent Communications Authority of South Africa
+▪ Competition Commission of South Africa
+▪ The Department of Environmental Affairs through its
+Environmental Management Inspectorate
+▪ Council for Scientific and Industrial Research.
+Incorporate the full AI lifecycle - from design to deployment,
+o
+maintenance, and decommissioning - into governance guidelines to
+ensure robust oversight. Utilize a mixture of horizontal and vertical
+regulatory approaches because, while AI is systemic and its impacts
+flow across multiple sectors and domains, there is a need for regulations
+which are sector specific.
+Page 61 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+64 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+▪ OPTION: The policy advocates for principles-based regulation
+rather than prescriptive rules to ensure agility.
+▪ OPTION: The policy advocates for guardrails approach to both
+the policy and regulation of AI because of the prevailing resourceconstrained and uncertain environment. Thus, there will be a
+need to define the boundaries in which technology change can be
+executed in a manner that is aligned with organisational strategy,
+risk, architecture, operational and cyber security requirements.
+▪ OPTION: The policy advocates for a Just AI approach, explicitly
+focused on redressing inequalities through equitable access to AI
+opportunities. Integrate second-generation rights (economic
+justice) and third-generation rights (environmental sustainability)
+into AI governance to ensure equity, accountability, and inclusive
+development.
+▪ OPTION: The AI policy could lead to the Development of
+Legislation in sectors where it is appropriate; beyond the
+development of sector strategies and guidelines.
+✓ Legislation could be designed to regulate organisations at
+three technology stack levels: applications, model, and
+infrastructure. And the key would be to create legal
+protections first related to AI at the applications layer,
+where people's safety and rights are most affected.
+To foster adherence to rules and norms, this policy identifies 6 key
+o
+principles of responsible AI:
+▪ Fairness
+▪ Reliability and safety
+▪ Privacy and security
+▪ Inclusiveness
+▪ Transparency
+▪ Accountability.
+Page 62 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 65
+9.4.2 Strategic Building Block (SBB) 2: Fairness and Mitigating Bias
+Aim: To ensure equitable AI deployment.
+AI bias refers to the discriminatory data and algorithms that are inadvertently
+embedded in AI models, leading to biased outcomes at scale. This is distinct from
+intentionally designed biases for specific decision-making purposes. To address this
+issue, South Africa aims to develop methods for identifying and mitigating biases in AI
+systems. Key strategies include ensuring that AI systems are trained on diverse
+datasets representing all demographics. Algorithms should be frequently tested for
+biased outcomes. Significant investments will be made in local data collection to
+develop African-relevant datasets, promoting diverse and inclusive values. Supporting
+localized AI solutions helps address historical socio-economic disparities, enhancing
+South African sovereignty in technology.
+Ethical guidelines will be developed to address dilemmas such as data bias. An
+independent oversight body will conduct certifications of high-stakes AI applications,
+with public access provided to system audits. Mandatory gender and human rights
+impact assessments will also be introduced to identify potential disparities.
+Communities affected by disabilities must be directly involved in discussions about
+relevant AI applications, ensuring their needs are considered during policy formulation.
+Additionally, efforts will focus on enhancing how AI assists individuals with visual,
+aural, learning, or other physical disabilities.
+South Africa’s AI strategy must not only reflect global best practice but also
+safeguard its African identity. This requires alignment with AU Agenda 2063, the AU
+Continental AI Strategy, and G20 frameworks to strengthen coherence and
+international positioning. To promote African sovereignty in the digital era, regional AI
+factories and federated African data platforms should be developed, ensuring shared
+infrastructure and collective resilience. In addition, South Africa would partner in
+building continental cooperation platforms for standards, skills, and R&D, while
+expanding its leadership role in global AI governance through active participation in
+the UN, OECD, UNESCO, and ITU. Equally, the country would prioritise AI
+Page 63 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+66 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+applications that preserve local languages and cultural heritage, affirming its unique
+African contribution to global AI.
+9.4.2.1 Policy Interventions
+(There is a difference between AIs which are designed to make specific
+o
+decisions considering a specific bias which would be legitimately fed into
+them, and AI bias which refers to discriminatory data and algorithms
+which gets incorrectly baked into AI models, resulting in models which
+deploy biases at large scale. The latter are often found in algorithms, the
+data, regulations, use of the systems, and deployment).
+Bias Mitigation: Develop methods to identify and mitigate biases in
+o
+systems using AI. Ensure AI systems are trained on diverse data sets
+representing all demographics. And further test algorithms used on
+relevant applications or outcomes for biased outcomes frequently.
+Introduce mandatory gender and human rights impact assessments
+to address potential disparities in AI applications.
+Make significant investments in local data collection and the
+o
+development of Africa-relevant datasets, ensuring AI systems reflect
+diverse and inclusive values. Support the development of localized AI
+solutions that address historical socio-economic disparities to promote
+South African sovereignty in technology.
+Differentiate between legitimate academic practices such as Text and
+o
+Data Mining (TDM) and AI web scraping. Research and address the
+ethical implications of AI systems in moderating online content,
+particularly in preventing misinformation and disinformation.
+Create an independent oversight body to conduct independent
+o
+certification of high-stakes AI applications and create public access to
+AI system audits. Conduct frequent bias testing of AI systems and
+specify the levels of competence for individuals who would oversee
+high-stakes AI. Develop ethical guidelines to address specific ethical
+Page 64 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 67
+dilemmas associated with AI, such as data bias and AI procurement
+standards for both public and private sectors.
+Enhance the ways by which AI would help people with visual, aural,
+o
+learning and other physical disabilities. Ensure direct involvement
+of communities affected by disabilities in discussions about AI
+applications that could benefit them, ensuring their needs are considered
+in policy formulation. And create child-centric ethical principles – and
+integrate such frameworks as POPIA, EU-GDPR, AU-CAIS, and USCOPPA – in ensuring the correct management of child-data.
+▪ Minimize the collection of data related to children - and use
+techniques like anonymization or pseudonymization to safeguard
+identities.
+9.5 Strategic Pillar (SP) 5: Cultural Preservation and International
+Integration
+9.5.1 Strategic Building Block (SBB) 1: Promotion of Cultural and
+Human Values
+Aim: To align AI development with societal values.
+The policy is built on the creation of value-based AI systems that support human
+flourishing, equality, and environmental care. This approach is aligned with
+international best practices while responding to distinctive socio-economic challenges
+and norms in the nation. It places emphasis on the engagement of stakeholder
+participation centred on inclusive societies participating in the design and deployment
+of AI for ensuring social value alignment. For inclusivity, stakeholder engagement is
+promoted across different phases in the life cycle of AI. Feedback mechanisms are
+embedded in AI applications to offer pathways for updates based on lessons learned.
+Localized ethical standards are offered based on OECD/UNESCO standards to
+reverse past imbalances. Cultural preservation is also encouraged through digitization
+of indigenous languages, arts, music, and literature using AI tools.
+Page 65 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+68 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+AI technologies will be developed to solve rural development challenges,
+supplement the healthcare of unserved areas, and stretch education in indigenous
+languages. Collaborations with tertiary institution-startups are to create products which
+capture the culture of South Africa without diminishing human-centric needs. Ubuntu
+as an African philosophy is the base for the projects through interdependence and the
+sense of community responsibility in the implementation of AI systems to reach the
+greater good while accepting diversity. Along with these objectives, awards and grants
+for projects that advance cultural preservation, social justice, and human well-being
+with AI will be set up. Investigation of language models that facilitate marginalized
+African languages is also a strategic focus area. Public broadcasting organizations'
+content will be made reasonably available to developers without overwhelming these
+sources. Through real-time language translation capabilities in all 12 official languages
+of South Africa using AI tools can bridge communication gaps across the nation.
+Overall, South Africa's strategy envisions not just technological progress but
+socially benevolent convergence of technology with the moral codes of society which
+embodies fairness, transparency and accountability.
+9.5.1.1 Policy Interventions
+Value-Based AI: Develop AI systems that promote human well-being,
+o
+equality, and environmental sustainability. Involve diverse stakeholders
+in the AI policy-making process to ensure alignment with societal values.
+Align with South Africa’s cultural diversity and ethical principles. Develop
+context-specific ethical frameworks and guidelines aligned with
+OECD/UNESCO standards while addressing historical inequalities.
+Launch and create a sustained national effort to curate large, diverse
+o
+datasets in AI-ready formats. Ensure inclusive stakeholder
+participation from diverse communities in the design and deployment
+of AI systems. Prioritize data availability by taking measures to make
+available large data sets from public sources for the training of AI
+models.
+Page 66 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 69
+To ensure effective promotion of cultural values, broaden stakeholder
+o
+engagement beyond policy to include key areas across the AI
+lifecycle. This means including people in the integration and transition
+to AI-powered services by incorporating feedback mechanisms into AI
+applications – to provide update mechanisms based on lessons learned.
+Develop AI tools to digitize and preserve indigenous languages, art,
+music, and literature. Embed AI heritage preservation as a priority.
+Leverage AI for real-time language translation to overcome
+o
+communication barriers across the country’s 12 official languages. And
+collaborate with tertiary institutions and startups to create AI tools that
+reflect South Africa’s cultural heritage and human-centred needs.
+Also promote the development of AI solutions to address rural
+development, improve healthcare in underserved regions, and enhance
+education in local languages.
+Ubuntu as a beacon and a lens: The African philosophy on
+o
+interdependence, community, and shared responsibility, provides the
+guide for AI policy in respect for human dignity, fairness, and social
+equity. In that way, AI systems would bring benefits to society at large
+while ensuring that ethical considerations such as transparency,
+reduction of bias, and accountability are at the core. As a result, AI
+should serve the common good, respect diversity, and promote the wellbeing of all.
+Support research into language models which support underserved
+o
+African languages as a strategic and cultural imperative. Make it
+reasonably easy for developers of models to access content which is
+held by the public broadcast entities as well as other public
+sources, without burdening these entities and sources. And establish
+awards and grants to support AI initiatives that advance cultural and
+heritage preservation, social equality, and human well-being.
+Page 67 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+70 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+9.5.2 Strategic Building Block (SBB) 2: Global Collaboration and
+Competitiveness
+Aim: To position South Africa as a regional AI leader.
+South Africa would build AI research facilities and partnerships with sub-Saharan
+and other continental partners. This involves the creation of several AI hubs in South
+Africa, such as those at the University of Johannesburg (UJ), Tshwane University of
+Technology (TUT), Central University of Technology (CUT), and a military-focused
+hub at Stellenbosch University. These hubs will enable innovation in industries such
+as agriculture, healthcare, finance, and defence. The policy is in alignment with global
+frameworks like the UN's Global Digital Compact and Governing AI for Humanity
+efforts. The vision is to harmonize governance structures based on international best
+practices and make systems interoperable and supply cross-border data flows.
+Benchmarking with international frameworks like the EU's GDPR for data protection
+standards is included.
+Public-private partnerships are key to the facilitation of AI innovation globally. South
+Africa would collaborate with other nations regarding data sharing as well as
+computation power to accelerate regional development. There is a focus on also
+ensuring that wages for local labour in the AI sector employed by foreign companies
+are reasonable through affirmative action by the government. A Data Justice strategy
+is being proposed as a model for AI regulation, with an emphasis on economic and
+environmental impact and human rights. This would entail using similar principles to
+the European Union's Digital Services Act by making platform distributors perform risk
+assessments and report separately on their performance.
+By combining these strategies in its national policy, South Africa hopes to drive
+maximum international collaborations while defending local interests amid an evolving
+digital economy landscape.
+9.5.2.1 Policy Interventions
+Foster AI research hubs and international collaborations with subo
+Saharan and other continental partners. Create partnerships to
+facilitate the sharing of data and computing resources, ensuring that
+Page 68 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 71
+AI development benefits the region. Promote AI innovation through
+public-private partnerships and global alliances. Because the purpose
+is to integrate AI into the economy, government would rely on private
+and public entities (locally and abroad) in the development, usage
+and advancement of AI systems – and in obtaining feedback which
+could lead to new iterations of policy, regulations and regulatory
+approaches for realising the objective of this Policy.
+Operate in concert with the UN’s Global Digital Compact and
+o
+Governing AI for Humanity initiatives. Regulation would be aligned with
+international standards (such as the EU’s GDPR – as a model) through
+smart implementation techniques. Apply the provisions of the European
+Union’s Digital Services Act which puts the onus on platform
+distributors to conduct risk assessments, develop mitigations, and report
+on their related performance for an independent audit.
+Align and harmonize governance structures with global standards
+o
+and Africa-wide strategies (including AU’s Digital Transformation
+Strategy, Continental AI Strategy, African Continental Free Trade
+Area, AU Agenda 2063, among others). This would help with
+interoperability of systems and cross-border data flows. This alignment
+and harmonization should be kept agile (the local standards as
+benchmarked against global standards should be reasonably
+considered legal and enforceable, even as they change internationally).
+Encourage partnerships to develop federated African cloud / data
+platforms to enable shared AI resources across Africa for sovereignty
+and resilience.
+Adopt a Data Justice approach, which accounts for economic and
+o
+environmental impacts as a possible framework for AI governance. This
+approach requires that as much as local players are bound by local rules,
+also the multinationals (who are often not subject to local taxation) would
+be subject to specific rules related to first, second, third and other
+generation rights violations. Ensure equitable wages for South African
+Page 69 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+72 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+workers in the AI sector who work for foreign / multinational employers.
+This requires government to take an active role to protect the rights of
+virtual and digital workers across the AI value chain, ensuring fair
+compensation, psychological care and fostering labour regulations that
+reflect the evolving nature of work in the digital economy.
+Review the trade and investment cooperation frameworks to ensure
+o
+that AI contributes to new market opportunities, facilitates cross-border
+innovation, and strengthens Africa’s collective competitiveness.
+Investment in AI-related infrastructure will be pursued to reinforce South
+Africa’s position as a hub for AI-driven trade, industrial development, and
+consumer protection.
+9.6 Strategic Pillar (SP) 6: Human-Centred Deployment
+9.6.1 Strategic Building Block (SBB) 1: Human Control of Technology
+(Human-Centred Approach in AI Systems)
+Aim: To maintain human oversight over AI.
+The AI policy is focused on incorporating human control [Human-in-the-Loop
+(HITL)] into key decision-making processes of AI, especially in Generative AI. The
+strategy employs reinforcement learning with human feedback (RLHF) so that AI
+systems are aligned with ethical requirements and societal norms. Through
+embedding human inputs into every aspect of AI system development, South Africa
+seeks to develop more transparent, accountable, and ethically sound AI applications.
+HITL has human intervention at every stage of development of the AI system, right
+from data labelling to model validation and continuous feedback loops. There needs
+to be predetermined points of human intervention even in riskiest areas to maintain
+security and liability. Safety-critical systems need to utilize inherent safety features that
+put the systems into under-human-command state always, avoiding unintended
+effects by virtue of completely autonomous decision-making. Decision-making
+architectures place greater importance on human judgment than AI-generated
+decisions, particularly in essential government functions where responsibility is
+essential.
+Page 70 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 73
+Ethical concerns form the core of HITL systems. Human Rights Impact
+Assessments will regularly be performed on AI systems to analyse their effects on
+society. The non-maleficence principle: do no harm, is central to steering the
+development and application of safe and positive AI technologies for individuals and
+society. Through the incorporation of these components into HITL systems, South
+Africa aims to develop more ethical, transparent, and accountable AI solutions in
+different industries. Not only does this build greater trust among citizens but also
+serves the country's overall objective of using technology to drive economic
+development without subjecting itself to potential risks of its application.
+Constitutional values and public interest must always guide AI deployment. This
+entails conducting Human Rights Impact Assessments in all public-sector AI
+deployments, ensuring that rights are respected at every stage of design and
+implementation. Citizens would be central to deployment, with participatory design and
+engagement mechanisms embedded in government AI systems. To reinforce
+accountability, transparency standards such as explainability and traceability would be
+mandatory in public-facing applications. South Africa would also leverage public–
+private partnerships to digitise government records and services, ensuring resilience
+and efficiency. Finally, priority would be given to AI applications that directly improve
+service delivery in critical domains such as health, education, agriculture, industry,
+public safety and justice.
+9.6.1.1 Policy Interventions
+Human-in-the-Loop Systems (HITL): Ensure that critical AI decisions
+o
+involve human oversight (especially in Generative AI). This includes the
+use of reinforcement learning with human feedback (RLHF). Apply the
+Human-in-the-Loop approach, ensuring oversight at all development
+stages. With specific thresholds for human intervention, even for highrisk areas.
+Develop frameworks for AI decision-making that prioritize human
+o
+judgment. AI should not replace human decision-making, particularly in
+critical government functions. Critical systems should include built-in
+Page 71 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+74 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+safety brakes and remain under human control always. Ensure that
+consumers have the option to engage with humans instead of AI
+systems where feasible.
+Apply the principle of non-maleficence whereby AI should not harm
+o
+individuals, society, or the environment. And conduct Human Rights
+Impact Assessments on AI systems, including all government-related
+systems. Further, conduct regular study of acceptable thresholds for
+the application of human oversight and intervention, publish and update
+accordingly.
+9.6.2 Strategic Building Block (SBB) 2: Transparency & Sufficient
+Explainability
+Aim: To build public trust in AI (using AI within wider systems that are responsible
+and accountable to the public)
+The national AI policy focuses on the creation of explainable AI systems that deliver
+clear, interpretable outputs. This is important for trust and acceptance by users,
+especially in high-risk applications such as credit scoring. By making decisions by AI
+systems comprehensible and contestable, trust and accountability are improved, and
+developers are made accountable for their results. Explainability allows one to
+understand how and why an AI arrives at a decision, creating the platform through
+which decisions made by AI can be challenged by stakeholders in the appropriate
+forums. Risk-based specifications make developers accountable without unfairly
+burdening lower-risk applications. Mechanisms must be established through which
+citizens may grasp high-risk systems without overwhelming less mission-critical ones.
+Knowing how high-risk AI algorithms operate enables the detection and prevention
+of biases. This includes ensuring transparency by employing strategies such as
+POPIA's Section 71 on automated decision-making. Routine algorithm impact
+assessments enable impacts on society to be assessed while advancing algorithmic
+transparency. Transparency is defined as the public operation of AI systems, where
+processes are visible to users. Governance frameworks must ensure transparency
+Page 72 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 75
+through offering visibility of model operation and possible effects. Foreign suppliers
+must be aligned with local accountability, with institutions obligated to inform
+individuals when affected by AI decision-making.
+Public campaigns shall make citizens more aware of AI technology implications.
+Research will also address ethical implications in the scenario of content moderation
+by AI to curb misinformation.
+9.6.2.1 Policy Interventions
+Sufficiently Explainable AI: Promote the development of systems
+o
+around AI that provide clear, understandable outputs (related to the
+ability to understand and interpret how AI systems arrive at their
+decisions or conclusions). Use the principle of “sufficient
+explainability.”
+▪ Trust and Acceptance: Users and stakeholders are more likely
+to trust and accept AI systems, especially in high-stakes
+applications, such as credit scoring, if they can understand
+how decisions are made. While trust and acceptance are high
+ideals, it will be important to create an environment where users
+and stakeholders are able to challenge decisions made using AI
+systems through appropriate fora. AI systems must include
+mechanisms for citizen understanding and trust, especially
+regarding high-risk systems. This would be done without imposing
+an unnecessary burden on less risky applications. Ensure that
+citizens have information on how to check and verify the criteria
+listed by AI tools organisations.
+▪ Bias Detection and Mitigation: Take appropriate measures for
+detecting and mitigating, because understanding how high-risk
+AI algorithms make decisions allows for the detection and
+mitigation of biases that could have significant consequences.
+Page 73 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+76 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+Biases can unintentionally be amplified in AI systems due to
+skewed training data or inherent biases in algorithms.
+▪ Accountability: Risk-based requirements for explainability
+enables and mandates developers and organizations to be
+accountable for the actions and outcomes of organisation
+systems including AI. Accountability is mandatory.
+OPTION: A clear licensing requirement (with standards
+o
+bodies) for the deployment of high-risk AI applications.
+▪ AI developers must provide clear, understandable outputs for
+affected individuals, ensuring that automated decisions are
+lawful, fair and challengeable. Automated systems must allow
+affected individuals to understand how decisions are made
+and challenge unfavourable outcomes.
+Sufficient Transparency: This refers to the clear and open operation of
+o
+AI systems, ensuring that their processes, decision-making criteria, and
+outcomes are understandable and accessible to users and
+stakeholders, including insights into model functionality, data usage,
+decision logic, and potential impacts. Increase transparency through
+governance systems and ensuring publicly available information. Use
+the principle of “sufficient transparency.”
+▪ Because advanced and sensitive systems may have less
+transparent decision-making processes (i.e., “black box”
+scenarios), South Africa should carefully select use cases
+which require regulatory oversight (and not reject every
+system which does not have transparent processes). Implement
+frequent algorithm impact assessments and algorithmic bias
+testing to evaluate the societal effects of AI systems. Facilitate
+appropriate levels of algorithm transparency. Educate the public
+on AI technologies and their implications. Explainable AI provides
+insights into how models behave in different scenarios, which can
+Page 74 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 77
+lead to improvements in model performance, efficiency, and
+usability.
+▪ Require foreign-based AI providers and systems to meet local
+accountability standards. Require organizations to provide
+plain language notifications to individuals when AI systems
+impact them. Apply POPIA’s Section 71 on automated decisionmaking as a useful tool for ensuring explainability and
+transparency. Link this policy to the Copyright Amendment Bill
+/ Act.
+9.6.3 Strategic Building Block (SBB) 3: Public Sector Implementation
+Aim: To enhance government efficiency through AI.
+South Africa will embrace AI in public administration for the sake of maximizing
+state governance and delivery of services. The use of AI tools such as planning tools,
+predictive analytics, and chatbots is employed for efficiency enhancement. Pilot testing
+AI policies and guidelines to create risks prior to extending them across all is in the
+plan. Ethical directives in the implementation of AI are key to ensuring public officials
+learn about how to use these technologies. A whole-of-government strategy is
+recommended, based on values such as Batho Pele, consistent with current legislation
+that applies to the public service. Rewards will be given for exploration of distinctive
+public-sector issues. Continuous AI Maturity Assessment Indexing will be utilized to
+track developments. Openness of AI acquisition is highlighted, with bias stress-testing
+and emphasis on explainability and accountability within public-sector systems.
+AI shall be the key factor to facilitate alignment of value creation within the
+government ministries through data-driven policymaking in asset redistribution, capital
+mobilization for all, optimized supply chain performance for MSMEs, and intelligent
+land allocation. Pilot applications will be introduced in healthcare (diagnosis by
+prediction), education (individual learning platforms), urban planning (intelligent traffic
+management), and national security. Citizen participation platforms will be created for
+receiving feedback on public service deployment of AI.
+Page 75 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+78 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+9.6.3.1 Policy Interventions
+Utilize public administration in an entrepreneurial manner to test
+o
+and pilot the use of AI for purposes of transitioning society towards techreadiness. Also, for pilot testing of AI policies and frameworks to identify
+risks and refine strategies before widescale adoption. Utilize a Wholeof-Government Approach, guided by principles such as Batho Pele
+and tethered to all other laws and regulations which govern the public
+service. The design and deployment of AI in the public service must
+exhibit the principles of Batho Pele.
+AI in Administration: Implement AI in accountable and traceable
+o
+systems to optimize state management and service delivery. This
+includes the use of chatbots, predictive analytics and planning tools
+based on AI. Incentivise AI research aimed at addressing unique
+public-sector challenges and creating targeted solutions. Treat
+behaviour-change and digitalisation as essential sub-pillars – as
+part of the implementation of AI in the public sector. Deploy and apply AI
+to play a critical role in coordinating public value creation across
+government, public and private sectors.
+Establish a National AI Social Compact for Human-Centred AI
+o
+addressing socio-economic repercussions: Enhance public sector
+digital capacity development – including human capital development,
+data sovereignty measures, infrastructure, local manufacturing, local
+development, ethical development, deployment and usage. Also enable
+public institutions and employees to actively ensure AI and digital
+readiness at every level of society.
+Guidelines and Standards: Develop guidelines for ethical and effective
+o
+AI deployment in government operations. Ensure training of public
+servants in the usage of AI. Foster public transparency regarding AI
+procurement and stress-testing for bias, holding public-sector AI
+systems to a higher standard of explainability and accountability.
+Page 76 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 79
+Engage citizens actively in shaping public-sector AI systems. And
+introduce and fund regular AI Maturity Assessment Indexing.
+In pursuit of the objectives of the country, use AI for the effective
+o
+distribution of productive assets – including driving efficiency through
+(and for):
+▪ Data-Driven Policy for Asset Redistribution
+▪ Democratizing Access to Capital
+▪ Smart Land and Resource Allocation
+▪ AI-Enabled Skills Development
+▪ Optimizing Supply Chains for Small Businesses
+▪ AI for Cooperative-Based Production Models, and
+▪ Automated Legal & Administrative Support
+Create integrated, data-powered infrastructure, centres and systems
+o
+for monitoring and increasing the efficiency levels of all service
+delivery (and related) touchpoints in each sector of government and
+society. Launch pilot projects in key areas such as healthcare (e.g.,
+predictive diagnostics), education (e.g., personalised learning tools), and
+urban planning (e.g., smart traffic management). Establish platforms for
+community input and feedback on AI applications in public services to
+build trust and ensure alignment with societal needs.
+Page 77 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+80 No. 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+10. Conclusion
+This policy's vision is of AI for inclusive economic growth, job creation, cost reduction,
+and a developing Africa. Therefore, as the policy leads to sector-based strategies, every
+sector must express measurable targets assigned to responsible institutions, with a
+linked budget.
+This policy represents a strategic blueprint aimed at harnessing AI technologies to
+propel the country's economic growth, technological advancement, and societal wellbeing. Emphasizing ethical development, the policy prioritizes the responsible
+deployment of AI that aligns with South Africa's values and priorities. By focusing on
+ethical guidelines, the policy aims to ensure that AI systems are developed and
+implemented with considerations for fairness, accountability, transparency, and
+inclusivity. This approach not only fosters trust among citizens and stakeholders but
+also mitigates potential risks such as bias and discrimination in AI applications. This
+policy lays a foundation upon which various sectors may develop their own
+implementation strategies.
+In addition to ethical considerations, the policy outlines key pillars such as robust data
+governance frameworks, infrastructure enhancement, and significant investments in
+research and innovation. These pillars are crucial for creating an enabling environment
+where AI technologies can thrive and contribute meaningfully to sectors such as
+healthcare, agriculture, education, and public safety. By promoting human-centric AI
+solutions, the policy aims to prioritize the needs and well-being of South Africans,
+ensuring that AI advancements lead to tangible improvements in quality of life and
+societal progress. Overall, the policy lays the groundwork for South Africa to emerge
+as a leader in AI innovation while addressing challenges and opportunities in a holistic
+and sustainable manner.
+Page 78 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 81
+11. References
+1. Academy of Science of South Africa. (2024). Inputs to the South Africa National
+Artificial Intelligence Policy Framework
+2. Acemoglu, D. & Restrepo, R. (2018). Artificial Intelligence, Automation and
+Work. National Bureau of Economic Research.
+https://www.nber.org/system/files/working_papers/w24196/w24196.pdf
+3. Arias, C.R. (2022). An Introduction to Artificial Intelligence. SPU Works. 173.
+https://digitalcommons.spu.edu/works/173
+4. Association for Savings and Investment South Africa. (2024). Inputs to the
+South Africa National Artificial Intelligence Policy Framework
+5. Babatunde, O., & Mnguni, P. (2023). "Challenges and Opportunities in
+Regulating AI: Perspectives from South Africa." AI Policy Journal, 2(3), 143156.
+6. Banking Association of South Africa. (2024). Inputs to the South Africa National
+Artificial Intelligence Policy Framework
+7. Bowmans South Africa. (2024). "South Africa’s AI Policy Framework and
+Regulatory Considerations." Business Day.
+8. Brynjolfsson, E. & McAfee, A. (2017). The Business of Artificial Intelligence.
+https://hbr.org/2017/07/the-business-of-artificial-intelligence
+9. Burman, A., & Sewpersadh, K. (2022). "Legal Frameworks for AI in South
+Africa: Balancing Innovation and Accountability." South African Journal of
+Philosophy, 41(2), 207-217.
+10. Cavaliere, F., McGregor, R., & Hersh, M. (2022). "Artificial Intelligence and
+Ethics in Emerging Economies: The Case of South Africa." AI & Society, 37(4),
+565-583.
+Page 79 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+82 No . 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+11. Centre for AI Research. (2024). Inputs to the South Africa National Artificial
+Intelligence Policy Framework
+12. City of Cape Town. (2024). Inputs to the South Africa National Artificial
+Intelligence Policy Framework
+13. Clickatell. (2024). Inputs to the South Africa National Artificial Intelligence Policy
+Framework
+14. Department of Trade, Industry and Competition. (2025). Inputs to the South
+Africa National Artificial Intelligence Policy Framework
+15. Engage to Inspire International. (2024). Inputs to the South Africa National
+Artificial Intelligence Policy Framework
+16. El Hadi, M. M. (2023). Artificial Intelligence Background, Definitions, Challenges
+and Benefits.
+https://jstc.journals.ekb.eg/article_297957_18c63823bf45bdd85ffd54bf0dafa8f
+5.pdf
+17. Ernst & Young. (2024). Inputs to the South Africa National Artificial Intelligence
+Policy Framework
+18. ESKOM. (2024). Inputs to the South Africa National Artificial Intelligence Policy
+Framework
+19. Etale, A. E., & Naidoo, P. (2021). "Accountability and Transparency in African
+AI Policies: Lessons from South Africa." African Journal of Public Affairs, 9(1),
+39-52.
+20. European Commission. (2020). White Paper on Artificial Intelligence - A
+European approach to excellence and trust. Retrieved from https://ec.europa.eu
+Page 80 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 83
+21. Fairbridges Wertheim Becker. (2024). "AI in the Rainbow Nation: South Africa’s
+Evolving Policy Arc."
+22. Fourie, I., & Botha, A. (2021). "AI Ethics in South Africa: Implications for Trust
+and Fairness in AI." African Journal of Science, Technology, Innovation and
+Development, 13(5), 677-688.
+23. Global Policy Partners. (2024). Inputs to the South Africa National Artificial
+Intelligence Policy Framework
+24. Goodfellow, I., Yoshua, B., & Aaron, C. (2017). Machine Learning Basics.
+https://www.deeplearningbook.org/contents/ml.html
+25. GSM Association. (2024). Inputs to the South Africa National Artificial
+Intelligence Policy Framework
+26. Huawei Technologies South Africa. (2024). Inputs to the South Africa National
+Artificial Intelligence Policy Framework
+27. Human Rights Watch. (2022). "Artificial Intelligence and Human Rights in
+Africa." IT-Online. (2024). "South Africa’s AI Policy Framework and Ethical
+Imperatives."
+28. Information Regulator of South Africa. (2024). Inputs to the South Africa
+National Artificial Intelligence Policy Framework
+29. Inayatullah, S. (2023). The Futures Triangle: Origins and Iterations. World
+Futures Review, 15(2-4), 112-121.
+https://doi.org/10.1177/19467567231203162
+30. ISO/IEC 20546:2019. Information technology — Artificial intelligence —
+Concepts and terminology. International Organization for Standardization
+Page 81 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+84 No . 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+31. Janiesch, C., Zschech, P., & Heinrich, K. (2021). Machine Learning and Deep
+Learning. Electronic Markets. 31. 10.1007/s12525-021-00475-2.
+32. Jayanth, A. B., Harish, R. D. S., & Binoy, N. (2017). Machine Learning
+Approaches to Electricity Consumption Forecasting in Automated Metering
+Infrastructure (AMI) Systems: An Empirical Study. 254-263. 10.1007/978-3319-57264-2_26.
+33. Karr, V., & Smith, L. (2023). "Digital Rights and AI Governance in Africa: A
+Focus on Ethical and Legal Challenges." Journal of African Law, 67(1), 95-108.
+34. Kaspersky. (2024). Inputs to the South Africa National Artificial Intelligence
+Policy Framework
+35. Kostin, K. B. (2018). Foresight of the Global Digital Trends. Strategic
+Management. 23(1), pp11–19. DOI: 10.5937/StraMan1801011K
+36. Law Innovation Technology Tomorrow Institute. (2024). Inputs to the South
+Africa National Artificial Intelligence Policy Framework
+37. LeCun, Y., Bengio, Y. & Hinton, G. (2015). Deep learning. Nature 521, pp 436–
+444. https://doi.org/10.1038/nature14539
+38. Leijnen, S. & van Veen, F. (2020). The Neural Network Zoo. Proceedings 2020,
+47(1), 9; https://doi.org/10.3390/proceedings2020047009
+39. Madani, A., Arnaout, R., Mofrad, M. et al. (2018). Fast and Accurate View
+Classification of Echocardiograms Using Deep Learning. Digital Med 1(6).
+https://doi.org/10.1038/s41746-017-0013-1
+40. Manyika, V. J., Chui, M., Bisson, Merimadi, M., Bughin, J., George, K. Willmott,
+P., & Dewhurst, M. (2017). A Future that Works: Automation, Employment, and
+Productivity. McKinsey Global Institute. https://www.mckinsey.com/featuredPage 82 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT,10 ApRil 2026 No. 54477 85
+insights/digital-disruption/harnessing-automation-for-a-future-that-works/deDE#/
+41. Microsoft SA. (2024). Inputs to the South Africa National Artificial Intelligence
+Policy Framework
+42. Mohammad, S.M. (2020). Artificial Intelligence in Information Technology.
+International Journal of Innovations in Engineering Research and Technology
+[IJIERT]. ISSN: 2394-3696. Vol 7(6). 2020.
+43. Naidoo, K. (2020). Innovation, Digital Platform Technologies and Employment:
+An Overview of Key Issues and Emerging Trends in South Africa. SCIS Working
+Paper | Number 9.
+https://wiredspace.wits.ac.za/server/api/core/bitstreams/3261074e-310b4913-ab88-48e8fb213712/content
+44. National Advisory Council on Innovations. (2025). Recommendations Towards
+the Development of a National Artificial Intelligence Strategy for South Africa.
+Department of Science, Technology and Innovation
+45. NXCA Network. (2024). Inputs to the South Africa National Artificial Intelligence
+Policy Framework
+46. Organisation for Economic Co-operation and Development (OECD). (n.d.).
+Human centred values and principles for artificial intelligence. Retrieved from
+https://www.oecd.org
+47. Organisation for Economic Co-operation and Development (OECD). (2019).
+OECD Principles on Artificial Intelligence. Retrieved from https://www.oecd.org.
+48. Organization for Economic Cooperation and Development. (2020). Artificial
+Intelligence: How can we ensure that AI benefits society as a whole?
+https://www.oecd.org/digital/artificial-intelligence/
+Page 83 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+86 No . 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+49. Phamane, N. (2024). Inputs to the South Africa National Artificial Intelligence
+Policy Framework
+50. Pienaar, H. (2024). Inputs to the South Africa National Artificial Intelligence
+Policy Framework
+51. Presidential Commission on Fourth Industrial Revolution. (2020). The
+Diagnostic Report. https://www.gov.za/documents/report-presidentialcommission-4th-industrial-revolution-23-oct-2020-0000
+52. Pretorius, D., Ongeso, J. P., Franklyn, C., & Valodia, A. (2024). "Deep Dive into
+South Africa’s AI Policy Framework." IT-Online.
+53. Rudin, C. (2019). Stop Explaining Black Box Machine Learning Models for High
+Stakes Decisions and Use Interpretable Models Instead. Nat Mach Intell 1, pp
+206–215. https://doi.org/10.1038/s42256-019-0048-x
+54. Russel, S. & Norvig, P. (2021). Artificial Intelligence: A Modern Approach. Third
+Edition. Prentice Hall Series.
+55. Scholarly Horizon. (2024). Inputs to the South Africa National Artificial
+Intelligence Policy Framework
+56. Smith, M., & Mahomed, R. (2021). "The Impact of AI on Social Justice in South
+Africa." Journal of Ethics and Social Philosophy, 18(3), 313-329.
+57. Shrestha, P. (2021). Application of Machine Learning and Deep Learning
+Techniques for Nepal Stock Market Price Prediction.
+10.13140/RG.2.2.11794.38085.
+https://www.researchgate.net/publication/353634645_Application_of_Machine
+_Learning_and_Deep_Learning_Techniques_for_Nepal_stock_market_price_
+prediction/citation/download
+Page 84 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+STAATSKOERANT, 10 ApRil 2026 No. 54477 87
+58. South African Insurance Association. (2024). Inputs to the South Africa National
+Artificial Intelligence Policy Framework
+59. Tech Hive Advisory Africa. (2024). Inputs to the South Africa National Artificial
+Intelligence Policy Framework
+60. TechJins. (2024). Inputs to the South Africa National Artificial Intelligence Policy
+Framework
+61. The Ethics Institute. (2024). Inputs to the South Africa National Artificial
+Intelligence Policy Framework
+62. United Nations. (2023). Generative Artificial Intelligence: What it is, What it is
+not and What it can be for the United Nations. https://www.un.org/en/unchronicle/generative-artificial-intelligence-what-it-what-it-not-and-what-it-canbe-united
+63. University of Pretoria Centre for Child Law. (2024). Inputs to the South Africa
+National Artificial Intelligence Policy Framework
+64. University of the Western Cape IT Society. (2024). Inputs to the South Africa
+National Artificial Intelligence Policy Framework
+65. Walstra, K. (2024). Inputs to the South Africa National Artificial Intelligence
+Policy Framework
+66. World Bank. (2023). Artificial Intelligence in the Public Sector.
+https://documents1.worldbank.org/curated/en/746721616045333426/pdf/Artifi
+cial-Intelligence-in-the-Public-Sector-Summary-Note.pdf
+67. Zhang, L., Wang, S. & Liu, B. (2018). Deep Learning for Sentiment Analysis: A
+Survey. Wiley Interdisciplinary Reviews: Data Mining and Knowledge
+Discovery. 8. 10.1002/widm.1253.
+Page 85 of 86
+This gazette is also available free online at www.gpwonline.co.za
+
+88 No . 54477 GOVERNMENT GAZETTE, 10 ApRil 2026
+https://www.researchgate.net/publication/322694910_Deep_Learning_for_Se
+ntiment_Analysis_A_Survey
+Page 86 of 86
+This gazette is also available free online at www.gpwonline.co.za

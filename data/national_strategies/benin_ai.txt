@@ -1,0 +1,2492 @@
+The process of developing Benin’s National Artificial Intelligence and Big Data Strategy
+(SNIAM) was headed up by the Ministry of Digital Affairs and Digitalization, in an approach
+involving all the stakeholders and following a holistic approach focused on technological
+solutions suited specifically to our country’s needs, particularly in the fields of education,
+healthcare, agriculture, living conditions, tourism, and on the understanding of the use
+cases applicable to the Beninese context. The SNIAM was adopted by the Ministerial
+Council in its session of January 18, 2023.
+Guided by the vision of establishing a 2027 target for making Benin a country that can
+boast, amongst other things, the use of its big data by means of artificial intelligence
+systems and technologies and the development of the associated skills, it comprises four
+programs that can be rolled out in three phases spread over five years, with a portfolio
+containing one hundred and twenty-three (123) actions impacting both the public and
+the private sectors.
+The adoption of this strategy positions Benin as a country capable of seizing current
+and future opportunities related to artificial intelligence and the processing of big data,
+making it even more attractive for all types of investments, especially from the private
+sector and development partners.
+
+CONTENTS
+LIST OF TABLES ..................................................................................................................4
+LIST OF FIGURES ................................................................................................................4
+LIST OF ACRONYMS AND ABBREVIATIONS ..............................................................5
+INTRODUCTION ..................................................................................................................8
+BACKGROUND .......................................................................................................................................9
+RATIONALE AND AMBITIONS .......................................................................................................9
+1. FORMULATION OF THE STRATEGIC FRAMEWORK ...........................................10
+1.1. FOUNDATION AND PRINCIPLES ...................................................................................11
+1.2. VISION ..........................................................................................................................................13
+1.3. THEORY OF CHANGE ..........................................................................................................13
+1.4. STRATEGIC DIRECTIONS, STRATEGIC OBJECTIVES AND PROGRAMS .......
+........................................................................................................................................................................15
+2. PROGRAMMATIC FRAMEWORK .............................................................................20
+2.1. COHERENCE TABLE BETWEEN THE STRATEGIC FRAMEWORK AND THE
+PROGRAMMATIC FRAMEWORK ................................................................................................21
+2.2. ACTION PLAN .........................................................................................................................23
+3. FINANCING AND RESOURCE MOBILIZATION MECHANISM .............................39
+3.1. FINANCING MECHANISM ................................................................................................40
+3.2. RESOURCE MOBILIZATION FOR STRATEGY IMPLEMENTATION .............40
+4. IMPLEMENTATION MODALITIES .............................................................................41
+4.1. IMPLEMENTATION MECHANISM ................................................................................42
+4.2. MECANISMES D’EVALUATION ......................................................................................44
+4.3. ACTIVITIES AND PERFORMANCE MEASUREMENT FRAMEWORK ..........44
+4.4. ACCOMPANYING MEASURES ........................................................................................45
+4.5. RISK ANALYSIS AND CONDITIONS FOR SUCCESS ...........................................45
+5. CONCLUSION ................................................................................................................46
+6. APPENDICES .................................................................................................................49
+6.1. APPENDIX 1 : REFERENCES .............................................................................................50
+6.2. APPENDIX 2: LISTS OF USE CASES ..............................................................................51
+6.3. APPENDIX 3: IA AS A SERVICE .......................................................................................63
+6.4. APPENDIX 4: COLLECTION AND PROCESSING CHAIN ...................................66
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 3
+
+LIST OF TABLES
+Table 9 : Table showing coherence between strategic guidelines and objectives .............................15
+Table 10 : Programmatic framework ..................................................................................................................................22
+Table 14 : Supporting measures ..........................................................................................................................................45
+LIST OF FIGURES
+Figure 5 : Theory of Change ...........................................................................................................................................14
+Figure 6 : Principle of the collection and processing chain ....................................................................36
+Figure 7 : Block diagram of the big data management system .................................................37
+4 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+LIST OF ACRONYMS AND ABBREVIATIONS
+ACE Africa Coast to Europe
+ADN Agence du Développement du Numérique
+AFNOR L’Association Française de Normalisation
+AIDP Analyse d’impact relative à la protection des Data
+ANIP Agence Nationale d’Identification des Personnes
+ANSI American National Standards Institute
+ANSSI Agence Nationale de la Sécurité des Systèmes d’Information
+APDP Autorité de Protection des Data à caractère Personnel
+ASSI Agence des Services et Systèmes d’Information
+ASIN Agence des Systèmes d’Information et du Numérique
+BAD Banque Africaine de Développement
+BCEAO Banque Centrale des États de l’Afrique de l’Ouest
+CEDEAO Communauté Economique des Etats de l’Afrique de l’Ouest
+CNSR Caisse Nationale de Sécurité Sociale
+CNUCED Conférence des Nations Unies sur le Commerce et le Développement
+CTA Centre Technique de Coopération Agricole et Rurale
+DCN Data Center National
+DGI Direction Générale des Impôts
+DHIS District Health Information Software
+DMIA Délégation Interministérielle de l’Intelligence Artificielle
+AIPD Analyse d’Impact pour la Protection des Data
+FAEN Fonds d’Appui à l’Entrepreneuriat Numérique
+FAI Fournisseur d’Accès Internet
+FAO Organisation pour l’Alimentation et l’Agriculture
+FMI Fonds Monétaire International
+GIZ Gesellschaft für Internationale Zusammenarbeit
+GPAI Global Partnership on Artificial Intelligence
+IA Intelligence Artificielle
+IDI Indice de Développement des TIC
+IFRI Institut de Formation et de Recherche en Informatique
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 5
+
+IFU Identifiant Fiscal Unique
+IMSP Institut Supérieur de Mathématiques et de Sciences Physiques
+INRAB Institut de Recherche d’Agronomie Béninoise
+INSAE Institut National de la Statistique et de l’Analyse Économique
+IP Internet Protocol
+LEARN Levier d’Apprentissage pour la Reconversion dans le Numérique
+LOLF Loi Organique relative à la Loi de Finances
+MCC Millennium Challenge Corporation
+MEF Ministère de l’Economie et des Finances
+MIT Massachusetts Institute of Technology
+NIP Numéro d’Identification Personnel
+NRI Network Readiness Index
+Organisation de coopération et de développement économique
+OCDE
+OCP Office Chérifien des Phosphates
+OCRC Office Central de Répression de la Cybercriminalité
+ODD Objectifs De Développement Durable
+PAC Port Autonome de Cotonou
+PAG Programme d’Actions du Gouvernement
+Projet de Développement des Infrastructures de Télécommunications et des TIC
+PDI2T
+PIB Produit Intérieur Brut
+PKI Public Key Infrastructure
+PME Petites et Moyennes Entreprises
+PND Plan National de Développement
+PNDS Plan National de Développement Sanitaire
+PNPE Plateforme Nationale De Paiement Électronique
+PPD Principes de Protection des Data
+Programme de Renforcement des Structures Centrales de Gouvernance
+PRSCG
+QW QuickWin
+6 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+Recensement Administratif à Vocation d’Identification de la Population
+RAVIP
+RBER Réseau Béninois d’Education et de Recherche
+RNA Réseau National de l’Administration
+R&D Recherche et Développement
+SAT3 South Africa Transit 3
+SBEE Société Béninoise d’Energie Electrique
+SBIN Société Béninoise d’Infrastructures Numériques
+SIGFIP Système Intégré de Gestion des Finances Publiques
+SIGTAS Système Intégré de Gestion des Taxes et Assimilés
+SIRB Société des Infrastructures Routières du Bénin
+SNAN Stratégie Nationale d’Agriculture Numérique du Bénin
+Stratégie Nationale d’Intelligence Artificielle et des MégaData
+SNIAM
+SOC Security Operation Center
+SONEB Société Nationale des Eaux du Bénin
+TVM Taxe sur Véhicule à Moteur
+UE Union Européenne
+UEMOA Union Economique et Monétaire Ouest Africaine
+WACREN West and Central African Research and Education Network
+XML Extensible Markup Language
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 7
+
+88 NStaratitoéngaiel A Nratitfiiocniaal lIen tde’Ilnligteelnligcee nacned A Britgifi Dciaetlale S ettr adteesg My é2g0a2D3 a- t2a0 227023 - 2027
+
+OVERVIEW
+Artificial Intelligence (AI) has become a field of strategic importance that
+can represent a major driver of economic development, as well as a lever for
+strategic positioning, both regional and international, with multiple sectorspecific opportunities.
+As such, AI is an issue of key importance for national development policies in
+terms of its implications for regulation, the digital economy, human capital,
+training, research, cooperation and innovation.
+RATIONALE AND AMBITIONS
+In order to make the most of its potential and bolster the various initiatives in
+this field that are already in the making, Benin needs to, first of all, establish
+its strengths in this area, and second of all, define its objectives with a view
+to the effective use of Artificial Intelligence for the benefit of its population.
+To this end, it is also necessary to establish the resources that the country will
+have to procure if it is to facilitate the implementation of an AI ecosystem, and
+in so doing, cement itself as the leader in certain strategic areas for the West
+African subregion.
+Benin has a suitable institutional and legal framework (the Code of Digital
+Affairs, adopted on June 13, 2017, as amended by Law No. 2020-35 of January
+6, 2021) as well as a dynamic digital ecosystem which, combined, constitute
+an essential foundation for the development of a solid Artificial Intelligence
+strategy capable of offering concrete solutions to development problems in a
+multitude of areas (agriculture, healthcare, tourism, education, transportation,
+security, e-governance, e-business, etc.).
+In short, a well thought-out national strategy for the development of Artificial
+Intelligence will contribute to the efforts made by the digital economy sector
+to meet the objectives of the sector-specific policy, namely to make Benin the
+leading platform for digital services in West Africa.
+In order to most effectively exploit the benefits that AI can offer in the target
+areas for development, and to position the country as a major player in AI in
+West Africa, the Ministry of Digital Affairs and Digitalization has developed this
+National Artificial Intelligence and Big Data Strategy.
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 9
+
+1. FORMULATION OF THE
+STRATEGIC FRAMEWORK
+1100 NStaratitoéngaiel A Nratitfiiocniaal lIen tde’Ilnligteelnligcee nacned A Britgifi Dciaetlale S ettr adteesg My é2g0a2D3 a- t2a0 227023 - 2027
+
+1.1. FOUNDATION AND PRINCIPLES
+1.1.1. FOUNDATION
+NATIONAL DEVELOPMENT PLAN 2018-2025
+Benin’s National Artificial Intelligence and Big Data Strategy is rooted in the
+National Development Plan 2018-2025 (NDP).
+The NDP shows that the strategic sectors with the highest potential are
+agribusiness and services, which include Information and Communication
+Technologies (ICT). According to the results of the strategic analysis carried out
+in the context of the NDP : Information and Communication Technologies
+(ICT): insufficiently developed and with poor availability.
+What’s more, the strategic option adopted under the NDP is to : make
+agribusiness, services and tourism the drivers for strong, inclusive and
+sustainable economic growth within the framework of more effective national
+and local governance, achievable by focusing on the development of human
+capital and infrastructure.
+The development of digital technology in general and, more specifically, artificial
+intelligence forms part of a three-step (3) implementation plan under the NDP:
+First step: the diversification of agricultural production, as supported by the
+development of services.
+Second step: the transformation of agribusiness and the increased
+development of services.
+Third step: the exportation of knowledge through innovation and
+biotechnology.
+GOVERNMENT ACTION PROGRAM (GAP) 2021-2026
+Much like the NDP, the second pillar of the GAP identifies digital technology
+as a lever for accelerating the structural transformation of Benin’s economy.
+NATIONAL SECTORAL STRATEGIES
+The Sectoral Policy Declaration for the digital economy sector expressed
+Benin’s ambitions as follows: For Benin to become the leader in the ICT sector
+in West Africa and to be ranked in the top 100 of the Network Readiness Index
+(NRI), with this to be achieved by transforming Benin into West Africa’s go-to
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 11
+
+digital services platform for accelerated growth and social inclusion.
+The blossoming of the ecosystem resulting from the implementation of this
+strategy should boost Benin’s positioning as a digital services platform.
+Benin’s National Digital Agriculture Strategy (SNAN-Benin 2021-2025)
+established the following vision: A better-performing agricultural sector by 2025,
+made possible through the use of digital solutions, with the following strategic
+guidelines :
+Improving the productivity of agricultural sectors.
+Improving the reliability of the information system in the sector.
+Improving the governance and management mechanisms for the sector.
+Developing the capacities of all the actors in the management of the
+agricultural sector.
+Artificial intelligence is a major lever in the implementation of this strategy,
+above all for the areas relating to smart agriculture.
+The National e-Health Strategy 2018-2022 has adopted the following vision: by
+2022, Benin’s healthcare system will offer better healthcare to all its citizens
+by removing all barriers of quality, fairness, equality, accessibility, availability
+and speed by means of the contribution of e-health, with the mission of using
+ICT at all levels of the healthcare system to make reliable health and medical
+information available, improve the quality of care, and make the management
+of resources in the country’s healthcare facilities more efficient.
+In terms of security, one project established under the GAP 2021-2026 concerns
+developing video surveillance, which can draw heavily on the capabilities of AI.
+1.1.2. PRINCIPLES
+The construction and implementation of the strategy is guided by a number of
+key principles which are universally recognized as contributors to the success of
+development strategies. These are:
+Iterative and incremental implementation : this principle allows for rapid
+operationalization, at the outset, for identified use cases and high-impact
+initiatives. At a later stage, depending on the results of this initial rollout, it will
+then be possible to proceed to an increased production of services within an
+updated regulatory framework.
+Resource pooling : for all sectors and as far as possible, the beneficiaries should
+have access to the entire institutional and organizational system and technical
+solutions resulting from the strategy.
+Accountability : this principle goes hand in hand with the principle of the
+effective participation of the various stakeholders in the actions that make up
+the strategy. In order to achieve this, all stakeholders - namely the government,
+12 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+the private sector, and the end users - will need to be involved in the design,
+implementation, and ongoing monitoring and evaluation of the strategy. This
+principle includes mutual accountability between duty bearers (State, Local
+Government, Private Sector Leaders, Civil Society Leaders) and rights holders
+(the general public and other specific beneficiaries).
+Results-based management : this has become a crucial managerial approach
+in guiding planning, implementation, reporting and evaluation in all
+organizations. It focuses on achievements rather than activities, and as such
+requires clear objectives, indicators and targets to be established. This principle
+will be systematized at all stages of the strategy’s planning, implementation,
+and ongoing monitoring and evaluation process.
+1.2. VISION
+The vision was formulated by taking into account the strategic analysis carried
+out, along with the challenges, issues and problems at hand. It is worded as
+follows:
+By 2027, Benin should enjoy a high profile thanks to artificial intelligence,
+which is a lever for the growth of strategic sectors, as applied in an
+opportunistic approach.
+This strategy should help to make this vision a reality over the next five (5) years.
+1.3. THEORY OF CHANGE
+SHORT-TERM CHANGE
+The short-term change will consist of the effects of the transformations resulting
+from guideline 1 (step 1). The changes to be expected in the short term are:
+Rollout of the identified use cases and gradual resolution of the associated
+issues;
+The human capabilities of the actors as regards AI and big data management
+being strengthened.
+MEDIUM-TERM CHANGE
+The medium-term change will consist of the effects of the transformations
+resulting from guideline 2 (step 2). The changes to be expected in the medium
+term are:
+The identified issues being entirely resolved;
+Big data being effectively managed;
+The rollout taking place in a controlled environment, pending the
+implementation of the relevant regulatory framework;
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 13
+
+Ethical and liability issues related to AI being under control;
+Actors such as the IMSP, the IFRI, Sèmè City, startups and certain bodies
+being supported with regard to their AI needs;
+Human capital being developed in the field of AI.
+LONG-TERM CHANGE
+The long-term change will consist of the effects of the transformations resulting
+from guideline 3 (step 3). The changes to be expected in the long term are:
+The AI sector in Benin being governed, educated and led by Beninese
+companies;
+Productivity and the quality of products and services in the business sectors
+being improved;
+Technology and knowledge transfer taking place between research
+laboratories and the private sector;
+Benin becoming a well-known country in the field of AI and its leadership within
+the subregion being cemented.
+FIGURE 5: THEORY OF CHANGE
+14 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+1.4. STRATEGIC GUIDELINES, STRATEGIC
+OBJECTIVES AND PROGRAMS
+1.4.1. STRATEGIC GUIDELINES
+The vision put forward will be implemented progressively and incrementally
+through the following strategic guidelines:
+Strategic Guideline 1: Organization and consolidation of the existing fledgling
+ecosystem and exploitation of its results;
+Strategic Guideline 2: Further development and support of the AI ecosystem;
+Strategic Guideline 3: Increased value of Benin’s ecosystem, knowledge and
+expertise.
+STRATEGIC GUIDELINE 1 : Organization and consolidation of the
+existing fledgling ecosystem and exploitation of its results
+In the field of research, AI innovation and cooperation, there is strong momentum
+despite the insufficient support being provided.
+The first stage of implementing the strategy will involve organizing and
+consolidating these assets, specifically by applying (testing out/experimenting
+with) the following ad-hoc or planned (large-scale) actions :
+Implement the previously-identified initiatives and use cases;
+Establish a controlled environment by applying the articles of the Code of
+Digital Affairs (406, 407, 408) which would allow for the rigor of preliminary
+formalities to be eased;
+Establish and roll out a training and awareness program for all stakeholders.
+This first step requires connectivity, storage and data processing infrastructure
+to be available for us (computing power, supercomputers, etc.). Failing this, the
+cloud can be used within the limits allowed by the regulations.
+STRATEGIC GUIDELINE 2 : Further development and support of
+the AI ecosystem
+In parallel with the consolidation and improvement of the existing setup, the
+strategy will involve building a solid and sustainable ecosystem with an agile
+approach (by adjusting the relevant actions and measures) based on the lessons
+learned during the previous step.
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 15
+
+In order to achieve this, transformation projects will be undertaken along the
+following lines:
+Provide support to institutional actors such as the IMSP, the IFRI and Sèmè
+City, as well as private sector actors and startups, in rolling out value-added
+solutions;
+Develop human capital;
+Carry out technology and knowledge transfer to ensure a strong link between
+research laboratories and the private sector;
+Adapt the legal and regulatory framework to suit the new demands of AI
+(Liability, Ethics, etc.)
+STRATEGIC GUIDELINE 3 : Increased value of Benin’s ecosystem,
+knowledge and expertise
+Successful completion of the first two steps should help to establish Benin’s
+renown and attractiveness in the field of AI, allowing for its results and expertise
+in AI to be leveraged and exported.
+1.4.2. STRATEGIC OBJECTIVES
+TABLE 9 : TABLE SHOWING COHERENCE BETWEEN STRATEGIC GUIDELINES AND
+OBJECTIVES
+Strategic Guidelines Strategic Objectives Line of Action Proposed Programs
+Strategic Guideline 1 : Program 1 :
+Organization and Strategic Objective 1 : Development and
+Service and data
+consolidation of the existing Implement high-impact implementation
+infrastructure
+fledgling ecosystem and initiatives and use cases of high-impact AI
+exploitation of its results solutions
+Strategic Objective 2 : Program 3 :
+Strategic Guideline 2 : Strengthen human Strengthen human
+Further development and capabilities in terms Human capital capabilities of actors
+support of the AI ecosystem of AI and big data in AI professions and
+management positions
+Strategic Objective 3 :
+Program 3 :
+Strategic Guideline 3 : Provide better support
+Research, Support for training,
+Increased value of Benin’s for research, innovation,
+innovation and research, innovation,
+ecosystem, knowledge and the private sector and
+partnership the private sector and
+expertise cooperation in the field
+cooperation
+of AI
+Strategic Objective 4 : Program 4 :
+Strategic Guideline 2 : Update the institutional Implementation of
+Further development and and regulatory Governance governance framework
+support of the AI ecosystem framework for AI and big for AI and big data
+data management management
+16 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+STRATEGIC OBJECTIVE 1 : Implement high-impact initiatives and
+use cases
+The assessment of the current situation showed that there are multiple AI
+initiatives and that AI can offer solutions to a great many issues faced by the
+priority sectors covered by the research.
+The first stage of the iterative (and incremental) approach to rolling out this
+strategy consists of the actual implementation of AI initiatives and solutions. To
+this end, the top priority should be to scale up the existing initiatives.
+This objective should allow for the high-impact AI initiatives to succeed, all whilst
+proving the National Data Center’s ability to support the development of AI
+solutions.
+Specific objectives
+In order to achieve this strategic objective, the following specific objectives have
+been established :
+Implement components in the data center such as Data-Lake-as-a-Service,
+ML-as-a-Service, etc.;
+Rollout (Definition and planning, drawing up specifications, selecting service
+providers, execution, change management and deployment) of AI solutions.
+Expected effects
+The expected effects of this strategic objective is to resolve the identified issues
+through the implementation of AI solutions.
+STRATEGIC OBJECTIVE 2 : Renforcer les capacités humaines sur
+l’IA et la gestion des mégaData
+The inadequacy of human capital is the main factor holding back the emergence
+of an AI ecosystem in Benin. Addressing this will require not only training and
+having access to the necessary skills, but also educating all actors (public, private,
+civil society and end users) in the ecosystem about digital tools and AI.
+Specific objectives
+In order to achieve this strategic objective, the following specific objectives have
+been established :
+Training in the field of AI and Data Science;
+Strengthen human capabilities in terms of AI;
+Strengthen human capabilities in terms of big data management.
+Expected effects
+The expected effects of this strategic objective are :
+Basic training, specific programming training, and ongoing training courses
+being provided in institutions;
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 17
+
+Actors (both public and private) as well as end users being educated and
+trained in AI;
+Actors (both public and private) as well as end users being educated and
+trained in big data management.
+STRATEGIC OBJECTIVE 3 : Provide better support for the
+development of human capital, research, innovation, the private
+sector and cooperation in the field of AI
+Research, innovation and the private sector are important components for any
+AI ecosystem to flourish.
+Providing answers to bolster the support provided to this sector is essential to
+the success of AI in Benin.
+Specific objectives
+In order to achieve this strategic objective, the following specific objectives have
+been established:
+Support training and research;
+Develop sustainable funding mechanisms for research and innovation;
+Bolster subregional and international cooperation.
+Expected effects
+The expected effects of this strategic objective are :
+Research centers becoming productive and attractive at both subregion and
+international levels;
+The transfer of research results between research laboratories and the private
+sector being ensured;
+The productivity and quality of products (or new products) in strategic, highpotential sectors being improved;
+Benin becoming a well-known actor in the field of AI and its leadership within
+the subregion being cemented.
+STRATEGIC OBJECTIVE 4 : Update the institutional and regulatory
+framework for AI and big data management
+The assessment of the current situation highlighted a lack of oversight for AI
+solutions and the need to address the ethical and liability issues related to using
+AI.
+It also brought up the need for the proper management of big data, which is the
+raw material used for AI solutions.
+This strategic objective should allow for:
+Legislation regulating the relevant ethical and liability issues to be adopted;
+A big data management system to be implemented.
+18 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+Specific objectives
+In order to achieve this strategic objective, the following specific objectives have
+been established :
+Adopt legislation regulating AI in Benin;
+Establish a controlled environment for the development of AI initiatives;
+Define and roll out a big data management model.
+Expected effects
+The expected effects of this strategic objective are:
+Ethical and liability issues being under control;
+Activities in the field of AI being implemented in a coordinated fashion by the
+actors involved;
+High-quality data becoming available in large quantities.
+TABLE SHOWING COHERENCE BETWEEN MAJOR ISSUES AND STRATEGIC OBJECTIVES
+Problèmes majeurs Objectifs stratégiques
+Strategic Objective 1 : Implement high-impact
+initiatives and use cases
+The ecosystem is not aware of the benefits of
+AI Objectif stratégique 2 : Strengthen human
+capabilities in terms of AI and big data
+management
+Institutional support is not sufficient for AI
+research and startups Strategic Objective 3 : Provide better support
+for research, innovation, the private sector and
+Insufficient sectoral funding for AI research cooperation in the field of AI
+and startups
+Strategic Objective 2 : Strengthen capabilities
+Insufficient resources trained in the field of AI and educate people on AI and big data
+management
+Ethical and liability issues related to AI not
+being addressed by the legal framework Strategic Objective 4 : Update the institutional
+and regulatory framework for AI and big data
+management
+Lack of a framework for big data
+management
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 19
+
+PROGRAMMATIC
+FRAMEWORK
+20 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+2.1. TABLE SHOWING COHERENCE
+BETWEEN THE STRATEGIC FRAMEWORK
+AND THE PROGRAMMATIC FRAMEWORK
+In total, four (4) programs have been drawn up for the implementation of the
+strategic objectives of the National Artificial Intelligence and Big Data Strategy:
+PROGRAM 1
+Development and opportunistic
+implementation of AI solutions
+in high-priority sectors
+PROGRAM 2
+Strengthening human
+capabilities of actors in AI
+professions and positions
+PROGRAM 3
+Support for training, research,
+innovation, the private sector
+and cooperation
+PROGRAM 4
+Implementation of governance
+framework for AI and big data
+management
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 21
+
+TABLE 10: PROGRAMMATIC FRAMEWORK
+Overall Objectives of the
+Programs Specific objectives
+Programs
+- Implement components
+in the data center such as
+Data-Lake-as-a-Service,
+ML-as-a-Service, etc.;
+Implement high-impact - Roll out (Definition and
+Program 1 : Development and
+initiatives and use cases planning, drawing up
+implementation of high-impact
+and scale up the associated specifications, selecting
+AI solutions
+prototypes service providers,
+execution, change
+management and
+deployment) AI solutions.
+- Strengthen human
+Program 2 : Strengthening Strengthen human
+capabilities in terms
+human capabilities of actors in capabilities in terms of AI and
+of AI and big data
+AI professions and positions big data management
+management.
+- Support training and
+research;
+- Develop sustainable
+Program 3 : Support for Provide better support funding mechanisms for
+training, research, innovation, for research, innovation, research and innovation;
+the private sector and the private sector and - Bolster subregional and
+cooperation cooperation in the field of AI international cooperation.
+- Establish ‘local
+champions’ of AI
+- Adopt legislation
+regulating AI in Benin;
+- Establish a controlled
+environment for the
+Program 4 : Implementation Update the legal and development of AI
+of governance framework for AI regulatory framework for AI initiatives;
+and big data management and big data management - Define and roll out a big
+data management model
+(processes, organization,
+governance and tools).
+22 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+2.2. PLAN OF ACTION
+Specific objectives Actions Year 1 Year 2 Year 3 Year 4 Year 5
+Program 1: Development and opportunistic implementation of AI solutions in high-priority sectors
+Setting up the implementation
+x
+mechanism
+Carry out preliminary actions
+Conducting preparatory studies
+for specifications and economic x
+and financial studies
+Equipping the existing National
+x x
+Data Center with AI services
+Implementing AI solutions
+Implementing AI solutions x x x x x
+Program 2: Strengthening human capabilities of actors in AI professions and positions
+Integration of basic training,
+Training in the field of AI and specific programming training,
+x x x x
+Data Science and ongoing training courses
+into the educational system
+Implementation and rollout
+of a capacity development
+Strengthening human
+program for AI aimed at public x x x x
+capabilities in terms of AI
+and private actors, as well as
+end users
+Implementation and rollout of a
+capacity development program
+Strengthening human
+for big data management
+capabilities in terms of big data x x x x
+aimed at providers and
+management
+consumers of data, as well as
+end users
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 23
+
+Objectifs
+Actions An 1 An 2 An 3 An 4 An 5
+spécifiques
+Program 3: Support for training, research, innovation, the private sector and cooperation
+Equipping universities and
+Support training and research X X X X
+promoting partnerships in AI
+Bolstering institutional
+support to facilities in
+Develop sustainable funding charge of entrepreneurship
+mechanisms for research and and innovation in terms of X X X X
+innovation engagement and sustainable
+provision of resources allocated
+to startups.
+Bolstering institutional
+X X X X X
+cooperation and collaboration
+Bolster subregional and
+international cooperation.
+Organizing major events
+X X X X X
+focused on AI
+Program 4: Implementation of governance framework for AI and big data management
+Adopting legislation regulating
+Adopt legislation regulating AI
+the relevant ethical and liability X X
+in Benin
+issues
+Creating a controlled
+environment for the
+Establish a controlled
+development of AI initiatives
+environment for the X
+based on articles 406, 407
+development of AI initiatives
+and 408 of the Code of Digital
+Affairs
+Definition and introduction
+Define and roll out a big data
+of procedures for the data X X X
+management model.
+collection and provision chain
+24 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+The catalytic actions in the implementation of the strategy, allowing for the
+objectives to be achieved, are :
+Action 1.2. Implementing AI solutions
+Action 2.2. Implementation and rollout of a capacity development program
+for AI aimed at public and private actors, as well as end users
+Action 2.3. Implementation and rollout of a capacity development program
+for big data management aimed at providers and consumers of data, as well
+as end users
+Action 4.2. Creating a controlled environment for the development of AI
+initiatives based on articles 406, 407 and 408 of the Code of Digital Affairs
+Action 4.3. Definition and introduction of procedures for the data collection
+and provision chain
+ACTION 0.1. Setting up the implementation mechanism
+This involves setting up the mechanism for implementing the strategy described
+in Chapter 4.
+Pre-requisites Performance indicators Duration
+The strategy being The mechanism for implementing the strategy being
+1 month
+validated set up
+ACTION 0.1. Conducting preparatory studies for specifications and
+economic and financial studies
+This involves carrying out technical and economic feasibility studies, ultimately
+producing :
+Specifications for the implementation of the actions;
+An economic and financial model for the strategy.
+Pre-requisites Performance indicators Duration
+The framework for
+The specifications being drawn up
+implementing the 4 months
+The economic and financial model being drawn up
+strategy being set up
+ACTION 1.1. Equipping the existing Data Center with AI services
+This involves equipping the existing data center with a layer of technical services
+which allow for the development, execution and use of AI solutions.
+Access to this layer must be shared, allowing the data center to operate in
+‘Artificial Intelligence as a Service’ mode (see Annex 3) for all the solutions and
+initiatives to be implemented.
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 25
+
+AI As A Service sTack
+Machine learning, inference services…
+Development service for AI solutions, Framework, SDK
+VMs, big data software, AI data (e.g. data lak es,
+AI, etc. (e.g. Hadoop) N˚SQL,…)
+Existing Infrastructure Services
+Pre-requisites Performance indicators Duration
+-The framework for
+implementing the
+strategy being set up The AI service layer being set up 9 months
+-Availability of the
+data center
+ACTION 1.2. Implementing AI solutions
+Description and objectives
+This action covers the development cycle for AI solutions, including:
+Managing the portfolio of identified use cases;
+Definition and planning;
+Drawing up the specifications and selecting the service providers for execution;
+Production and rollout of AI solutions;
+Implementation of change management and buy-in actions.
+When producing AI solutions, the top priority should be to scale up the existing
+solutions.
+With a view to establishing and strengthening local expertise and developing
+national champions, priority should be given to local companies or groups
+involving local companies.
+Furthermore, to speed up the production of (essential) PoCs in AI projects,
+African (e.g. https://zindi.africa/) and global platforms can be leveraged (with
+local actors serving as intermediaries).
+The assessment of the current situation brought up the following use cases:
+26 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+Technological complication: lack of existing AI models (algorithms) for the use
+case or the need to overhaul an existing model;
+Data-related complication: lack of high-quantity, high-quality data and the
+degree of pre-processing required to use the data;
+Business impact: business gain achieved or scale of business issue resolved.
+Complication
+Business Impact
+DataSECTOR Use Case / Issue / Initiative Technological (High, Medium,
+related
+Low)
+Predictions regarding job
+Medium High Low
+applications
+Automatic detection of
+Medium High Low
+administrative documents
+Public
+Help with automatic document
+Administration Low Medium High
+classification
+Automatic reading Low Low High
+Customer service High N/A N/A
+Predictions regarding resource
+availability (water, soil,
+feedstock, etc.) and production Medium High Medium
+planning based on market
+prospects
+Detection of various diseases
+Low High High
+affecting production
+Prediction of sorghum yield
+using drones and machine High N/A High
+Agriculture
+learning
+Rice disease detector High N/A High
+Environmental monitoring High High High
+Food quality evaluation Low Medium Low
+Management of the land
+Medium N/A N/A
+registry map
+Living conditions
+Monitoring of town planning
+Medium N/A N/A
+and illegal construction
+Suggested postings based on
+Education Medium Medium Medium
+skills and preferences
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 27
+
+Prediction of academic
+High
+performance
+Personalized academic paths High High Medium
+Education
+Prediction of student behavior High High Medium
+Natural language processing
+(e.g. translation from local
+Medium High High
+languages into French), speech
+recognition
+Smart waste sorting High High Medium
+Environment Climate prediction Medium High Medium
+Combating coastal erosion High N/A N/A
+Smart tax audits Medium Medium High
+Prioritization of services based
+High High Medium
+on user journey and privileges
+Processing of tender
+High High Low
+documents
+Streamlining of public
+Finance & expenditure High High High
+Economy
+Identification of potential
+sources of tax revenue through
+analysis of port entries and High N/A N/A
+exits, logging, or truck traffic
+on national highways
+Management of innovation
+N/A N/A High
+patents
+Traffic jam prediction High Low Low
+Infrastructure & Optimization of logistics flows High High Medium
+Transportation
+Predictive management of
+incidents and maintenance of
+Elevé Faible Faible
+water, electricity and fiber optic
+networks,
+Automatic data extraction Medium Medium High
+Justice
+Prediction of civil protection
+Medium Medium Low
+measures
+28 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+Justice Legal assistance applications High High Medium
+Assistance with the use of
+Media High N/A High
+media archives
+Application d’assistanat
+Elevé Elevé Moyen
+juridique
+Aide pour l’exploitation des
+Médias Elevé N/A Elevé
+archives médias
+Optimizing the unloading
+process and reducing dwell High N/A High
+time of critical cargo containers
+Hazard detection (rainfall for
+unloading cargo, temperature High N/A High
+for storing hydrocarbons, etc.)
+Port
+Prediction of import and export
+High N/A High
+flows of cargo
+Optimization of the flow of
+N/A N/A High
+trucks
+Assistance with diagnosis and
+Medium Medium High
+treatment
+Production of disease
+High High Medium
+prediction models
+Sector governance assistance
+Medium High Low
+tool (Data Visualization)
+Management of mass health
+campaigns (vaccination, raising
+Medium Medium Medium
+awareness, infectious diseases,
+etc.)
+Healthcare
+Voice system in national
+language for pre-diagnosis of High N/A High
+certain diseases
+Virtual reality surgical
+High N/A High
+procedures
+Cancer detection via medical
+image processing (e.g. liver High Low High
+cancer)
+Drug monitoring prediction,
+detection of high-risk patients, High High High
+detection of infections
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 29
+
+Support for healthcare worker
+Healthcare High N/A High
+decision-making
+Prediction of emergency
+Low High Low
+vehicle response
+Prediction of number of
+Low High Low
+emergency calls
+Prediction of offenses High High Low
+Video filtering: Detection
+and removal of pornographic High High Medium
+scenes
+Analysis of video streams from
+High N/A N/A
+Security & city CCTV sources
+Defense
+Combating poaching in nature
+High N/A High
+reserves
+Prevention of security risks
+High N/A High
+(BARSA with DMIA France)
+Management of the movement
+of people in the event of an High N/A High
+epidemic situation
+Surveillance of borders and
+High N/A High
+maritime coasts
+Automatic data analysis for
+the detection of suspicious
+Cybersecurity Medium High Medium
+behavior, prevention and
+detection of cyberattacks
+Augmented reality for tourism
+Tourism High N/A High
+to Benin
+Pre-requisites Performance indicators Duration
+Availability of the AI
+service layer in the
+5 years (prioritizing
+national data center
+Number of operational AI solutions projects with prototypes
+or, if not possible,
+Number of sectors covered ready and the potential
+consider a cloudfor high impact)
+based solution in the
+interim.
+30 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+ACTION 2.1. Integration of basic training, specific programming
+training, and ongoing training courses into the educational
+system
+Description and objectives
+This will involve establishing an educational system offering real career
+opportunities in AI and big data management, but also providing every student
+in the educational system with basic knowledge about the workings of AI and
+big data management.
+In order to strengthen these capacities, these activities should :
+Update some existing curricula (from basic education to ongoing training) in
+order to include subjects relating to AI and big data management.
+Create and popularize specific degree courses in AI and big data management
+Pre-requisites Performance indicators Duration
+None Number of people trained in AI and big data 4 years
+ACTION 2.2. Implementation and rollout of a capacity development
+program for AI aimed at public and private actors, as well as end
+users
+Description and objectives
+This will involve organizing capacity development activities for AI aimed at public
+and private actors, as well as end users.
+In order to strengthen these capacities, these activities should cover, amongst
+other things :
+The benefits (impact on products and services, businesses, etc.) of AI for the
+entire ecosystem, most notably for sectors such as agriculture (MAEP, SNA,
+INRAB, etc.), healthcare, finance, security, education, transportation, digital
+issues, and e-governance;
+The advantages for end users, particularly in terms of employability;
+The institutional framework for the implementation of AI, in order to reassure
+stakeholders;
+The practical details of implementing AI solutions and each person’s role in
+this ecosystem.
+Pre-requisites Performance indicators Duration
+Number of people whose capacities have been
+None 4 years
+strengthened for each category
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 31
+
+ACTION 2.3. Implementation and rollout of a capacity development
+program for big data management aimed at providers and
+consumers of data, as well as end users
+Description and objectives
+This will involve organizing capacity development activities aimed at data
+providers, as well as for end users, with a view to encouraging them to share
+their data.
+Part of the implementation of this action can be pooled with the implementation
+of Action 3.1 on AI capacity development.
+In order to strengthen these capacities, these activities should cover, amongst
+other things :
+The benefits (impact on products and services, businesses, etc.) of big data
+management for providers and consumers;
+The advantages for end users;
+The institutional framework for big data management, in order to reassure
+stakeholders;
+The practical details of the big data management cycle;
+The support measures that data providers can rely upon.
+Pre-requisites Performance indicators Duration
+Number of capacity development activities carried
+None 4 years
+out on big data management
+ACTION 3.1. Equipping training facilities (universities, institutes,
+training and research centers) to work on AI and big data, and
+promoting partnerships in AI
+Description and objectives
+The development of AI solutions by the IMSP and the IFRI is very promising. The
+IMSP’s supercomputer is an essential asset in developing these solutions and in
+establishing Benin’s positioning within the subregion in terms of AI.
+During the initial stages, this action will provide the IMSP with the necessary
+equipment to exploit the full potential of its supercomputer. This will involve, at
+a minimum :
+Fitting out new work rooms (there is currently only one);
+Setting up FabLabs;
+Forging partnerships with the private sector with a view to developing and
+scaling up AI solutions;
+Developing academic research partnerships on AI issues.
+At later stages, this action will allow for the IFRI to be equipped in a complementary
+way.
+32 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+Pre-requisites Performance indicators Duration
+The IMSP and the IFRI being fully equipped
+None Number of partnerships established with universities 4 years
+and the private sector in AI.
+ACTION 3.2. Bolstering institutional support to facilities in charge
+of entrepreneurship and innovation in terms of engagement and
+sustainable provision of resources allocated to startups
+Description and objectives
+This will involve, in particular, providing assistance for facilities in charge of
+entrepreneurship (e.g.: single point of contact for promoting SMEs) and innovation
+(e.g.: Sèmè City) in their respective roles of supporting entrepreneurship and
+innovation in AI.
+Indeed, Sèmè City’s activities in terms of training and launching AI initiatives
+are promising, and some projects require assistance in order to be scaled up
+effectively.
+Pre-requisites Performance indicators Duration
+Number of initiatives and innovations financially
+supported
+None Number of SAEIs (Innovative Entrepreneurship 4 years
+Support Facilities) improved
+Number of AI companies financially supported
+ACTION 3.3. Bolstering institutional cooperation and collaboration
+Description and objectives
+Benin collaborates with many organizations in the field of AI. Numerous
+institutions are stepping up their focus on the subject.
+However, there is an absence of African actors on the issues of regulation and
+standardization.
+In particular, this will involve :
+Strengthening institutional collaborations (win-win) with institutions (AFRIA,
+ECOWAS, SMART AFRICA, UNESCO, etc.);
+Strengthening bilateral and multilateral cooperation agreements for
+technology exchange and transfer, such as with the DMIA;
+Establishing collaborations on AI with organizations such as ISO, Global AI
+Index, etc.;
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 33
+
+Pre-requisites Performance indicators Duration
+Number of collaborations established
+Number of South-South, UEMOA, AU, Smart Africa
+None collaborations per high-priority sector 5 years
+Number of partnerships established by universities
+Rate of achievement of partnership targets
+ACTION 3.4. Organizing major events focused on AI
+Description and objectives
+This will involve organizing events geared towards innovation and raising
+awareness, along with events that can contribute to raising Benin’s profile :
+Supporting existing major events. For example, the MAIC international AI
+competition, the Benin Workshop on Artificial Intelligence, and the Summer
+School on Artificial Intelligence (EEIA);
+Organizing hackathons and competitions for SMEs and young entrepreneurs
+with the goal of developing innovative solutions in the field of AI;
+Organizing national and international AI trade fairs and conferences.
+This action was implemented through the first edition of the Digital
+Entrepreneurship and Artificial Intelligence Exhibition (SENIA), which took
+place July 7-9, 2022 at the Palais des Congrès in Cotonou, featuring :
+Seven (7) panels;
+Eight (8) presentations / Keynote speeches;
+Ten (10) demonstrations;
+Thirty (30) stands;
+Over 2500 visitors.
+Pre-requisites Performance indicators Duration
+Number of hackathons
+Number of trade fairs and conferences
+Number of innovative solutions (for each sector)
+None resulting from the hackathons 5 years
+Number of trade fairs and major international events
+participated in
+Number of trade fairs held
+ACTION 4.1. Adopting legislation regulating the relevant ethical
+and liability issues
+Description and objectives
+Along with the foundation of the Code of Digital Affairs, this action is one of the
+major pillars designed to ensure the proper governance of AI in Benin. It consists
+34 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+of making provisions in the Code of Digital Affairs and the Criminal Code for the
+ethical and liability issues related to AI, in the same way that Book V of the Code
+of Digital Affairs exhaustively covers issues related to personal data.
+Indeed, the provisions of Book V of the Code of Digital Affairs primarily cover the
+liability issues (e.g. article 387) related to the protection of personal data.
+This legislation should, for example, formalize and institute impact analyses and
+monitoring of AI solutions throughout their lifecycle, much in the same way it
+does for personal data (through articles 428 and 429 of the Code of Digital Affairs).
+Any such monitoring must be instituted to ensure that AI systems are designed
+and implemented with due consideration for key concepts such as people,
+the planet, prosperity, peace, transparency, justice and fairness, accountability,
+non-maleficence, privacy, benevolence, freedom and autonomy, sustainability,
+dignity and solidarity.
+The organization in charge of this monitoring and the enforcement of the
+legislation should be identified.
+Pre-requisites Performance indicators Duration
+None Adoption of legislation 12 months
+ACTION 4.2. Creating a controlled environment for the
+development of AI initiatives based on articles 406, 407 and 408 of
+the Code of Digital Affairs
+Description and objectives
+Pending the establishment of a regulatory body for AI, and in order to initiate
+the implementation of AI solutions within the framework of the SNIAM in the
+meantime, it is necessary for this to be done within a suitable framework.
+To this end, articles 406, 407 and 408 of the Code of Digital Affairs allow for the
+establishment of a controlled environment for the development of AI initiatives,
+through the publication of simplification and processing standards or exemption
+measures.
+It will therefore be necessary to set up this controlled environment based on
+these provisions of the Code of Digital Affairs.
+Pre-requisites Performance indicators Duration
+Controlled environment being established and
+None 6 months
+operational.
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 35
+
+ACTION 4.3. Definition and introduction of procedures for the
+data collection and provision chain
+Description and objectives
+The implementation of this action will allow for high-quality, high-quantity
+data to be input into AI solutions. This data can be structured or unstructured,
+personal or non-personal data, open, etc.
+This action will help the interoperability framework to evolve by complementing:
+The procedures for data collection and management of the relationship
+between data providers, data aggregators, data collectors, the data processor
+and data consumers;
+The actors (providers, collectors and processor) in charge of and involved in
+the system;
+Technical interoperability with the recommended network, transport, transfer
+and service protocols (e.g. HTTP(S), FTP(S), SAML, OAuth);
+Syntactic interoperability with, amongst others, JSON (to take APIs into
+account), XSD, etc.;
+Semantic interoperability to ensure that once shared, data can be understood
+by other systems;
+Data governance with the recommended types of data repository architectures
+and associated rules, data dictionary, metadata, in a big data management
+context: requirements for data aggregators, data collectors, etc.;
+Appointment of Chief Data Officers (CDOs) in administrations. They oversee
+the collection, management and storage of data in a given administration.
+They ensure the availability of high-quality, high-quantity data;
+The technical processing chain of the data, up to the point where it is made
+available in the system. The data that collected and processed can be
+structured and/or unstructured. The diagram below lays out the principle of
+the collection and processing chain.
+FIGURE 6 : PRINCIPLE OF THE COLLECTION AND PROCESSING CHAIN
+36 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+This collection and processing chain will use, in particular :
+The National Interoperability Platform (NIP);
+ETL/ELT processes, including upstream data cleansing;
+Migration and transformation databases (both relational and non-relational);
+MDM (Master Data Management as a Service);
+National Digitalization Centre (NDC);
+The existing PKI to ensure that transactions are secure.
+This action must be carried out in phases, as detailed below :
+Phase 1 :
+Updating the interoperability framework;
+Implementing the processing chain;
+Phase 2 : Finalizing the implementation of the processing chain;
+Phase 3 : Improving the collection and processing chain.
+FIGURE 7 : BLOCK DIAGRAM OF THE BIG DATA MANAGEMENT SYSTEM
+Data consumers
+AI As A Service sTack
+Machine learning, inference services…
+Development service for AI solutions, Framework, SDK
+Collecting process and
+management of the
+relation
+VMs, big data software, AI data (e.g. data lakes,
+AI, etc. (e.g. Hadoop) N˚SQL,…)
+Chain of
+processing
+Data suppliers Collecting process
+Existing Infrastructure Services
+Data providers are the entities that make data available :
+Open Data Platform : Will contribute to the provision of high-quality data, as the public
+service is required to improve the quality of its own data before making it public, by way
+of feedback mechanisms;
+Agriculture : the Ministry of Agriculture, the Institut de Recherche d’Agronomie
+Béninoise (INRAB), the Centres de Recherche Agricole (CRA);
+Healthcare : the Ministry of Health, the National Health Information Management
+System (DHIS2), a data warehouse producing indicators (AIDS, etc.), the National Malaria
+Control Program;
+Transportation : Centre National de Sécurité Routière (CNSR), Société des
+Infrastructures Routières du Bénin (SIRB), Compagnie de Transports, Port Autonome
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 37
+
+de Cotonou, Société de contrôle technique, Société de délivrance de documents de
+transport;
+Education : e-results, EDUCMASTER, Baccalaureate Holders’ Platform;
+Economy and Finance database : Economic statistics, INSTaD (formerly INSAE), Taxes
+(taxation, land registry, property tax), Direction Générale du Trésor et de la Comptabilité
+Publique, Direction Générale de la Douane et des Droits Indirects, Public Markets, Stock
+Exchanges, Chamber of Commerce, CAA (official development assistance), Agence
+Nationale des Domaines et du Foncier (ANDF); Civil status : ANIP (RNPP database)
+ARCEP : provider of data related to the ICT sector;
+Private sector data : Network and Mobile Operators, Banks and Insurance, Microfinance,
+Electricity Supply Company (SBEE), Water Supply Company (SONEB), Internet Service
+Providers, Pay-TV/Radio channels, VOD Content.
+Subregional and international data : Stock exchanges, research network data;
+Data aggregators : search engines and social networks.
+The data collector is the entity that collects the data and manages the relationship
+with the data providers and the user;
+The data processor is the entity in charge of using the ‘AI as a Service’ infrastructure.
+This can be the same entity as the collector;
+The data consumers are the administrations (or any actor) using the data to build
+digital solutions, or for any other purpose.
+Pré requis Performance indicators Duration
+Availability of the AI
+service layer in the
+national data center Interoperability framework being updated in year 2
+or, if not possible, Processing chain being partly operational in year 3 3 years
+consider a cloud- Processing chain being finalized in year 4
+based solution in the
+interim.
+38 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+MECHANISM FOR FUNDING
+AND MOBILIZATION OF
+RESOURCES
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 39
+
+3.1. FUNDING MECHANISM
+Over the 2023-2027 period, the funding required for the strategy is estimated to
+be approximately CFAF 4.68 billion.
+The funding mechanism and the mobilization of financial resources are
+fundamental to the successful implementation of the Artificial Intelligence
+strategy.
+As a significant amount of investment is required, the funding strategy revolves
+around the mobilization of both internal and external resources.
+The main objective at hand is to provide adequate, sustainable financial
+mechanisms and resources to launch the Artificial Intelligence revolution in
+Benin.
+The establishment of appropriate advisory structures and the development of
+strategies for each component will garner financial support from development
+partners on a vast scale.
+Although external resources are certainly key to funding the implementation of
+the strategy, the mobilization of internal financial resources nonetheless remains
+necessary. The measures below will make a significant contribution to tackling
+the issue of funding:
+Call for national funding from both the state and the private sector;
+Call for bilateral and multilateral assistance from external sources;
+Call for foreign private capital within the framework of a Public-Private
+Partnership (PPP);
+Mobilization of national savings.
+3.2. MOBILIZATION OF RESOURCES
+FOR THE IMPLEMENTATION OF THE
+STRATEGY
+The development of AI requires a significant mobilization of both human
+and financial resources in order to establish the necessary technological
+infrastructure, develop the capacities of the players involved, and kickstart the
+ecosystem.
+40 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+METHODS OF
+IMPLEMENTATION
+Stratégie NatiNonatailoen da’lI nAtretilfiligceianl cInet Aelrltigifiecnieclele a entd d Beisg M DéagtaaD Satrtaat e 2g0y2 23 0- 2230 -2 72027 4411
+
+4.1. IMPLEMENTATION MECHANISM
+4.1.1. INSTITUTIONAL FRAMEWORK
+The implementation mechanism has been established in accordance with
+Decree no. 2021 - 586 of November 10, 2021 and in view of the general framework
+for the management of public investment and Decree no. 2018 - 531 of November
+14, 2018 on the organization of governing authorities for digital programs and
+projects in the Republic of Benin.
+The cross-sectoral nature of this strategy will require an implementation
+mechanism at two different levels :
+A cross-sectorial level that will allow for the steering and coordination of the
+overall implementation of the strategy. The level will be the responsibility of
+the Ministry of Digital Affairs and Digitalization.
+This coordinating body will work by engaging with the Conference of Chief
+Information Officers and all stakeholders (universities, startups, AI partners,
+etc.) involved in the ecosystem.
+A sector-specific level which will allow for the ministries in question to steer
+the implementation of the AI projects (with each one handling their respective
+projects). The sectoral management framework will be implemented in
+accordance with Decree no. 2018 - 531 of November 14, 2018.
+In addition to these two levels, a public investment management framework
+will be established in accordance with Decree no. 2021 - 586 of November
+10, 2021. According to this legislation, this framework is to be put in place if
+necessary, regardless of the level of operation.
+4.1.2. RESPONSIBILITIES OF THE ACTORS
+Actor Responsibilities
+- Ensures the overall oversight and steering of
+the strategy.
+- A national governance approach was
+deployed to develop and validate this strategy,
+with the participation of representatives
+from both government and other key
+stakeholders in order to make sure that each
+Ministry of Digital Affairs and Digitalization
+sector’s specific needs were identified, and
+ensuring that no key stakeholder group was
+excluded from the process. This approach will
+also help to improve the coordination of its
+implementation.
+- Decree no. 2018 - 531 of November 14, 2018
+42 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+Actor Responsibilities
+- Provides its opinion on the implementation
+of the strategy in the light of feedback from its
+sectoral implementation.
+- Represents an essential link in the change
+Conference of Chief Information Officers management and buy-in strategy to be put in
+place.
+- Represents an essential link in the data
+collection mechanism to be put in place.
+- Decree no. 2018 - 531 of November 14, 2018
+These are all the actors, aside from
+the ministries, who are impacted by or
+beneficiaries of certain actions in the strategy.
+They are involved in the implementation of the
+actions.
+Stakeholders in the ecosystem They express their needs and provide their
+opinions.
+These are public service users and actors in the
+field of innovation and entrepreneurship, such
+as Sèmè City, AI startups, universities, AFRIA,
+SMART AFRICA, etc.
+Responsible for all the AI projects under its
+Commission ministérielle des systèmes
+ministry, in accordance with Decree no. 2018 -
+d’information et de la connectivité
+531 of November 14, 2018
+Agence des Systèmes d’Information et du Contributes to the implementation of AI
+Numérique (ASIN) projects
+Works on AI projects in accordance with
+Steering Committee
+Decree no. 2018 - 531 of November 14, 2018
+Works on AI projects in accordance with
+Technical Committee
+Decree no. 2018 - 531 of November 14, 2018
+Sectoral Committee for the Monitoring of the Works on AI projects in accordance with
+Government Action Program Decree no. 2021 - 586 of November 10, 2021
+Il travaille sur les projets d’IA conformément au
+Program Support Units
+Décret 2021 - 586 du 10 novembre 2021
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 43
+
+4.2. EVALUATION MECHANISMS
+The evaluation mechanism has been established in accordance with Decree
+no. 2021 - 586 of November 10, 2021 and in view of the general framework for
+the management of public investment and Decree no. 2018 - 531 of November
+14, 2018 on the organization of governing authorities for digital programs and
+projects in the Republic of Benin.
+In order to assess the performance achieved in the implementation of this
+strategy, and in accordance with the principle of accountability and the ‘iterative
+and incremental’ principle, an annual evaluation is required.
+Specifically, this provision makes it possible to measure and evaluate the extent
+to which the objectives have been reached in order to:
+Support the steering of the strategy by promptly providing information on
+the progress made through the strategic initiatives (i.e. the programs, projects
+and actions implemented) and take corrective steps should said progress
+prove insufficient;
+Confirm and adjust the scopes of the work packages to be undertaken in the
+subsequent phase;
+Carry out periodic assessments to check whether the strategy is working
+effectively and to promote knowledge sharing and learning amongst the
+parties involved;
+Foster accountability and promote the obligation to report amongst the
+actors involved.
+4.3. ACTIVITIES AND PERFORMANCE
+MEASUREMENT FRAMEWORK
+This performance measurement framework establishes the targets to be
+achieved from one year to the next over the five-year course of the strategy.
+When the SNIAM has been implemented, according to the Government AI
+Readiness Index, Benin should have improved its ranking (and risen to be on a
+par with Mauritius) in the following areas:
+Field Line of action
+Governance Vision
+Governance and ethics
+Digital capacity
+Adaptability
+Data and infrastructure Data presentation
+Availability of data
+AI infrastructure
+Technological sector Human capital
+Capacity for innovation
+Scale
+44 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+4.4. SUPPORTING MEASURES
+TABLE 14 : SUPPORTING MEASURES
+Potential to accelerate Potential impact on
+N° Measure the implementation the sustainability of
+of the SNIAM its effects
+Incorporate AI training into the strategy for the
+11 educational sector in order to quintuple the current Medium High
+volumes (25x3)
+Accelerate the adoption of the Startup Act to support
+2 High High
+the implementation of the strategy
+Continue the implementation of the Fonds d’Appui à
+3 l’Entrepreneuriat Numérique (FAEN) by the Agence High High
+pour le Développement des PME
+Continue to establish the interoperability framework
+4 in the field of healthcare, as part of the National High High
+e-Health Strategy
+4.5. RISK ANALYSIS AND CONDITIONS
+FOR SUCCESS
+The implementation of the SNIAM involves risks which need to be suitably
+managed and circumvented. The success of SNIAM depends on actors at every
+level controlling these risks.
+The main risk factors that could hinder the achievement of the SNIAM’s expected
+results are:
+Failure of the management bodies to function and lack of engagement
+from the stakeholders: the bodies charged with implementing the SNIAM
+failing to function would greatly hinder the implementation of the strategy. It
+is essential to ensure the optimal functioning of the implementing bodies, in
+terms of both the regularity of their meetings and the relevance and applicability
+of their deliberations, in order to guarantee the best chances of success for the
+SNIAM.
+Recommendations: Organize a far-reaching information and awareness
+campaign on the SNIAM for the general public, the various administrations,
+and the development partners, with a view to encouraging rapid buy-in to the
+strategy.
+The inadequacies of the mechanism for mobilizing financial resources
+expose the SNIAM to the risk of failing to secure the necessary funding.
+Recommendations: develop PPPs, promote the development of SMEs/startups
+in AI, and mobilize financial resources from various international funding sources
+specializing in AI (see ‘funding mechanism’ p35, 3.1.).
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 45
+
+CONCLUSION
+4466 NStaratitoéngaiel A Nratitfiiocniaal lIen tde’Ilnligteelnligcee nacned A Britgifi Dciaetlale S ettr adteesg My é2g0a2D3 a- t2a0 227023 - 2027
+
+Numerous governments around the world have rolled out strategies or targeted actions
+in order to encourage the adoption of artificial intelligence.
+As the possible uses of artificial intelligence continue to proliferate, adopting a strategy
+to guide how it is implemented will enable the Beninese government to take full
+advantage of it and ensure the general public’s confidence in its use.
+Benin’s National Artificial Intelligence and Big Data Strategy proposes a response to
+the issues faced by strategic sectors in line with the objectives of the NDP and the GAP,
+and aims to position Benin as a pioneer in the emergence of an AI ecosystem within the
+subregion.
+This strategy sets out the principles for implementation, lines of action and objectives
+that will allow for the successful integration of artificial intelligence into the public
+administration, the private sector, and society in general.
+As such, it sets out four (4) implementation programs and ten (10) objectives, grouped
+into four strategic lines of action, which will guide the overall implementation of artificial
+intelligence :
+Strategic Objective 1 : Implement high-impact initiatives and use cases
+Strategic Objective 2 : Strengthen capabilities and educate people on AI and big data
+management
+Strategic Objective 4 : Provide better support for research, innovation, the private
+sector and cooperation in the field of AI
+Strategic Objective 4 : Update the institutional and regulatory framework for AI and
+big data management
+The establishment of an AI ecosystem is a long-term pursuit, and this strategy allows
+the country to lay the foundations that will make its emergence possible by addressing
+the major challenges involved, namely :
+Challenges linked to data, relating to the collection, preparation, access, storage and
+governance of the data required to operate artificial intelligence mechanisms;
+The legal and regulatory challenges associated with artificial intelligence, specifically
+its governance and regulation;
+Ethical challenges, specifically issues relating to data protection and the protection of
+fundamental rights.
+The funding for this strategy will come from the national budget, the private sector, and
+TFPs. The strategy is designed to make artificial intelligence a lever to raise Benin’s
+profile and provide support for strategic sectors by means of a tailor-made local
+ecosystem.
+The integration of artificial intelligence into Benin’s day-to-day operations will require
+the participation of all public agencies, the public sector, and the Beninese people,
+which will make it possible to achieve the intended effects of improving productivity
+and the quality of products and services in high-priority sectors and those which can
+offer promising opportunities for AI. This dynamic will contribute to the creation of a
+landmark AI ecosystem driven not only by Beninese companies, but also by the fruits
+of technology and knowledge transfer between research laboratories and the private
+sector.
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 47
+
+48 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+APPENDICES
+Stratégie NatNioantaiolen dal’I Antretilfilicgieanl Icnet eAlrlitgifiecniceell ea netd d Beisg M Déagtaa DStartaat e 2g0y2 230 -2 230 -2 27027 4499
+
+6.1. APPENDIX 1 : REFERENCES
+1. BCEAO. Rapport annuel sur la situation de l’inclusion financière dans l’UEMOA au
+titre de l’année 2019. P14. 2019.
+2. ARCEP. Rapport annuel d’activité 2020 ARCEP. P.49. 2020.
+3. BCEAO. Rapport annuel sur les services financiers numériques dans l’UEMOA au
+titre de l’année 2019. P17. 2019.
+4. MicroSave Consulting. FinTech inclusives en Afrique francophone Rapport pays -
+Bénin.
+5. Oxford, Insights. Government AI Readiness Index 2020. 2020.
+6. Forum Economique Mondial. The Global Competitiveness Report 2019. 2019.
+7. Institute, Portulans. THE NETWORK READINESS INDEX. 2020.
+8. Nations Unies. E-GOVERNMENT SURVEY 2018. 2018.
+9. AI Expo Africa. Africa, AI Expo. 2020.
+10. Mondiale, Banque. Rapport Doing Business. 2020.
+11. ARCEP. OBSERVATOIRE DE LA TELEPHONIE MOBILE. 2021.
+12. Observatoire de l'internet. 2021.
+13. Smart Africa. Plan directeur de l'IA. 2021.
+14. Ministère du Plan. Plan National de Développement 2018 - 2025. 2018.
+15. Gouvernement de la République du Kenya. Digital Economy Blueprint: Powering
+Kenya’s Transformation . https://ca.go.ke/wp-content/uploads/2019/05/Kenyas-DigitalEconomy-Blueprint.pdf. [En ligne] (2019).
+16. Le Fonds d'Appui à l'Entrepreneuriat Numérique (FAEN). https://faen.gouv.bj/apropos/. [En ligne]
+17. BCEAO. Stratégie régionale d’inclusion financière dans l’UEMOA : avancées et
+perspectives.
+18. Union Africaine. La stratégie de transformation numérique pour l'Afrique (20202030) . [https://au.int/sites/default/files/documents/38507-doc-dtsenglish.pdf.]
+19. FMI. la transformation numérique en afrique subsaharienne ; avril 2020 ; FMI.
+2020.
+20. Objectifs de développement durable : en phase avec les priorités de l’Afrique.
+Renouveau, Afrique. 3, 2015, Vol. 29.
+21. CNUCED. Le rapport de la CNUCED en 2017 sur l’économie de l’information .
+[https://www.itu.int/net4/ITU-D/idi/2017/index.html] 2017 : s.n.
+22. NRI. Network Readiness Index 2020:. [https://networkreadinessindex.org/
+countries/benin/] 2020.
+23. The World Bank. Benin Digital Solutions for Sustainable Development . (P162599)
+P.5.
+24. Programme d'Action du Gouvernement (PAG). ORIENTATIONS STRATÉGIQUES
+2021 DANS LE SECTEUR DE L’ÉCONOMIE NUMÉRIQUE. 2016 - 2021.
+25. Banque Mondiale. Benin Overview. (2019a).
+50 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+6.2. APPENDIX 2 : LISTS OF USE CASES
+COMPLEXITY
+BUSINESS
+SECTOR U IN S I E TI C A A TI S V E E / ISSUE / DESCRIPTION AND OBJECTIVES TECHNOLOGICAL DATA-RELATED (HIG I H M L , O P M A W E C D ) T I UM,
+Managing job applications: suggesting suitable
+candidates, eliminating candidates who do
+not meet the minimum criteria, identifying
+incomplete applications (in order to contact
+these people again)
+Objectives:
+- Offer an automatic scoring of applicants
+Predictions
+Public Ad- in terms of the minimum requirements by
+regarding
+ministra- identifying shortcomings a priori Medium High Low
+job application - Identify incomplete applications
+tions
+- Identify anomalies or cases of fraud
+Metric:
+- Detection rate of fraud or anomalies
+- Suitability of the proposed candidates
+Data:
+- Data on competitions, requirements, etc.
+- Other relevant data
+Automatic validation of administrative
+documents and data extraction
+Objectives:
+- Automatically detect the nature of the
+administrative documents submitted
+Automatic
+- Verify their authenticity
+Public Ad- detection of
+Metric:
+ministra- administra- Medium High Low
+- Percentage of documents properly classified
+tion tive docu-
+- Percentage of false documents successfully
+ments
+identified
+Data:
+- Data on the nature of the documents
+- Data on fraudulent documents
+- Other data
+Automatic sorting of documents
+Objectives:
+- Make it possible to identify the nature of
+Help with
+Public Ad- documents and offer automatic filing
+automatic
+ministra- Metric: Low Medium High
+document
+tion - Percentage of documents properly filed
+classification
+Data:
+Data on documents
+- Other data
+Automatic reading of checks and sorting of
+letters at the post office.
+Objectives:
+- Offer automatic routing of mail according to
+its destination
+Public AdAutomatic - Extract names and amounts on checks
+ministra- Low Low High
+reading Metric:
+tion
+- Check recognition rate
+- Percentage of letters properly classified
+Data:
+- Data relating to handwriting
+- Other data
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 51
+
+COMPLEXITY
+BUSINESS
+SECTOR U IN S I E TI C A A TI S V E E / ISSUE / DESCRIPTION AND OBJECTIVES TECHNOLOGICAL DATA-RELATED (HIG I H M L , O P M A W E C D ) T I UM,
+Ensure better customer management by
+Customer
+analyzing data such as voice calls, comments, High N/A N/A
+service
+etc.
+Establish a platform making it possible to
+detect fraudulent birth certificates. This occurs
+as some people falsify their birth certificates to
+change their age and apply for competitions
+that are not open to them. This system could
+be applied to any other document that could
+be falsified (diplomas, identity cards, driving
+licenses, etc.).
+Objectives:
+Public Ad- - Use a scan of the document to ascertain
+ministra- whether or not the document is likely to be
+tion Detection of fraudulent in order to trigger an inspection.
+fraudulent This analysis will be done based on an image of
+Low Low Medium
+birth certifi- the document alone
+cates - Use a scan of the document to extract the
+various fields, make an inference, and deduce
+whether or not the document is fraudulent in
+order to trigger an inspection. The inference
+will be made from the fields extracted
+Metric:
+Detection rate of fraudulent documents, or
+other relevant metric.
+Data:
+- Database of documents identified as
+fraudulent and non-fraudulent
+- Any other data relating to the documents
+Allow for better management and allocation of
+land, water and feedstock and better planning
+Predictions
+of production.
+regarding
+Objectives:
+resource
+- Identify agricultural areas with good potential
+availability
+- Predict water consumption by area
+(water, soil,
+- Predict market demand for a given
+feedstock,
+agricultural product Medium High Medium
+etc.) and
+Metric:
+production
+- Prediction accuracy rate
+planning
+Data:
+based on
+- Weather-related data
+market pros-
+- Historical production and market demand
+pects
+data
+- Any other sector-specific data
+Agriculture
+This system will make it possible to detect
+the segment of the production affected by a
+disease in order to better manage resources
+and avoid applying pesticides to the entire
+production
+Detection
+Objectives:
+of various
+- Use images captured by drone to identify the
+diseases Low High High
+plants affected by a disease
+affecting
+Metric:
+production
+- Production yield
+Data:
+- Images captured by drone
+- Any other images of plants that can help train
+AI
+52 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+COMPLEXITY
+BUSINESS
+SECTOR U IN S I E TI C A A TI S V E E / ISSUE / DESCRIPTION AND OBJECTIVES TECHNOLOGICAL DATA-RELATED (HIG I H M L , O P M A W E C D ) T I UM,
+Prediction
+of sorghum
+yield using Tools integrating current and historical crop
+High N/A High
+drones and and weather data
+machine
+Agriculture
+learning
+Rice disease AI solution to help producers anticipate the
+High N/A High
+detector treatments required to ensure production
+Installing AI on a drone in order to collect
+environmental information for inaccessible
+areas in the event of a disaster.
+Objectives:
+- Map out the disaster-affected areas
+- Guide rescue efforts
+- Identify people in distress in the rubble
+EnvironmenLiving Metric:
+tal monito- High High High
+conditions - Success rate of missions using the AI-enabled
+ring
+drone
+- Rate of identification of people in distress
+Data:
+- Map data
+- Image data to help the AI learn to recognize
+objects
+- Other relevant data
+Implement an application that detects spoilage
+and defects in edible food
+Objectives:
+- The ability to detect foods with anomalies
+at the point of consumption or sale and sort/
+Food quality
+Agriculture classify them (in the case of use by a robot) Low Medium Low
+evaluation
+Metric:
+- Number of anomalies correctly identified
+Data:
+- Images of foods with or without anomalies
+- Other relevant data
+Management of the Solution to improve the readability of the land
+Medium N/A N/A
+land registry registry map
+map
+Living
+conditions Monitoring
+of town
+Identify illegal constructions through the
+planning Medium N/A N/A
+analysis of satellite images.
+and illegal
+construction
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 53
+
+COMPLEXITY
+BUSINESS
+SECTOR U IN S I E TI C A A TI S V E E / ISSUE / DESCRIPTION AND OBJECTIVES TECHNOLOGICAL DATA-RELATED (HIG I H M L , O P M A W E C D ) T I UM,
+By using a student’s progress data, as well as
+data relating to the choices made by students
+following the same path, AI could make
+recommendations for career choices.
+Objectif:
+- Propose a complete list of possible careers,
+from most to least relevant
+Metric:
+- Assess student satisfaction with the choices
+Suggested
+made based on the recommendations made by
+postings
+the system
+based on Medium Medium Medium
+- Assess the employability rate resulting
+skills and
+from the choices made based on the
+preferences
+recommendations
+- Assess the student’s success in their chosen
+industry
+Data:
+- All data related to the student’s career path
+- All data related to the career paths of other
+students who have completed their cycle
+- All data related to the job market
+- Any other necessary data
+Prediction
+AI solution to support academic staff in
+of academic High
+providing guidance to students
+performance
+Personalized learning solutions, based on AI,
+could be of great assistance to teachers who
+Education
+wish to differentiate their teaching methods.
+Objectives:
+- Adapt the level of difficulty of the exercises to
+suit the student’s individual level
+- Provide the teacher with a more helpful
+Personalized
+‘smart’ dashboard based on data collected
+academic High High Medium
+from students.
+paths
+Metric:
+- Success rates or an evaluation of the system
+by teachers and students
+Data:
+- Data related to learning and use of the
+platform
+- Other relevant data
+Understand the risk factors likely to cause a
+student to slip into absenteeism or drop out of
+school entirely and intervene before this can
+occur by alerting the educational community
+and reorganizing the student’s human support
+system
+Objectives:
+Prediction - Predict, with a certain degree of probability,
+of student the risk of a student dropping out High High Medium
+behavior - Identify certain high-risk behaviors
+Metric:
+- Actual dropout rate based on the predictions
+of the system
+Data:
+- Data related to the student’s learning path
+- Data regarding other students
+- All relevant data
+54 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+COMPLEXITY
+BUSINESS
+SECTOR U IN S I E TI C A A TI S V E E / ISSUE / DESCRIPTION AND OBJECTIVES TECHNOLOGICAL DATA-RELATED (HIG I H M L , O P M A W E C D ) T I UM,
+Natural language processing (e.g.
+translation AI solution to facilitate the adoption of
+from local digital technologies by the segments of the Medium High High
+languages population who do not speak or write French
+into French),
+speech recognition
+Education
+Detection of cheating in online testing
+Objectif:
+- Detect whether or not a student is cheating
+Fraud detec- and trigger an inspection
+High High High
+tion Data:
+- Data related to the use of the computer
+equipment used for online exams
+- Other relevant data
+Smart waste sorting, potentially by embedding
+AI into a robot
+Objectif:
+- Make it possible for a robot to sort waste
+Smart waste intelligently
+High High Medium
+sorting Metric:
+- Percentage of objects correctly identified
+Data:
+- Image data related to waste
+- Other relevant data
+Prediction of the risk of storms or other
+climate-related hazards
+EnvironObjectives:
+ment
+- Predict, with a certain degree of probability,
+the risk of a storm
+Climate pre- - Predict which areas will be affected
+Medium High Medium
+diction Metric:
+- Prediction accuracy rate
+Data:
+- Historical data concerning storms
+- Weather-related data
+- Other relevant data
+Combating
+Identify coastal erosion through the analysis of
+coastal ero- High N/A N/A
+drone or satellite images.
+sion
+AI could analyze tax returns and tax credit
+claims to identify cases of tax fraud and trigger
+a tax audit.
+Objectives:
+- Identify suspicious tax returns
+Finance & Smart tax
+Metric: Medium Medium High
+Economy audits
+- Percentage of suspect tax returns correctly
+identified
+Data:
+- Historical tax returns
+- Other data
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 55
+
+COMPLEXITY
+BUSINESS
+SECTOR U IN S I E TI C A A TI S V E E / ISSUE / DESCRIPTION AND OBJECTIVES TECHNOLOGICAL DATA-RELATED (HIG I H M L , O P M A W E C D ) T I UM,
+Offering personalized services for citizens who
+are often entitled to certain benefits, based on
+their use of public platforms and services
+Prioritization
+Objectif:
+of services
+- Propose a list of services that could benefit
+based on
+the citizen High High Medium
+user journey
+Metric:
+and privile-
+- Evaluation of the service by citizens
+ges
+Data:
+- Historical data on the use of public services
+- Other relevant data
+Automatic processing of data from tender
+documents in order to check their conformity,
+identify applications that meet the minimum
+criteria, and flag up incomplete applications
+Objectives:
+- Identify inconsistencies or false documents in
+Processing a tender application
+of tender - Identify incomplete applications High High Low
+documents - Identify applications that meet the minimum
+criteria
+Metric:
+- Percentage of applications correctly identified
+Data:
+- Historical application data from candidates
+- Other relevant data
+Finance &
+Smart management of allocations in order to
+Economy
+optimize budget portfolios (identify high-risk
+projects and streamline investment)
+Objectif:
+- Identify, in terms of probability, a given
+project’s likelihood of success or failure
+RationaliMetric:
+sation des
+- Yet to be analyzed: because how can one tell High High High
+dépenses
+with any certainty that a project that was not
+publiques
+funded would definitely have failed ?
+Data:
+- Financial data related to investments and the
+success of projects
+- Supplier data
+- Other financial data
+Identification of
+potential
+sources of
+tax revenue
+through
+AI solution to help administrative staff to
+analysis of High N/A N/A
+expand the tax base.
+port entries
+and exits,
+logging, or
+truck traffic
+on national
+highways
+56 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+COMPLEXITY
+BUSINESS
+SECTOR U IN S I E TI C A A TI S V E E / ISSUE / DESCRIPTION AND OBJECTIVES TECHNOLOGICAL DATA-RELATED (HIG I H M L , O P M A W E C D ) T I UM,
+ManageFinance & ment of Analyze the database to identify similar patents
+N/A N/A High
+Economy innovation that have already been registered.
+patents
+Contribute to relieving road traffic by
+predicting traffic jams. The application would
+also make it possible to streamline other key
+traffic elements, potentially optimizing traffic
+lights and public transportation (if necessary).
+The implementation of AI in the field of public
+transportation will help transport technology
+to predict future demands in terms of both
+transport and learning, ultimately providing
+better and more efficient solutions. Predictions
+could also adapt quickly to account for
+disruptions such as traffic accidents and public
+emergencies, increasing the safety of cities and
+Traffic jam
+infrastructure. High Low Low
+prediction
+Objectives:
+- Predict congestion areas for a given route a
+few hours in advance
+- According to the user’s route, identify
+congested areas and propose alternatives
+Metric:
+- Prediction accuracy rate
+- Accuracy rate of alternative routes
+Infrastruc- Prérequis
+ture & - Road traffic data
+Transpor- - GPS data from vehicles
+tation - Data from cameras in specific locations
+- Other data
+For example, decongesting ports or improving
+the safety of freight and passenger services to
+reduce the traffic density of certain segments
+Objectives:
+- Survey areas to identify and take an inventory
+of empty spaces
+- Predict the needs of the supply chain as a
+whole
+Optimiza- - Identify routes that slow down the unloading
+tion of logis- of a container from the port High High Medium
+tics flows Metric:
+- Time saved
+- Reductions in costs
+- Average length of time spent by a container
+at the port
+Data:
+- Order and stock history
+- Journey history of a container
+- Other relevant data
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 57
+
+COMPLEXITY
+BUSINESS
+SECTOR U IN S I E TI C A A TI S V E E / ISSUE / DESCRIPTION AND OBJECTIVES TECHNOLOGICAL DATA-RELATED (HIG I H M L , O P M A W E C D ) T I UM,
+Predictive
+management of
+incidents
+Infrastrucand mainture & Traffic analysis to identify or predict future
+tenance of High N/A High
+Transpor- incidents.
+water, electation
+tricity and
+fiber optic
+networks,
+roads, DTT
+Application assisting with automatic extraction
+of data on convictions, provision of statistics on
+the nature of offenses, and case law data.
+Objectif:
+Automatic - Offer a statistical dashboard of convictions
+data extrac- with associated grounds Medium Medium High
+tion Metric:
+- Accuracy rate of information
+Data:
+- Legal data related to trials (documents,
+exhibits, rulings, court transcripts, etc.)
+Application to help establish a citizen
+protection policy based on the analysis of
+common crimes and their circumstances
+Objectives:
+Prediction
+- Identify/predict areas with a high probability
+of civil proof criminal activity Medium Medium Low
+tection meaMetric:
+sures
+Justice - Rate of potential offenses avoided
+- Change in the number of offenses and crimes
+Data:
+- Security data (offenses, transcripts, etc.)
+By exploiting case law, AI could offer a process
+to minimize government expenditure and,
+in doing so, help the judiciary by proposing
+a suitable course of action to speed up court
+rulings.
+Objectif:
+- In the context of a case, bring up information
+Legal assis- on similar cases and offer an approach to
+tance appli- handling the case High High Medium
+cations Metric:
+- Satisfaction rate of magistrates using the
+system
+- Rate of suitability of the proposed courses of
+action
+Data:
+- Legal data related to trials (documents,
+exhibits, rulings, etc.)
+Assistance
+with the use Indexing of archives to facilitate information
+Media High N/A High
+of media retrieval.
+archives
+58 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+COMPLEXITY
+BUSINESS
+SECTOR U IN S I E TI C A A TI S V E E / ISSUE / DESCRIPTION AND OBJECTIVES TECHNOLOGICAL DATA-RELATED (HIG I H M L , O P M A W E C D ) T I UM,
+Optimizing the
+unloading
+process and Using drones to identify available spaces and
+High N/A High
+reducing predict dwell time of containers.
+dwell time of
+critical cargo
+containers
+Hazard
+detection
+(rainfall for
+unloading Predict weather conditions by analyzing sensor
+Port cargo, tem- data to determine the best time to unload High N/A High
+perature for certain types of cargo.
+storing hydrocarbons,
+etc.)
+Prediction of
+Predict the volume of cargo expected over a
+import and
+given period in order to adjust the resources High N/A High
+export flows
+available, allowing for better management.
+of cargo
+Optimiza- According to the space available at the port,
+tion of the the weather, and other information, propose
+N/A N/A High
+flow of truc- a better approach to managing trucks at the
+ks port.
+Using data from the patient’s file, along with
+the diagnoses of patients presenting with
+similar symptoms, propose a list of possible
+diagnoses from most to least probable. For
+example in medical imaging, cancer detection,
+radiology, e-health, etc.
+Objectives:
+- Provide doctors with a list of possible
+Assistance
+diagnoses based on the patient’s symptoms
+with diagnoHealthcare - Analyze a medical image and use the data to Medium Medium High
+sis and treatprovide a list of possible diagnoses
+ment
+Metric:
+- Correct diagnosis rate
+Data:
+- Data from the patient’s file
+- Symptoms
+- Histories of patients with the same symptoms
+who have been diagnosed correctly
+- Any other medical data
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 59
+
+COMPLEXITY
+BUSINESS
+SECTOR U IN S I E TI C A A TI S V E E / ISSUE / DESCRIPTION AND OBJECTIVES TECHNOLOGICAL DATA-RELATED (HIG I H M L , O P M A W E C D ) T I UM,
+Based on the patient’s file and the history of
+both the patient and other patients, identify
+diseases that the patient may develop.
+Objectives:
+- Propose a list of diseases that a patient, or
+Production anyone who requests to use the tool, could
+of disease potentially develop
+High High Medium
+prediction Metric:
+models - Prediction accuracy rate
+Data:
+- Data from the patient’s file
+- Data from patients with similar files for whom
+predictions proved to be correct
+- All data in the field
+Based on industry data, analyze a large volume
+of data (Big Data) in order to propose smart
+KPIs to facilitate better decision making
+Objectives:
+- Offer a dashboard with smarter metrics:
+Sector go- prediction of bed occupancy rates, number of
+vernance emergencies, shortages of certain medications,
+assistance etc. Medium High Low
+tool (Data Vi- Metric:
+sualization) - Assessment of the business impact of
+decisions taken based on the metrics proposed
+in the dashboard
+Data:
+- All data available in the sector
+Healthcare - All data available in other associated sectors
+AI could help with the better management
+of health campaigns by allowing for better
+distribution of vaccines. It can also help to run
+simulations of contagious diseases such as
+Manage- COVID, etc.
+ment of Objectives:
+mass health - Help to run simulations in the case of a
+campaigns contagious disease
+(vaccina- - In the event of a vaccination campaign,
+Medium Medium Medium
+tion, raising identify high-risk areas to target for better
+awareness, management of the campaign
+infectious Metric:
+diseases, - Evaluate the decisions made based on the
+etc.) information produced by the system
+Data:
+- Patient-related data
+- Movement data (GPS) of infected individuals
+- Other data related to the sector
+Voice system
+in national AI solution to assist with doctor-patient
+language for communication in remote populations with
+High N/A High
+pre-diagno- difficulty accessing areas served by major
+sis of certain hospitals
+diseases
+60 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+COMPLEXITY
+BUSINESS
+SECTOR U IN S I E TI C A A TI S V E E / ISSUE / DESCRIPTION AND OBJECTIVES TECHNOLOGICAL DATA-RELATED (HIG I H M L , O P M A W E C D ) T I UM,
+Virtual reaAI-enabled medical solution to assist surgeons
+lity surgical High N/A High
+with their work
+procedures
+Build an AI that can analyze a medical image
+and detect spots or areas that could potentially
+be a cancerous tumor in order to help doctors
+Cancer deto diagnose them
+tection via
+Objectif:
+medical
+- Identify an area on a medical image that High Low High
+image procould potentially be a cancerous tumor
+cessing (e.g.
+Metric:
+liver cancer)
+- Correct diagnosis rate
+Data:
+- Medical imaging data
+Determine the side effects that a given
+Healthcare
+patient is most likely to develop as a result of a
+treatment
+Objectives:
+Drug mo-
+- Predict the most likely side effects for a given
+nitoring
+patient
+prediction,
+- Depending on the severity of the side effects,
+detection
+offer an alternative, more suitable treatment High High High
+of high-risk
+Metric:
+patients,
+- Rate of complaints related to side effects from
+detection of
+treatments
+infections
+Data:
+- Patient history/file
+- Data related to the treatment in question
+- Other data related to the sector
+Support for
+healthcare
+Propose smarter KPIs for decision making. High N/A High
+worker decision-making
+System to predict response (or vehicle dispatch)
+based on historical response data
+Objectives:
+Prediction of - Predict the likely number of responses per day
+Security & emergency or over a certain period of time
+Low High Low
+Defense vehicle res- Metric:
+ponse - Prediction accuracy rate
+Data:
+- Historical response data
+- Other data
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 61
+
+COMPLEXITY
+BUSINESS
+SECTOR U IN S I E TI C A A TI S V E E / ISSUE / DESCRIPTION AND OBJECTIVES TECHNOLOGICAL DATA-RELATED (HIG I H M L , O P M A W E C D ) T I UM,
+Prediction of number of emergency calls
+in order to suitably prepare the internal call
+center, predict the areas likely to require a
+response, and triage incoming calls by urgency
+(by analyzing tone of voice).
+Objectives:
+Prediction of - Prediction of number of emergency calls
+number of - Prediction of areas likely to require a response
+Low High Low
+emergency - Classification of urgency of calls
+calls Metric:
+- Prediction accuracy rate
+Data:
+- Historical emergency call data
+- Historical data on areas requiring a response
+- Call recording data
+- Other data
+Implementation of a burglary prediction
+system in order to pre-position defense forces
+Objectives:
+- Identify/predict areas with a high probability
+Prediction of
+of criminal activity High High Low
+offenses
+Metric:
+- Offense rate
+Data:
+- Offense-related data
+Video filSecurity & tering: De- AI-based solution to help prevent posting of,
+Defense tection and and protect minors from uncontrolled access High High Medium
+removal of
+to, pornographic material
+pornographic scenes
+Analysis
+of video
+streams Use of video surveillance to identify certain
+High N/A N/A
+from city behaviors.
+CCTV
+sources
+Combating
+poaching in Analysis of animal movement patterns to
+High N/A High
+nature re- predict the trajectory of poachers.
+serves
+Prevention
+of security Confidential High N/A High
+risks
+Management of the
+movement
+of people in Confidential High N/A High
+the event of
+an epidemic
+situation
+62 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+COMPLEXITY
+BUSINESS
+SECTOR U IN S I E TI C A A TI S V E E / ISSUE / DESCRIPTION AND OBJECTIVES TECHNOLOGICAL DATA-RELATED (HIG I H M L , O P M A W E C D ) T I UM,
+Surveillance
+Security & of borders
+Confidential High N/A High
+Defense and maritime coasts
+Implementation of AI techniques to improve
+the ability to detect, prevent, and even deal
+with previously unknown cyberattacks.
+Objectives:
+Automatic
+- Identify suspicious behavior on the local
+data analynetwork
+sis for the
+- Identify suspicious behavior on a computer
+detection of
+- Identify suspicious emails
+Cybersecu- suspicious
+Metric: Medium High Medium
+rity behavior,
+- Percentage of threats correctly identified
+prevention
+- Rate of improvement of security
+and detecData:
+tion of cybe-
+- Data circulating on the network
+rattacks
+- Login history for programs on a computer
+- Emails
+- Data from the Internet
+- Other relevant data
+Augmented Use AI solutions to assist visitors with their
+reality for journey before their arrival in Benin, during
+Tourism High N/A High
+tourism to their stay and after their return, in order to
+Benin provide a richer, more immersive experience.
+6.3. APPENDIX 3 : IA As A SERVICE
+AI As A Service sTack
+Machine learning, inference services…
+Development service for AI solutions, Framework, SDK
+VMs, big data software, AI data (e.g. data lak es,
+AI, etc. (e.g. Hadoop) N˚SQL,…)
+Existing Infrastructure Services
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 63
+
+Machine Learning as a Service (MLaaS)
+Target users Data Processor, Collector, Consumers
+The ‘Machine Learning as a Service’ solution is intended to provide a set of
+Description tools including as data pre-processing, training models, evaluation models,
+prediction models, etc.
+Current situation Capacities require development
+Application
+ML tools
+components
+Main operating
+Availability of sufficient computing power
+requirements
+Data Lake as a Service (DLaaS)
+Target users Data Processor, Collector, Consumers
+The ‘Data Lake as a Service’ solution is intended to provide an infrastructure
+Description and middleware platform that makes it possible to manage the mass
+storage of raw and unstructured data.
+Current situation Capacities require development
+Application
+Big Data databases
+components
+Provision of Big Data databases
+Main operating
+Selection of multiple service levels corresponding to varying availability
+requirements
+commitments
+Containers as a Service (CaaS)
+Target users Data Processor, Collector, Consumers
+The ‘Containers as a Service’ solution is intended to provide a middleware
+Description
+platform for container orchestration.
+Current situation Capacities require development
+Application
+Container orchestration solution (such as Kubernetes, Open Shift)
+components
+Main operating
+Hosting and orchestration of application containers
+requirements
+64 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+Integration Platform as a Service (iPaaS)
+Target users Data Processor, Collector, Consumers
+The ‘Integration Platform as a Service’ solution is intended to provide an
+Description environment for developing, deploying and executing inter-application
+data flows or data intended to populate data sinks.
+Current situation Capacities require development
+Application
+Interoperability services
+components
+Data flow development environment
+Main operating
+Administration and management of the data flow lifecycle
+requirements
+Data flow execution platform
+Master Data Management as a Service (MDMaaS)
+Target users Data Processor, Collector, Consumers
+The ‘MDM as a Service’ solution is intended to provide government IS teams
+Description
+with a turnkey MDM solution to host and manage their repository data.
+Current situation Capacities require development
+Application
+MDM solution
+components
+Main operating Storage and hosting of repository data
+requirements Data lifecycle management process (record creation, updating, deletion)
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 65
+
+6.4. APPENDIX 4 : COLLECTION AND
+PROCESSING CHAIN
+Data acquisition
+Target users IT teams of administrations / Data collector
+The aim of this service is to provide the mechanisms and data flows for data
+Description
+acquisition and integration in the architecture
+Application Batch data loading (i.e. ETL)
+components Ongoing data loading (i.e. data streaming)
+Internal data acquisition
+External data acquisition
+Main operating Batch data acquisition and integration
+requirements Ongoing data acquisition and integration
+Quality and data transformation controls
+Data loading
+Data storage
+Target users IT teams of administrations / Data collector
+Description The purpose of this service is to make it possible to store data
+Application Relational databases
+components Non-relational databases (Big Data)
+Main operating Storage of structured data in relational databases
+requirements Storage of unstructured data in non-relational databases
+66 National Artificial Intelligence and Big Data Strategy 2023 - 2027
+
+Data processing
+Target users IT teams of administrations
+Description The purpose of this service is to make it possible to process stored data
+Current situation Capacities require development
+Application
+Data processing (ETL, data streaming)
+components
+Mass (batch) processing
+Training and operation of artificial intelligence models (self-learning,
+Main operating
+machine learning, deep learning)
+requirements
+Real-time processing (ongoing analysis of the data received, for example
+in order to trigger follow-up actions or issue notifications)
+Provision of data
+Target users IT teams of administrations
+The purpose of this service is to make it possible to provide refined data at
+Description
+the points of consumption
+Current situation Capacities require development
+Application Data warehouse and data marts
+components API Gateway
+Main operating Storage and structuring of data provided (DWH and DM)
+requirements Data exposure (API, open data)
+Data consumption
+Target users IT teams of administrations
+The purpose of this service is to provide the tools that make it possible for
+Description
+the clients of the platform to consume the data according to their needs
+Current situation Capacities require development
+Artificial intelligence model training studio Data visualization tools
+Application Data mining studio
+components Business intelligence tools
+Report production services
+Data science studio (AI development and training)
+Exploration / data mining
+Main operating
+Display of dashboards
+requirements
+Event management (e.g. alerts)
+Reporting
+National Artificial Intelligence and Big Data Strategy 2023 - 2027 67
+
+The electronic version of the SNIAM is available at
+https://numerique.gouv.bj/
+If you have any questions or suggestions, please contact us
+numerique@gouv.bj
+Follow us :
+@numeriquebenin

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Generated outputs (re-created by run_pipeline.py)
+outputs/embeddings/
+outputs/*.npy
+outputs/*.csv
+outputs/heatmaps/*.png
+
+# Model / HF caches
+.cache/
+*.pt
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+excalidraw.log

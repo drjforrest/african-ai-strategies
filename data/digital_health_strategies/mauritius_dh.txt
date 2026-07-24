@@ -1,0 +1,406 @@
+February 2025
+A Roadmap for Digital Health
+Transformation in Mauritius
+The United Nations Development Programme (UNDP) works with the Mauritius Ministry of Health and Wellness
+on digital transformation of the national health sector. This case study was developed by the UNDP Digital Health
+for Development Hub in partnership with the Mauritius Country Office to promote exchange of knowledge and
+South-South collaboration on digital health. The case study provides valuable insights and learnings, serving as a
+resource to guide other UNDP country teams for working on national digital health initiatives.
+ Early experiences shape government spending on health care has increased by
+over 70 percent from MUR 9.2 billion in 2014 to MUR 15.7
+digital health transformation
+billion in fiscal year 2023–2024.3
+in Mauritius
+COVID-19 digital experience
+The Republic of Mauritius has a population of Like other countries around the globe, in 2020 the
+1,260,767 people and consists of the main island of Republic of Mauritius was hit by the COVID-19 pandemic,
+Mauritius and two other islands, Rodrigues and Agalega.1 which strained health resources and had significant
+Guided by the Health Sector Strategic Plan (2020– economic impacts.4 Building on existing relationships,
+2024), the Ministry of Health and Wellness oversees the UNDP Mauritius partnered with the Ministry of Health
+country’s strong health system, which offers free universal and Wellness to support an inclusive, multisectoral
+access to health care services to every citizen.2 An response to COVID-19 which included recovery efforts
+estimated 73 percent of health care services are provided to address the socio-economic impacts of the pandemic.
+through a network of 157 public health facilities, including When COVID-19 arrived in the country, the health system
+regional hospitals, district and community hospitals, consisted mostly of paper-based processes with some
+mediclinics, area and community health centers and fragmented digital systems, which proved challenging for
+specialized hospitals that are well distributed across the access to real-time data for delivery of health services
+islands; the remaining care is delivered by private sector and rapid decision-making. There was a critical need for
+providers. The health system is supported by a public a laboratory information system to expedite the ordering
+health workforce of 14,000 staff that includes doctors, of COVID tests and share test results. To address this
+nurses, dentists, pharmacists and other health workers, gap, UNDP Mauritius contracted with the University of
+of which 55 percent are women. Over the last nine years, Washington to implement OpenELIS, an open-source
+
+solution, and provided the information technology (IT)  Enhance the accessibility and quality of health
+equipment and on-the-ground technical support needed care services.
+for configuration, implementation and adoption of the  Enhance the effectiveness and efficiency of health
+laboratory information system.5 Use of OpenELIS proved care services.
+effective in supporting COVID-19 response activities.
+ Optimize administrative processes to improve overall
+OpenELIS was later enhanced to support the All-In-One
+healthcare system efficiency.
+Travel Form border control processes which required
+ Establish a robust IT-enabled management and
+all passengers landing in the country to obtain COVID
+screening (restrictions have since been lifted).6 Today, the monitoring system.
+OpenELIS system is being scaled up to support laboratory  Improve data management and information-sharing
+orders and test results for other diseases. among healthcare professionals.
+ Establish a secure and interoperable electronic health
+For the Ministry of Health and Wellness, the COVID-19 records (EHR) system (One Patient, One Record).
+pandemic underscored the urgency of health system
+ Facilitate real-time monitoring and reporting for public
+resilience to withstand future outbreaks and shocks. The
+health initiatives.
+valuable experience gained through implementation and
+use of the laboratory information system demonstrated the
+Working alongside the Ministry, UNDP Mauritius helped
+efficiencies of digital solutions and prepared stakeholders
+stakeholders develop a roadmap that consisted of
+to embark on a digitization journey. Motivated by these
+a phased approach to the initiative and addressed
+experiences, as well as a desire to continually enhance
+key aspects of the underlying enabling environment,
+the delivery of health care services and improve health
+including, policy, strategy, governance, human resources
+outcomes, the Ministry of Health and Wellness requested
+and a national digital health architecture.
+UNDP Mauritius technical expertise for undertaking digital
+transformation across the health system.
+“The eHealth project was not just
+about digitizing a system, it also meant
+Roadmap to digital transformation
+business process re-engineering, site
+UNDP Mauritius, the Ministry of Health and Wellness
+assessments, having the right legislation
+and other stakeholders initially collaborated to develop
+a vision and theory of change to replace paper-based and ensuring health officials have the
+processes with a modern and integrated eHealth system right technical knowledge to adopt and
+to improve the quality of care services in public regional
+use the IT system. Equally important is to
+hospitals and healthcare centers.
+ensure that the population at large can
+easily access the system.”
+“To capitalize on Information and
+Communication Technologies to create – Vichittra Purdassee, Digital Transformation
+an interoperable national digital health Project Manager, UNDP Mauritius and
+Seychelles
+architecture and associated standards
+that help drive decisions for investment
+UNDP Mauritius provided technical expertise to support
+for digital health system components
+planning and implementation activities, including project
+to ensure continuity of care through management, change management (communications,
+affordable, high-quality, user-centric training and capacity-building), knowledge management,
+business process/workflow redesign, system design
+services to all health care stakeholders
+and implementation, reporting and analytics, and endin Mauritius.”
+user engagement.
+– Republic of Mauritius, Vision for Digital
+Health Transformation
+To inform country plans, stakeholders embarked on a
+study tour to Rwanda in 2022 to learn from Rwanda’s
+experiences, challenges and promising approaches.
+Emerging from these initial activities, the following
+objectives were identified for the Mauritius Digital Health
+Systems Strengthening initiative:
+
+ Creating enabling policies, Health and Wellness mentions technology in the following
+statement: “Harness the full potential of ICT to empower
+governance and strategic
+people to live healthy lives.” Building on this, strategic
+plans goal 18 of the Health Sector Strategic Plan (2020–2024)
+calls for the generation of sound and reliable information
+To approach digital transformation holistically, at all levels of the health system in a holistic approach for
+stakeholders outlined plans to develop enabling polices better decision-making through the implementation of
+and a governance structure, and to align strategic priorities the eHealth project.13 In addition, the Digital Government
+to affirm government commitment and leadership. Transformation Strategy 2018–2022 outlined plans
+to optimize, transform and create better government
+Policies services, including health care, through digitization.14
+Collectively these strategic documents provide a
+In recent years, the Republic of Mauritius has passed
+foundation and a common vision for digital investments
+legislation on data protection, cybersecurity and
+in the health system and facilitate country ownership and
+cybercrime, and electronic transactions, the Information
+management of the journey.
+and Communications Technologies Act and the Mauritius
+Emerging Technologies Council Act.7,8,9,10,11 Despite these
+legislative actions, the Ministry of Health and Wellness 
+Planning for One Patient,
+does not currently have provisions that adequately
+address the use of EHRs, data-sharing and more. To close One Record
+these gaps, the country is developing comprehensive
+digital health legislation to regulate data protection, Central to the Mauritius Digital Health Systems
+access to health data, and build advanced capacity Strengthening initiative is the One Patient, One Record
+to develop and responsibly use Artificial Intelligence. project, which includes shifting from paper-based
+Under the project, legal experts will support the review processes at health facilities to making use of a patient
+and assessment of a legal framework for digital health, portal and patient administration system (PAS) (inclusive
+draft a policy paper based on the country context and of EHR capabilities) and a few other baseline modules
+develop the bill (if required) at the direction of the Ministry enabling health care workers to access health information
+of Health and Wellness and other stakeholders. needed to coordinate care and deliver services. The
+project has been allocated a budget of MUR 600 million
+Governance and staffing and divided into several phases.15
+The Mauritius Digital Health Systems Strengthening
+“The launch of the eHealth project in
+initiative was initially coordinated through a planning
+working group led by the Ministry of Health and Wellness. Mauritius transcends being a mere
+It is now in the process of transitioning into a formal milestone; it signifies a giant leap
+governance structure with committees for technical areas.
+towards a healthier, more connected
+Multisectoral stakeholders participating in governance
+future for our nation. Let’s embrace this
+and coordination activities include the Ministry of Health
+technological evolution with open arms,
+and Wellness, the Ministry of Information Technology,
+Communications and Innovation, the Ministry of Finance, confident that we are paving the way
+Economic Development and Planning, and UNDP for a healthcare system that is not only
+Mauritius. Through the new governance structure, these
+efficient but also compassionate and
+stakeholders will continue to drive digital transformation
+patient-centric.”
+efforts by shaping plans, directing investments and
+establishing priorities. – Amanda Serumaga, Resident Representative,
+UNDP Mauritius and Seychelles
+Working with Mauritius, the Ministry of Health and
+Wellness has developed plans for a Digital Health UNDP Mauritius worked with the Ministry of Health
+Agency, approved by Cabinet on 24 August 2024.12 and Wellness and partners in identifying requirements
+UNDP Mauritius has also recruited a team to work on the and engaging in a procurement process to select a
+Mauritius Digital Health Systems Strengthening initiative technology partner, TrioTree Technologies Pvt. Ltd., and its
+and managed complex procurement processes to bring consortium of partners, namely Informatics International
+in additional technical consultants to fill specific skills Ltd. and Netcom Partners Ltd. Once on board, TrioTree
+gaps, as well as technology partners to support system and partners conducted a readiness assessment at
+design, configuration and implementation. However, the public health facilities. The assessment gathered
+recruitment of technical experts was challenging due to information to better understand the eHealth maturity at
+the lack of technical resources in the market. facilities, including IT gaps (hardware, software, electrical
+infrastructure) to inform infrastructure needs and staff
+Strategic plans skills. The readiness assessment found that most clinical
+data were being captured in an unstructured format in
+While Mauritius has no specific digital health strategy,
+hundreds of paper forms, journals, books and letters and
+other strategic documents set a precedent and provide
+would need to be re-engineered into the PAS system.
+the necessary guidance and commitment for investments
+in digital health. The mission statement of the Ministry of
+
+To develop the change management plans, TrioTree Under Phase 2, the following additional eHealth modules
+will consider findings from the readiness assessment are planned:
+and conduct a deeper stakeholder analysis to evaluate
+ Radiology (including a picture archiving and
+influence, interests and potential resistance to change.
+communication system – PACS)
+UNDP Mauritius has requested TrioTree to then develop a
+ Laboratory (integration with existing and new
+clear vision and set of objectives for change management,
+laboratory services)
+communication plans, training and education plans,
+leadership engagement and identification of champions,  Nursing module (collection of vitals, among others)
+empowerment activities, and mechanisms for feedback  Pharmacy (including inventory)
+and continuous improvement.
+ Public health and primary care support services
+ Non-communicable diseases services
+The One Patient, One Record project is broken down into
+two major phases to iteratively configure the PAS system  Bed and ward management
+modules and functionalities to country needs, support  Surgical (operating theatre)
+training and engage in a national roll-out.
+ Intensive care
+ Clinical practice management (including dental
+Under Phase 1, the following core modules of the PAS
+services, paramedical services, etc.)
+system are planned:
+ Billing and costing.
+ PAS system (including national patient register, medical
+file tracking and electronic queue management) Once fully implemented and scaled, the One Patient, One
+ Patient portal (including a patient app) Record system will enable all citizens of Mauritius to have
+one longitudinal health record that is accessible in real-
+ Blood bank implementation at blood transfusion
+time to health workers to coordinate care, deliver services
+services (including a donor app)
+and improve health and wellness. It will also provide a
+ Query and reporting (analytics).
+patient portal to empower citizens to be actively engaged
+in making informed decisions about their health care
+The Phase 1 PAS system and functionalities will be tested at
+and treatment.
+the Jawaharlal Nehru Regional Hospital and subsequently
+extended to other regional hospitals, health centers,
+community centers and mediclinics. At the conclusion
+of Phase 1 and following operational acceptance, UNDP
+Mauritius plans to hand over ownership and management
+of the project to the Ministry of Health and Wellness to
+manage the next steps.
+Figure 1. Mauritius PAS system and modules
+Reporting & Analytics Interoperability
+(Dashboards) (HL7Tree, ConnecTree)
+• Blood Bank Equipment integration
+• OpeneLIS Global (LIS Application)
+• DHIS2
+• Maupass
+Mobility
+Electronic
+Blood Donors App
+Medical Record
+Patient Portal App
+(EMR)
+Including Specialty Specific EMR such as
+Ophthalmology, Dentistry etc.
+ OPD Management  Inpatient  Nursing  Pharmacy  Practice  Lab Information
+(OPD) Management Management Management Management System
+ Radiology  Accident &  Operating Theatre Management  Surgical  PACS
+Information System Emergency (AED) Management (OTM)  Inventory  Billing & Costing  Bed & Ward
+(RIS)  Blood Bank  Intensive Care Unit Management Management
+ ICU Management  Medical File Tracking
+National Electronic Health Record (NEHR)
+Roles-Based Multi-Facility Audit Trail Customizable In Built Workflow Scalable Master Patient
+Authorization Support Digital Forms CDSS Driven & Secure Index (MPI)
+
+ A blueprint for a national the initiative and realize their vision. UNDP country
+teams can assist governments in thinking through
+digital health architecture
+their needs, priorities and staffing to strengthen their
+leadership in digital health.
+To prevent fragmentation and promote interoperability
+ Assess readiness: Early in the planning stage for the
+of data and digital solutions across the health system,
+One Patient, One Record project, it was apparent
+the Republic of Mauritius is developing a Digital Health
+that there were varied levels of readiness in terms
+Blueprint. The Blueprint is intended to outline a national
+of health facility infrastructure and workforce skills.
+digital health architecture that aligns business processes,
+UNDP Mauritius required a readiness assessment
+provides a platform with shared services (e.g. health
+to be conducted as a first step to better understand
+facility registry, provider directory, master patient index),
+the gaps and needs, and then outlined clear plans
+connects digital applications, details standards and
+to address them. Understanding readiness is an
+implementation guidance, and scales data exchange.16
+important early step in planning that helps shape
+the subsequent activities and select appropriate
+To support this process, UNDP Mauritius has hired
+resources and technologies to set countries on a
+technical experts to conduct a technical review,
+path to success.
+facilitate stakeholder engagement and consultations,
+develop guiding principles, design the blueprint and  Invest in the enabling environment: UNDP Mauritius
+interoperability plans, assess capacity and technical technical guidance proposed a robust planning
+assistance needs, and develop an implementation process that considered not just technology needs but
+plan and other supporting materials. The Digital Health also staffing, governance, strategy, policy and more
+Blueprint will consider business objectives, current and in an integrated approach. The planning process led
+future digital health applications, definition of concepts, to a holistic approach that is setting up the Mauritius
+and data and exchange standards. When implemented, Digital Health Systems Strengthening initiative for
+the national digital health architecture – the PAS under long-term success. To ensure sustainability of digital
+the One Patient, One Record project – becomes the health investments, it is essential for UNDP country
+baseline for scaling up the other IT systems supporting teams to assess the broader enabling environment
+health programmes. and identify gaps or challenges that need to be
+addressed to successfully implement, sustain and
+effectively use interoperable digital health systems.
+ Key learnings  Support country procurement processes: The UNDP
+Mauritius team experienced lengthy procurement
+Through a step-by-step and iterative approach that procedures and administrative hurdles in selecting
+considers not just the technology but other components technical solutions and onboarding technology
+needed to implement, sustain and effectively use partners. UNDP Mauritius worked closely with
+interoperable digital health systems, UNDP Mauritius government leaders to navigate procurement
+and the Ministry of Health and Wellness have already challenges and invested time in due diligence
+overcome numerous challenges and gained experience activities. Despite experiencing challenging
+that is shaping their next steps. procurement processes, UNDP country teams can
+provide the support needed to help mitigate them
+Key learnings include: and ensure the right resources and solutions are
+identified and purchased to meet country needs.
+ Build strong partnerships: UNDP Mauritius worked
+ Navigate complex implementation: The Mauritius
+alongside the Ministry of Health and Wellness and
+Digital Health Systems Strengthening portfolio
+engaged in partnership-building activities with other
+presents complex implementation challenges due
+stakeholders throughout the planning process and
+to the concurrent execution of multiple initiatives,
+continues to do so. Throughout the Mauritius Digital
+including the laboratory information system, readiness
+Health Systems Strengthening initiative, many
+assessments, human resources management and the
+stakeholders were engaged in governance meetings
+One Patient, One Record system. To navigate this
+and processes representing varied perspectives and
+complexity, it has been imperative for UNDP Mauritius
+priorities. The UNDP Mauritius team supported robust
+to establish a cohesive and collaborative working
+engagement with all these stakeholders to gain buy-in
+relationship among all stakeholders, with staff
+and alignment to move forward with shared plans.
+dedicated to project implementation. This approach
+Governance and coordination with key stakeholders
+ensures effective task management, synchronization
+are ongoing activities that are essential to ensure
+and dependency resolution, enabling seamless
+buy-in and alignment and develop shared plans.
+coordination across interdependent activities.
+ Promote government leadership and capacity:
+Through the Mauritius Digital Health Systems
+Strengthening initiative, the Ministry of Health and
+Wellness is not only a key stakeholder but has led and
+directed plans based on country needs and priorities.
+UNDP Mauritius works side by side with government
+leaders to build their internal capacity and consider
+the internal staff and expertise needed to support
+
+ Future plans UNDP Mauritius continues to support the Republic of
+Mauritius on its digital health transformation journey
+through collaboration, technical support and investments
+“We are impacting the life of every
+in the digital health enabling environment, including digital
+citizen with this digital health
+health solutions, policy, strategy, governance, human
+transformation. For years Mauritius has resources and a national digital health architecture.
+been trying to transition from a paper- Through these activities, the country is building a
+based health system to digital, and this more resilient health system and ensuring continuous
+improvement in the
+is the moment. This will impact the life of
+delivery of high-quality,
+every citizen, giving access their health
+coordinated, user-centric
+information anytime. That’s a big step in health services to improve
+the journey of transformation.” health outcomes.
+– Renooka Beejan, Head of Socio-Economic
+Development Unit, UNDP Mauritius and
+Seychelles
+1 Statistics Mauritius, ‘Tableau de Bord’, Government of Mauritius, 2023, https://statsmauritius.govmu.org/Pages/Statistics/Tableau-de-Bord.aspx.
+2 Ministry of Health and Wellness, ‘Health Sector Strategic Plan 2020–2024’, Government of Mauritius, Port Louis, 2019, https://health.govmu.org/health/
+wp-content/uploads/2023/03/Health-Sector-Strategic-Plan-2020-2024.pdf.
+3 United Nations Development Programme , ‘Overview of Mauritius Health Sector and eHealth FV’, UNDP, 2 May 2024.
+4 United Nations Development Programme, ‘Socio-Economic Impact Assessment of COVID-19 in Mauritius’, UNDP, Port Louis, 2 March 2021, https://www.undp.
+org/africa/publications/socio-economic-impact-assessment-covid-19-mauritius.
+5 See https://openelis-global.org/.
+6 See https://safemauritius.govmu.org/.
+7 Government of Mauritius, ‘Data Protection Act 2017’, Government of Mauritius, 2017, https://dataprotection.govmu.org/Pages/The%20Law/Data-ProtectionAct-2017.aspx.
+8 Government of Mauritius, The Cybersecurity and Cybercrime Act 2021, Act No. 16 of 2021, Legal Supplement to the Government Gazette of Mauritius, No.
+173, 24 November 2021, https://ncb.govmu.org/ncb/legislations/THE%20CYBERSECURITY%20AND%20CYBERCRIME%20ACT%202021.pdf.
+9 Government of Mauritius, ‘The Electronic Transactions Act 2000, Act 23/2000’, Government of Mauritius, Port Louis, 2000, https://www.icta.mu/
+documents/2021/08/eta.pdf.
+10 Government of Mauritius, ‘Information and Communication Technologies Act 2001, Act 44/2001’, Government of Mauritius, Port Louis, 2022, https://www.
+icta.mu/documents/2022/04/ict_act.pdf.
+11 Government of Mauritius, ‘The Mauritius Emerging Technologies Council Act 2021, Act No. 10 of 2021’, Government of Mauritius, Port Louis, 2021, https://
+mitci.govmu.org/Documents/Legislations/Mauritius%20Emerging%20Technologies%20Council%20Act%202021.pdf.
+12 Defimedia, ‘eHealth : une Digital Health Agency verra le jour’, Defimedia, 16 August 2024, https://defimedia.info/ehealth-une-digital-health-agency-verra-le-jour.
+13 Ministry of Health and Wellness, ‘Health Sector Strategic Plan 2020–2024’, Government of Mauritius, Port Louis, 2019, https://health.govmu.org/health/
+wp-content/uploads/2023/03/Health-Sector-Strategic-Plan-2020-2024.pdf.
+14 Central Informatics Bureau, Ministry of Technology, Communication and Innovation, ‘Digital Government Transformation Strategy 2018–2022’, Government
+of Mauritius, Port Louis, 2017, https://ncb.govmu.org/ncb/strategicplans/DigitalGovernmentTransformation.pdf.
+15 United Nations Development Programme, ‘UNDP supports the launch of the “One Patient, One Record” eHealth Project for Enhanced Public Healthcare’, UNDP, 29
+January 2024, https://www.undp.org/mauritius-seychelles/news/undp-supports-launch-one-patient-one-record-ehealth-project-enhanced-public-healthcare.
+16 World Health Organization, ‘Digital Implementation Investment Guide (DIIG): Integrating Digital Interventions into Health Programmes’, WHO, Geneva, 2020,
+https://www.who.int/publications/i/item/9789240010567.
+UNDP’s work on digital health for development contributes to the Pact for the Future and accelerating progress on the Sustainable
+Development Goals and the pledge to leave no one in behind. The UNDP Digital Health for Development Hub is a one-stop shop
+with technical, advisory and partnership support for the introduction and scale up of digital and AI for health as part of its HIV and
+Health Strategy 2022-25. UNDP is working across 89 countries to identify, adapt and scale up appropriate digital and AI solutions
+that strengthen health systems and improve health outcomes. The Hub focuses on strengthening policies, capacities and institutions
+in line with the UN Global Digital Compact and WHO guidance. The Hub also supports knowledge and learning on digital health
+for development and AI for health across its network of Country Offices, regional hubs and global teams.
+Get in touch
+If you’re interested in knowing more, or to partner with us, please contact us at:
+Amanda Serumaga, UNDP Resident Representative for the Mauritius Manish Pant, Policy Specialist Digital Health, HIV and Health Group,
+and Seychelles Country Office, amanda.serumaga@undp.org Bureau for Policy & Programme Support (BPPS), manish.pant@undp.org
+Renooka Beejan, Head of Socio-Economic Development Unit, UNDP Ketki Bhatia, Program Analyst Digital Health, HIV and Health Group,
+Mauritius and Seychelles, renooka.beejan@undp.org Bureau for Policy & Programme Support (BPPS), ketki.bhatia@undp.org
+ketki.bhatia@undp.org
+@UNDPHIVHealth

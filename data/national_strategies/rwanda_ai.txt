@@ -1,0 +1,562 @@
+Republic of Rwanda
+Ministry of ICT
+and Innovation
+The National AI Policy
+To leverage AI to power economic growth, improve quality of life and
+position Rwanda as a global innovator for responsible and inclusive AI
+
+List of Abbreviations
+AI Artificial Intelligence
+GIZ German Corporation for International Cooperation GmbH
+MINECOFIN Ministry of Public Service and Labour
+MINEDUC Ministry of Education
+MINICOM Ministry of Trade and Industry
+MINICT Ministry of Information, Communication Technology and Innovation
+MININFRA Ministry of Infrastructure
+ML Machine Learning
+MOOC Massive Open Online Course
+MOH Ministry of Health
+NAIO National AI Office Singapore
+NCSA National Cybersecurity Agency
+NISR National Institute of Statistics of Rwanda
+OECD Organization for Economic Co-operation and Development
+RAIO Responsible AI Office
+RDB Rwanda Development Board
+RISA Rwanda Information Society Authority
+RURA Rwanda Utilities Regulatory Authority
+TFS The Future Society
+UNEP UN Environment Programme
+UNESCO United Nations Educational, Scientific and Cultural Organization
+
+Table of Content
+Executive Summary 1
+Implementation Plan Summary 7
+1. 21st Century Skills & High AI Literacy 7
+2. Reliable Infrastructure & Compute Capacity
+
+3. Robust Data Strategy
+
+4. Trustworthy AI Adoption in the Public Sector
+
+5. Widely Beneficial AI Adoption in the Private Sector
+
+6. Practical AI Ethical Guidelines
+
+Executive Summary
+Artificial Intelligence (AI) has the potential to dramatically improve lives and livelihoods across
+the Republic of Rwanda, as well as make remarkable progress towards achievement of national
+development and economic objectives and sustainable development goals. However, while the
+development and economic opportunities of AI are huge, they are inextricably connected with
+risks which require ethical principles and precautions.
+The National Artificial Intelligence Policy for the Republic of Rwanda serves as a roadmap to
+enable Rwanda to harness the benefits of AI and mitigate its risks. Building on the mission of the
+Vision 2050, Smart Rwanda Master Plan and other key national plans and policies, it equips
+Rwanda to harness AI for sustainable and inclusive growth. By mobilizing local, regional, and
+international stakeholders, it positions Rwanda to become a leading African Innovation Hub and
+Africa’s Centre of Excellence in Artificial Intelligence.
+The National AI Policy has been developed by MINICT and RURA, with support by GIZ FAIR
+Forward, the Centre for the 4th Industrial Revolution Rwanda (C4IR) and The Future Society
+(TFS). The National AI Policy, which promotes and fosters Rwanda’s inclusive and sustainable
+socio-economic transformation, is oriented around the following vision and mission statements.
+Vision Mission
+To become a global center for AI To leverage AI to power economic growth,
+research and innovation improve quality of life and position Rwanda
+as a global innovator for responsible and
+inclusive AI
+National Objectives
+The Rwanda AI policy aims to achieve the following national objectives:
+• Positioning Rwanda as Africa's AI Lab and Responsible AI Champion
+• Building 21st Century Skills and AI Literacy
+• Creating an Open, Secure, Trusted Data Ecosystem as an Enabler of the AI Revolution
+• Driving Public Sector Transformation to Fuel AI Adoption
+• Accelerating Responsible AI Adoption in the Private Sector
+
+The Diagnostic Assessment of Rwanda’s AI Ecosystem identifies important opportunities
+and constraints that enable or mitigate AI adoption. It identifies the areas requiring policy interventions to accelerate, enable and scale Rwanda’s AI ecosystem. As such, it serves as the foundational knowledge base for policy recommendations to harness Rwanda’s strengths, overcome
+its weaknesses and threats, and ultimately take advantage of important opportunities for a
+vibrant AI ecosystem.
+Six priority policy areas have been identified to accelerate the responsible development and
+deployment of AI across the nation.
+Each of the priority areas is organized as Enablers, Accelerators or Safeguards as depicted in the
+image below.
+Rwanda National Al Policy: Six Priority Areas
+21st Century Skills Reliable Infrastructure Robust
+Enablers
+& High Al Literacy & Computer Capacity Data Strategy
+Trustworthy Al Adoption Widely-beneficial Al
+Accelerators
+in the Public Sector Adoption in one Private Sector
+Practical Ethical
+Safeguard
+Guidelines
+
+Key Policy Recommendations
+Commit to reskilling the workforce with 21st Century AI and data skills.
+
+Globally, emerging technologies starting with AI are transforming and reshaping our societies and labor markets. Rwanda’s workforce needs to be equipped with the skills to
+flourish in this transition and remain competitive in the regional and global landscape.
+The Government will invest in and develop a National Skills Building Program prioritizing
+AI and data skills combined with a Young Professionals/Apprenticeship Program to develop AI talent and career opportunities in the knowledge economy.
+2 Set the foundations for world-class AI university education and applied research.
+Investment in talent is a key stepping stone for an AI economy. Through the policy, the
+Government in partnership with the private sector will establish a Public-Private funded
+program for AI skills building at the university level with research fellowships, PhDs and
+Masters degrees, and long-term public-sector funding to universities to build capacity in
+AI education and research by attracting researchers and partnering with global universities.
+Adapt Rwanda’s education to ensure the young learners are empowered with globally
+
+competitive STEM skills.
+An AI economy requires long-term investment in human capital beginning at the primary
+education level. Rwanda’s school curricula shall adapt for the age of AI, data and digital
+technologies, with the Government investing in and creating a Teacher Corps to provide
+the support and training to young learners in AI and data-related subjects.
+Streamline the exchange of students and professionals between Rwanda and foreign
+
+countries.
+Building on the strategy to become a regional hub on the African continent, Rwanda has
+the opportunity to become a leader in AI education and research by attracting and retaining talent from across Africa and around the world.
+Ensure access to affordable, reliable and secure high performance storage and com5
+pute capacity.
+Strong compute power is necessary to train AI models on large data sets. Today, access
+to compute to drive AI adoption is a challenge for start-ups and industry. We need to
+provide mechanisms to enable access to international and world-class cloud computing
+services which offer competitive performance and cost for Rwandan companies and the
+research community, in order to facilitate and fast track AI adoption.
+Position Rwanda as a host for cloud infrastructure with AI-ready storage and compute
+
+capacity serving the region and the continent.
+Digital infrastructure is essential for the growth and penetration of regional integration. By
+investing in critical infrastructure and partnering with global players while also building
+the local skills required to manage and maintain the infrastructure, Rwanda has the
+opportunity to develop a national cloud infrastructure and techno-industrial base, and
+increase Rwanda’s regional competitiveness.
+
+Create pathways to greater availability and accessibility of AI-ready data.
+
+Data is the energy that will fuel Rwanda as Africa’s AI Hub, but today there is a lack of digitized data and most data from the public and private sector remain inaccessible. The
+Government will set up a multi-sectoral task force to develop data governance frameworks and protocols with standards for sharing data ethically, responsibly and securely
+and provide guidance for the public sector to migrate data to digital format and improve
+AI-readiness of public data.
+8 Strengthen AI policy and regulation and ensure public trust in AI
+Trust is critical to public confidence and acceptance of AI. By strengthening the capacity
+of regulatory authorities to understand and regulate AI aligned with emerging global
+standards and best practices, we will build transparency and trust with the public.
+Collaborate in measuring international AI development and Rwanda’s global competi9
+tiveness.
+International collaboration is essential to drive sustainable development in AI. The Government will establish international partnerships, building upon international AI readiness
+indexes and benchmark Rwanda’s AI competitiveness and capacity in an annual ‘AI Readiness Index’ in order to help drive development of AI in Rwanda and spur local, regional,
+continental and global investment in AI foundations.
+10 Improve public service delivery using AI.
+AI has the potential to improve performance and efficiency of public services, but few
+ministries and public sector agencies are currently harnessing it. We will invest in raising
+awareness of the benefits through piloting, demonstrations and building capacity to
+implement and manage AI projects, delivering improved public services. Using policy
+tools, the Government will engage local AI solution providers through innovation-friendly
+procurement processes, organize training sessions, invest in hackathons, prizes and
+challenges to open opportunities for responsible AI applications in the public sector, and
+establish a risk sharing fund to support R&D in the public sector.
+Support private sector adoption and prioritization of AI in order to drive robust invest11
+ments in AI at a national level.
+The private sector is a critical partner in driving penetration and adoption of AI within the
+wider economy, yet companies may perceive adopting new technologies as challenging
+and risky and may lack the internal capacity and resources required. In order to demystify
+AI, we will identify a portfolio of high potential AI use cases and projects aligned with the
+national agenda that can inform investment prioritization for the private and public
+sectors. We will also facilitate AI adoption through AI meet-ups and demonstrations to
+raise AI and data literacy. AI is of national and critical importance and hence we will raise
+the profile of AI at a national level through the establishment of a Presidential Council on
+AI composed of AI academic and industry leaders to provide advice to the government
+and private sector.
+12 Boost Rwanda’s emerging AI ecosystem.
+A key challenge for the start-up community is access to business resources and financing. We will facilitate collaboration among the start-up, industry and research communities in a ‘Rwanda AI Program’ to jointly develop AI innovations and solutions for industry
+and government challenges, in order to bring together the much-needed resources to
+catalyze the AI ecosystem.
+
+The Government will also support the financing by building upon the Seed Investment
+Fund to co-invest alongside specialist funds to invest in AI companies.
+Operationalize and share Rwanda’s AI ethical guidelines.
+
+Ethical and safety precautions are required to ensure that AI solutions benefit citizens
+and do not cause harm. The Government will promote Rwanda’s 'Guidelines on the Ethical Development and Implementation of AI’ throughout the AI community, led by RURA.
+Launch an annual participatory consultation forum to update the guidelines and create a
+network of AI Ethics Officers across government institutions to champion them.
+Actively contribute to shaping responsible AI principles & practices in international
+
+platforms.
+Global AI policymaking has already begun, and Rwanda will seek to participate in the
+global fora on AI, sharing Rwandan perspectives and interests and learning from international practices. Join platforms shaping the responsible adoption of AI regionally and
+globally (e.g. OECD, UNESCO, ITU, GPAI, World Bank, UNDP, GIZ, PDPC, Smart Africa,
+African Union, WEF/GAIA).
+The framework includes a sectoral deep-dive focusing on accelerating responsible AI adoption
+in identified key sectors for Rwanda:
+Healthcare Banking & E-commerce Transportation Agriculture
+Digital payments & trade
+These sectors were identified through the consultation process as flagship sectors where AI
+adoption can result in high rewards. Each sector is articulated with a description of the maturity
+of AI adoption in the sector, key actors, opportunities, challenges and key recommendations.
+Although AI generates many opportunities and great potential to promote development, there
+are significant risks with many of its applications. Hence, the National AI Policy also includes ethical considerations to capture the opportunities for economic development and mitigate the risks
+of AI. Rwanda’s Guidelines on the Ethical Development and Implementation of Artificial Intelligence, developed by RURA address the range of risks in the AI system lifecycle and considerations for responsible and trustworthy adoption of AI in Rwanda.
+
+Highlights
+6 policy areas for AI adoption with 14 key policy recommendations to
+accelerate responsible adoption of AI across Rwanda
+Tailored Guidelines on the Ethical Development and Implementation of Artificial
+Intelligence, published by Ministry of ICT and Innovation and RURA
+Practical Implementation Plan for each policy area, including outcomes, outputs,
+output indicators, activities, responsible actors, budget, and timeframe
+Proposal to establish a Responsible AI Office within MINICT to lead implementation, champion responsible AI inside Rwanda and advocate Rwanda perspectives
+in regional and global fora
+Robust collective intelligence process, engaging over 120 participants in 8 workshops, 8 stakeholder surveys, and multi-stakeholder interviews
+In-depth diagnostic assessment of Rwanda’s AI Ecosystem
+The National AI Policy includes the recommendation to establish a Responsible AI Office (RAI
+Office) during the first year of this policy, housed within MINICT. The RAI Office will have the coordinating responsibility of driving the AI policy Implementation Plan. The RAI Office is to be given
+the mandate to implement the National AI Policy by coordinating stakeholders across institutions
+and championing the responsible development and deployment of AI across the Rwandan public
+and private sectors. Beyond domestic engagement, the RAI Office can actively participate in
+global AI governance and policy fora such as the OECD AI Policy Observatory, ITU, UNESCO, and
+Global Partnership on AI (GPAI). Besides, the RAI Office or RAIO will be tasked with the monitoring and evaluation of the implementation of the policy, the integration of the implementation plan
+in regional-level policies and actors, as well as with leading communications around the National
+AI Policy.
+Rwanda has a momentous opportunity to leverage advancements in AI to achieve national objectives outlined in Vision 2050. By launching the Responsible AI Office, coordinating key actors
+and driving action, MINICT accelerates AI adoption in Rwanda to achieve objectives linked to
+sustainable and inclusive development and capacity building in Rwanda.
+
+Implementation Plan Summary
+The following implementation plan is a summary of the detailed implementation plan in the National Artificial Intelligence Policy for the
+Republic of Rwanda. It only contains summarized activity descriptions, primary indicators and responsible lead institutions. Please read the
+policy document for full information on activities, indicators and stakeholders.
+Priority Area 1: 21st Century Skills & High AI Literacy
+Output: A highly skilled workforce with 21st Century Skills and AI literacy
+Indicator: Number of professionals trained in data and AI-related skills
+No Activity FY 23/24 FY 24/25 FY 25/26 FY 26/27 FY 27/28 Responsible (Lead Institution)
+1 Conduct a skills gap assessment MINEDUC
+2 Establish a Professional Training Program MINICT/ RDB Skills Office
+3 Conduct analysis of existing tax and non tax incentives for
+upskilling/reskilling employees & benchmark tax relief and grant RAIO
+programs
+4 Implement a Tax Relief and Grants program for employers to
+RAIO
+upskill and reskill their employees
+5 Roll out an annual centralized agenda of Al-related meet-ups RAIO
+6 Establish and develop a framework for an industry-led
+PSF
+Apprenticeship program
+
+Output: A solid foundation in AI university education and applied research driving the national AI skills base
+Indicator
+Number of PhD/Masters/Bachelors students graduating from AI and data science courses annually
+Number of collaboration programs between Rwandan and foreign universities (platforms/MOOCS, exchange programs, satellite
+campuses)
+Number of citations in AI papers
+No Activity FY 23/24 FY 24/25 FY 25/26 FY 26/27 FY 27/28 Responsible (Lead Institution)
+7 Establish a public-private fund program for student placement
+NCST
+into industry-led Al-relevant Masters and PhD programs in
+global universities, and/or fellowships with global Al companies
+8 Set up a coordination effort to help Rwandan universities
+identify foreign universities/research institutes to can MINEDUC
+collaborate with
+9 Set up a Program Office/function to help Rwandan universities
+identify existing in-class courses to scale and national/ regional MINEDUC
+MOOCs to disseminate
+10 Under the National Skills Building Program, invite Eols from
+local, regional/globaluniversities and training providers to
+RDB
+introduce bridge courses in Al in non-computer science or data
+science domains
+11 Establish taskforce led by MINEDUC and main universities
+to work out plan to integrate AI & Data Science courses in MINEDUC
+undergraduate currica
+
+Output: A solid foundation in AI university education and applied research driving the national AI skills base
+Indicator
+Number of PhD/Masters/Bachelors students graduating from AI and data science courses annually
+Number of collaboration programs between Rwandan and foreign universities (platforms/MOOCS, exchange programs, satellite
+campuses)
+Number of citations in AI papers
+No Activity FY 23/24 FY 24/25 FY 25/26 FY 26/27 FY 27/28 Responsible (Lead Institution)
+12 Develop modules to be integrated into relevant subjects in
+national curriculum focused on building Al/ML and data related MINEDUC
+skills
+13 Establish Train-the-Trainer Program in Al skills to train new or
+upskill IT / science teachers as well as non-IT and science MINEDUC
+teachers
+14 Align national curriculum at primary school and secondary
+school levels with the '21st century curriculum', integrating the MINEDUC
+developed Al/ML/data modules
+15 Establish National Tech Labs Program to create and staff tech
+MINEDUC
+labs in schools
+Output: Streamlined exchange of students and professionals between Rwanda and foreign countries
+Indicator:
+Number of international students enrolled in university programs offering AI related courses
+Number of international students and researchers working on Rwanda-based AI research projects
+Skills export: Number of Rwanda-trained AI professionals going to work elsewhere (Rwandan nationals and otherwise, remotely from
+Rwanda or physically abroad)
+
+Develop modules to be integrated into relevant subjects in
+national curriculum focused on building Al/ML and data related
+skills
+Establish Train-the-Trainer Program in Al skills to train new or
+upskill IT / science teachers as well as non-IT and science
+teachers
+Align national curriculum at primary school and secondary
+school levels with the '21st century curriculum', integrating the
+developed Al/ML/data modules
+Establish National Tech Labs Program to create and staff tech
+labs in schools
+No Activity FY 23/24 FY 24/25 FY 25/26 FY 26/27 FY 27/28 Responsible (Lead Institution)
+16 Create special Visa framework that targets highly skilled /
+expectional talent and develop classification and rating system IMMIGRATION
+to identify and assess skills related to Al
+17 Establish talent matching workforce and platform that connects
+Rwanda-based Al professionals to jobs across the continent RDB SKILLS
+Establish dedicated strategy to attract regional students,
+18 coordinating across Rwandan universities offering Al-related MINEDUC
+degrees
+Streamline the process for highly-skilled students to apply to stay
+19 in Rwanda after finishing their degrees and reduce hurdles in IMMIGRATION
+hiring international researchers
+Conduct networking events and meetups for Rwanda private and
+public sector employees and highly skilled students and RAIO
+
+professionals abroad
+Conduct a public awareness campaign on AI to create a general
+
+understanding of AI as well as its benefits and risks in the
+general public. This can include events, radio broadcasting, MINICT
+among others.
+Output: General public in Rwanda has general understanding of AI
+Indicator: Number of people reached through awareness raising campaign
+
+Priority Area 2: Reliable infrastructure and compute capacity
+Output: Access to affordable, reliable, and secure scalable storage and high-performance compute capability/infrastructure
+Indicator: Percentage (%) change in cost of cloud resources over time in RWF
+No Activity FY 23/24 FY 24/25 FY 25/26 FY 26/27 FY 27/28 Responsible (Lead Institution)
+Register local and foreign cloud service providers under the
+
+supervisory authority (NCSA) as required by law (DPP) NCSA
+23 Conduct a landscape analysis of the current compute and digital
+infrastructure to determine opportunity, and identify priority areas RISA
+for improvement
+24 Publish guidance targeted towards industry and users on how
+RISA
+existing privacy legislation fits with cloud computing
+25 Promote dialogue among stakeholders in tertiary education to
+identify measures for ensuring that graduates have the RISA
+necessary skill sets in cloud computing
+26 Conduct a national cloud readiness survey to inform a cloud RISA
+strategy
+27 Conduct a compliance audit of registered and authorized local
+and foreign cloud service providers to ensure compliance with NCSA
+regulation, certification and standards
+28 Upgrade and implement infrastructure based on landscape
+RISA
+analysis in Year 1 and cloud first strategy
+29 Conceptualize and publish a government cloud first (with a
+secure hybrid multi-cloud service offering) strategy and adoption MINICT
+roadmap
+30 Enforce the Data Protection & Privacy law NCSA
+31 Prepare revised ICT procurement guidelines and contract RISA
+management practices for Cloud services and products
+
+No Activity FY 23/24 FY 24/25 FY 25/26 FY 26/27 FY 27/28 Responsible (Lead Institution)
+32 Analyse, benchmark and recommend suitable incentives and tax
+breaks to private sector both within and outside the ICT sector to
+RAIO
+fund some of the cloud computing (storage and compute)
+projects
+33 Implement applicable incentives based on special incentive
+packages, recommended incentives, and tax breaks to private
+MINECOFIN
+sector both within and outside the ICT sector to fund some of the
+cloud computing (storage and compute) providers
+Output: A continental hub that provides affordable, reliable and secure AI cloud infrastructure
+Indicator: A blueprint for establishment of a continental AI ready hyperscale data center in Rwanda
+No Activity FY 23/24 FY 24/25 FY 25/26 FY 26/27 FY 27/28 Responsible (Lead Institution)
+34 Conduct a feasibility study on the creation of a continental AI Hub
+RDB/RISA
+in Rwanda
+35 Develop a high-level understanding of investment drivers in
+hyperscale data centersand undertake a gap and economic
+RDB
+analysis
+Identify any skills gaps required for data centers and develop
+36 RDB/RISA
+strategies to address any identified needs
+37 Acquire/allocate strategic areas/land for data centres and/or data
+RDB
+center-related companies, as outlined in economic study in year 1
+Develop roadmap and plan of action for establishment of a
+38 RISA
+continental hyperscale data center
+Upgrade Rwanda's internet throughput to ensure low latency, low
+
+packet loss, and high overall network quality RURA
+
+Priority Area 3: Robust data strategy
+Output: Increased availability and access to quality data for training AI models
+Indicator:
+Size (bytes) of open AI-ready data available to the research and innovation community
+Number of times the open datasets are accessed or downloaded over time
+No Activity FY 23/24 FY 24/25 FY 25/26 FY 26/27 FY 27/28 Responsible (Lead Institution)
+40 Set up a joint public-private and multi-sectoral taskforce to
+MINICT/C4IR
+develop frameworks and protocols for data sharing
+41 Develop a plan to establish local data value-chains starting with
+MINICT/C4IR
+simpler value-adding activities (e...g, data annotation or labelling)
+42 Establish a multi-year program under MINICT with the objective
+MINICT
+to improve Al-readiness of relevant public data sets
+Develop procurement guidelines incentivizing data sharing &
+43 access for public projects including ICT/data/Al components C4IR
+e.g future telecom licenses, data centers, etc.)
+Conduct a feasibility study for the implementation of data sharing
+44 C4IR
+platform/infrastructure for Rwanda
+Organize workshops and training sessions with senior
+45 management of public departments ; and private companies to
+MINICT/C4IR/NCSA
+highlight benefits of sharing data, impact on their organizations,
+business models, in order to encourage sharing
+46 Conduct capacity building session to support implementation of
+MINICT/C4IR/NCSA
+data sharing frameworks for public and private sector
+stakeholders
+
+Priority Area 4: Trustworthy AI adoption in the public sector
+Output: AI policy and regulatory capacity building program established in Rwanda, aligned with emerging global standards and policy/regulation best practices.
+Indicator: Number of trained civil servants (prioritizing regulators, policymakers, legislators)
+No Activity FY 23/24 FY 24/25 FY 25/26 FY 26/27 FY 27/28 Responsible (Lead Institution)
+47 Establish a policy & regulatory capacity building program
+MINICT
+48 Conduct a series of workshops with ministries and agencies
+responsible for the implementation of the AI policy to raise
+MINICT
+awareness on the goals and objectives as well as responsibilities
+for policy implementation
+Output: Rwanda recognized as a African/global leader in AI
+Indicator: Rwanda's position in a globally renowned AI Readiness/Maturity Index
+No Activity FY 23/24 FY 24/25 FY 25/26 FY 26/27 FY 27/28 Responsible (Lead Institution)
+Develop of an annual 'AI Readiness Index and Maturity
+49 C4IR
+Assessment Framework
+50 Subscribe to a global Al Maturity Index (e.g., OECD,
+Stanford HAI, Tortoise Media) MINICT
+
+Output: Improved public service delivery through the deployment of Al in public services and government departments
+Indicator: Number of Al solutions adopted in government/public value chains (across sectors)
+No Activity FY 23/24 FY 24/25 FY 25/26 FY 26/27 FY 27/28 Responsible (Lead Institution)
+49 Develop a capacity building program on the use of Al in public
+RISA
+sector
+50 Develop procurement guidelines of Al solutions in the public
+RPPA/MINICT/C4IR
+sector
+Organize trainings for public procurement departments on using
+51 RPPA/RISA
+the procurement guidelines to evaluate Al tools and solutions
+Organize Al & Data hackathons, prizes and challenges targeted at
+52 MINICT/C4IR
+the public sector
+53 Establish a shared risk fund for Al development projects in
+MINICT/C4IR
+ministries and agencies, providing budget support for R&D
+54 Conduct a feasibility study on establishing a shared risk fund for
+MINICT
+AI development and research projects in government institutions
+
+Priority Area 5: Widely beneficial AI adoption in the private sector
+Output: Robust investment in targeted AI projects creating social & economic impact, new growth opportunities for private sector and catalyzing investment into AI
+Indicator: Number of AI solutions deployed in the Rwandan market
+No Activity FY 23/24 FY 24/25 FY 25/26 FY 26/27 FY 27/28 Responsible (Lead Institution)
+55 Organize workshops with global industry experts and live
+C4IR (RAIO)
+demonstrations to showcase benefits of AI to private sector
+stakeholders
+56 Conduct a market study to forecast the economic impact
+potential for AI in Rwanda, and associated applications of AI to MINICT/C4IR
+drive that impact”
+57 Set Up a taskforce to research and identify a portfolio of 5
+National AI Projects with ability to deliver strong social and/ or
+MINICT/C4IR
+economic impact for Rwanda, leveraging findings from the
+economic impact potential study
+58 Develop proof-of-concept (PoC) for the 5 National Al projects
+MINICT/C4IR
+identified by the task force
+Develop sector specific industry Al deployment plans providing
+
+step-by-step guide on Al digital solutions to adopt at each stage C4IR
+on company’s growth
+organize functional and technical specification workshops with
+
+private sector, public sector and academia to create awareness MINICT/C4IR
+of the 5 National Al projects
+
+Output: A strong ecosystem with local industry collaboration providing support to AI start-ups with finance and business resources
+Indicator: Value of AI related venture capital investments
+No Activity FY 23/24 FY 24/25 FY 25/26 FY 26/27 FY 27/28 Responsible (Lead Institution)
+61 Establish a Technical Assistance Facility to support industry-led MINICT/ICT
+incubators focused on AI startups CHAMBER
+Conduct feasibility study on establishing co-investment fund to
+62 C4IR
+invest alongside Angel and VC funds focused on AI startups
+Establish co-investment Fund to invest alongside Angel and VC
+
+MINICT
+funds focused on Al startups
+Establish a Rwanda Al program bringing together Rwandan
+
+industry, researchers and technology companies to jointly C4IR
+develop Innovative solutions for both public and private sector
+Set up industry peer ICT CHAMBER/MINICT/C4IR review ICT CHAMBER/
+
+program to accredit promising innovative tech companies in AI MINICT/C4IR
+66 Establish a sandbox match-making platform in partnership with
+RAIO/MINICT
+industry
+
+Priority Area 6: Practical AI ethics guidelines
+Output: Widely diffused & operationalized 'Guidelines on the Ethical Development and Implementation of Artificial Intelligence'
+Indicator:
+Number of companies using published ethical guidelines to evaluate AI products
+Number of government institutions using ethical published ethical guidelines
+No Activity FY 23/24 FY 24/25 FY 25/26 FY 26/27 FY 27/28 Responsible (Lead Institution)
+67 Promote and advertise Rwanda's 'Guidelines on the Ethical
+MINICT/RURA
+Development and Implementation of Artificial
+68 “Organise a forum of regulators of AI-relevant sectors to
+discuss the development of sector-specific AI ethics
+MINICT/RURA
+guidelines aligned with the general guidelines
+69 Add "Al Ethics" functions to the mandates/responsibilities of
+Chief Digital Office" departments of ministries and MINICT
+government agencies
+Initiate regulatory sandbox projects on Al to provide
+
+RURA
+controlled testing environment to develop or evaluate
+innovative Al solutions in line with the guidelines
+71 Launch an annual participatory industry & society consultation
+MINICT/RURA
+forum to better understand how stakeholders use the
+guidelines and any opertional challenges
+72 Update and release new versions of the guidelines (once
+every 3 years) to reflect input from the consultation forum, MINICT/RURA
+government priorities, and latest trends in Al development
+and deployment
+
+Output: Rwanda actively contributing to the shaping and operationalizing of responsible Al principles & practices in relevant international
+and regional platforms.
+Indicator:
+Number of international/regional platforms in which Rwanda is an official member and actively provides thought-leadership on Al governance in order to cement Rwanda's position as a leader and also guide adoption of standard guidelines across partner countries
+No Activity FY 23/24 FY 24/25 FY 25/26 FY 26/27 FY 27/28 Responsible (Lead Institution)
+Apply for joining international and regional platforms on Al
+73 MINICT/RURA
+governance such as OECD AI Policy Observatory, Global
+Partnership on Al (GPAI),
+
+MINICT - 2022

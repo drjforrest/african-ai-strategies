@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -)",
+      "Bash(python -m scripts.extract_pdfs)",
+      "Bash(.venv/bin/python -c \"import sentence_transformers as s, sys; print\\('python', sys.version.split\\(\\)[0]\\); print\\('sentence-transformers', s.__version__\\)\")",
+      "Bash(xargs -n1 basename)",
+      "Bash(rm -f data/national_strategies/*.txt data/who_strategy/who_gsdh.txt)",
+      "Bash(.venv/bin/python -m scripts.extract_pdfs)",
+      "Bash(python3 -c \"import pandas as pd; df=pd.read_csv\\('outputs/alignment_scores.csv'\\); print\\(df.shape\\); print\\(df.columns.tolist\\(\\)\\); print\\('---'\\); print\\(df.describe\\(\\).round\\(3\\).to_string\\(\\)\\)\")"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+[project]
+name = "african-ai-policy-who-alignment"
+version = "0.1.0"
+description = "Map 15 African national AI strategies onto WHO digital-health competency domains via embeddings."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.pyright]
+# The project uses `from src import ...` with the repo root on sys.path.
+extraPaths = ["."]
+reportMissingImports = "warning"
+
+[tool.ruff]
+line-length = 100

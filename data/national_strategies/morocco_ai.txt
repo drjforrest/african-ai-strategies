@@ -1,0 +1,1301 @@
+1 >>
+
+EXECUTIVE SUMMARY 06
+Introduction : AI in Morocco: A Major
+Strategic Turning Point Under High King’s 11
+Leadership for an Intelligent, Sovereign,
+and Inclusive Future
+I. Global context of the scale of AI and the
+
+potential for Morocco's repositioning
+II. The 1st National AI Conference: A Catalyst
+
+for a Transformative Prospective Revolution
+III. Building Digital Trust: Governance, Ethics,
+Legal Framework, and Cybersecurity at the Core 15
+of Moroccan AI
+IV. Sovereign Digital Infrastructures:
+The Indispensable Physical Foundation to Unlock 18
+the Potential of AI
+V. Human Skills, Research, and Innovation: The
+Essential Drivers of the Moroccan AI Ecosystem 20
+VI. AI, Catalyst for Transformation: Sectoral
+SUMMARY Perspectives for an Obvious and Inclusive 22
+Impact
+VII. Morocco as a Global AI Actor: International
+
+Positioning and Strategic Cooperation
+VIII. Elements of an AI roadmap in Morocco:
+Synthesis of Cross-Cutting Challenges and the 31
+Eight Fundamental Pillars for Action
+IX. General Conclusion: From Strategic
+Reflection to the Realization of Morocco's 33
+AI Ambition
+X. Strategic Conventions Signed: The First Acts
+
+of Implementation of the Conference
+XI. Formal Closing Ceremony: The Starting Point
+
+for Accelerated Action by Artificial Intelligence
+XII. Formal Closing Act: Message of Homage
+
+and Gratitude from Participants to His Majesty
+the King
+THEY CARRY THE VISION 40
+RECOMMENDATIONS 44
+PRESS COVERAGE 46
+
+>
+
+>
+
+EXECUTIVE SUMMARY
+The First National Conference on Artificial In- ting the achievement of 79% of the Sustainable
+telligence, held in Rabat on July 1st and 2nd, Development Goals (SDGs) and significantly
+2025, under the High Patronage of His Majesty contributing to global Gross Domestic Product
+King Mohammed VI, may God assist him, mar- au lieu de (estimated at 26% by 2030). However,
+ked a pivotal moment and a decisive strategic to fully unlock this potential, we must overcoturning point for the digital future of the King- me significant and interdependent challenges.
+dom. In a global context where Artificial Intelligence (AI) is reshaping power balances and These challenges notably include the absodeeply transforming economies and societies, lute necessity of building a robust digital trust
+the Ministry of Digital Transition and Admi- framework encompassing legal and ethical asnistration Reform (MDTAR) has, through this pects, cybersecurity; the urgent need to masinitiative, affirmed its strong commitment to sively train a qualified human capital and adapt
+placing AI at the core of its public policies. The skills to the rapid evolution of professions; the
+clear ambition is to establish the Kingdom as a crucial need to significantly invest in sovereipioneer and a regional and African hub for so- gn digital infrastructures (high-performance
+vereign, ethical, and inclusive AI, rooted in an computing, data centers); the necessary moenlightened King's vision and supported by the bilization of financing and support for innovaambitious Morocco Digital 2030 strategy. tion to foster the emergence of local AI production; the management of AI adoption and
+This event successfully achieved national mo- organizational and societal transformation; the
+bilization, actively bringing together all key establishment of effective governance and instakeholders: government, the private sector, tersectoral coordination; the strengthening of
+academics, and civil society, enriched by the Morocco's international positioning and, prefevaluable contribution of renowned internatio- rentially, South-South cooperation; and finally,
+nal experts and dignitaries. This inclusive dia- the reduction of the digital and social divide to
+log has helped consolidate a shared and lucid ensure equitable access to technologies and
+diagnosis and recommendations that will form the benefits of AI.
+the elements of a national AI roadmap. The
+conference highlighted the enormous trans- In reply to these identified challenges, the
+formative potential of AI, capable of accelera6
+
+conference has outlined and validated the ma- orientations revolves around eight fundamenjor strategic orientations forming the foun- tal pillars, which together form an ambitious
+dation of Morocco's future National Artificial and pragmatic roadmap:
+Intelligence roadmap. The structure of these
+Establish a robust trust framework and agile and ethical governance by adapting the
+
+institutional and legal framework, promoting ethics, and strengthening cybersecurity.
+
+Invest massively and sustainably in critical and sovereign digital infrastructures by
+accelerating the deployment of nationally secured computing and storage capacities.
+
+Develop human competence to master AI through an ambitious national training plan and
+talent attraction initiatives.
+
+Promote innovation and local AI production by supporting research and development
+(R&D) as well as the startup ecosystem to create tailored solutions.
+
+Boost financing and accelerate the massive adoption of AI by mobilizing diversified
+financial resources and assisting sectoral deployments.
+6 Strengthen Morocco's international positioning and leadership in South-South
+Cooperation by actively participating in global governance and fostering regional
+partnerships.
+
+Ensure inclusion and equity in access to AI by reducing territorial and social inequalities
+and adapting tools to local needs.
+
+Decisively move to concrete and measurable action by prioritizing high-impact projects
+and establishing rigorous monitoring.
+The firm commitment to move from reflection under the enlightened leadership of His
+to concrete action was immediately illustrated Majesty the King, to make artificial intelligence
+by signing several strategic agreements on a fundamental lever for national development,
+the sidelines of the conference, covering a key instrument of digital sovereignty, and
+essential areas such as education, energy, a powerful catalyst for building a smarter,
+digital cooperation, and rural inclusion. These fairer, more inclusive, and more prosperous
+partnerships signal the solid launch of the future, thereby contributing to the Kingdom's
+operational phase. prominence on the regional and international
+Ultimately, the First National AI Conference stage.
+reaffirms Morocco's strategic commitment,
+
+>
+
+Meeting the challenges posed by artificial
+intelligence requires a collective effort, common
+and global reflection, and organization [...]
+We must establish clear rules. Artificial
+intelligence can only be effective within a
+framework of trust
+Mr. Aziz AKHANNOUCH,
+Head of Government
+Excerpt from the speech at the opening session on July 1
+
+AI is not an end in itself, but rather a tool within a larger
+civilizational project [....] True success will not be
+measured by the number of algorithmic feats, but
+rather by their contribution to the establishment of
+digital justice, the strengthening of citizen trust, and
+the consolidation of sovereignty.
+Mrs. Amal EL FALLAH SEGHROUCHNI,
+Minister Delegate to the Head of Government in charge of Digital
+Transition and Administrative Reform.
+
+>
+
+INTRODUCTION
+AI IN MOROCCO: A MAJOR STRATEGIC TURNING POINT UNDER
+HIGH KING’S LEADERSHIP FOR AN INTELLIGENT, SOVEREIGN,
+AND INCLUSIVE FUTURE
+Artificial intelligence is reshaping the global In a global context where AI is a determining
+chessboard and propelling societies into unpre- power factor, this conference brought together
+cedented transformation. With this key turning all the vital forces of the nation—government,
+point, Morocco has taken a decisive initiative, private sector, academic world, and civil sodriven by an enlightened and initiative-taking ciety—alongside experts and international leaking's vision, and placed under the high patro- ders.
+nage of His Majesty King Mohammed VI, may
+God assist him. The fundamental objective, as defined from the
+opening session by the Minister Delegate, was
+The Head of Government, Mr. Aziz Akhannouch, to:
+emphasized at the opening that the National
+AI Conference constitutes a significant step in > Create a mutual understanding of the curasserting our digital and technological sove- rent state of AI and its potential.
+reignty, reflecting Morocco's commitment to
+> Explore in depth the opportunities in priority
+placing artificial intelligence at the core of its
+sectors.
+public policies.
+> Identify the significant challenges to overIn her opening speech, the Minister Delegate come (technological, economic, social, ethical,
+to the Head of Government in Charge of Digi- legal).
+tal Transition and Administrative Reform, Mrs.
+> Formulate substantial recommendations to
+Amal El Fallah Seghrouchni, highlighted the
+structure an efficient, ethical, inclusive, and sourgency for Morocco to collectively and instivereign national strategy."
+tutionally recognize that AI is not just a future
+technology but rather a "current reality that
+This report synthesizes productive exchanges
+is redefining the future." It is revolutionary to
+related to the plenary sessions and themaenter social protection, education, health, fitic round tables. It highlights the indispennance, and land use planning systems.
+sable strategic foundations and the identified
+cross-cutting challenges and presents the
+The First National Artificial Intelligence Confeeight fundamental pillars forming the basis of
+rence, held in Rabat on July 1st and 2nd, 2025,
+Morocco's future National Artificial Intelligence
+marked a historic milestone: that of national
+Roadmap. The appendix includes summary
+mobilization to build a sovereign, ethical, and
+sheets for each session, sources of concrete
+inclusive AI roadmap, firmly positioning the
+examples, and precise recommendations for
+Kingdom as a regional hub at the core of the
+comprehensive documentation.
+ambitious Morocco Digital 2030 strategy.
+
+>
+
+I. GLOBAL CONTEXT OF THE SCALE OF AI AND THE
+POTENTIAL FOR MOROCCO'S REPOSITIONING
+The presentation of enlightening key statistics during the conference effectively demonstrated the strategic significance of artificial intelligence and the urgency of a
+decisive strategic response.
+1.1. Global Competitiveness and Inequalities: 1.3. Persistent Digital Divide: A Challenge of
+A Competitive Context Marked by Obvious Inclusion and Sovereignty on a Global and
+Disparities African Scale
+Massive global investments in AI, projected to The persistence of a significant global digital
+reach nearly a trillion dollars by 2025, starkly divide (2.6 billion people without internet accontrast with the small share allocated to Afri- cess) and the fact that 99% of African data is
+ca (<5%). The Permanent Representative of hosted outside the continent highlight the cruMorocco to the UN, Mr. Omar Hilale, quantified cial challenges of inclusion, equitable access to
+these investments: nearly one trillion dollars technologies, and, above all, digital sovereignty
+for developed countries by 2025 (including US that urgently need to be addressed for Africa
+500 billion, EU 200 billion, and China 138 billion) and Morocco.
+compared to 226 billion for the Global South
+(including UAE 140 billion, AS 8 billion, and Afri- 1.4. Moroccan Strengths and Ambitions: Reca 60 billion announced at the Kigali summit). position the Kingdom as a Trusted Regional
+He emphasized that Africa would receive less Leader
+than 5% at the current price. This gap reveals
+a race at multiple speeds and a risk of worse- Considering these global challenges, Morocco
+ning technological and economic inequalities has solid assets and displays a clear and deterbetween the North and the South. mined objective. The ambitious Morocco Digital 2030 strategy illustrates the state's financial
+1.2. Potential for a Deep Transformation: AI, commitment. The potential in human capital is
+remarkable, with a national ambition to train
+an Invaluable Lever for the SDGs, and Global
+100,000 talents in digital skills, including AI. The
+GDP
+active international role of the Kingdom, noAI's potential to contribute to achieving the Sus- tably praised by Ms. Deemah Alyahya from the
+tainable Development Goals (SDGs) is immense, DCO as making Morocco a "model for the MENA
+as is its expected contribution to the global GDP region and beyond," demonstrates its ability to
+(estimated at five trillion by 2030, or 26% of the establish itself not only as a savvy user but also
+global GDP). These figures highlight AI's unpre- as a player, a producer, and a regional leader in
+cedented opportunity for economic and social trusted AI.
+development. Ms. Amal El Fallah Seghrouchni
+reminded us of the significant potential of AI to
+meet the Sustainable Development Goals, with
+79% of them potentially achievable. She described AI as an essential "development lever"
+for the African continent, which is significantly
+behind on these goals and needs accelerators
+(only 6% estimated to be achieved by 2024 according to UNDP).
+
+II. THE 1ST NATIONAL AI CONFERENCE: A CATALYST FOR A
+TRANSFORMATIVE PROSPECTIVE REVOLUTION
+Against the global context of an accelerated transformation driven by artificial intelligence, Morocco recognizes the strategic imperative of mastering this technology for
+its development and sovereignty. The First National Conference was the catalyst for
+this ambition.
+2.1. The First National Conference: 2.2. AI: A Major Geopolitical and Economic
+The King’s Impulse to Realize the Kingdom's Reality for Morocco
+Digital Future
+The emergence of Artificial Intelligence (AI)
+The First National Conference on Artificial In- has definitively changed its status to become
+telligence, held in Rabat on July 1 and 2, 2025, a major geostrategic issue and a potential driunder the High Patronage of His Majesty King ver of profound transformation for economies
+Mohammed VI, may God assist him, consti- and societies. In this swiftly advancing global
+tuted an event of historical significance. They environment, mastering, developing, and demarked a decisive milestone in the Kingdom's ploying AI in a supervised and ethical approach
+trajectory toward realizing its strategic vision is no longer an option for a nation. It is a critical
+for the digital future. As highlighted by the Mi- determinant for its future placement, competinister Delegate in charge of Digital Transition, tiveness, and guaranteed sovereignty in the diMs. Amal El Fallah Seghrouchni, AI has evolved gital age. The Head of Government stated that
+from a mere technological element to a "cen- AI is no longer a luxury but a key lever for econotral engine" of structural transformation and a mic and social transformation.
+"cross-cutting lever" for all public policy.
+The Minister Delegate, Mrs. Amal El Fallah SeDriven by the ambitious Morocco Digital 2030 ghrouchni, highlighted that AI is not a neutral
+Strategy, the objective of the conference is to technology but a "system of knowledge and aumake Morocco a pioneer and a regional hub for thority that reshapes power dynamics" within
+AI, using it as a powerful catalyst for economic society, in ties between citizens and the state,
+and social development and an indispensable as well as in interstate relations. Mastering this
+lever for consolidating national digital competence is a crucial determinant of a nasovereignty. tion's future strength and the assurance of its
+sovereignty. The incorporation of AI on a national scale is fundamentally essential for maintaining sovereignty, ensuring that technological
+advancements are congruent with the ethical
+principles of humanity and do not violate the
+democratic framework.
+
+>
+
+2.3. An Unprecedented Mobilization:
+The Conference, Platform for Dialogue,
+and Strategic Emergence
+The main goal of this conference, which the > There were more than 130 national and
+Minister Delegate for Digital Transition, Madam international speakers, representing over 30
+Amal El Fallah Seghrouchni, called "unprece- countries.
+dented," was to gather and involve everyone in
+> There was significant representation from the
+the national ecosystem—like the government,
+12 regions of Morocco, including the regional presiprivate companies, schools, universities, redents.
+search centers, and community groups—along
+with experts and notable international guests.
+> Over two hundred public actors, over five
+hundred private actors, and more than sixty enThe conference format integrated plenary sestrepreneurs are all part of the ecosystem. Addisions, thematic roundtable discussions, and intionally, thirty exhibitors are present to highlight
+novation exhibition spaces to promote inclusive
+the innovative capabilities of the local commustrategic dialogue and facilitate the developnity.
+ment of constructive proposals and actionable
+plans. > The 2,300 people who signed up before
+the deadline and many more who signed up for
+The level of this mobilization was clearly shown streaming show that the conference attracted a
+by the high number of participants in the As- lot of attention from the public.
+sises, which took place over 2 days and included
+> These numbers demonstrate how well the
+13 main topics, 6 large group sessions, and 15
+conference served as a meeting place for nasmaller discussion groups.
+tional and international stakeholders to discuss
+and unite behind the major AI challenges.
+
+III. BUILDING DIGITAL TRUST: GOVERNANCE, ETHICS, LEGAL
+FRAMEWORK, AND CYBERSECURITY AT THE CORE OF
+MOROCCAN AI
+At the core of deploying artificial intelligence within Moroccan society, building a sustainable climate
+of trust is essential for its success, acceptance, and appropriation. AI is not neutral technology, as
+emphasized by the Minister Delegate in charge of Digital Transition and Administrative Reform, Mrs.
+Amal El Fallah Seghrouchni. It "reshapes power dynamics," and the construction of "new systems of
+trust between citizens and the State" is a "fundamental institutional responsibility." These strong
+foundations are indispensable for guaranteeing that AI is developed and employed in accordance
+with the paramount interests of citizens, fundamental rights, and national values.
+The AI trust system should be founded on four strategic principles: initiative-taking and inclusive
+governance, a precise and adaptable regulatory framework, cybersecurity by design, and robust
+ethical assurances. The first National AI conference emphasized the need to establish a national legal framework that aligns with international norms, including European AI rules, to safeguard digital
+sovereignty, basic freedoms, and responsible innovation. We advise the establishment of regulation,
+auditing, certification, and labeling to govern the use of AI and mitigate any risks. Ensuring algorithmic transparency and governance is essential to prevent unfair practices and preserve public
+involvement.
+3.1. Launch Agile, Resilient, Transparent, and The national aim of a sovereign, inclusive, and
+Shared Governance for the AI Ecosystem ethical AI depends on agile, initiative-taking,
+and collaboratively developed governance that
+Clear, transparent governance that involves all
+addresses regional disparities and guarantees
+stakeholders is the foundation of digital trust.
+equitable access to AI.
+A governance that is both resilient and forwardthinking, which is supported by robust strateThis entails the creation of local and sectoral
+gic monitoring mechanisms and encourages
+consultation platforms that incorporate ciongoing consultation, is advised.
+tizens into decision-making processes, utilizing a "quadripartite" framework that includes
+The Minister Delegate, Amal El Fallah Seghrouchthe state, businesses, researchers, and civil
+ni, emphasized that artificial intelligence poses
+society.
+numerous governance challenges, particularly
+regarding how to ensure that decision-making
+This approach seeks to mitigate disruptions
+stays within the authority of the institution insand deviations while fostering responsible intead of being dictated by algorithms.
+novation.
+Enhancing current institutional capabilities in
+the digital sphere and instituting participatory
+and localized governance are considered essential for a roadmap really anchored in the nation's reality. She characterized this aspect of
+the national discourse on AI as a strategic discussion including both its symbolic and planned
+elements.
+
+>
+
+3.2. Create a Robust and Agile Legal 3.3. Anchoring AI in a global ethical system,
+Framework, Protector of Citizens, and Cata- respectful of values and human rights.
+lyst for Responsible Innovation
+The Conference has facilitated the creation of
+The discussions brought to light the need to clear and unwavering guiding principles on the
+establish a thorough, flexible, and foreseeable ethical front. Based on the important values of
+legal and regulatory framework for the King- the Kingdom and following global standards,
+dom. An essential problem of sovereignty is these principles include being open about how
+the need for a framework that can keep up with public and private algorithms work; actively
+the ever-changing landscape of artificial intel- working to reduce biases in algorithms related
+ligence (AI) technology while simultaneously to demographics, ethnicity, or culture found in
+safeguarding the personal information and hu- some AI models; ensuring fairness and no disman rights of individuals. crimination in AI use; and clearly outlining who
+is responsible when something goes wrong or
+Madam Amal El Fallah Seghrouchni has an- causes harm.
+nounced that her ministry is in the process of
+preparing a draft law concerning digital admi- Ms. Amal El Fallah Seghrouchni, the Minister
+nistration. It will include specific rules for using Delegate in charge of Digital Transition and AdAI in administrative tasks and working closely ministrative Reform, warned about the risks of
+with organizations responsible for maintaining algorithmic biases that may result in exclusion
+digital trust, such as the CNDP, the DGSN, and and discrimination, particularly affecting vulnethe DGSSI. The draft law being prepared also rable groups. She highlighted the "ethical obliseeks to restore digital trust, which the minis- gation" associated with the use of AI systems,
+ter delegate regards as a "cornerstone" of the stressing the importance of fairness, equality,
+relationship between citizens and administra- and the need to prevent discrimination.
+tion in this new era.
+Various practical mechanisms for implemenIt is essential to ensure fundamental rights, in- ting these ethics have been examined, inclucluding the right to receive an explanation for ding the creation of sector-specific ethical
+automated decisions made by AI systems and charters, independent auditing processes for
+the practical opportunity to appeal those deci- AI systems, and public certifications for solusions. This legislation will specifically focus on tions that adhere to the established principles.
+enhancing the transparency of administrative The matter of algorithm explainability, often
+algorithms and safeguarding the right to com- referred to as "black boxes," is considered vital,
+prehend and challenge them. It is highly recom- especially in fields where AI decisions signimended that a Moroccan legal framework for AI ficantly affect human life, such as healthcare,
+be established, taking inspiration from relevant administration, and justice.
+international models (such as the European AI Implementing systematic human oversight in
+Act) and making sure that it is in line with both all high-impact applications is crucial to avoid
+national values and international standards unchecked decision-making by autonomous
+(such as the United Nations). machines. Experts highlight the importance of
+establishing an ethical regulatory authority to
+The legal framework should explicitly outline oversee potential deviations and provide critithe responsibilities of all parties involved in AI cal assessments on controversial applications.
+systems, such as administrations, technology Ethics should be evident in control procedures,
+providers, and economic operators, to establi- documentation requirements, and institutional
+sh a transparent accountability system in the assurances. Incorporating ethics into AI design
+event of errors, damage, or systemic failures. is essential for preventing biases and enhanIt should also incorporate systems for ongoing cing the effectiveness of public institutions.
+legal oversight to adjust to technological ad- Establishing a national ethical charter for AI is
+vancements. essential.
+
+3.4. Cybersecurity, an Indispensable
+Keystone for Sustainable Digital Sovereignty
+Cybersecurity is widely recognized as a crucial Investing in sovereign platforms for cyber threat
+security necessity, inherently connected to the analysis and creating sovereign infrastrucimplementation of AI. Ensuring the resilience of tures, like a strong national cloud for hosting
+AI systems and digital infrastructures against at- critical data, is crucial for enhancing digital sotacks and cyber threats, which are increasingly vereignty and minimizing strategic reliance on
+sophisticated due to AI, is crucial. A thorough foreign solutions.
+national digital resilience strategy that incorporates AI is crucial. The experience of Estonia illustrates that cyber
+resilience depends on a secure, interoperable,
+The growing sophistication of cyber threats and sovereign data architecture, along with a
+necessitates improved defense strategies, well-defined data governance strategy. It urthe responsible engagement of all stakehol- ges public decision-makers to comprehend the
+ders, a thorough identification and protection complexities of cybersecurity, risk managesystem for critical infrastructures, and the in- ment frameworks, and the fundamentals of "secorporation of AI into detection and response curity by design" in the digitization of services.
+mechanisms (through AI-augmented Security
+Operations Centers—SOCs). The importance of
+collaboration between the public and private
+sectors has been highlighted.
+
+>
+
+IV. SOVEREIGN DIGITAL INFRASTRUCTURES: THE
+INDISPENSABLE PHYSICAL FOUNDATION TO UNLOCK THE
+POTENTIAL OF AI
+The advancement and widespread implementation of artificial intelligence necessitate state-ofthe-art digital infrastructures. They should be prevalent and available across the whole region, sufficiently effective to satisfy the increasing needs for computing and storage, and most importantly,
+managed at the national level. These infrastructures serve as a crucial foundation for any ambitious
+AI strategy.
+During the sessions, several speakers emphasized the structural interdependence between the
+needs of AI and the availability of robust energy infrastructures. Madame Leïla Benali, the Minister of
+Energy Transition and Sustainable Development, stated, “Without energy, it is simply impossible to
+operate data centers."
+The conversations reaffirmed the importance of efficient interconnection among digital, energy,
+and territorial infrastructures. The proposal aims to pinpoint strategic locations for the establishment of data centers linked to renewable energy production, specifically solar and wind, with a focus
+on southern Morocco, to enhance performance, sustainability, and energy independence.
+4.1. 4.1. The Urgent Need for Signifi- This mobilization should be anchored in robust
+cant Investment in Infrastructure to Close governance and creative financing strategies.
+the Divide and Achieve Territorial Equity A technological sovereign fund, which ensures
+long-term infrastructure investments alongThe substantial demands of AI for computing side the private sector, is recognized as a key
+power (High-Performance Computing—HPC), strategic tool. A clear incentive framework was
+storage capacity (data centers) to manage expo- proposed, including tax, land, and regulatory
+nential data volumes, and extremely high-speed advantages, to encourage the establishment of
+connectivity (including redundant submarine data centers and AI platforms within the natiocables for resilience) position infrastructure as nal territory.
+a key strategic pillar. `
+4.2. Ensuring Digital Sovereignty and ResiThe implementation of AI solutions and relience: A National Priority Issue
+search in Morocco encounters a notable obstacle stemming from the existing lack of these in- Here, the concept of digital sovereignty is fulfrastructures. Ms. Amal El Fallah Seghrouchni, ly realized. Depending solely on overseas prothe Minister Delegate in charge of Digital Tran- viders or infrastructures for the hosting and
+sition and Administrative Reform, highlighted processing of sensitive data introduces estathe critical need for enhanced computing power blished risks related to security, confidentiaand storage capacity at the regional level, no- lity, and service continuity. The conference
+ting that less than 1% of global data centers highlighted the importance of developing
+are located in Africa. She additionally noted a strong public and private digital infrastructures
+"critical lack of infrastructure" and mentioned within the nation to maintain control over our
+that 99% of African data is hosted outside the data and essential systems.
+continent. The Conference, thus, reiterated the
+importance of substantial and sustainable investment in their development.
+
+Multiple speakers highlighted that digital so- 4.4. Securing Technical Foundations and
+vereignty encompasses the mastery of the Promoting Technological Autonomy
+technological value chain. This means keeping
+In addition to physical infrastructures, ensuring
+important data within the country and matechnical control necessitates the implemenking sure that key components (like software,
+tation of protective measures for the source
+network layers, and equipment) are not decode of essential systems. Advancing national
+pendent on outside suppliers unless they pass
+open-source AI serves as a strategic avenue to
+a security check. It has been advised that opeenhance technological independence, foster
+rators managing public or general interest data
+local utilization of AI tools, and create a robust
+should implement localization obligations and
+ecosystem.
+specific cybersecurity requirements.
+The participants recommended investing in the
+4.3. Growing Our Nation's Capacity:
+training and certification of technical talents.
+A Sovereign Cloud and State-of-the-Art
+Establishing national skill hubs focused on cyData Centers
+bersecurity, cloud, AI, and DevSecOps has beCreating a Moroccan sovereign cloud to safe- come essential, supported by universities and
+guard essential data for the State, businesses, research centers, to guarantee a robust local
+and citizens is an urgent strategic priority and a foundation of critical expertise. The goal is to
+prerequisite for digital trust. Encouraging both establish sustainable technological indepengovernment and private investments to build and dence, which depends equally on human experimprove national data centers that meet top stan- tise and physical infrastructure.
+dards is essential to ensure there is enough storage and computing power for widespread use of
+AI.
+The conference suggested organizing "sectoral clouds," tailored to specific areas such as
+health, education, and public services, while
+aligning with the unique needs of each sector.
+A regulatory authority oversees federated architecture that links the clouds, ensuring coherence, security, and interoperability among the
+various platforms.
+
+>
+
+V. HUMAN SKILLS, RESEARCH, AND INNOVATION: THE
+ESSENTIAL DRIVERS OF THE MOROCCAN AI ECOSYSTEM
+These elements are the fundamental forces behind a remarkable AI, capable of creating value, sustainable and high-quality jobs, and fostering endogenous innovation.
+The effectiveness of the AI strategy is fundamentally reliant on the extensive and focused cultivation of talent, the caliber and influence of research, and Morocco's capacity for local innovation.
+5.1. Developing Talents: The University and that retains AI talent in Morocco and promotes
+Professional Training Institutions at the the return of expertise from the scientific and
+Core of Education for the AI Era professional diaspora.
+The success of a national AI strategy hinges si- Multiple speakers argue for fostering a widesgnificantly on human competence. Universities pread culture of AI across all university proand vocational training institutions serve as es- grams to equip a generation of more adept prosential foundations in this matter. Their main fessionals and decision-makers. The adaptation
+objective is to influence the future academic of educational programs, ongoing training for
+and professional landscape while cultivating educators, and the engagement of interdiscithe necessary talents across all tiers, from en- plinary expertise are essential. The strategies
+gineers to technicians and from researchers to encompass enhancing working conditions, inprofessionals. corporating national strategic projects, gaining
+institutional recognition, and providing leaThe conference highlighted the importance dership opportunities in AI research.
+of thoroughly adapting academic programs
+across all levels, both initial and continuing. 5.2. Developing and Structuring Research
+Key structural elements encompass aligning
+and Promoting Local Innovation: Transition
+curricula, fostering interdisciplinarity, and supfrom Consumption to the Production of Taiporting doctoral mobility. Integrating AI and
+lored AI.
+its challenges into all academic disciplines is
+highly advisable. Research in artificial intelligence is essential
+for generating local value and fostering homeRaising awareness among young generations grown innovation. Creating joint laboratories,
+about the technical, ethical, and social issues developing collaborative platforms, and enhanof AI from an early age is essential. It is crucial cing public-private partnership research are
+to guarantee that AI learning is accessible to crucial for resource pooling, cost optimization,
+every learner, irrespective of their area of stu- and speeding up applied innovation. It is advidy, and implemented across various disciplines. sable to promote centers of excellence in AI
+research and establish skill hubs specifically
+The lack of skills and training among teachers tailored for doctoral students.
+in AI has been recognized as a major challenge,
+The engagement of the Moroccan scientific diasnecessitating focused programs to equip them
+pora presents a valuable opportunity to embrace.
+with the ability to utilize digital tools and effecWorking in close partnership with top global unitively integrate, guide, and create innovative
+versities and drawing in international talent is an
+pedagogical devices using AI.
+essential approach to foster innovation and enhance knowledge transfer.
+The departure of national talent to other countries poses a serious threat, suggesting that
+it's time to establish a compelling environment
+
+The talks drove home the need to move from just The learning model is significantly transforusing imported AI solutions to encouraging in- med, highlighting the necessity to foresee the
+novation and local production, creating original development of skills such as creative thinking,
+solutions that can be exported and are suited complex problem-solving, and proficiency with
+to the cultural, language, and economic diffe- advanced digital tools. Addressing the potential
+rences of Morocco and Africa. effects on employment, which will involve job
+losses in certain sectors alongside the emerThe shift towards a more inclusive digital gence of various new roles (such as prompt
+transition necessitates a reevaluation of the engineer, algorithmic curator, AI director, etc.),
+connection between fundamental research and presents a considerable challenge that necesinnovation. It requires enhanced collaboration sitates a forward-thinking support strategy,
+among universities, technical institutes, and reskilling initiatives, and ongoing training opdeep tech startups to guarantee the ongoing portunities.
+production of knowledge, the development of
+prototypes, and the process of commerciali- The importance of dynamic mechanisms for
+zation. The emergence of regional artificial in- monitoring changes in the employment sector
+telligence innovation centers has the potential has been highlighted, especially the establishto distribute knowledge creation, improve local ment of sectoral units to track skill developresources, and amplify their influence on sur- ments in real-time, the collaboration among
+rounding communities. universities, professional training providers,
+professional associations, and local authori5.3. Adapting Skills and Training Models for ties, and the encouragement of digital incluJobs Impacted by AI sion through hybrid training formats tailored
+for young people, women, and remote commuThe influence of AI on the workplace and the
+nities, ensuring a clear digital transition and soswift transformation of employment is signicial cohesion.
+ficant. A rapid and substantial transformation
+of the educational system, along with ongoing
+training methods, is essential. Equipping every
+citizen for the age of AI presents a significant
+national challenge.
+
+>
+
+VI. AI, CATALYST FOR TRANSFORMATION: SECTORAL
+PERSPECTIVES FOR AN OBVIOUS AND INCLUSIVE IMPACT
+The inaugural national conference on artificial intelligence (AI) convened representatives from all
+key sectors impacted by ongoing transformations, making it the first gathering of this magnitude.
+This group discussion highlighted how AI is linked to many different fields, such as health, education,
+justice, agriculture, culture, and finance, and how it can help create better, more inclusive, and more
+flexible public policies. AI presents a considerable opportunity; however, its effective implementation relies on shared systemic factors, including data structure and quality, system interoperability,
+skill development, social acceptability, and ethical governance. Every sectoral round table focused
+on issues, priorities, specific tensions, and particular use cases associated with AI. The aim is not to
+replicate models but to create customized trajectories that reflect the operational, institutional, and
+social realities of each sector.
+6.1. Transformation of Public Administration: Toward Intelligent, Efficient, and UserCentric Public Services
+In the digital era, public administration needs to AI should depend on trustworthy, current data,
+transform its approaches to satisfy citizens' in- utilized in an ethical and accessible manner,
+creasing expectations for simplicity, speed, and guaranteeing transparency, accountability, restransparency. Artificial intelligence (AI) provi- pect for human rights, and safeguarding against
+des distinct viewpoints for reevaluating admi- unauthorized or commercial exploitation of data.
+nistrative processes, tailoring them to the lives Human agents play a pivotal role, requiring eduof users instead of adhering to rigid hierarchical cation in the ethical use, limitations, and manageframeworks. AI can automate repetitive tasks, ment of these technologies. The strategy seeks
+enhance the predictability of public manage- to enhance public services, minimize administrament, and identify anomalies and fraud at an tive hurdles, transform human contributions, and
+earlier stage. The challenge is rooted in an initia- foster listening, foresight, and effectiveness. The
+tive-taking and inclusive approach that centers aim is more political than technological, positioon the citizen's experience. To accomplish this ning AI to modernize the relationship between the
+transformation, various conditions have been state and its citizens.
+recognized: interoperability of information systems, quality, governance, and data traceability.
+
+6.2. AI and Public Health: Better Prevention, 6.3. AI in the Service of Agriculture and FisheBetter Diagnosis, Better Care for All ries: Strengthening Food Sovereignty and Resilience in the Face of Climate Challenges
+In Morocco, public health serves as a pivotal area
+for the application of artificial intelligence, gi- Key areas for the Kingdom's food sovereignty, inven its significant human implications and the cluding agriculture and fisheries, stand to gain
+potential for comprehensive transformation. AI from AI in tackling major challenges like the onprovides significant opportunities to reconsi- going water and climate stress experienced reder prevention strategies, enhance responses cently. AI facilitates the execution of precision
+to health emergencies, more effectively identify agriculture, including irrigation and targeted
+at-risk populations, and improve the allocation of fertilization; enhances the optimization of input
+resources. The concept of creating specialized usage, such as water and fertilizers—with specigovernance for AI in healthcare has gained signi- fic instances of notable reductions and observed
+ficant traction to guarantee consistency of ac- yield improvements—boosts overall yields, and
+tions, align with public health priorities, and offer speeds up the shift towards more sustainable
+ethical oversight. practices. The challenges encompass the effective integration of smallholders amidst technoloThe discussions highlighted an “augmented care" gical complexity and expenses, the management
+model in which AI enhances the abilities of pro- and secure sharing of sensitive agricultural data,
+fessionals, allowing for improved analysis, antici- and the absence of inter-institutional coordinapation, and human interaction without replacing tion between water and agriculture.
+them. AI has the potential to elevate care quality,
+boost patient safety, and reclaim valuable time in Artificial intelligence (AI) serves as a tangible
+the medical field. instrument to enhance the efficiency of the agricultural and forestry sectors within a climatic
+The digital transformation of the healthcare sec- context. AI has the potential to enhance yield fotor represents a significant evolution of skills, recasts by utilizing soil, hydrological, and climawith the ongoing training of healthcare profes- tic data; optimize water resource management
+sionals serving as a crucial mechanism to foster through predictive irrigation and fertilization
+digital acculturation and facilitate the adoption systems; and enable early identification of plant
+of AI tools, all while upholding medical ethics and diseases or stress. AI can assist in forecasting
+maintaining human connection. The matter of so- stock trends, identifying fishing locations, and
+cial acceptability and ethical oversight influenced enhancing capture strategies in the forestry inall the interventions. For AI to advance in the dustry. Nonetheless, the broad implementation
+health sector, it is essential to create a foundation of AI encounters obstacles, including technoloof trust that hinges on algorithmic transparency, gical intricacies, associated costs, the regional
+stringent safeguarding of personal data, and an digital divide, and limited interoperability. Adapinitiative-taking stance against all forms of dis- ting AI solutions to local realities is essential. The
+crimination or algorithmic exclusion. management of agricultural and forestry data is
+an additional area of concern. The influence of
+AI relies on the capacity of public policies to foster alignment among agricultural, water, fisheries, and climate initiatives. AI has the potential
+to drive integrated governance by harmonizing
+investments, information systems, and performance indicators with territorial resilience and
+sustainable food security.
+
+>
+
+6.4. AI and FinTechs: Catalysts of Innovation d’un système banPeople view AI as a potent insfor Enhanced Inclusion and Financial Security trument that boosts trust, customizes services,
+and guarantees safe transactions. The discusThe round table on artificial intelligence (AI) and
+sions highlight various tangible applications of AI,
+FinTechs emphasized the innovative dynamics
+such as enhancing fraud detection systems, utithat are transforming the Moroccan financial
+lizing algorithmic models for credit scoring, and
+landscape, with a focus on digital transformation,
+the flexible adjustment of financial products to
+inclusion, and regulation.
+align with user profiles. Nonetheless, the opportunity exists within a landscape that is still being
+L’IA est perçue comme un accélérateur technolodeveloped, characterized by data cloning, a lack
+gique, un outil de renforcement de la confiance,
+of open standards for information exchange, and
+la personnalisation des services et la sécurité
+access challenges encountered by emerging Findes transactions. Les échanges révèlent pluTechs.
+sieurs déploiements concrets de l’IA, notamment
+l’amélioration des mécanismes de détection de
+The phased introduction of an open banking sysla fraude, la notation de crédit à l’aide de motem stands as a strategic priority, necessitating
+dèles algorithmiques et l’adaptation dynamique
+accurate consent mechanisms, data portabides produits financiers aux profils des utilisality, and oversight of algorithms. The regulatory
+teurs. Cependant, le potentiel réside dans un
+framework is viewed as a dual necessity: mainenvironnement encore en construction, avec le
+taining the stability of the financial system while
+clonage des données, l’absence de normes oupromoting innovation.
+vertes pour le partage d’informations et les limitations d’accès auxquelles sont confrontées les
+The lack of hybrid profiles that integrate AI with
+jeunes fintechs. La mise en œuvre progressive
+financial services restricts the growth of local
+
+FinTechs and constrains their capacity to develop tural effects accompany these advancements
+customized products. Experts consider the crea- will they truly enhance the Moroccan cultural fation of specialized training programs in collabora- bric. The recommendations propose a national
+tion with universities, incubators, and large com- strategy for AI and ICC that includes intersecpanies to be a significant structural challenge. toral governance, funding for digital initiatives,
+The development of a sustainable Fintech eco- support for startups and cultural NGOs, linguistic
+system necessitates strong collaboration among inclusion, dissemination of local work, and the esregulatory bodies, private entities, startups, and tablishment of a public-private center focused on
+financial institutions, with a focus on responsible cultural AI.
+innovation, accessibility of services, and transpa6.6. AI and Sports: Revolutionizing Perforrency in algorithms.
+mance, Training, and Sports Experience
+6.5. AI and Creative and Cultural Industries Morocco is actively working to transform its
+(CCI): Reinventing Creation, Protecting Ar- sports ecosystem into a hub of excellence. Artitists, and Valuing Heritage ficial intelligence (AI) plays a crucial role in enhancing sports performance, especially in areas such
+AI provides fresh viewpoints to expand the range
+as biomechanical analysis, training plans, injury
+of actions, revitalize media formats, and increase
+prevention, and strategic competition simulation.
+the visibility of Moroccan cultural expressions,
+AI is emerging as a partner in achieving high perespecially among youth and in frequently isolated
+formance, merging data science with athletic exregions. However, significant legal, economic,
+cellence. Additionally, it transforms the methods
+and ethical challenges accompany this transforof identifying and nurturing talent, facilitating
+mation. The discussions have highlighted the nethe creation of training areas and expanding the
+cessity to reevaluate the structure of copyright
+reach of elite sports. AI plays a significant role in
+concerning works created or aided by AI, as the
+organizing and planning events, promoting social
+distinctions between human creativity, algorithinclusion, enriching the spectator’s experience,
+mic support, and machine independence are
+and shaping a technological image of the country.
+becoming increasingly indistinct. The matter of
+Content creators and athletes see e-sports as a
+authorship, ownership, and fair compensation for
+key avenue for innovation and value generation.
+artists in the digital landscape is a vital concern
+Nonetheless, the obstacles encompass the ethifor maintaining equity and the economic sustaical utilization of sensitive data, regional access
+nability of the sector. Cultural sovereignty has
+to AI tools and infrastructures, and the shortage
+influenced exchanges, leading to many AI-geof individuals trained in sports governance, data,
+nerated representations that frequently diverge
+and technologies. The suggested structural guifrom local realities. One key objective is to prodelines encompass the establishment of a natiomote Moroccan heritage. However, only if struc25
+>
+
+nal observatory for AI and sports, the extensive the skills of professionals who can design, impleincorporation of AI training within sports curri- ment, and secure these technologies.
+cula, the enhancement of sports infrastructures
+with connected and intelligent tools, and the for- 6.8. AI and Public Security: Strengthening
+mulation of a regulatory framework for the appli- Foresight, Prevention, and Operational Effication of AI in sports. ciency
+6.7. AI and Industrial Decarbonization: AcceArtificial intelligence (AI) is becoming a pivotal tool
+lerating the Energy Transition and Meeting
+for reimagining public safety, providing avenues
+International Commitments
+to foresee risky behaviors, predict criminal activities, enhance emergency responses, and foster
+Artificial intelligence (AI) is emerging as a pivobetter coordination among security agencies. AI
+tal instrument for transforming industrial mofacilitates the management of extensive unstrucdels, minimizing carbon emissions, and enhantured information, allowing for real-time analysis
+cing energy efficiency worldwide.
+of current issues. Nonetheless, the application of
+AI in security presents challenges related to digiAI extends beyond mere technical optimization; it
+tal sovereignty, fundamental freedoms, and the
+is evolving into a fundamental component of sussecurity of systems.
+tainable reindustrialization, playing a vital role in
+processes, applications, and energy governance.
+A national governance focused on security AI has
+been contemplating how to tackle these challenAI has the capability to simulate and enhance
+ges, involving a fourfold collaboration among puenergy performance, predict greenhouse gas
+blic institutions, the private sector, academia,
+emissions, automate efficiency diagnostics, and
+and civil society.
+assist in the electrification of transportation and
+industrial locations.
+This governance must guarantee strict operational
+performance and consistent human oversight, esIt also contributes to the effective management
+pecially in automated decision-making processes.
+of renewable energy projects, water resource
+management, and the enhancement of critical diThe security of systems depends on a cohesive
+gital infrastructures.
+strategy that merges cybersecurity, sovereignty,
+and ethical design. Essential principles include
+The integration of AI with energy transition
+security and privacy by design, as well as zero
+creates a novel industrial environment where lotrust by design.
+calized and sustainable AI emerges as a key element of competitiveness.
+Additionally, certification mechanisms and improved system resilience through security operaNonetheless, this ambition encounters structural
+tions centers are crucial.
+limitations, including access to appropriate IT infrastructures and challenges in aligning technoSocial acceptance plays a vital role, emphasizing
+logical innovation with environmental regulations
+the need to educate citizens about the goals,
+and sustainable economic models, especially for
+constraints, and assurances associated with the
+smaller industrial entities. Various approaches
+use of AI in security. Ultimately, it is important to
+have been suggested to tackle these challenpromote responsible experimentation, including
+ges, such as establishing a national strategy that
+"proof of concept" environments, to evaluate AI
+aligns with climate and digital priorities, enhansolutions under real-world conditions while safecing the quality and sovereignty of industrial data,
+guarding fundamental rights and ensuring algocreating AI solutions for energy optimization and
+rithm traceability.
+managing carbon-neutral flows, and bolstering
+
+6.9. AI and Education "Outside University": These initiatives reflect the overarching vision
+Extending Pedagogical Transformation advocated by Mrs. Amal El Fallah Seghrouchni,
+which seeks to utilize AI as a tool for social jusIn addition to higher education, AI plays a trans- tice. They promote fair access to opportunities
+formative role in various other segments of edu- and resources, especially by allowing populations
+cation and training, including primary, secondary, in remote areas or vulnerable groups to benefit
+and vocational levels. from enhanced quality public services and more
+straightforward access.
+Minister of National Education, Mr. Mohamed
+Saad Berrada, shared specific instances of AI ap- The two round tables on AI in education outlined
+plications within the education sector. These in- the necessary conditions for responsible, effecclude automating absence recordings to address tive, and equitable deployment. They highlight
+school dropout rates, analyzing dropout causes the importance of placing teachers at the center
+through data, planning teacher and school needs, of the ecosystem as designers, facilitators, and
+offering personalized remediation via AI tutors protectors of learning quality.
+("Teaching at the Right Level"), and enhancing
+communication with parents regarding absences AI is utilized in primary and secondary education
+or academic results. to enhance personalization, adapt content, and
+automate repetitive tasks. In situations of limited
+AI can significantly enhance the customization connectivity, hybrid solutions are recognized to
+of education and ongoing training. The conver- promote territorial equity.
+sations centered around use cases, challenges,
+and recommendations tailored to non-university AI is utilized in vocational training to ensure
+education. content meets market demands, enhances learning via simulation, and aids in retraining for inMr. Younes Sekkouri, the Minister of Economic In- dustries undergoing change. It is essential to
+clusion, Small Business, Employment, and Skills, create educational content in national languages,
+spoke about the value of vocational training and including Arabic, to maintain cultural and linguisthe need to adapt curricula to incorporate AI tic significance.
+skills, referencing efforts made across over 200
+sectors.
+
+>
+
+6.10. AI and Media: New Tools, New Ethical The vibrant Moroccan AI ecosystem, especially
+and Trust Challenges the dynamic startups highlighted at the AI Startup Village, acts as a crucial catalyst. Mr. Chakib
+AI is transforming journalism and media through
+Alj, the President of the CGEM, commended this
+the automation of certain editorial tasks, speedynamic and Morocco's ability to innovate. The
+ding up audiovisual production, and bringing
+Minister of National Education, Mr. Mohamed
+forth innovative formats like AI-generated avaSaad Berrada, provided a clear example by selectars and synthesized podcasts. This evolution
+ting approximately twenty startups that included
+presents chances for enhanced productivity,
+an equal mix of Moroccan and foreign entities, all
+tailored content, and a reimagining of narrafocused on developing AI prototypes for the edutives.
+cation sector.
+Nonetheless, this technological revolution preDespite the challenges identified, including ressents ethical, editorial, and societal challenges.
+tricted access to funding and data, the ecosystem
+As misinformation and deepfakes proliferate,
+highlights robust entrepreneurial momentum and
+the challenge of differentiating between truth
+a readiness to innovate at the local level.
+and falsehood intensifies, threatening social
+cohesion and undermining public trust.
+The recommendations seek to organize and enhance this support via dedicated mechanisms
+The recommendations from the roundtable
+such as national directories, targeted financing,
+highlight the importance of reaffirming journaand support programs. They also aim to promote
+listic ethics and the necessity to "rehumanize"
+an approach to AI production that is specificalthe application of AI in journalism.
+ly aligned with Morocco's unique needs, moving
+beyond simply consuming imported technoloThey call attention to the need for targeted
+gies. The emphasis on attracting both public and
+and initiative-taking regulations to guarantee
+private investment to enhance the funding of
+the reliability of content, safeguard data, and
+startups and innovation was a key focus.
+uphold the democratic function of the media.
+Mr. Mohamed Kettani, President of Attijariwafa
+They propose the adoption of sovereign clouds
+Bank, highlighted that financing technological starand open-source solutions to diminish technotups carries a "very high risk" and is not sufficiently
+logical reliance and enhance the nation's digital
+supported by current mechanisms. He urged the
+sovereignty. government to develop a national strategy that enhances capacities and increases dedicated funds.
+6.11. The Moroccan Ecosystem: A Dynamic
+of Innovation to Actively Support
+
+VII. MOROCCO AS A GLOBAL AI ACTOR: INTERNATIONAL
+POSITIONING AND STRATEGIC COOPERATION
+Morocco asserts its position as a committed actor in the globalized landscape of AI,
+which is marked by intense competition among world powers and fragmented regulations, actively advocating for coordinated, ethical, and inclusive global governance.
+Furthermore, AI has been described as a "major technological revolution" that, despite
+its "enormous benefits," "simultaneously induces ethical, security, and military risks"
+exacerbated by the "lack of international governance capable of regulating" its uses.
+Moreover, the current situation has been described as a "race for artificial intelligence,"
+particularly regarding investment and regulation.
+7.1. Morocco: A Committed Actor for Ba- The co-authorship of the inaugural UN resolanced and Fair Global AI Governance lution on AI (2024) with the United States and
+its co-presidency of the Group of Friends on
+The Kingdom actively engages in international
+AI at the UN exemplify this leadership and the
+dialogues on AI governance via its balanced
+commitment to shaping global standards that
+and initiative-taking diplomacy. Mr. Omar Hiare more inclusive, culturally respectful, and
+lale stated that, with different countries haadvantageous to developing nations. The aspiving various rules and priorities (some focusing
+ration to hold the Global AI Summit in 2027 solion innovation without regulations and others
+difies this stance and the intention to establish
+pushing for strict government control), the soa prominent international role.
+lution to managing the negative effects lies in
+7.2. South-South Cooperation: A Strategic
+working together internationally. He characterized it as "essential," "critical," and a "valid Priority for Morocco Aimed at Reducing the
+request of developing nations," which must Digital Divide and Promoting Inclusive AI in
+be comprehensive, stringent, uphold human Africa
+rights, and be founded on openness, fairness,
+South-South cooperation is a primary focus for
+inclusion, and responsibility.
+Morocco, particularly with artificial intelligence,
+Moreover, Morocco, in its endeavor to establish
+since it tackles prevalent concerns encounteitself as a leader in Africa, established the Inred by Southern nations, like the digital divide,
+ternational Center for Artificial Intelligence of
+inadequate infrastructure, talent deficits, and
+Morocco (AI Movement) in 2021, a research and
+obstacles in securing finance. The dialogue undevelopment facility aimed at becoming a rederscored the ongoing existence of a "growing
+gional hub for artificial intelligence on the Afridigital divide" and disparities in investment, recan continent. Consequently, it was declared a
+sulting in most poor nations being "far behind" in
+Category II UNESCO facility in November 2023.
+the "AI race." Africa, however, confronts a "severe
+This indicates that AI Movement has been
+deficiency in digital infrastructure," a "shortage
+acknowledged as a center of excellence in arof talent," and "AI models that are inappropriate"
+tificial intelligence and data sciences at the
+for local circumstances.
+continental level in Africa.
+In 2022, Morocco was one of the first nations to
+Bringing together resources, sharing
+start compliance with the UNESCO guideline on
+knowledge, and improving AI models that fit
+the ethics of artificial intelligence (AI) by estalocal needs are essential for closing the digital
+blishing a national steering committee. In this
+gap in Africa and promoting fair and inclusive AI
+regard, Morocco has implemented a pilot study
+across the continent.
+to evaluate its preparedness for artificial intelligence.
+
+>
+
+Ms. Amal El Fallah Seghrouchni, the Minister These collaborative initiatives will facilitate the
+Delegate for Digital Transition and Administra- exchange of data and models, enabling the amplitive Reform, emphasized that artificial intelli- fication of various national solutions customized
+gence encompasses not only technology but to address the region's own difficulties, such as
+also the necessity for control and autonomy. water scarcity or localized agriculture concerns.
+She affirmed Morocco's commitment to develo- A reflection occurs after promoting agile regioping an African AI that embodies the continent's nal collaboration regarding the specific forms
+cultural values and is receptive to responsible that this technological solidarity may take.
+collaborations, establishing Morocco as a "center for regional dialogue, a repository of best The establishment of "South-South AI laborapractices, and a robust advocate for enhancing tories"—platforms for collaborative research,
+the skills and resources of neighboring nations infrastructure sharing, and testing across Afrithrough equitable and trustworthy South-Sou- can nations—has surfaced as a viable operatioth cooperation." nal strategy.
+A plenary session emphasized the Arab-African These efforts would facilitate investment agdialogue and the need for enhancing regional gregation, the creation of representative dadigital sovereignty and integrated economic tasets, and the development of AI in local
+chains. The suggestions seek to enhance re- languages, while promoting communal skill engional government, expedite the implementa- hancement.
+tion of appropriate infrastructures, and foster
+innovation via strategic collaboration and ini- Morocco's digital diplomacy and existing
+tiative-taking diplomacy. connections position it to spearhead this initiative and enhance the continent's impact in gloThe Minister Delegate proposed a realistic ap- bal AI discussions.
+proach to international collaboration in response
+to the issues posed by insufficient infrastructure
+and AI models that do not align with local circumstances.
+She advocated for the identification of "tractable
+small-scale collaboration models" to expedite development, preferably at the regional level with
+many nations, rather than awaiting the protracted
+global governance procedures that need "considerable time."
+
+VIII. ELEMENTS OF AN AI ROADMAP IN MOROCCO: SYNTHESIS
+OF CROSS-CUTTING CHALLENGES AND THE EIGHT
+FUNDAMENTAL PILLARS FOR ACTION
+The diverse thematic and plenary sessions have facilitated a thorough analysis during
+the First Forum, leading to a clear understanding of the major challenges the Kingdom
+needs to address to achieve success in its AI strategy. The interrelationship between
+these challenges requires a thorough and cohesive strategic approach.
+8.1. Identification of Structural Cross-Cutting Challenges: The Obstacles to Overcome 7. International Cooperation: Navigating a comto Unlock the Potential of AI plex global landscape, enhancing multilateral
+collaboration, and prioritizing South-South
+All sectors and application domains share the cooperation.
+following primary cross-cutting challenges:
+8. Digital and Social Inclusion: Bridging the di1. Governance and Coordination: Create a ro- gital and territorial divide, guaranteeing fair acbust multi-stakeholder governance framework, cess to technologies and the advantages of AI
+facilitate intersectoral collaboration, and deve- for every citizen.
+lop a shared and actionable strategic vision.
+8.2. The Eight Strategic Pillars: An Ambitious and Pragmatic Roadmap for Action
+2. The Trust Framework: Establish a strong,
+flexible, and perpetually resilient legal, ethical, The conference has pinpointed the key strateand cybersecurity landscape that ensures data gic directions that will shape Morocco's forthcoprotection and upholds digital sovereignty. ming National Artificial Intelligence roadmap,
+thanks to the thorough examination of these
+3. Skills and talents: Significantly enhance challenges and the valuable recommendations
+skills across all levels, modify training systems, derived from extensive efforts. The orientaand draw in and keep talent amid global com- tions form the eight pillars of a comprehensive
+petition. and practical roadmap aimed at establishing
+Morocco as a significant player in trusted AI.
+4. Sovereign Digital Infrastructures: Make subs- For each pillar, future actions will concentrate
+tantial and swift investments in high-perfor- on the following areas:
+mance computing capabilities, sovereign data
+centers, and nationally managed ultra-high- 1. Build a solid base of trust and flexible, ethical
+speed connectivity. governance: This means setting up a system of
+rules and laws that can quickly adjust, supports
+5. Financing and Innovation: Secure the essen- trying new ideas, creates ways to certify practial financial resources for research and de- tices, promotes ethical behavior (like charters
+velopment, provide support for startups, and and audits), and improves cybersecurity at evefacilitate large-scale deployment, thus encou- ry level.
+raging the growth of local AI production.
+2. Invest significantly and responsibly in essen6. Adoption and Transformation: Addressing tial and sovereign digital infrastructures: This
+resistance to change, facilitating the transfor- involves implementing focused AI solutions to
+mation of organizations and professions, and mitigate territorial and social disparities (ruensuring societal acceptance. ral/under-resourced areas). Ensuring access
+to technologies and the advantages of AI for
+
+>
+
+all citizens is essential, particularly for vulne- gap and share effective practices and custorable populations or those distanced from digi- mized solutions.
+tal technology. It is also important to tailor the
+tools to accommodate cultural and linguistic 7. Promote Inclusion and Equity in Access to
+specificities. AI: This involves implementing focused AI solutions to mitigate territorial and social dispari3. Cultivate Human Expertise to Excel in AI: ties (rural/under-resourced regions). Ensuring
+Initiate a comprehensive national strategy for access to technologies and the advantages of
+foundational and ongoing AI education across AI for all citizens is essential, particularly for
+all levels and sectors, thoroughly revise acade- vulnerable or digitally isolated populations, and
+mic and professional programs, and draw in and it is important to tailor the tools to cultural and
+keep talent by fostering an appealing environ- linguistic nuances.
+ment.
+8. Transition Decisively to Concrete and Mea4. Encourage Innovation and Local AI Develop- surable Action: This entails prioritizing the
+ment: Actively support applied research and swift initiation of impactful pilot projects that
+development, organize and finance the local AI have proven successful, launching large-scale
+startup ecosystem, and nurture the creation of deployments in key sectors, and setting up acunique and exportable AI solutions designed to curate monitoring and evaluation systems (inmeet the specific needs of Morocco and Africa. ternational indicators) to refine the strategy
+and consistently assess progress.
+5. Secure funding and accelerate the broad
+adoption of AI: Get the needed money from Implementing these pillars efficiently, collabodifferent sources (like government funds, ratively, and swiftly is crucial for the success of
+partnerships between public and private sec- the national strategy and for the Kingdom's goal
+tors, government tech funds, and private in- of becoming a trusted leader in AI development.
+vestments), help AI projects (especially startups) find funding, and promote the quick use
+of AI solutions in important areas with a lot of
+potential.
+6. Enhance Morocco's international standing
+and foster leadership in South-South cooperation: Get involved in creating global AI standards with organizations like the UN, promote
+fair and inclusive AI governance, and work closely with African countries to reduce the digital
+
+IX. GENERAL CONCLUSION: FROM STRATEGIC REFLECTION TO
+THE REALIZATION OF MOROCCO'S AI AMBITION
+The First National Artificial Intelligence Conference, successfully organized under the High Patronage of His Majesty King Mohammed VI, May God Assist Him, represented a moment of paramount
+importance and a decisive turning point for the digital future of the Kingdom. They achieved their
+goals by bringing together everyone involved, identifying the key challenges, and setting out the
+main plans for creating a bold, ethical, inclusive, and independent national AI strategy.
+9.1. A Shared Diagnosis and Clear Strategic 9.4. The King’s Ambition: AI at the Service of
+Orientations the Kingdom's Progress and Its Influence
+The strong convergence of visions, the richness
+The goal is to fully capitalize on the positive
+of exchanges, and the observed dynamics of
+momentum generated by the conference to
+collaboration testify to the maturity of the Momake AI a powerful catalyst in the service of the
+roccan ecosystem and its determination to seize
+progress of all Moroccan citizens and the Kingthe opportunity offered by AI. A precise diagnodom's influence.
+sis of the challenges was established, defining
+Morocco is passionately committed to maeight strategic pillars that now constitute the
+king artificial intelligence a fundamental lever
+preliminary roadmap for future action. These
+to accelerate its development, strengthen its
+pillars and the resulting strategic orientations
+digital sovereignty, and build a fairer, more inwere formally adopted and presented as the
+clusive, and more prosperous future. This amsignificant conclusions of the Conference dubition aligns with the vision of an "AI of general
+ring the closing ceremony, marking the national
+interest" centered on citizens and values, as
+commitment.
+highlighted by Mr. Martin Tisné from Current AI.
+The perspectives opened by this conference
+9.2. The Imperative of Concretization and
+are immense, and the Kingdom's determination
+Coordinated Action
+to realize them is totally guided by the vision of
+AI at the service of humanity and society.
+The vitality of local innovation (illustrated noMrs. Amal El Fallah Seghrouchni, the Minister
+tably by the AI Startup Village) and the formaDelegate in charge of Digital Transition and Adlization of significant strategic partnerships
+ministrative Reform, pointed out that the true
+attest to a firm commitment to move from the
+success of AI projects should be judged not by
+reflection phase to concrete action and to colhow many technical achievements or platforms
+lectively build the future of AI in Morocco. The
+there are, but by how much they help create diphase that is now opening is that of the ragital fairness, build trust among citizens, and
+pid and coordinated implementation of these
+support the country's ability to make its own
+strategic orientations. The call to action was a
+decisions.
+central message of the closing speech, emphaShe strongly reaffirmed that Morocco is resosizing the Kingdom's commitment to moving
+lutely committed, under the enlightened leafrom recommendations to concrete and meadership of His Majesty King Mohammed VI, may
+surable implementation.
+God assist him, to move toward a responsible,
+supportive, and innovative digital future. The
+9.3. Conditions for Success: Agile and Resiconclusions of the Conference and the recomlient Governance, Multi-Stakeholder Collamendations presented thus form the foundaboration, and Targeted Investments
+tion of this forward march, making artificial
+The practical implementation of the eight pillars intelligence an essential lever in the service of
+will require strengthened, agile, and resilient go- the Kingdom's progress and influence.de Sa Mavernance; close and constant collaboration among jesté le Roi Mohammed VI, Que Dieu L’Assiste,
+all stakeholders (government, private sector, à avancer vers un avenir numérique responacademic world, and civil society); targeted and sable, solidaire et innovant. Les conclusions
+massive investments; and rigorous monitoring des Assises et les recommandations présenand evaluation of priority programs and projects, tées constituent ainsi le fondement de cette
+based on clear and precise performance and im- marche en avant, faisant de l’Intelligence Artipact indicators. ficielle un levier essentiel au service du progrès
+du Royaume et de son rayonnement.
+
+>
+
+X. STRATEGIC CONVENTIONS SIGNED: THE FIRST ACTS OF
+IMPLEMENTATION OF THE CONFERENCE
+The First National Artificial Intelligence Conference was not limited to strategic reflections
+and dialogues. They showed a strong promise to take action right away on the ideas discussed; the Minister Delegate for the Head of Government in Charge of Digital Transition and
+Administrative Reform officially signed several important agreements and memoranda during the event or at the closing ceremony.
+These commitments constitute the first concrete milestones of the roadmap resulting from
+the Assises, sealing key partnerships between her ministry and other stakeholders in the national and international ecosystem, covering a wide range of strategic areas for the development of AI in Morocco.
+These conventions and memoranda of unders- > Current AI (a global initiative) aims to strentanding were signed with: gthen international cooperation around transpa-
+> The Ministry of National Education, rent, responsible, and beneficial AI, particularly
+Preschool, and Sports: Integrating digital tech- emphasizing Moroccan engagement in linguistic
+nology and AI into the educational and sports diversity, health, and accountability.
+system, developing educational digital content,
+> The Agricultural Credit: Through a specific
+and supporting digital innovation in schools and
+agreement focused on digital inclusion in rural
+sports environments.
+areas, this initiative aims to strengthen access
+> Ministry of Economic Inclusion, Small Bu- to digital services for rural and peri-urban popusiness, Employment, and Skills (MEISBES): si- lations, support farmers, promote rural innovagning of a memorandum of understanding aimed tion (Agritech), and reduce territorial disparities.
+at promoting the use of artificial intelligence and
+> UM6P aims to formalize a strategic
+digital technology to strengthen economic inclupartnership focused on data centers while prosion, employability, and skills development.
+moting collaboration in research, innovation,
+> The Ministry of Energy Transition and Sus- training, and digital sovereignty.
+tainable Development: For the establishment
+> The creation of the Al Jazari Institute: A
+and development of sustainable, high-performemorandum of understanding co-signed by
+ming, and sovereign digital infrastructures, in
+the Ministry of Digital Transition, also involving
+line with energy and climate challenges (Green
+the Ministry of Higher Education, Scientific ReData Centers).
+search, and Innovation. It also includes territo-
+> The Digital Cooperation Organization (DCO) rial actors from the Oriental Region (the Wali,
+aims to develop cooperation, facilitate access to the Governor of Nador, and the President of the
+funding for digital projects, and participate in initia- Regional Council). This institute is dedicated to
+tives that strengthen the digital ecosystem. AI research, training, and innovation in the Province of Nador.
+> The UNDP (United Nations Development Program) is working on the D4SD (Digital for Sustai- These signatures attest to the effective mobilizanable Development) initiative to help improve digi- tion of the ecosystem under the strong impetus gital access in the Arab region and Africa, especially ven by the Ministry of Digital Transition. They mark
+by using AI and data science in public services, buil- the beginning of the operational phase of Morocding digital skills, innovating health systems, and co's AI strategy, translating the dynamics of the
+encouraging cooperation between countries in the conference into measurable commitments and
+Global South. covering a wide range of strategic domains.
+
+>
+
+XI. FORMAL CLOSING CEREMONY: THE STARTING POINT
+FOR ACCELERATED ACTION BY ARTIFICIAL INTELLIGENCE
+The solemn ceremony officially concluded with She highlighted the strength of the collective
+the First National Artificial Intelligence Confe- mobilization of the national ecosystem and the
+rence, marking the culmination of the work convergence of visions around Morocco's amand the reaffirmation of commitments made at bition in AI. This ceremony thus served as an
+the highest level of the state. In the presence occasion to reaffirm the Kingdom's resolute
+of high-ranking government officials, private commitment to capitalize on the positive dynasector leaders, academics, and international mics of the Conference to quickly develop and
+experts who contributed to the discussions, implement a national AI strategy.
+the closing ceremony highlighted the event's
+success, the richness of the exchanges, and Under the high leadership of His Majesty the
+the relevance of the strategic orientations that King, may God assist him, the closing cereemerged. mony marked a decisive turning point, symbolizing the transition from the reflection and
+This significant moment was marked by the consultation phase to a phase of concrete acspeech of the Minister Delegate Amal EL FAL- tion. The conclusions and directions from the
+LAH SEGHROUCHNI, who synthesized the rich conference, officially shared by the minister
+exchanges of the two days and formally pre- delegate, represent this fresh start, kicking off
+sented the major conclusions and strategic re- a faster change using artificial intelligence to
+commendations resulting from the work of the support progress and independence in MorocConference. co.
+
+>
+
+XII. FORMAL CLOSING ACT: MESSAGE OF HOMAGE AND
+GRATITUDE FROM PARTICIPANTS TO HIS MAJESTY THE KING
+A moment of particular significance during the choice to strengthen the Kingdom's compeformal closing ceremony: all the First National titiveness and build the Morocco of skills. The
+Artificial Intelligence Conference participants participants emphasized that the conference
+wished to send a collective message of ho- has concretized this vision by being an open
+mage, gratitude, and loyalty to His Majesty King space to share knowledge, exchange expertise,
+Mohammed VI. May God assist him. and launch concrete initiatives, aligning AI with
+sustainable development objectives, social and
+This solemn message, delivered by the Minis- territorial justice, and the New Development
+ter Delegate Amal EL FALLAH SEGHROUCHNI, Model.
+expressed the profound gratitude of all the vital
+forces of the Nation gathered for this confe- In conclusion to their message, the participants
+rence (representatives of the Government, the renewed their unwavering loyalty and pride in
+private sector, the academic and research wor- the King’s Vision that makes artificial intellild, and civil society, as well as invited interna- gence and digital transformation a central pillar
+tional experts and personalities) for the Very of national development, committing to work
+High King’s Patronage granted to this signifi- collectively toward realizing this ambition.
+cant event.
+This tribute message is an important official
+This patronage was unanimously recognized as step after the conference, showing the shared
+the essential foundation for the success of the dedication of the Moroccan ecosystem and its
+national dialogue/debate and a sign of the pa- partners to the King's push for AI that benefits
+ramount importance that His Majesty the King, everyone.
+may God assist him, places on artificial intelligence for the future of the Kingdom.
+The message also reaffirmed the complete
+alignment and support of the participants with
+the enlightened vision of His Majesty the King,
+may God assist him, which positions Morocco among the pioneering nations in the digital field and makes digitalization a strategic
+
+>
+
+THEY CARRY THE VISION
+« Parents are minimally involved in public schools and possess inadequate information." [...] However, the issue can be resolved by sending them voice communications in French, Amazigh, or Darija.»
+Mr. Mohamed Saad Berrada, Minister of National Education, Pre-school Learning, and Sports
+« A new wave of professional generalists who are AI-friendly is on the horizon."
+Artificial intelligence can conduct artificial intelligence training.»
+Mr. Younes Sekkouri, Minister of Economic Integration, Micro-Enterprises, Employment, and
+Competencies
+« […] AI and the energy and sustainable development sector are inextricably linked. In the absence of energy, there will be no server, data center, or artificial intelligence, and vice versa.»
+Madame Leila Benali, Minister of Energy Transition and Sustainable Development
+«We are beginning to automate creativity, and the barrier between the idea and
+innovation is no longer present." [...] You can envision the miracles it produces,
+but you cannot fathom the prosperity it can generate in a developing nation.»
+Mr. Riad Mezzour, Minister of Industry and Trade
+
+THEY CARRY THE VISION
+«We must strengthen South-South cooperation initiatives, increase their impact,
+and ensure the representation of Southern nations in international forums.»
+Mr. Chakib BENMOUSSA, High Commissioner for Planning
+«The richest nation will not emerge victorious in this competition for artificial
+intelligence." I believe the nation with the most engineers and technicians, as well
+as the most training, will emerge victoriously in this competition.»
+Mr. Chakib Alj, President of the General Confederation of Moroccan Enterprises
+«Artificial intelligence is a transformative force that is present today, not in the distant
+future.»
+Ms. Deemah Alyahya, Founder and Secretary-General of the Digital Cooperation Organization (DCO)
+«The success of AI in the public interest is contingent upon the presence of three
+critical components: a truly open AI ecosystem, quality data, and shared responsibility for citizens.»
+Mr. Martin TISNE, founder of Current AI
+
+>
+
+THEY CARRY THE VISION
+«The member states of the United Nations are the foundation of its power." Morocco and the United States jointly submitted the first resolution on artificial intelligence to the General Assembly, which caused a major shift in the field. [...] If
+we fail to engage in the field of AI at this time—and we should have done so yesterday—certain regions of the globe will be left behind.».
+Ms. Marina Walter, Assistant Administrator and Deputy Director of the UNDP Regional Bureau
+for Arab States
+«Morocco is one of four African countries that have adopted such strategies because of its ambitious actions and the national strategy that will sanction these
+national gatherings.»
+Mr. Omar Hilale, Permanent Representative of Morocco to the United Nations in New York
+"Artificial intelligence represents both a business and a challenge, major opportunities for education, health, and development, but also poses risks if it is not
+ethically framed."
+Mrs. Isabel Correia Viegas de Abreu, Minister of Education, Culture, Science, and Higher Education of the Republic of São Tomé and Príncipe
+"We don't want to be mere recipients of imported solutions." We want to contribute to the creation of standards — not to reject them, but to enrich them."
+Mr. Hicham ELHABTI President, Mohammed VI Polytechnic University (UM6P)
+
+THEY CARRY THE VISION
+«We must establish a foresight of the effects of artificial intelligence on three
+sectors: employment, science and technology, and economics.»
+Mr. Mohammed Tawfik Mouline, Director General of the Royal Institute for Strategic Studies
+«We must maintain a high level of control, allow the private sector to flourish, establish a tax system that enables them to reinvest, and establish a financial system, or at least a finance system that is willing to take risks." Morocco faces the
+challenge of implementation. To transcend the intermediate economy, we must
+initiate innovation.»
+Mr. Karim El Aynaoui, Executive President of the Policy Center for the New South, Executive
+Vice-President of Mohammed VI Polytechnic University, and Dean of its Humanities, Economics, and Social Sciences Cluster.
+«Venture capital funds, seed funds, and growth capital funds are the primary
+sources of funding for technological start-ups worldwide, rather than commercial institutions. As of December 31, 2024, there were 69 investment funds in the
+country, which collectively financed 320 companies and raised a total of 32.1 billion dirhams.»
+Mr. Mohamed ELKETTANI, Chairman and CEO of Attijariwafa Bank
+«In today's digital society, AI transforms humans into a collection of information."
+Some individuals believe that these machines are becoming increasingly autonomous and powerful, which could potentially require them to participate in decision-making processes.»
+Mr. Mohammed BENHAMMOU, President of the Moroccan Center for Strategic Studies (CMES)
+
+>
+
+RECOMMENDATIONS
+AI governance AI at the service
+of social progress
+> Design a comprehensive roadmap for AI to > Develop the use of artificial intelligence for
+define Morocco's objectives, priorities, and ethi- the early diagnosis of diseases and improve the
+cal components, aligned with national specifici- quality of health services, particularly in vulneties and global standards, while promoting the rable areas, thereby increasing the efficiency of
+responsible use of AI. the health system and reducing territorial disparities.
+> Develop the legal framework accompanying
+the development and use of AI, including the > Integrate artificial intelligence into pedagoethical principles that govern it, while ensuring gical evaluation processes and design intelligent
+full respect for the principles of data confiden- educational content that allows for the diagnosis
+tiality, transparency, and accountability. of difficulties and the proposal of individualized
+support plans, thereby improving the quality of
+> Produce ethical guidelines to ensure that AI
+learning.
+prioritizes fairness, transparency, and accountability and addresses potential risks such as
+Exploiting AI
+discrimination and job loss.
+to better manage infrastructure
+Strengthening AI infrastructure
+> Leveraging artificial intelligence to monitor and maintain large infrastructures improves
+> Encourage investments in research and detheir durability and efficiency.
+velopment and technology transfer partnerships
+between public and private stakeholders to pro- > Integrate artificial intelligence to streamline
+duce intelligent solutions that support the natio- traffic, improve public transportation, and optinal economy. mize fleet management.
+> Establish national platforms to ensure data > Use artificial intelligence in planning,
+security, allowing stakeholders to develop inno- constructing, and maintaining major sports invative solutions in priority areas while fully res- frastructures according to sustainable and inpecting personal data protection ethics. telligent standards, thereby contributing to organizing major international sporting events and
+> Establish advanced data centers equipped
+improving the quality of facilities for athletes
+with powerful computational resources to meet
+and the public.
+the needs of research and artificial intelligence
+applications.
+Energy and water
+> Strengthen national cybersecurity capabi- security
+lities by developing intelligent solutions to monitor threats and secure digital infrastructures > Develop intelligent systems to monitor iniagainst cyberattacks. tiative-taking and manage vital resources more
+effectively, ensuring their optimal use while enhancing water, food, and energy security.
+> Leverage artificial intelligence in smart
+grids, demand forecasting, and improved management.
+
+RECOMMENDATIONS
+International and South-South
+Administrative Transformation
+cooperation
+through AI
+> Develop specialized AI research centers at
+> Create AI-based platforms for personalized
+the national and African levels to facilitate incommunication, analyze feedback, and improve
+ternational cooperation and address regional
+responsiveness to citizens' needs.Intégrer l’inchallenges such as agriculture, health, industry,
+telligence artificielle pour analyser les big data,
+and smart cities.
+soutenir l’élaboration de politiques fondées sur
+des données probantes et prendre des décisions
+> Establish strategic partnerships with replus éclairées.
+search institutions and global AI technology
+companies to exchange knowledge and access
+> Generalize the use of artificial intelligence
+the latest technologies in the field.
+technologies to improve the performance of administrative services, simplify procedures, and
+> Organize global AI events to promote
+enhance the transparency of transactions in
+knowledge exchange, introduce contemporary
+both the public and private sectors.
+trends to Morocco, and attract investments in
+> Integrate artificial intelligence to analy- this field.
+ze big data, support the development of evidence-based policies, and make more informed
+decisions.
+Culture
+and heritage
+> Leverage artificial intelligence to preserve
+the national cultural and linguistic heritage, develop digital content, and highlight Moroccan
+cultural diversity in the global digital space.
+Entrepreneurship
+and startups
+> Support small, medium, and large enterprises and startups in adopting artificial intelligence within their production and service activities through incentive programs and technical
+support to increase their productivity and enhance their competitiveness.
+> Launch specialized incubators and innovation centers that offer emerging companies an
+environment conducive to developing intelligent
+Moroccan solutions with added value locally and
+internationally.
+> Stimulate investment in research and development and technology transfer partnerships
+between public and private stakeholders to produce innovative solutions supporting the natio- « Digital for Sustainable Development »
+nal economy. (D4SD), portée en partenariat avec le PNUD.
+
+>
+
+PRESS COVERAGE
+NATIONAL AND INTERNATIONAL PRESS REVIEW
+CHALLENGE AUJOURD’HUI LE MAROC
+1 juillet 2025 4 juillet 2025
+> Démarrage des premières Assises nationales > Omar Hilale a confirmé cette ambition lors des
+de l’intelligence artificielle à Rabat Assises nationales. Le Maroc veut accueillir le 3ème
+Sommet mondial sur l’IA en 2027
+THE NORTH AFRICA POST
+1 juillet 2025 L’ECONOMISTE
+4 juillet 2025
+> Morocco ambitions to implement
+effective AI strategy for sustainable > Assises de l’intelligence artificielle:
+human development Les nouveaux gisements de compétitivité
+industrielle
+LA NOUVELLE TRIBUNE
+1 juillet 2025 AL BAYANE
+4 juillet 2025
+> Rabat accueille les 1ères Assises
+nationales de l’IA sous le signe de la > Le Maroc s’est positionné précocement parmi
+souveraineté et de l’éthique les acteurs influents de la dynamique internationale
+en matière de gouvernance de VIA
+APA NEWS
+3 juillet 2025 LIBERATION
+4 juillet 2025
+> Morocco urged to develop national
+AI roadmap with ethical safeguards > Appel à élaborer une feuille de route nationale
+de l’IA pour un usage responsable et éthique
+MOROCCO WORLD NEWS
+3 juillet 2025 L’OPINION
+> Morocco steps up efforts to boost 4 juillet 2025
+AI’s effective, ethical use
+> L’Opinion .. Assises de I’IA: Un premier pas, des
+attentes immenses
+ASSAHIFA ENGLISH
+4 juillet 2025
+RISSALAT AL OUMMA
+> Morocco positions itself as global
+4 juillet 2025
+bridge-builder in AI governance, says
+> Assises nationales de l’IA
+Omar Hilale
+Assahraa Al Maghribia
+BAYANE AL YAOUME
+4 juillet 2025
+4 juillet 2025
+> Premières Assises nationales de l’intelligence
+> À la clôture des travaux des premières Assises
+artificielle: Le Maroc trace sa feuille de route pour
+nationales de l’IA
+une IA éthique et inclusive
+
+PRESS COVERAGE
+NATIONAL AND INTERNATIONAL PRESS REVIEW
+LE MATIN DU SAHARA AFRICAN BUSINESS
+4 juillet 2025 7 juillet 2025
+> IRES : voici comment le Maroc peut consolider > Morocco prepares for future with
+l’IA de confian five-year digital plan
+LA VIE ECO LA TRIBUNE
+4 juillet 2025 7 juillet 2025
+> Souveraineté numérique : le maroc entre dans > Current AI, entreprises, diaspora …
+l’ère de l’intelligence artificielle Le Maroc pose les jalons de sa stratégie IA
+ANNAHAR AL MAGHRIBYA REUTERS
+4 juillet 2025 9 juillet 2025
+> Seghrouchni : Le Maroc dispose d’un > Morocco to build data centre powered by
+écosystème très dynamique dans le domaine de renewable energy
+l’intelligence artificielle
+JEUNEAFRIQUE
+FINANCES NEWS HEBDO
+25 juillet 2025
+4 juillet 2025
+> Amal El Fallah Seghrouchni : « Le Maroc
+> Assises nationales de l’IA. Le Maroc code son
+entend devenir un leader régional dans l’intelligence
+avenir numérique
+artificielle »
+2M
+4 juillet 2025
+> Assises de l’IA: 3 questions à Az-Eddine
+Bennani, expert en IA et en transformation
+numérique
+MAROC DIPLOMATIQUE
+4 juillet 2025
+> Le Maroc parmi les acteurs influents de
+la dynamique internationale en matière de
+gouvernance de l’IA
+TV5 MONDE
+5 juillet 2025
+> Maroc : premières Assises nationales de l’IA
+
+>
+
+>
+
+B.P : 1076, Rue Ahmed Cherkaoui,
+quartier administratif, Agdal, Rabat
+
+info@mmsp.gov.ma
+www.linkedin.com/company/reformeadministration/

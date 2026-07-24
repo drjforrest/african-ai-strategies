@@ -1,0 +1,625 @@
+country,year,level,metric,score
+Mauritius,2021,overall,Overall,52.71322634
+Mauritius,2021,pillar,Government,68.52355201
+Mauritius,2021,pillar,Technology Sector,33.81802847
+Mauritius,2021,pillar,Data and Infrastructure,55.79809854
+Mauritius,2021,dimension,Vision,100.0
+Mauritius,2021,dimension,Governance and Ethics,60.58181
+Mauritius,2021,dimension,Digital Capacity,52.5512725
+Mauritius,2021,dimension,Adaptability,60.96112556
+Mauritius,2021,dimension,Maturity,22.60965708
+Mauritius,2021,dimension,Innovation Capacity,45.98503621
+Mauritius,2021,dimension,Human Capital,32.85939213
+Mauritius,2021,dimension,Infrastructure,36.14740846
+Mauritius,2021,dimension,Data Availability,56.83961
+Egypt,2021,overall,Overall,49.75186942
+Egypt,2021,pillar,Government,62.71826833
+Egypt,2021,pillar,Technology Sector,35.17151838
+Egypt,2021,pillar,Data and Infrastructure,51.36582156
+Egypt,2021,dimension,Vision,100.0
+Egypt,2021,dimension,Governance and Ethics,34.3209725
+Egypt,2021,dimension,Digital Capacity,50.6528875
+Egypt,2021,dimension,Adaptability,65.89921333
+Egypt,2021,dimension,Maturity,15.63336299
+Egypt,2021,dimension,Innovation Capacity,44.93504399
+Egypt,2021,dimension,Human Capital,44.94614816
+Egypt,2021,dimension,Infrastructure,33.90108072
+Egypt,2021,dimension,Data Availability,71.19791385
+South Africa,2021,overall,Overall,48.23683389
+South Africa,2021,pillar,Government,40.91705458
+South Africa,2021,pillar,Technology Sector,39.13712123
+South Africa,2021,pillar,Data and Infrastructure,64.65632586
+South Africa,2021,dimension,Vision,0.0
+South Africa,2021,dimension,Governance and Ethics,55.22487
+South Africa,2021,dimension,Digital Capacity,45.369975
+South Africa,2021,dimension,Adaptability,63.07337333
+South Africa,2021,dimension,Maturity,26.43813056
+South Africa,2021,dimension,Innovation Capacity,52.38122824
+South Africa,2021,dimension,Human Capital,38.5920049
+South Africa,2021,dimension,Infrastructure,57.43916967
+South Africa,2021,dimension,Data Availability,65.961652
+Kenya,2021,overall,Overall,45.53691503
+Kenya,2021,pillar,Government,57.14643958
+Kenya,2021,pillar,Technology Sector,28.74595369
+Kenya,2021,pillar,Data and Infrastructure,50.7183518
+Kenya,2021,dimension,Vision,50.0
+Kenya,2021,dimension,Governance and Ethics,58.741755
+Kenya,2021,dimension,Digital Capacity,55.06523
+Kenya,2021,dimension,Adaptability,64.77877333
+Kenya,2021,dimension,Maturity,12.6612531
+Kenya,2021,dimension,Innovation Capacity,49.74512753
+Kenya,2021,dimension,Human Capital,23.83148045
+Kenya,2021,dimension,Infrastructure,33.58379943
+Kenya,2021,dimension,Data Availability,63.11528877
+Morocco,2021,overall,Overall,42.37957443
+Morocco,2021,pillar,Government,42.13237729
+Morocco,2021,pillar,Technology Sector,31.73915044
+Morocco,2021,pillar,Data and Infrastructure,53.26719556
+Morocco,2021,dimension,Vision,0.0
+Morocco,2021,dimension,Governance and Ethics,56.184015
+Morocco,2021,dimension,Digital Capacity,45.7880475
+Morocco,2021,dimension,Adaptability,66.55744667
+Morocco,2021,dimension,Maturity,20.35633639
+Morocco,2021,dimension,Innovation Capacity,45.86033761
+Morocco,2021,dimension,Human Capital,29.0007773
+Morocco,2021,dimension,Infrastructure,35.85871032
+Morocco,2021,dimension,Data Availability,63.637336
+Ghana,2021,overall,Overall,40.19417706
+Ghana,2021,pillar,Government,41.78334188
+Ghana,2021,pillar,Technology Sector,24.75280282
+Ghana,2021,pillar,Data and Infrastructure,54.04638649
+Ghana,2021,dimension,Vision,0.0
+Ghana,2021,dimension,Governance and Ethics,58.984875
+Ghana,2021,dimension,Digital Capacity,43.6781625
+Ghana,2021,dimension,Adaptability,64.47033
+Ghana,2021,dimension,Maturity,8.162368964
+Ghana,2021,dimension,Innovation Capacity,42.16603253
+Ghana,2021,dimension,Human Capital,23.93000696
+Ghana,2021,dimension,Infrastructure,30.98997105
+Ghana,2021,dimension,Data Availability,63.899822
+Cote d'Ivoire,2021,overall,Overall,36.70624068
+Cote d'Ivoire,2021,pillar,Government,38.72628917
+Cote d'Ivoire,2021,pillar,Technology Sector,22.29222149
+Cote d'Ivoire,2021,pillar,Data and Infrastructure,49.10021139
+Cote d'Ivoire,2021,dimension,Vision,0.0
+Cote d'Ivoire,2021,dimension,Governance and Ethics,53.2441725
+Cote d'Ivoire,2021,dimension,Digital Capacity,39.6794575
+Cote d'Ivoire,2021,dimension,Adaptability,61.98152667
+Cote d'Ivoire,2021,dimension,Maturity,11.04963303
+Cote d'Ivoire,2021,dimension,Innovation Capacity,36.86708855
+Cote d'Ivoire,2021,dimension,Human Capital,18.9599429
+Cote d'Ivoire,2021,dimension,Infrastructure,29.05562463
+Cote d'Ivoire,2021,dimension,Data Availability,59.797376
+Senegal,2021,overall,Overall,36.33866393
+Senegal,2021,pillar,Government,39.47343729
+Senegal,2021,pillar,Technology Sector,28.31373279
+Senegal,2021,pillar,Data and Infrastructure,41.22882171
+Senegal,2021,dimension,Vision,0.0
+Senegal,2021,dimension,Governance and Ethics,46.09159
+Senegal,2021,dimension,Digital Capacity,44.6158725
+Senegal,2021,dimension,Adaptability,67.18628667
+Senegal,2021,dimension,Maturity,17.14008121
+Senegal,2021,dimension,Innovation Capacity,44.49818333
+Senegal,2021,dimension,Human Capital,23.30293382
+Senegal,2021,dimension,Infrastructure,28.79071352
+Senegal,2021,dimension,Data Availability,33.98732352
+Rwanda,2021,overall,Overall,35.15812223
+Rwanda,2021,pillar,Government,44.43941931
+Rwanda,2021,pillar,Technology Sector,27.02921825
+Rwanda,2021,pillar,Data and Infrastructure,34.00572912
+Rwanda,2021,dimension,Vision,0.0
+Rwanda,2021,dimension,Governance and Ethics,47.9694
+Rwanda,2021,dimension,Digital Capacity,64.370275
+Rwanda,2021,dimension,Adaptability,65.41800222
+Rwanda,2021,dimension,Maturity,8.728454267
+Rwanda,2021,dimension,Innovation Capacity,52.30020515
+Rwanda,2021,dimension,Human Capital,20.05899535
+Rwanda,2021,dimension,Infrastructure,26.34811806
+Rwanda,2021,dimension,Data Availability,43.13443843
+Nigeria,2021,overall,Overall,35.15364591
+Nigeria,2021,pillar,Government,35.53463833
+Nigeria,2021,pillar,Technology Sector,26.31931877
+Nigeria,2021,pillar,Data and Infrastructure,43.60698062
+Nigeria,2021,dimension,Vision,0.0
+Nigeria,2021,dimension,Governance and Ethics,52.56581
+Nigeria,2021,dimension,Digital Capacity,36.79255
+Nigeria,2021,dimension,Adaptability,52.78019333
+Nigeria,2021,dimension,Maturity,10.75440058
+Nigeria,2021,dimension,Innovation Capacity,37.73993253
+Nigeria,2021,dimension,Human Capital,30.4636232
+Nigeria,2021,dimension,Infrastructure,27.07964448
+Nigeria,2021,dimension,Data Availability,51.6133762
+Zimbabwe,2021,overall,Overall,29.14901401
+Zimbabwe,2021,pillar,Government,26.45496813
+Zimbabwe,2021,pillar,Technology Sector,22.28272396
+Zimbabwe,2021,pillar,Data and Infrastructure,38.70934995
+Zimbabwe,2021,dimension,Vision,0.0
+Zimbabwe,2021,dimension,Governance and Ethics,27.928655
+Zimbabwe,2021,dimension,Digital Capacity,27.3114675
+Zimbabwe,2021,dimension,Adaptability,50.57975
+Zimbabwe,2021,dimension,Maturity,10.94191576
+Zimbabwe,2021,dimension,Innovation Capacity,28.72103003
+Zimbabwe,2021,dimension,Human Capital,27.18522608
+Zimbabwe,2021,dimension,Infrastructure,25.92289986
+Zimbabwe,2021,dimension,Data Availability,34.51975431
+Benin,2021,overall,Overall,28.7305943
+Benin,2021,pillar,Government,34.76075444
+Benin,2021,pillar,Technology Sector,21.60838924
+Benin,2021,pillar,Data and Infrastructure,29.82263921
+Benin,2021,dimension,Vision,0.0
+Benin,2021,dimension,Governance and Ethics,53.1660425
+Benin,2021,dimension,Digital Capacity,42.5825775
+Benin,2021,dimension,Adaptability,43.29439778
+Benin,2021,dimension,Maturity,9.351700747
+Benin,2021,dimension,Innovation Capacity,35.12207003
+Benin,2021,dimension,Human Capital,20.35139693
+Benin,2021,dimension,Infrastructure,23.56418169
+Benin,2021,dimension,Data Availability,29.5672628
+Mauritius,2022,overall,Overall,53.38242963
+Mauritius,2022,pillar,Government,68.65330186
+Mauritius,2022,pillar,Technology Sector,31.15803804
+Mauritius,2022,pillar,Data and Infrastructure,60.33594897
+Mauritius,2022,dimension,Vision,100.0
+Mauritius,2022,dimension,Governance and Ethics,61.1243642
+Mauritius,2022,dimension,Digital Capacity,63.63887333
+Mauritius,2022,dimension,Adaptability,49.84996992
+Mauritius,2022,dimension,Maturity,23.46012424
+Mauritius,2022,dimension,Innovation Capacity,40.13096986
+Mauritius,2022,dimension,Human Capital,29.88302002
+Mauritius,2022,dimension,Infrastructure,49.787
+Mauritius,2022,dimension,Data Availability,59.70275
+Egypt,2022,overall,Overall,49.41720556
+Egypt,2022,pillar,Government,63.4604206
+Egypt,2022,pillar,Technology Sector,36.0745064
+Egypt,2022,pillar,Data and Infrastructure,48.71668969
+Egypt,2022,dimension,Vision,100.0
+Egypt,2022,dimension,Governance and Ethics,51.4176637
+Egypt,2022,dimension,Digital Capacity,61.10474333
+Egypt,2022,dimension,Adaptability,41.31927538
+Egypt,2022,dimension,Maturity,16.82808336
+Egypt,2022,dimension,Innovation Capacity,40.97524523
+Egypt,2022,dimension,Human Capital,50.42019061
+Egypt,2022,dimension,Infrastructure,29.242
+Egypt,2022,dimension,Data Availability,43.9803633
+South Africa,2022,overall,Overall,47.74442738
+South Africa,2022,pillar,Government,37.89559783
+South Africa,2022,pillar,Technology Sector,37.60370819
+South Africa,2022,pillar,Data and Infrastructure,67.73397613
+South Africa,2022,dimension,Vision,0.0
+South Africa,2022,dimension,Governance and Ethics,57.33388488
+South Africa,2022,dimension,Digital Capacity,55.62073333
+South Africa,2022,dimension,Adaptability,38.6277731
+South Africa,2022,dimension,Maturity,26.06393529
+South Africa,2022,dimension,Innovation Capacity,41.50121923
+South Africa,2022,dimension,Human Capital,45.24597003
+South Africa,2022,dimension,Infrastructure,74.418
+South Africa,2022,dimension,Data Availability,57.355
+Morocco,2022,overall,Overall,41.31130191
+Morocco,2022,pillar,Government,34.80676446
+Morocco,2022,pillar,Technology Sector,33.99854277
+Morocco,2022,pillar,Data and Infrastructure,55.12859851
+Morocco,2022,dimension,Vision,0.0
+Morocco,2022,dimension,Governance and Ethics,52.51812757
+Morocco,2022,dimension,Digital Capacity,45.06245
+Morocco,2022,dimension,Adaptability,41.64648028
+Morocco,2022,dimension,Maturity,19.96394417
+Morocco,2022,dimension,Innovation Capacity,39.52255246
+Morocco,2022,dimension,Human Capital,42.50913168
+Morocco,2022,dimension,Infrastructure,48.224
+Morocco,2022,dimension,Data Availability,49.04325
+Kenya,2022,overall,Overall,40.35660716
+Kenya,2022,pillar,Government,40.36149755
+Kenya,2022,pillar,Technology Sector,28.75953101
+Kenya,2022,pillar,Data and Infrastructure,51.9487929
+Kenya,2022,dimension,Vision,0.0
+Kenya,2022,dimension,Governance and Ethics,55.52829532
+Kenya,2022,dimension,Digital Capacity,61.64308
+Kenya,2022,dimension,Adaptability,44.27461488
+Kenya,2022,dimension,Maturity,12.85325621
+Kenya,2022,dimension,Innovation Capacity,39.76892091
+Kenya,2022,dimension,Human Capital,33.65641591
+Kenya,2022,dimension,Infrastructure,46.644
+Kenya,2022,dimension,Data Availability,43.3983893
+Rwanda,2022,overall,Overall,40.20366886
+Rwanda,2022,pillar,Government,53.28252051
+Rwanda,2022,pillar,Technology Sector,28.13515048
+Rwanda,2022,pillar,Data and Infrastructure,39.1933356
+Rwanda,2022,dimension,Vision,50.0
+Rwanda,2022,dimension,Governance and Ethics,54.55391033
+Rwanda,2022,dimension,Digital Capacity,65.91996
+Rwanda,2022,dimension,Adaptability,42.65621172
+Rwanda,2022,dimension,Maturity,8.549937003
+Rwanda,2022,dimension,Innovation Capacity,41.9655972
+Rwanda,2022,dimension,Human Capital,33.88991724
+Rwanda,2022,dimension,Infrastructure,21.274
+Rwanda,2022,dimension,Data Availability,40.37865199
+Nigeria,2022,overall,Overall,39.10120996
+Nigeria,2022,pillar,Government,44.90852086
+Nigeria,2022,pillar,Technology Sector,23.08072301
+Nigeria,2022,pillar,Data and Infrastructure,49.31438601
+Nigeria,2022,dimension,Vision,50.0
+Nigeria,2022,dimension,Governance and Ethics,49.50642619
+Nigeria,2022,dimension,Digital Capacity,43.12425667
+Nigeria,2022,dimension,Adaptability,37.00340056
+Nigeria,2022,dimension,Maturity,10.78364717
+Nigeria,2022,dimension,Innovation Capacity,30.59977979
+Nigeria,2022,dimension,Human Capital,27.85874209
+Nigeria,2022,dimension,Infrastructure,42.666
+Nigeria,2022,dimension,Data Availability,30.15144086
+Ghana,2022,overall,Overall,36.56305785
+Ghana,2022,pillar,Government,47.22058769
+Ghana,2022,pillar,Technology Sector,22.81851736
+Ghana,2022,pillar,Data and Infrastructure,39.65006852
+Ghana,2022,dimension,Vision,50.0
+Ghana,2022,dimension,Governance and Ethics,59.05729606
+Ghana,2022,dimension,Digital Capacity,48.33358333
+Ghana,2022,dimension,Adaptability,31.49147135
+Ghana,2022,dimension,Maturity,8.532688433
+Ghana,2022,dimension,Innovation Capacity,32.84449338
+Ghana,2022,dimension,Human Capital,27.07837026
+Ghana,2022,dimension,Infrastructure,25.302
+Ghana,2022,dimension,Data Availability,34.71478347
+Benin,2022,overall,Overall,35.83543571
+Benin,2022,pillar,Government,48.39553051
+Benin,2022,pillar,Technology Sector,22.98781191
+Benin,2022,pillar,Data and Infrastructure,36.12296472
+Benin,2022,dimension,Vision,50.0
+Benin,2022,dimension,Governance and Ethics,51.58267317
+Benin,2022,dimension,Digital Capacity,50.10144333
+Benin,2022,dimension,Adaptability,41.89800553
+Benin,2022,dimension,Maturity,8.741841821
+Benin,2022,dimension,Innovation Capacity,23.91085982
+Benin,2022,dimension,Human Capital,36.31073407
+Benin,2022,dimension,Infrastructure,18.032
+Benin,2022,dimension,Data Availability,25.60004724
+Senegal,2022,overall,Overall,34.51097098
+Senegal,2022,pillar,Government,35.00762967
+Senegal,2022,pillar,Technology Sector,27.24784581
+Senegal,2022,pillar,Data and Infrastructure,41.27743747
+Senegal,2022,dimension,Vision,0.0
+Senegal,2022,dimension,Governance and Ethics,47.64372886
+Senegal,2022,dimension,Digital Capacity,40.87824333
+Senegal,2022,dimension,Adaptability,51.5085465
+Senegal,2022,dimension,Maturity,16.65247903
+Senegal,2022,dimension,Innovation Capacity,35.15013972
+Senegal,2022,dimension,Human Capital,29.94091868
+Senegal,2022,dimension,Infrastructure,25.536
+Senegal,2022,dimension,Data Availability,32.13887031
+Cote d'Ivoire,2022,overall,Overall,30.95367673
+Cote d'Ivoire,2022,pillar,Government,31.42174601
+Cote d'Ivoire,2022,pillar,Technology Sector,21.62430561
+Cote d'Ivoire,2022,pillar,Data and Infrastructure,39.81497857
+Cote d'Ivoire,2022,dimension,Vision,0.0
+Cote d'Ivoire,2022,dimension,Governance and Ethics,50.7110207
+Cote d'Ivoire,2022,dimension,Digital Capacity,43.80282667
+Cote d'Ivoire,2022,dimension,Adaptability,31.17313666
+Cote d'Ivoire,2022,dimension,Maturity,11.1732416
+Cote d'Ivoire,2022,dimension,Innovation Capacity,25.95266232
+Cote d'Ivoire,2022,dimension,Human Capital,27.7470129
+Cote d'Ivoire,2022,dimension,Infrastructure,24.43
+Cote d'Ivoire,2022,dimension,Data Availability,34.60166667
+Zimbabwe,2022,overall,Overall,29.26484257
+Zimbabwe,2022,pillar,Government,24.24929831
+Zimbabwe,2022,pillar,Technology Sector,20.29389312
+Zimbabwe,2022,pillar,Data and Infrastructure,43.25133628
+Zimbabwe,2022,dimension,Vision,0.0
+Zimbabwe,2022,dimension,Governance and Ethics,37.79518777
+Zimbabwe,2022,dimension,Digital Capacity,31.73772333
+Zimbabwe,2022,dimension,Adaptability,27.46428214
+Zimbabwe,2022,dimension,Maturity,11.75010429
+Zimbabwe,2022,dimension,Innovation Capacity,17.96269563
+Zimbabwe,2022,dimension,Human Capital,31.16887945
+Zimbabwe,2022,dimension,Infrastructure,38.912
+Zimbabwe,2022,dimension,Data Availability,36.21527221
+Benin,2023,overall,Overall,41.37191592
+Benin,2023,pillar,Government,61.38112188
+Benin,2023,pillar,Technology Sector,24.46194488
+Benin,2023,pillar,Data and Infrastructure,38.27268101
+Benin,2023,dimension,Vision,100.0
+Benin,2023,dimension,Governance and Ethics,53.212
+Benin,2023,dimension,Digital Capacity,50.10333333
+Benin,2023,dimension,Adaptability,42.20915417
+Benin,2023,dimension,Maturity,8.860523162
+Benin,2023,dimension,Innovation Capacity,34.06107972
+Benin,2023,dimension,Human Capital,30.46423176
+Benin,2023,dimension,Infrastructure,18.032
+Benin,2023,dimension,Data Availability,31.68604304
+Cote d'Ivoire,2023,overall,Overall,32.78138909
+Cote d'Ivoire,2023,pillar,Government,34.33496487
+Cote d'Ivoire,2023,pillar,Technology Sector,20.28364685
+Cote d'Ivoire,2023,pillar,Data and Infrastructure,43.72555556
+Cote d'Ivoire,2023,dimension,Vision,0.0
+Cote d'Ivoire,2023,dimension,Governance and Ethics,61.284
+Cote d'Ivoire,2023,dimension,Digital Capacity,43.80333333
+Cote d'Ivoire,2023,dimension,Adaptability,32.25252613
+Cote d'Ivoire,2023,dimension,Maturity,10.87541308
+Cote d'Ivoire,2023,dimension,Innovation Capacity,29.31894674
+Cote d'Ivoire,2023,dimension,Human Capital,20.65658074
+Cote d'Ivoire,2023,dimension,Infrastructure,24.43
+Cote d'Ivoire,2023,dimension,Data Availability,45.05166667
+Egypt,2023,overall,Overall,52.6929229
+Egypt,2023,pillar,Government,68.19483702
+Egypt,2023,pillar,Technology Sector,40.11272227
+Egypt,2023,pillar,Data and Infrastructure,49.7712094
+Egypt,2023,dimension,Vision,100.0
+Egypt,2023,dimension,Governance and Ethics,70.456
+Egypt,2023,dimension,Digital Capacity,61.12333333
+Egypt,2023,dimension,Adaptability,41.20001475
+Egypt,2023,dimension,Maturity,19.20924447
+Egypt,2023,dimension,Innovation Capacity,49.87457281
+Egypt,2023,dimension,Human Capital,51.25434953
+Egypt,2023,dimension,Infrastructure,29.242
+Egypt,2023,dimension,Data Availability,43.7966282
+Ghana,2023,overall,Overall,32.58404214
+Ghana,2023,pillar,Government,34.65649919
+Ghana,2023,pillar,Technology Sector,23.22690501
+Ghana,2023,pillar,Data and Infrastructure,39.86872222
+Ghana,2023,dimension,Vision,0.0
+Ghana,2023,dimension,Governance and Ethics,58.178
+Ghana,2023,dimension,Digital Capacity,48.36
+Ghana,2023,dimension,Adaptability,32.08799674
+Ghana,2023,dimension,Maturity,8.321492619
+Ghana,2023,dimension,Innovation Capacity,42.40686408
+Ghana,2023,dimension,Human Capital,18.95235833
+Ghana,2023,dimension,Infrastructure,25.302
+Ghana,2023,dimension,Data Availability,37.39916667
+Kenya,2023,overall,Overall,40.18580433
+Kenya,2023,pillar,Government,40.02697704
+Kenya,2023,pillar,Technology Sector,28.94708919
+Kenya,2023,pillar,Data and Infrastructure,51.58334675
+Kenya,2023,dimension,Vision,0.0
+Kenya,2023,dimension,Governance and Ethics,53.98
+Kenya,2023,dimension,Digital Capacity,61.65333333
+Kenya,2023,dimension,Adaptability,44.47457483
+Kenya,2023,dimension,Maturity,13.19815527
+Kenya,2023,dimension,Innovation Capacity,48.80027311
+Kenya,2023,dimension,Human Capital,24.84283918
+Kenya,2023,dimension,Infrastructure,46.644
+Kenya,2023,dimension,Data Availability,44.44104026
+Mauritius,2023,overall,Overall,53.2671014
+Mauritius,2023,pillar,Government,69.82048823
+Mauritius,2023,pillar,Technology Sector,30.63123264
+Mauritius,2023,pillar,Data and Infrastructure,59.34958333
+Mauritius,2023,dimension,Vision,100.0
+Mauritius,2023,dimension,Governance and Ethics,66.458
+Mauritius,2023,dimension,Digital Capacity,63.63666667
+Mauritius,2023,dimension,Adaptability,49.18728627
+Mauritius,2023,dimension,Maturity,22.92112093
+Mauritius,2023,dimension,Innovation Capacity,42.92521226
+Mauritius,2023,dimension,Human Capital,26.04736473
+Mauritius,2023,dimension,Infrastructure,49.787
+Mauritius,2023,dimension,Data Availability,59.94675
+Morocco,2023,overall,Overall,43.33900818
+Morocco,2023,pillar,Government,37.54174536
+Morocco,2023,pillar,Technology Sector,35.68724541
+Morocco,2023,pillar,Data and Infrastructure,56.78803377
+Morocco,2023,dimension,Vision,0.0
+Morocco,2023,dimension,Governance and Ethics,63.882
+Morocco,2023,dimension,Digital Capacity,45.06
+Morocco,2023,dimension,Adaptability,41.22498143
+Morocco,2023,dimension,Maturity,20.65370774
+Morocco,2023,dimension,Innovation Capacity,43.70741462
+Morocco,2023,dimension,Human Capital,42.70061388
+Morocco,2023,dimension,Infrastructure,50.94885132
+Morocco,2023,dimension,Data Availability,49.04525
+Nigeria,2023,overall,Overall,39.87877496
+Nigeria,2023,pillar,Government,44.93718128
+Nigeria,2023,pillar,Technology Sector,24.48753788
+Nigeria,2023,pillar,Data and Infrastructure,50.21160573
+Nigeria,2023,dimension,Vision,50.0
+Nigeria,2023,dimension,Governance and Ethics,49.912
+Nigeria,2023,dimension,Digital Capacity,43.12666667
+Nigeria,2023,dimension,Adaptability,36.71005843
+Nigeria,2023,dimension,Maturity,11.19522118
+Nigeria,2023,dimension,Innovation Capacity,39.47860479
+Nigeria,2023,dimension,Human Capital,22.78878767
+Nigeria,2023,dimension,Infrastructure,42.666
+Nigeria,2023,dimension,Data Availability,32.05381718
+Rwanda,2023,overall,Overall,45.38673728
+Rwanda,2023,pillar,Government,67.81789856
+Rwanda,2023,pillar,Technology Sector,27.86557848
+Rwanda,2023,pillar,Data and Infrastructure,40.47673479
+Rwanda,2023,dimension,Vision,100.0
+Rwanda,2023,dimension,Governance and Ethics,62.91
+Rwanda,2023,dimension,Digital Capacity,65.91333333
+Rwanda,2023,dimension,Adaptability,42.44826092
+Rwanda,2023,dimension,Maturity,8.753482937
+Rwanda,2023,dimension,Innovation Capacity,48.30555294
+Rwanda,2023,dimension,Human Capital,26.53769956
+Rwanda,2023,dimension,Infrastructure,21.274
+Rwanda,2023,dimension,Data Availability,42.05120436
+Senegal,2023,overall,Overall,42.58345092
+Senegal,2023,pillar,Government,59.65092008
+Senegal,2023,pillar,Technology Sector,27.66921039
+Senegal,2023,pillar,Data and Infrastructure,40.43022231
+Senegal,2023,dimension,Vision,100.0
+Senegal,2023,dimension,Governance and Ethics,46.61
+Senegal,2023,dimension,Digital Capacity,40.88
+Senegal,2023,dimension,Adaptability,51.11368031
+Senegal,2023,dimension,Maturity,17.49572709
+Senegal,2023,dimension,Innovation Capacity,43.25338835
+Senegal,2023,dimension,Human Capital,22.25851573
+Senegal,2023,dimension,Infrastructure,25.536
+Senegal,2023,dimension,Data Availability,33.52466692
+South Africa,2023,overall,Overall,47.27824677
+South Africa,2023,pillar,Government,37.82151635
+South Africa,2023,pillar,Technology Sector,40.21922395
+South Africa,2023,pillar,Data and Infrastructure,63.794
+South Africa,2023,dimension,Vision,0.0
+South Africa,2023,dimension,Governance and Ethics,57.772
+South Africa,2023,dimension,Digital Capacity,55.63666667
+South Africa,2023,dimension,Adaptability,37.87739872
+South Africa,2023,dimension,Maturity,25.5109953
+South Africa,2023,dimension,Innovation Capacity,48.17708739
+South Africa,2023,dimension,Human Capital,46.96958916
+South Africa,2023,dimension,Infrastructure,54.418
+South Africa,2023,dimension,Data Availability,60.189
+Zimbabwe,2023,overall,Overall,30.70795467
+Zimbabwe,2023,pillar,Government,24.08378789
+Zimbabwe,2023,pillar,Technology Sector,23.40642844
+Zimbabwe,2023,pillar,Data and Infrastructure,44.63364769
+Zimbabwe,2023,dimension,Vision,0.0
+Zimbabwe,2023,dimension,Governance and Ethics,37.178
+Zimbabwe,2023,dimension,Digital Capacity,31.74
+Zimbabwe,2023,dimension,Adaptability,27.41715156
+Zimbabwe,2023,dimension,Maturity,12.03348519
+Zimbabwe,2023,dimension,Innovation Capacity,32.50413125
+Zimbabwe,2023,dimension,Human Capital,25.68166887
+Zimbabwe,2023,dimension,Infrastructure,38.912
+Zimbabwe,2023,dimension,Data Availability,35.97394308
+Egypt,2024,overall,Overall,55.62588551
+Egypt,2024,pillar,Government,68.9843581
+Egypt,2024,pillar,Technology Sector,42.12676138
+Egypt,2024,pillar,Data and Infrastructure,55.76653707
+Egypt,2024,dimension,Vision,100.0
+Egypt,2024,dimension,Governance and Ethics,70.02051421
+Egypt,2024,dimension,Digital Capacity,58.34293655
+Egypt,2024,dimension,Adaptability,47.57398163
+Egypt,2024,dimension,Maturity,17.833751
+Egypt,2024,dimension,Innovation Capacity,61.21267154
+Egypt,2024,dimension,Human Capital,47.3338616
+Egypt,2024,dimension,Infrastructure,30.60895455
+Egypt,2024,dimension,Data Availability,54.89562918
+Mauritius,2024,overall,Overall,53.94349686
+Mauritius,2024,pillar,Government,65.30883779
+Mauritius,2024,pillar,Technology Sector,32.70741304
+Mauritius,2024,pillar,Data and Infrastructure,63.81423976
+Mauritius,2024,dimension,Vision,100.0
+Mauritius,2024,dimension,Governance and Ethics,68.32734441
+Mauritius,2024,dimension,Digital Capacity,45.9867326
+Mauritius,2024,dimension,Adaptability,46.92127414
+Mauritius,2024,dimension,Maturity,22.17803843
+Mauritius,2024,dimension,Innovation Capacity,38.40520478
+Mauritius,2024,dimension,Human Capital,37.53899592
+Mauritius,2024,dimension,Infrastructure,45.39837278
+Mauritius,2024,dimension,Data Availability,69.96843529
+South Africa,2024,overall,Overall,52.91180045
+South Africa,2024,pillar,Government,54.30148714
+South Africa,2024,pillar,Technology Sector,39.15089994
+South Africa,2024,pillar,Data and Infrastructure,65.28301427
+South Africa,2024,dimension,Vision,50.0
+South Africa,2024,dimension,Governance and Ethics,80.70546303
+South Africa,2024,dimension,Digital Capacity,51.0419145
+South Africa,2024,dimension,Adaptability,35.45857105
+South Africa,2024,dimension,Maturity,25.55666161
+South Africa,2024,dimension,Innovation Capacity,53.67726596
+South Africa,2024,dimension,Human Capital,38.21877227
+South Africa,2024,dimension,Infrastructure,43.05330773
+South Africa,2024,dimension,Data Availability,66.74559825
+Rwanda,2024,overall,Overall,51.25257164
+Rwanda,2024,pillar,Government,71.43819993
+Rwanda,2024,pillar,Technology Sector,30.29506431
+Rwanda,2024,pillar,Data and Infrastructure,52.02445068
+Rwanda,2024,dimension,Vision,100.0
+Rwanda,2024,dimension,Governance and Ethics,75.61628671
+Rwanda,2024,dimension,Digital Capacity,60.10909353
+Rwanda,2024,dimension,Adaptability,50.02741948
+Rwanda,2024,dimension,Maturity,7.384135323
+Rwanda,2024,dimension,Innovation Capacity,46.13333921
+Rwanda,2024,dimension,Human Capital,37.36771838
+Rwanda,2024,dimension,Infrastructure,24.35896
+Rwanda,2024,dimension,Data Availability,59.96022511
+Senegal,2024,overall,Overall,46.10767554
+Senegal,2024,pillar,Government,62.36934837
+Senegal,2024,pillar,Technology Sector,28.77175476
+Senegal,2024,pillar,Data and Infrastructure,47.18192348
+Senegal,2024,dimension,Vision,100.0
+Senegal,2024,dimension,Governance and Ethics,72.98174633
+Senegal,2024,dimension,Digital Capacity,25.40546889
+Senegal,2024,dimension,Adaptability,51.09017824
+Senegal,2024,dimension,Maturity,15.48861049
+Senegal,2024,dimension,Innovation Capacity,39.29328529
+Senegal,2024,dimension,Human Capital,31.53336849
+Senegal,2024,dimension,Infrastructure,30.49230504
+Senegal,2024,dimension,Data Availability,45.06023607
+Kenya,2024,overall,Overall,43.55729827
+Kenya,2024,pillar,Government,56.20430435
+Kenya,2024,pillar,Technology Sector,30.97576648
+Kenya,2024,pillar,Data and Infrastructure,43.49182398
+Kenya,2024,dimension,Vision,50.0
+Kenya,2024,dimension,Governance and Ethics,77.76649823
+Kenya,2024,dimension,Digital Capacity,54.55527821
+Kenya,2024,dimension,Adaptability,42.49544096
+Kenya,2024,dimension,Maturity,11.84482924
+Kenya,2024,dimension,Innovation Capacity,46.94634515
+Kenya,2024,dimension,Human Capital,34.13612505
+Kenya,2024,dimension,Infrastructure,32.25563202
+Kenya,2024,dimension,Data Availability,39.55528996
+Nigeria,2024,overall,Overall,43.32516864
+Nigeria,2024,pillar,Government,59.87967854
+Nigeria,2024,pillar,Technology Sector,27.10995893
+Nigeria,2024,pillar,Data and Infrastructure,42.98586844
+Nigeria,2024,dimension,Vision,100.0
+Nigeria,2024,dimension,Governance and Ethics,69.80062513
+Nigeria,2024,dimension,Digital Capacity,32.3695043
+Nigeria,2024,dimension,Adaptability,37.34858471
+Nigeria,2024,dimension,Maturity,9.775356246
+Nigeria,2024,dimension,Innovation Capacity,43.99918219
+Nigeria,2024,dimension,Human Capital,27.55533836
+Nigeria,2024,dimension,Infrastructure,25.81314227
+Nigeria,2024,dimension,Data Availability,33.12569226
+Ghana,2024,overall,Overall,43.30178073
+Ghana,2024,pillar,Government,59.52623933
+Ghana,2024,pillar,Technology Sector,25.34735134
+Ghana,2024,pillar,Data and Infrastructure,45.03175151
+Ghana,2024,dimension,Vision,100.0
+Ghana,2024,dimension,Governance and Ethics,61.72583228
+Ghana,2024,dimension,Digital Capacity,42.67034137
+Ghana,2024,dimension,Adaptability,33.70878369
+Ghana,2024,dimension,Maturity,6.893477458
+Ghana,2024,dimension,Innovation Capacity,43.54729969
+Ghana,2024,dimension,Human Capital,25.60127687
+Ghana,2024,dimension,Infrastructure,31.01739528
+Ghana,2024,dimension,Data Availability,42.03175146
+Benin,2024,overall,Overall,42.96796567
+Benin,2024,pillar,Government,59.91827431
+Benin,2024,pillar,Technology Sector,24.30256725
+Benin,2024,pillar,Data and Infrastructure,44.68305544
+Benin,2024,dimension,Vision,100.0
+Benin,2024,dimension,Governance and Ethics,56.21316266
+Benin,2024,dimension,Digital Capacity,43.51513442
+Benin,2024,dimension,Adaptability,39.94480016
+Benin,2024,dimension,Maturity,5.992781233
+Benin,2024,dimension,Innovation Capacity,36.78841809
+Benin,2024,dimension,Human Capital,30.12650243
+Benin,2024,dimension,Infrastructure,26.59020079
+Benin,2024,dimension,Data Availability,47.41968283
+Morocco,2024,overall,Overall,41.77772556
+Morocco,2024,pillar,Government,34.81714719
+Morocco,2024,pillar,Technology Sector,36.69524288
+Morocco,2024,pillar,Data and Infrastructure,53.82078661
+Morocco,2024,dimension,Vision,0.0
+Morocco,2024,dimension,Governance and Ethics,56.94542181
+Morocco,2024,dimension,Digital Capacity,38.9642475
+Morocco,2024,dimension,Adaptability,43.35891944
+Morocco,2024,dimension,Maturity,19.64301729
+Morocco,2024,dimension,Innovation Capacity,49.81559988
+Morocco,2024,dimension,Human Capital,40.62711147
+Morocco,2024,dimension,Infrastructure,37.96524035
+Morocco,2024,dimension,Data Availability,51.27588538
+Cote d'Ivoire,2024,overall,Overall,34.68702416
+Cote d'Ivoire,2024,pillar,Government,31.14686493
+Cote d'Ivoire,2024,pillar,Technology Sector,26.09983159
+Cote d'Ivoire,2024,pillar,Data and Infrastructure,46.81437596
+Cote d'Ivoire,2024,dimension,Vision,0.0
+Cote d'Ivoire,2024,dimension,Governance and Ethics,53.55253818
+Cote d'Ivoire,2024,dimension,Digital Capacity,34.20874106
+Cote d'Ivoire,2024,dimension,Adaptability,36.82618047
+Cote d'Ivoire,2024,dimension,Maturity,8.260002397
+Cote d'Ivoire,2024,dimension,Innovation Capacity,37.02558891
+Cote d'Ivoire,2024,dimension,Human Capital,33.01390347
+Cote d'Ivoire,2024,dimension,Infrastructure,31.64143793
+Cote d'Ivoire,2024,dimension,Data Availability,44.837767
+Zimbabwe,2024,overall,Overall,32.59211942
+Zimbabwe,2024,pillar,Government,23.6941344
+Zimbabwe,2024,pillar,Technology Sector,27.81535935
+Zimbabwe,2024,pillar,Data and Infrastructure,46.26686451
+Zimbabwe,2024,dimension,Vision,0.0
+Zimbabwe,2024,dimension,Governance and Ethics,36.40736052
+Zimbabwe,2024,dimension,Digital Capacity,28.30659123
+Zimbabwe,2024,dimension,Adaptability,30.06258586
+Zimbabwe,2024,dimension,Maturity,11.16766135
+Zimbabwe,2024,dimension,Innovation Capacity,34.4042605
+Zimbabwe,2024,dimension,Human Capital,37.87415619
+Zimbabwe,2024,dimension,Infrastructure,21.91856478
+Zimbabwe,2024,dimension,Data Availability,53.03645009
