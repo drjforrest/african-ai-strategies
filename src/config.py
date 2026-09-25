@@ -89,6 +89,7 @@ COUNTRY_FILES: dict[str, str] = {
     "Benin": "benin_ai.txt",
     "Côte d'Ivoire": "cote_divoire_ai.txt",
     "Egypt": "egypt_ai.txt",
+    "Ethiopia": "ethiopia_ai.txt",
     "Ghana": "ghana_ai.txt",
     "Kenya": "kenya_ai.txt",
     "Mauritius": "mauritius_ai.txt",
@@ -98,6 +99,7 @@ COUNTRY_FILES: dict[str, str] = {
     "Rwanda": "rwanda_ai.txt",
     "Senegal": "senegal_ai.txt",
     "South Africa": "south_africa_ai.txt",
+    "Tanzania": "tanzania_ai.txt",
     "Tunisia": "tunisia_ai.txt",
     "Zimbabwe": "zimbabwe_ai.txt",
     "African Union": "african_union_ai.txt",  # continental regional anchor

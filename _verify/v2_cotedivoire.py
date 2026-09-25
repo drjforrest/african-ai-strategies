@@ -1,0 +1,11 @@
+import pandas as pd, numpy as np
+d = pd.read_csv('outputs/rhetoric_vs_readiness/rhetoric_vs_readiness.csv')
+print("Cote in rvr:", [c for c in d.country.unique() if 'Ivoire' in c or 'Cote' in c])
+print("Morocco present:", 'Morocco' in d.country.unique())
+print("n countries in rvr:", d.country.nunique())
+x = pd.read_excel('data/oxford_readiness_indices/2024-GAIRI-data.xlsx')
+print("\n2024 columns:", x.columns.tolist()[:30])
+print("\nrows matching Ivoire/Cote:")
+s = x.astype(str)
+mask = s.apply(lambda col: col.str.contains('Ivoire|Côte|Cote', case=False, na=False)).any(axis=1)
+print(x[mask].iloc[:, :5].to_string())

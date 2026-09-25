@@ -34,6 +34,8 @@ FILENAME_OVERRIDES: dict[str, str] = {
     "strategienationale": "Côte d'Ivoire",  # French title, no country in name
     "bigdata": "Benin",                      # "National AI and Big Data Strategy" (SNIAM)
     "19092025": "Nigeria",                   # generic "National AI Strategy", dated 19/09/2025
+    "digitalethiopia2025": "Ethiopia",       # "Digital Ethiopia 2025 Strategy_EN.pdf"
+    "digitalethiopia2030": "Ethiopia",       # "Digital Ethiopia 2030 Vision_EN.pdf" — concatenated with 2025
 }
 
 

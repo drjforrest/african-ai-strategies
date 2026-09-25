@@ -140,7 +140,22 @@ def main() -> int:
     fig, ax = plt.subplots(figsize=(1.1 * len(comp_ids) + 3, 0.5 * len(countries) + 2))
     im = ax.imshow(gap.to_numpy(), cmap=_DIVERGING, norm=TwoSlopeNorm(0, -vmax, vmax), aspect="auto")
     ax.set_xticks(range(len(comp_ids)))
-    labels = [f"{cid}{'*' if cid in ACCREDITATION_CRITICAL else ''}\n{names.get(cid, '')[:16]}" for cid in comp_ids]
+    # Readable axis labels: full domain names are too long to sit side by side
+    # at nine columns, so use deliberate abbreviations rather than a blind
+    # character truncation (which produced "Legislation, eth").
+    SHORT = {
+        "C1": "Leadership &\ngovernance",
+        "C2": "Investment &\noperations",
+        "C3": "Services &\nscale-up",
+        "C4": "Integration &\nsustainability",
+        "C5": "Standards &\ninteroperability",
+        "C6": "Digital\ninfrastructure",
+        "C7": "Health\nworkforce",
+        "C8": "Legislation,\nethics & compliance",
+        "C9": "People-centred\napproach",
+    }
+    labels = [f"{cid}{'*' if cid in ACCREDITATION_CRITICAL else ''}\n"
+              f"{SHORT.get(cid, names.get(cid, ''))}" for cid in comp_ids]
     ax.set_xticklabels(labels, fontsize=8)
     for i, cid in enumerate(comp_ids):
         if cid in ACCREDITATION_CRITICAL:

@@ -123,10 +123,34 @@ def main() -> int:
         meas = dims[dims["year"].astype(str) == str(args.year)][["country", "metric", "score"]].copy()
     meas = meas.rename(columns={"metric": "dimension", "score": "readiness_raw"})
 
+    # Country keys must be accent-folded on BOTH sides before the join: the
+    # strategy corpus spells "Côte d'Ivoire" while the processed Oxford panel
+    # uses the ASCII form "Cote d'Ivoire". Without this the inner join silently
+    # drops Côte d'Ivoire, reducing the analysis from 12 countries to 11 and
+    # biasing the pooled rhetoric-readiness correlation toward zero.
+    def _fold(s: pd.Series) -> pd.Series:
+        return (s.astype(str)
+                 .str.normalize("NFKD")
+                 .str.encode("ascii", "ignore")
+                 .str.decode("ascii")
+                 .str.strip())
+
+    rhet["country"] = _fold(rhet["country"])
+    meas["country"] = _fold(meas["country"])
+
     df = rhet.merge(meas, on=["country", "dimension"], how="inner")  # AU (no Oxford score) drops out
     if df.empty:
         print("No overlapping (country, dimension) rows after join. Check dimension names / year.")
         return 1
+    n_dropped = rhet["country"].nunique() - df["country"].nunique()
+    if n_dropped:
+        missing = sorted(set(rhet["country"]) - set(df["country"]))
+        print(f"  ! {n_dropped} corpus country/ies absent from the measured panel: {', '.join(missing)}")
+    # The fold is a JOIN KEY only. Restore the accented display name afterwards
+    # so figures, tables and the manuscript all spell the country identically.
+    DISPLAY = {"Cote d'Ivoire": "Côte d'Ivoire"}
+    df["country"] = df["country"].replace(DISPLAY)
+
     df["pillar"] = df["dimension"].map(lambda d: next(v[1] for v in DIM_MAP.values() if v[0] == d))
     df["text_proximate"] = df["dimension"].map(lambda d: next(v[2] for v in DIM_MAP.values() if v[0] == d))
 
@@ -178,10 +202,14 @@ def main() -> int:
     ax.set_xlabel("Rhetoric: text-derived emphasis (z, within dimension)", fontsize=10, color=MUTED)
     ax.set_ylabel("Readiness: measured Oxford score (z, within dimension)", fontsize=10, color=MUTED)
     ax.set_title(f"Rhetoric vs readiness, by country and dimension (measured year: {args.year})\n"
-                 f"pooled r = {pooled:.2f}", fontsize=12, color=INK, weight="bold")
-    ax.legend(frameon=False, fontsize=9, loc="lower left")
-    fig.tight_layout()
-    fig.savefig(args.outdir / "quadrant.png", dpi=150, facecolor="white")
+                 f"pooled r = {pooled:.2f} across {len(df)} country-by-dimension cells "
+                 f"({df['country'].nunique()} countries)", fontsize=12, color=INK, weight="bold")
+    # Legend moved below the axes (horizontal, outside the plot area) so it no
+    # longer collides with the "aligned (low)" quadrant label in the bottom-left corner.
+    ax.legend(frameon=False, fontsize=9, loc="upper center",
+              bbox_to_anchor=(0.5, -0.10), ncol=3, handletextpad=0.5, columnspacing=1.4)
+    fig.tight_layout(rect=[0, 0.03, 1, 1])
+    fig.savefig(args.outdir / "quadrant.png", dpi=150, facecolor="white", bbox_inches="tight")
     plt.close(fig)
 
     # --- correlation by dimension ---
